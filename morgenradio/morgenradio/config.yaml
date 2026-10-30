@@ -7,11 +7,20 @@
 
 station:
   navn: "Morgenradio"                 # siges i intro/outro og vises i afspilleren
-  slogan: "Din personlige morgen"
-  by: "København"                     # til vejret
-  breddegrad: 55.68
-  laengdegrad: 12.57
+  slogan: "Frederiks personlige morgen"
+  by: "Aarhus"                        # til vejret
+  breddegrad: 56.1567
+  laengdegrad: 10.2108
   tidszone: "Europe/Copenhagen"
+
+# Hvem radioen er til. Værterne bruger det til at gøre udsendelsen personlig.
+lytter:
+  navn: "Frederik"
+  bor: "Aarhus"
+  arbejde: "digital marketing på et bureau (SEO, Google Ads, paid social, e-mail og AI i marketing)"
+  om_mig: >
+    Følger med i fodboldlandsholdet og international fodbold. Kan lide en blanding
+    af dansk og international musik. Interesseret i tech, AI, økonomi og bolig.
 
 # To værter giver radiofølelse. Stemmerne er OpenAI-stemmer.
 # Gode valg til dansk: marin, cedar, coral, ash, sage, ballad, verse.
@@ -36,6 +45,7 @@ programflade:
   - { id: intro,    type: tale, titel: "God morgen + vejret" }
   - { id: nyheder,  type: tale, titel: "Nyhederne",        kategori: nyheder, antal: 5 }
   - { id: sang1,    type: sang }
+  - { id: aarhus,   type: tale, titel: "Nyt fra Aarhus",   kategori: lokalt,  antal: 2 }
   - { id: sport,    type: tale, titel: "Sporten",          kategori: sport,   antal: 4 }
   - { id: sang2,    type: sang }
   - { id: musik,    type: tale, titel: "Musiknyt",         kategori: musik,   antal: 3 }
@@ -45,19 +55,21 @@ programflade:
   - { id: sang4,    type: sang }
 
 # Hvor lang værternes tale samlet må være (sange kommer oveni).
-tale_minutter: 9
+tale_minutter: 10
 
 # Hvad du interesserer dig for — bruges både til at vælge historier og sange.
 interesser:
-  sport_fokus: ["Superligaen", "FC København", "Brøndby", "Landsholdet", "Champions League", "Premier League", "Håndbold", "Cykling", "Tennis"]
-  nyheder_fokus: ["Danmark", "Verden", "Teknologi og AI", "Økonomi", "Klima"]
+  sport_fokus: ["Fodboldlandsholdet", "Danske spillere i udlandet", "Champions League", "Premier League", "La Liga", "Store transfers"]
+  nyheder_fokus: ["De store danske historier", "Verden og politik", "Tech og AI", "Digital marketing (Google, Meta, TikTok, AI-søgning)", "Økonomi, renter og bolig", "Aarhus og Østjylland"]
   undgaa_emner: []                    # fx ["kongehuset", "reality"] — ord der filtreres helt fra
 
 musik:
   smag: >
-    Blandet, moderne og let at vågne til: dansk pop og indie (fx Medina, Tobias Rahim,
-    Gilli, Ukendt Kunstner, Lukas Graham, Mø), internationale hits og nyere indie,
-    gerne lidt soul og 00'er-klassikere. Ikke hård metal og ikke for melankolsk om morgenen.
+    Bred og glad morgenmix: dansk pop og indie (fx Tobias Rahim, Gilli, Medina, Mø,
+    Ukendt Kunstner, Lukas Graham, Hjalmer), internationale hits fra lige nu, kendte
+    00'er- og 10'er-klassikere og hiphop/R&B (dansk og internationalt, fx Drake,
+    The Weeknd, SZA, Kendrick Lamar, Rhymes). Gerne kendte numre med energi om morgenen.
+    Ikke hård metal og ikke for melankolsk.
   andel_danske: 0.5                   # cirka hvor stor del der må være danske numre
   undgaa_gentagelse_dage: 30          # samme sang spilles tidligst igen efter så mange dage
   # Bruges hvis Claude foreslår noget Spotify ikke kan finde. "Kunstner - Titel".
@@ -70,6 +82,8 @@ musik:
     - "Pharrell Williams - Happy"
     - "Phoenix - 1901"
     - "Outkast - Hey Ya!"
+    - "The Weeknd - Blinding Lights"
+    - "Gilli - Tidligere"
 
 # AI-modeller
 claude:
@@ -91,10 +105,16 @@ kilder:
     - { navn: "Politiken",        url: "https://politiken.dk/rss/senestenyt.rss",            weight: 2, fulltekst: false }
     - { navn: "Google News DK",   url: "https://news.google.com/rss?hl=da&gl=DK&ceid=DK:da",  weight: 1, fulltekst: false }
     - { navn: "Google News Tech", url: "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=da&gl=DK&ceid=DK:da", weight: 1, fulltekst: false }
+    - { navn: "Google News Økonomi", url: "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=da&gl=DK&ceid=DK:da", weight: 1, fulltekst: false }
+    - { navn: "Google News AI & marketing", url: "https://news.google.com/rss/search?q=(%22kunstig%20intelligens%22%20OR%20ChatGPT%20OR%20OpenAI%20OR%20%22Google%20Ads%22%20OR%20%22Meta%20ads%22%20OR%20TikTok)%20when%3A1d&hl=da&gl=DK&ceid=DK:da", weight: 1, fulltekst: false }
+  lokalt:
+    - { navn: "Google News Aarhus", url: "https://news.google.com/rss/search?q=Aarhus%20when%3A1d&hl=da&gl=DK&ceid=DK:da", weight: 2, fulltekst: false }
+    - { navn: "Google News Østjylland", url: "https://news.google.com/rss/search?q=(%C3%98stjylland%20OR%20Aarhus%20Kommune%20OR%20Aarhus%20Universitet)%20when%3A2d&hl=da&gl=DK&ceid=DK:da", weight: 1, fulltekst: false }
   sport:
     - { navn: "DR Sporten",       url: "https://www.dr.dk/nyheder/service/feeds/sporten",    weight: 3, fulltekst: true }
     - { navn: "TV 2 Sport",       url: "https://feeds.tv2.dk/sport/rss",                     weight: 3, fulltekst: true }
     - { navn: "Bold.dk",          url: "https://www.bold.dk/feed/rss",                       weight: 2, fulltekst: false }
+    - { navn: "Google News Fodbold", url: "https://news.google.com/rss/search?q=(landsholdet%20OR%20%22Champions%20League%22%20OR%20%22Premier%20League%22)%20fodbold%20when%3A1d&hl=da&gl=DK&ceid=DK:da", weight: 1, fulltekst: false }
     - { navn: "Google News Sport",url: "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=da&gl=DK&ceid=DK:da", weight: 1, fulltekst: false }
   musik:
     - { navn: "GAFFA",            url: "https://gaffa.dk/feed/",                             weight: 3, fulltekst: true }
