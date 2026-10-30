@@ -1,0 +1,113 @@
+# ============================================================================
+# MORGENRADIO — konfiguration
+# ============================================================================
+# Det er den eneste fil, du skal rette i til daglig. Alle nøgler (API-keys)
+# ligger som GitHub Secrets og står ALDRIG her.
+# ============================================================================
+
+station:
+  navn: "Morgenradio"                 # siges i intro/outro og vises i afspilleren
+  slogan: "Din personlige morgen"
+  by: "København"                     # til vejret
+  breddegrad: 55.68
+  laengdegrad: 12.57
+  tidszone: "Europe/Copenhagen"
+
+# To værter giver radiofølelse. Stemmerne er OpenAI-stemmer.
+# Gode valg til dansk: marin, cedar, coral, ash, sage, ballad, verse.
+vaerter:
+  - navn: "Sofie"
+    stemme: "marin"
+    personlighed: "Varm, kvik og nysgerrig. Styrer showet, laver overgangene og stiller de gode opfølgende spørgsmål."
+  - navn: "Mads"
+    stemme: "cedar"
+    personlighed: "Tør humor, sportsnørd og musikelsker. Lidt drillende, men aldrig fjollet ved alvorlige nyheder."
+
+# Fælles stilinstruktion til stemmerne (OpenAI gpt-4o-mini-tts "instructions").
+stemme_instruktion: >
+  Tal naturligt rigsdansk som en erfaren dansk morgenradio-vært. Varm, vågen og
+  tydelig, i et roligt tempo. Udtal danske navne og stednavne korrekt. Ved alvorlige
+  nyheder: dæmpet og saglig tone. Ved lette emner: smil i stemmen.
+
+# Udsendelsens opbygning. Rækkefølgen er rækkefølgen i radioen.
+# type: tale = værterne taler, sang = et nummer fra Spotify.
+# antal = hvor mange historier segmentet højst må bruge.
+programflade:
+  - { id: intro,    type: tale, titel: "God morgen + vejret" }
+  - { id: nyheder,  type: tale, titel: "Nyhederne",        kategori: nyheder, antal: 5 }
+  - { id: sang1,    type: sang }
+  - { id: sport,    type: tale, titel: "Sporten",          kategori: sport,   antal: 4 }
+  - { id: sang2,    type: sang }
+  - { id: musik,    type: tale, titel: "Musiknyt",         kategori: musik,   antal: 3 }
+  - { id: sang3,    type: sang, gerne_koblet_til: musik }   # fx et nummer af en kunstner fra musiknyt
+  - { id: let,      type: tale, titel: "Dagens lette historie", kategori: nyheder, antal: 1 }
+  - { id: outro,    type: tale, titel: "Tak for i dag" }
+  - { id: sang4,    type: sang }
+
+# Hvor lang værternes tale samlet må være (sange kommer oveni).
+tale_minutter: 9
+
+# Hvad du interesserer dig for — bruges både til at vælge historier og sange.
+interesser:
+  sport_fokus: ["Superligaen", "FC København", "Brøndby", "Landsholdet", "Champions League", "Premier League", "Håndbold", "Cykling", "Tennis"]
+  nyheder_fokus: ["Danmark", "Verden", "Teknologi og AI", "Økonomi", "Klima"]
+  undgaa_emner: []                    # fx ["kongehuset", "reality"] — ord der filtreres helt fra
+
+musik:
+  smag: >
+    Blandet, moderne og let at vågne til: dansk pop og indie (fx Medina, Tobias Rahim,
+    Gilli, Ukendt Kunstner, Lukas Graham, Mø), internationale hits og nyere indie,
+    gerne lidt soul og 00'er-klassikere. Ikke hård metal og ikke for melankolsk om morgenen.
+  andel_danske: 0.5                   # cirka hvor stor del der må være danske numre
+  undgaa_gentagelse_dage: 30          # samme sang spilles tidligst igen efter så mange dage
+  # Bruges hvis Claude foreslår noget Spotify ikke kan finde. "Kunstner - Titel".
+  reservesange:
+    - "Medina - Kun for mig"
+    - "Lukas Graham - 7 Years"
+    - "Mø - Final Song"
+    - "Tobias Rahim - Stor Mand"
+    - "Dua Lipa - Levitating"
+    - "Pharrell Williams - Happy"
+    - "Phoenix - 1901"
+    - "Outkast - Hey Ya!"
+
+# AI-modeller
+claude:
+  model: "claude-opus-5"              # samme som dit nyhedsbrev. Billigere: "claude-sonnet-4-5"
+  max_tokens: 16000
+openai_tts:
+  model: "gpt-4o-mini-tts"
+  reserve_stemmer: ["coral", "ash"]   # bruges hvis en valgt stemme ikke virker
+
+# Kilder. weight: 3 = foretrukken kilde (bedste link/fakta), 1 = aggregator.
+# fulltekst: true = hent artiklens tekst, så værterne har flere fakta (virker
+# ikke på Google News-links, de er omdirigeringer).
+kilder:
+  nyheder:
+    - { navn: "DR Nyheder",       url: "https://www.dr.dk/nyheder/service/feeds/senestenyt", weight: 3, fulltekst: true }
+    - { navn: "DR Indland",       url: "https://www.dr.dk/nyheder/service/feeds/indland",    weight: 3, fulltekst: true }
+    - { navn: "DR Udland",        url: "https://www.dr.dk/nyheder/service/feeds/udland",     weight: 3, fulltekst: true }
+    - { navn: "TV 2 Nyheder",     url: "https://feeds.tv2.dk/nyheder/rss",                   weight: 3, fulltekst: true }
+    - { navn: "Politiken",        url: "https://politiken.dk/rss/senestenyt.rss",            weight: 2, fulltekst: false }
+    - { navn: "Google News DK",   url: "https://news.google.com/rss?hl=da&gl=DK&ceid=DK:da",  weight: 1, fulltekst: false }
+    - { navn: "Google News Tech", url: "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=da&gl=DK&ceid=DK:da", weight: 1, fulltekst: false }
+  sport:
+    - { navn: "DR Sporten",       url: "https://www.dr.dk/nyheder/service/feeds/sporten",    weight: 3, fulltekst: true }
+    - { navn: "TV 2 Sport",       url: "https://feeds.tv2.dk/sport/rss",                     weight: 3, fulltekst: true }
+    - { navn: "Bold.dk",          url: "https://www.bold.dk/feed/rss",                       weight: 2, fulltekst: false }
+    - { navn: "Google News Sport",url: "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=da&gl=DK&ceid=DK:da", weight: 1, fulltekst: false }
+  musik:
+    - { navn: "GAFFA",            url: "https://gaffa.dk/feed/",                             weight: 3, fulltekst: true }
+    - { navn: "Soundvenue",       url: "https://soundvenue.com/feed",                        weight: 3, fulltekst: true }
+    - { navn: "Pitchfork News",   url: "https://pitchfork.com/feed/feed-news/rss",           weight: 2, fulltekst: false }
+    - { navn: "NME",              url: "https://www.nme.com/news/music/feed",                weight: 2, fulltekst: false }
+    - { navn: "Google News Musik",url: "https://news.google.com/rss/search?q=musik%20OR%20album%20OR%20koncert%20when%3A2d&hl=da&gl=DK&ceid=DK:da", weight: 1, fulltekst: false }
+
+indsamling:
+  timer_tilbage: 26                   # kun nyheder fra det sidste døgn (+ lidt margen)
+  max_pr_kilde: 40
+  max_kandidater_pr_kategori: 35      # hvor mange klynger Claude får at vælge imellem
+  fulltekst_tegn: 1800                # hvor meget artikeltekst værterne får pr. historie
+
+arkiv:
+  behold_dage: 10                     # ældre udsendelser slettes fra siden

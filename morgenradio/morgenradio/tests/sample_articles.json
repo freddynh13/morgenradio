@@ -1,0 +1,145 @@
+[
+ {
+  "kategori": "nyheder",
+  "kilde": "DR Nyheder",
+  "feed": "DR Nyheder",
+  "weight": 3,
+  "fulltekst": false,
+  "titel": "Regeringen præsenterer ny klimaplan for landbruget",
+  "resume": "Planen skal reducere udledningen markant frem mod 2030",
+  "link": "https://example.com/0",
+  "tid": null
+ },
+ {
+  "kategori": "nyheder",
+  "kilde": "TV 2 Nyheder",
+  "feed": "TV 2 Nyheder",
+  "weight": 3,
+  "fulltekst": false,
+  "titel": "Ny klimaplan for landbruget præsenteret af regeringen",
+  "resume": "Udledningen skal ned frem mod 2030, siger ministeren",
+  "link": "https://example.com/1",
+  "tid": null
+ },
+ {
+  "kategori": "nyheder",
+  "kilde": "Politiken",
+  "feed": "Politiken",
+  "weight": 2,
+  "fulltekst": false,
+  "titel": "Storm lukker Storebæltsbroen for lette køretøjer",
+  "resume": "Vinden når stormstyrke i nat",
+  "link": "https://example.com/2",
+  "tid": null
+ },
+ {
+  "kategori": "nyheder",
+  "kilde": "DR Udland",
+  "feed": "DR Udland",
+  "weight": 3,
+  "fulltekst": false,
+  "titel": "EU enige om ny aftale om kunstig intelligens",
+  "resume": "Aftalen regulerer store AI-modeller",
+  "link": "https://example.com/3",
+  "tid": null
+ },
+ {
+  "kategori": "nyheder",
+  "kilde": "Google News DK",
+  "feed": "Google News DK",
+  "weight": 1,
+  "fulltekst": false,
+  "titel": "Pingvinunge i Zoologisk Have får navn efter afstemning",
+  "resume": "Over 10.000 stemte",
+  "link": "https://example.com/4",
+  "tid": null
+ },
+ {
+  "kategori": "nyheder",
+  "kilde": "DR Indland",
+  "feed": "DR Indland",
+  "weight": 3,
+  "fulltekst": false,
+  "titel": "Rentefald glæder boligejere",
+  "resume": "Nationalbanken sænker renten",
+  "link": "https://example.com/5",
+  "tid": null
+ },
+ {
+  "kategori": "sport",
+  "kilde": "DR Sporten",
+  "feed": "DR Sporten",
+  "weight": 3,
+  "fulltekst": false,
+  "titel": "FC København vinder 2-1 over Brøndby i derbyet",
+  "resume": "Sejrsmålet kom i det 88. minut",
+  "link": "https://example.com/6",
+  "tid": null
+ },
+ {
+  "kategori": "sport",
+  "kilde": "TV 2 Sport",
+  "feed": "TV 2 Sport",
+  "weight": 3,
+  "fulltekst": false,
+  "titel": "FCK slår Brøndby 2-1 i dramatisk derby",
+  "resume": "Sent sejrsmål",
+  "link": "https://example.com/7",
+  "tid": null
+ },
+ {
+  "kategori": "sport",
+  "kilde": "Bold.dk",
+  "feed": "Bold.dk",
+  "weight": 2,
+  "fulltekst": false,
+  "titel": "Landsholdstruppen offentliggøres i dag",
+  "resume": "Landstræneren præsenterer truppen kl. 11",
+  "link": "https://example.com/8",
+  "tid": null
+ },
+ {
+  "kategori": "sport",
+  "kilde": "DR Sporten",
+  "feed": "DR Sporten",
+  "weight": 3,
+  "fulltekst": false,
+  "titel": "Danske håndboldkvinder klar til EM",
+  "resume": "Første kamp er på fredag",
+  "link": "https://example.com/9",
+  "tid": null
+ },
+ {
+  "kategori": "musik",
+  "kilde": "GAFFA",
+  "feed": "GAFFA",
+  "weight": 3,
+  "fulltekst": false,
+  "titel": "Medina udgiver nyt album i november",
+  "resume": "Første single udkommer i dag",
+  "link": "https://example.com/10",
+  "tid": null
+ },
+ {
+  "kategori": "musik",
+  "kilde": "Soundvenue",
+  "feed": "Soundvenue",
+  "weight": 3,
+  "fulltekst": false,
+  "titel": "Roskilde Festival afslører første navne",
+  "resume": "Tre store headlinere er klar",
+  "link": "https://example.com/11",
+  "tid": null
+ },
+ {
+  "kategori": "musik",
+  "kilde": "NME",
+  "feed": "NME",
+  "weight": 2,
+  "fulltekst": false,
+  "titel": "Dua Lipa announces world tour with Copenhagen date",
+  "resume": "Tour starts in spring",
+  "link": "https://example.com/12",
+  "tid": null
+ }
+]
