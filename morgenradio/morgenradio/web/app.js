@@ -130,14 +130,36 @@
   }
   function updateLoginUI() { $("login").hidden = !!S.token; fillDevices(); }
 
+  const sleep = (ms) => new Promise((ok) => setTimeout(ok, ms));
+
+  // Finder enheden musikken skal spilles på. Returnerer { id } eller { why }.
   async function targetDevice() {
-    if (S.deviceId === "none") return null;
+    if (!S.token) return { why: "Du er ikke logget ind med Spotify — tryk 'Log ind med Spotify'." };
+    if (S.deviceId === "none") return { why: "Du har valgt 'Uden musik'. Vælg en enhed under 'Musik spilles på'." };
     if (S.deviceId === "browser") {
-      const p = await loadSdk();
-      if (!p || !S.sdkDeviceId) return null;
-      return S.sdkDeviceId;
+      const p = await Promise.race([loadSdk(), sleep(10000).then(() => null)]);
+      if (p && S.sdkDeviceId) return { id: S.sdkDeviceId };
+      // Browser-afspilleren kom ikke op → prøv en anden Spotify-enhed
+      try {
+        const d = (await api("/me/player/devices")).devices || [];
+        const alt = d.find((x) => x.is_active) || d[0];
+        if (alt) { status("Browser-afspilning virker ikke — spiller på " + alt.name + " i stedet."); return { id: alt.id }; }
+      } catch {}
+      return { why: "Browser-afspilleren startede ikke. Åbn Spotify-appen (telefon eller computer), tryk Opdatér og vælg den." };
     }
-    return S.deviceId;
+    return { id: S.deviceId };
+  }
+
+  async function startTrack(dev, uri) {
+    const play = () => api("/me/player/play?device_id=" + encodeURIComponent(dev), { method: "PUT", body: JSON.stringify({ uris: [uri], position_ms: 0 }) });
+    try { await play(); }
+    catch (e) {
+      // Enheden er ofte "sovende" — væk den ved at flytte afspilningen derhen og prøv igen
+      await api("/me/player", { method: "PUT", body: JSON.stringify({ device_ids: [dev], play: false }) }).catch(() => {});
+      await sleep(1200);
+      await play();
+    }
+    try { await api("/me/player/repeat?state=off&device_id=" + encodeURIComponent(dev), { method: "PUT" }); } catch {}
   }
 
   // ── Afvikling ────────────────────────────────────────────────────────────
@@ -165,17 +187,22 @@
       audio.currentTime = 0;
       try { await audio.play(); } catch (e) { S.playing = false; render(); status("Tryk play for at fortsætte."); }
     } else {
-      const dev = await targetDevice();
-      if (!dev) return playIndex(i + 1);  // ingen musik → næste indslag
+      const t = await targetDevice();
+      if (seq !== S.seq) return;
+      if (!t.id) {  // ingen musik → sig hvorfor og fortsæt med værterne
+        status("♪ Sangen blev sprunget over: " + t.why);
+        return playIndex(i + 1);
+      }
+      const dev = t.id;
       try {
-        status("");
-        await api("/me/player/play?device_id=" + encodeURIComponent(dev), { method: "PUT", body: JSON.stringify({ uris: [it.uri], position_ms: 0 }) });
-        try { await api("/me/player/repeat?state=off&device_id=" + encodeURIComponent(dev), { method: "PUT" }); } catch {}
+        await startTrack(dev, it.uri);
+        if (seq !== S.seq) return;
         S.spotifyActive = true; S.trackStarted = false; S.trackPos = 0;
         S.trackDeadline = Date.now() + 15000;
+        if (!/i stedet/.test($("status").textContent)) status("");
         S.monitor = setInterval(() => watchTrack(it, seq), 1500);
       } catch (e) {
-        status("Kunne ikke starte sangen på Spotify: " + e.message + " — springer videre.");
+        status("♪ Spotify ville ikke spille sangen (" + e.message + "). Springer videre — se fejlfinding i README.");
         setTimeout(() => S.i === i && playIndex(i + 1), 2500);
       }
     }
@@ -338,13 +365,14 @@
   audio.addEventListener("pause", () => { if (items()[S.i]?.type === "clip" && !audio.ended) { S.playing = false; render(); } });
   audio.addEventListener("play", () => { S.playing = true; render(); });
   $("play").onclick = togglePlay;
-  $("next").onclick = () => { acquireWake(); playIndex(S.i + 1); };
+  const activate = () => { try { S.sdkPlayer?.activateElement(); } catch {} };
+  $("next").onclick = () => { activate(); acquireWake(); playIndex(S.i + 1); };
   $("prev").onclick = () => playIndex(Math.max(0, S.i - 1));
   $("login").onclick = login;
   $("refreshDevices").onclick = fillDevices;
   $("device").onchange = (e) => { S.deviceId = e.target.value; store.set("device", S.deviceId); if (S.deviceId === "browser") loadSdk(); };
   $("episode").onchange = (e) => loadEpisode(e.target.value);
-  $("rundown").onclick = (e) => { const li = e.target.closest("li"); if (li) { acquireWake(); playIndex(+li.dataset.n); } };
+  $("rundown").onclick = (e) => { const li = e.target.closest("li"); if (li) { activate(); acquireWake(); playIndex(+li.dataset.n); } };
   if ("mediaSession" in navigator) {
     navigator.mediaSession.setActionHandler("play", togglePlay);
     navigator.mediaSession.setActionHandler("pause", togglePlay);
