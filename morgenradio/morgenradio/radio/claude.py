@@ -17,6 +17,14 @@ import requests
 from .collect import som_tekst
 from .util import log
 
+
+def _lytter(cfg: dict) -> str:
+    l = cfg.get("lytter") or {}
+    if not l:
+        return f"Lytteren bor i {cfg['station']['by']}."
+    return (f"Lytteren hedder {l.get('navn', '')}, bor i {l.get('bor', cfg['station']['by'])} og arbejder med "
+            f"{l.get('arbejde', '')}. {str(l.get('om_mig', '')).strip()}")
+
 API = "https://api.anthropic.com/v1/messages"
 
 
@@ -97,7 +105,7 @@ def lav_plan(cfg: dict, api_key: str, kand: dict, vejr: str, dato: str, spillet:
 
     i = cfg["interesser"]
     prompt = f"""Du er redaktør på en personlig dansk morgenradio, "{cfg['station']['navn']}". I dag er det {dato}.
-Lytteren er én person i {cfg['station']['by']}.
+Radioen laves til én bestemt person. {_lytter(cfg)}
 
 LYTTERENS INTERESSER
 - Nyheder: {', '.join(i['nyheder_fokus'])}
@@ -109,6 +117,8 @@ OPGAVE 1 — VÆLG HISTORIER til hvert talesegment:
 Regler:
 - Vælg det vigtigste og mest interessante for en dansker i dag. Flere uafhængige kilder = vigtigere.
 - Nyheder: bland store danske og internationale historier. Ingen historie må optræde to gange.
+- Segmentet 'aarhus' skal være lokale nyheder fra Aarhus/Østjylland. Er der intet relevant lokalt, så vælg 0.
+- Har lytterens fag (digital marketing/AI) en vigtig nyhed i dag, så tag den gerne med i 'nyheder'.
 - Segmentet 'let' skal være en positiv, sjov eller kuriøs historie (ikke en af dem i 'nyheder').
 - Sport: resultater og kampe fra det seneste døgn + vigtige kampe i dag. Prioriter lytterens fokus, men den største sportshistorie kommer med uanset.
 - Musik: nye udgivelser, koncerter, danske musiknyheder.
@@ -186,6 +196,10 @@ def skriv_manuskript(cfg: dict, api_key: str, valgte: dict, sange: dict, vejr: s
     prompt = f"""Skriv det talte manuskript til dagens udsendelse af "{cfg['station']['navn']}" ({cfg['station']['slogan']}).
 I dag er det {dato}. Dagens tema: {tema}
 
+LYTTEREN
+{_lytter(cfg)}
+Udsendelsen er lavet KUN til denne person, og det skal kunne mærkes: værterne hilser på {(cfg.get('lytter') or {}).get('navn', 'lytteren')} ved navn i intro og outro og højst 1-2 gange undervejs. De kobler gerne en historie til lytterens hverdag (fx "det her kan du nok bruge på arbejdet", eller vejret i Aarhus til cykelturen), men kun når det er naturligt og ikke ved alvorlige nyheder. Det må ikke blive klæbrigt.
+
 VÆRTER
 - {v[0]['navn']}: {v[0]['personlighed']}
 - {v[1]['navn']}: {v[1]['personlighed']}
@@ -198,7 +212,7 @@ VEJRET (bruges i intro): {vejr}
 SÅDAN SKAL DET LYDE
 - Ægte dansk morgenradio: to værter der taler med hinanden, korte replikker (1-3 sætninger), naturlige overgange, lidt humor og personlighed. Ingen oplæsning af lister.
 - Samlet ca. {ord_i_alt} ord tale (± 15 %). Fordel efter vigtighed; intro og outro er korte.
-- Intro: hils, sig dato og stationsnavn, kort teaser for dagens største historier, så vejret.
+- Intro: hils på lytteren ved navn, sig dato og stationsnavn, kort teaser for dagens største historier, så vejret.
 - Skriv til ØRET: ingen URL'er, ingen parenteser, ingen forkortelser (skriv "for eksempel", "procent", "millioner kroner"), ingen emojis, ingen overskrifter. Datoer og tal skrives så de læses naturligt op.
 - Nævn kilden mundret når det er relevant ("ifølge DR").
 - FAKTA: brug KUN oplysninger fra materialet ovenfor. Find aldrig på tal, citater, resultater eller navne. Er noget uklart, så sig det forsigtigt eller udelad det. Sportsresultater skal stå præcist som i kilden.
