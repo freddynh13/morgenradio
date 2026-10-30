@@ -1,0 +1,77 @@
+name: Morgenradio
+
+on:
+  schedule:
+    # 03:15 UTC = 04:15 dansk vintertid / 05:15 sommertid.
+    # GitHub kan forsinke planlagte kørsler 10-30 min, derfor i god tid.
+    - cron: "15 3 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Testkørsel uden API-kald (falske data og testlyd)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: morgenradio
+  cancel-in-progress: false
+
+jobs:
+  udsendelse:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      # Finder selv mappen med koden (der hvor config.yaml og radio/ ligger),
+      # så det virker uanset om filerne ligger i roden eller i en undermappe.
+      - name: Find kodemappen
+        run: |
+          APP=$(dirname "$(find . -name config.yaml | while read f; do [ -d "$(dirname "$f")/radio" ] && echo "$f"; done | head -1)")
+          echo "Koden ligger i: $APP"
+          echo "APP=$APP" >> "$GITHUB_ENV"
+
+      # Hent de tidligere udsendelser + sanghistorik (gh-pages-grenen).
+      - name: Hent eksisterende side
+        uses: actions/checkout@v4
+        continue-on-error: true   # første gang findes grenen ikke
+        with:
+          ref: gh-pages
+          path: ghpages
+      - name: Flyt tidligere udsendelser på plads
+        run: |
+          mkdir -p "$APP/site"
+          if [ -d ghpages ]; then rm -rf ghpages/.git && cp -a ghpages/. "$APP/site/" && rm -rf ghpages; fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installér ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - run: pip install -r "$APP/requirements.txt"
+
+      - name: Lav dagens udsendelse
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: cd "$APP" && python -m radio.main ${{ inputs.dry_run && '--dry-run' || '' }}
+
+      # Hele siden lægges på gh-pages som ÉN commit (ingen voksende historik).
+      - name: Publicér
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ${{ env.APP }}/site
+          publish_branch: gh-pages
+          force_orphan: true
+          user_name: morgenradio-bot
+          user_email: morgenradio-bot@users.noreply.github.com
+          commit_message: "Udsendelse ${{ github.run_number }}"
