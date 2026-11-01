@@ -51,7 +51,7 @@ stemme_instruktion: >
 #                Forbrug: ca. 9.000 tegn pr. udsendelse ved tale_minutter: 10
 #                ≈ 270.000 tegn/md. → kræver Creator-planen (eller sæt tale_minutter ned).
 tts:
-  udbyder: "elevenlabs"                   # skift til "elevenlabs" når voice-id'erne er sat
+  udbyder: "elevenlabs"               # "openai" = billigere stemmer
   elevenlabs_model: "eleven_v3"
   elevenlabs_tilstand: "dialog"       # "dialog" = værterne indtales sammen (mest naturligt), "replik" = én ad gangen
 
@@ -121,23 +121,24 @@ kilder:
     - { navn: "DR Nyheder",       url: "https://www.dr.dk/nyheder/service/feeds/senestenyt", weight: 3, fulltekst: true }
     - { navn: "DR Indland",       url: "https://www.dr.dk/nyheder/service/feeds/indland",    weight: 3, fulltekst: true }
     - { navn: "DR Udland",        url: "https://www.dr.dk/nyheder/service/feeds/udland",     weight: 3, fulltekst: true }
-    - { navn: "TV 2 Nyheder",     url: "https://feeds.tv2.dk/nyheder/rss",                   weight: 3, fulltekst: true }
+    - { navn: "TV 2 Nyheder",     url: "https://news.google.com/rss/search?hl=da&gl=DK&ceid=DK:da&q=site%3Anyheder.tv2.dk%20when%3A1d", weight: 2, fulltekst: false }
     - { navn: "Politiken",        url: "https://politiken.dk/rss/senestenyt.rss",            weight: 2, fulltekst: false }
     - { navn: "Google News DK",   url: "https://news.google.com/rss?hl=da&gl=DK&ceid=DK:da",  weight: 1, fulltekst: false }
     - { navn: "Google News Tech", url: "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=da&gl=DK&ceid=DK:da", weight: 1, fulltekst: false }
     - { navn: "Google News Økonomi", url: "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=da&gl=DK&ceid=DK:da", weight: 1, fulltekst: false }
     - { navn: "Google News AI & marketing", url: "https://news.google.com/rss/search?q=(%22kunstig%20intelligens%22%20OR%20ChatGPT%20OR%20OpenAI%20OR%20%22Google%20Ads%22%20OR%20%22Meta%20ads%22%20OR%20TikTok)%20when%3A1d&hl=da&gl=DK&ceid=DK:da", weight: 1, fulltekst: false }
   lokalt:
-    - { navn: "Google News Aarhus", url: "https://news.google.com/rss/search?q=Aarhus%20when%3A1d&hl=da&gl=DK&ceid=DK:da", weight: 2, fulltekst: false }
-    - { navn: "Google News Østjylland", url: "https://news.google.com/rss/search?q=(%C3%98stjylland%20OR%20Aarhus%20Kommune%20OR%20Aarhus%20Universitet)%20when%3A2d&hl=da&gl=DK&ceid=DK:da", weight: 1, fulltekst: false }
+    - { navn: "TV 2 Østjylland",  url: "https://news.google.com/rss/search?hl=da&gl=DK&ceid=DK:da&q=site%3Atv2ostjylland.dk%20when%3A2d", weight: 2, fulltekst: false }
+    - { navn: "Google News Aarhus", url: "https://news.google.com/rss/search?hl=da&gl=DK&ceid=DK:da&q=Aarhus%20when%3A2d", weight: 1, fulltekst: false }
+    - { navn: "Århus Stiftstidende", url: "https://news.google.com/rss/search?hl=da&gl=DK&ceid=DK:da&q=site%3Astiften.dk%20when%3A2d", weight: 1, fulltekst: false }
   sport:
     - { navn: "DR Sporten",       url: "https://www.dr.dk/nyheder/service/feeds/sporten",    weight: 3, fulltekst: true }
-    - { navn: "TV 2 Sport",       url: "https://feeds.tv2.dk/sport/rss",                     weight: 3, fulltekst: true }
-    - { navn: "Bold.dk",          url: "https://www.bold.dk/feed/rss",                       weight: 2, fulltekst: false }
-    - { navn: "Google News Fodbold", url: "https://news.google.com/rss/search?q=(landsholdet%20OR%20%22Champions%20League%22%20OR%20%22Premier%20League%22)%20fodbold%20when%3A1d&hl=da&gl=DK&ceid=DK:da", weight: 1, fulltekst: false }
+    - { navn: "TV 2 Sport",       url: "https://news.google.com/rss/search?hl=da&gl=DK&ceid=DK:da&q=site%3Asport.tv2.dk%20when%3A1d", weight: 2, fulltekst: false }
+    - { navn: "Bold.dk",          url: "https://news.google.com/rss/search?hl=da&gl=DK&ceid=DK:da&q=site%3Abold.dk%20when%3A1d", weight: 2, fulltekst: false }
+    - { navn: "Google News Fodbold", url: "https://news.google.com/rss/search?hl=da&gl=DK&ceid=DK:da&q=fodbold%20landsholdet%20OR%20%22Champions%20League%22%20OR%20%22Premier%20League%22%20when%3A1d", weight: 1, fulltekst: false }
     - { navn: "Google News Sport",url: "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=da&gl=DK&ceid=DK:da", weight: 1, fulltekst: false }
   musik:
-    - { navn: "GAFFA",            url: "https://gaffa.dk/feed/",                             weight: 3, fulltekst: true }
+    - { navn: "GAFFA",            url: "https://news.google.com/rss/search?hl=da&gl=DK&ceid=DK:da&q=site%3Agaffa.dk%20when%3A3d", weight: 2, fulltekst: false }
     - { navn: "Soundvenue",       url: "https://soundvenue.com/feed",                        weight: 3, fulltekst: true }
     - { navn: "Pitchfork News",   url: "https://pitchfork.com/feed/feed-news/rss",           weight: 2, fulltekst: false }
     - { navn: "NME",              url: "https://www.nme.com/news/music/feed",                weight: 2, fulltekst: false }
