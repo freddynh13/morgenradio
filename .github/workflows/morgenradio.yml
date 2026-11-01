@@ -15,6 +15,10 @@ on:
         description: "Testkørsel uden API-kald (falske data og testlyd)"
         type: boolean
         default: false
+      stemmeprove:
+        description: "Lav kun en kort stemmeprøve (…/stemmeprove.mp3)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -67,7 +71,7 @@ jobs:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
-        run: cd "$APP" && python -m radio.main ${{ inputs.dry_run && '--dry-run' || '' }} ${{ github.event_name == 'schedule' && '--spring-over-hvis-findes' || '' }}
+        run: cd "$APP" && python -m radio.main ${{ inputs.dry_run && '--dry-run' || '' }} ${{ inputs.stemmeprove && '--stemmeprove' || '' }} ${{ github.event_name == 'schedule' && '--spring-over-hvis-findes' || '' }}
 
       # Hele siden lægges på gh-pages som ÉN commit (ingen voksende historik).
       - name: Publicér
