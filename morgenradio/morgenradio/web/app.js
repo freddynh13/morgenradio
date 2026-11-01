@@ -162,6 +162,47 @@
     try { await api("/me/player/repeat?state=off&device_id=" + encodeURIComponent(dev), { method: "PUT" }); } catch {}
   }
 
+
+  // ── Spotify-test: tjekker trin for trin og siger præcis hvad der er galt ──
+  async function diagnose() {
+    const box = $("diag"); box.hidden = false; box.textContent = "";
+    const out = (ok, t) => { box.textContent += (ok === null ? "…  " : ok ? "✅ " : "❌ ") + t + "\n"; };
+    out(!!CLIENT_ID, CLIENT_ID ? "Spotify Client ID er sat" : "Mangler Spotify Client ID (GitHub Secret SPOTIFY_CLIENT_ID) — kør workflowet igen efter du har sat den");
+    if (!CLIENT_ID) return;
+    out(location.origin + location.pathname === REDIRECT, "Redirect URI i Spotify-appen skal være præcis: " + REDIRECT);
+    if (!(await getToken())) return out(false, "Ikke logget ind — tryk 'Log ind med Spotify'");
+    out(true, "Logget ind");
+    try { const me = await api("/me"); out(true, "Konto: " + (me.display_name || me.id)); }
+    catch (e) { return out(false, "Spotify afviser kontoen: " + e.message + (/regist|403/i.test(e.message) ? " → Tilføj din Spotify-e-mail under User Management i Spotify-appen på developer.spotify.com" : "")); }
+    if (!isMobile) {
+      out(null, "Starter browser-afspilleren …");
+      const p = await Promise.race([loadSdk(), sleep(10000).then(() => null)]);
+      out(!!(p && S.sdkDeviceId), p && S.sdkDeviceId ? "Browser-afspilleren kører ('Denne browser')" : "Browser-afspilleren startede ikke (kræver Chrome/Edge/Firefox på computer, Premium og 'Web Playback SDK' slået til i Spotify-appen)");
+    }
+    let devs = [];
+    try { devs = (await api("/me/player/devices")).devices || []; out(devs.length > 0, devs.length ? "Spotify-enheder: " + devs.map((d) => d.name + (d.is_active ? " (aktiv)" : "")).join(", ") : "Ingen Spotify-enheder fundet — åbn Spotify-appen og afspil noget kort"); }
+    catch (e) { out(false, "Kunne ikke hente enheder: " + e.message); }
+    await fillDevices();
+    out(S.deviceId !== "none", "Valgt enhed: " + ($("device").selectedOptions[0]?.text || "?"));
+    const track = items().find((x) => x.type === "track");
+    if (!track) return out(false, "Dagens udsendelse har ingen sange (se loggen i GitHub Actions — Spotify-søgningen kan have fejlet)");
+    if (track.uri.includes(":TEST")) return out(false, "Det er en testudsendelse med falske sange — kør workflowet uden dry run");
+    const t = await targetDevice();
+    if (!t.id) return out(false, t.why);
+    try {
+      out(null, `Prøver at spille "${track.name}" i 5 sekunder …`);
+      try { await S.sdkPlayer?.activateElement(); } catch {}
+      await startTrack(t.id, track.uri);
+      await sleep(5000);
+      const st = await api("/me/player").catch(() => null);
+      const ok = st && st.item?.uri === track.uri;
+      out(!!ok, ok ? (st.is_playing ? "Sangen spiller på " + (st.device?.name || "enheden") + " — musikken virker! 🎉" : "Sangen er startet men står på pause") : "Spotify accepterede kommandoen, men sangen spiller ikke");
+      await api("/me/player/pause", { method: "PUT" }).catch(() => {});
+    } catch (e) {
+      out(false, "Spotify ville ikke spille: " + e.message + (/premium/i.test(e.message) ? " → kræver Spotify Premium" : ""));
+    }
+  }
+
   // ── Afvikling ────────────────────────────────────────────────────────────
   const items = () => S.show?.items || [];
 
@@ -370,6 +411,7 @@
   $("prev").onclick = () => playIndex(Math.max(0, S.i - 1));
   $("login").onclick = login;
   $("refreshDevices").onclick = fillDevices;
+  $("diagBtn").onclick = () => { activate(); diagnose(); };
   $("device").onchange = (e) => { S.deviceId = e.target.value; store.set("device", S.deviceId); if (S.deviceId === "browser") loadSdk(); };
   $("episode").onchange = (e) => loadEpisode(e.target.value);
   $("rundown").onclick = (e) => { const li = e.target.closest("li"); if (li) { activate(); acquireWake(); playIndex(+li.dataset.n); } };
