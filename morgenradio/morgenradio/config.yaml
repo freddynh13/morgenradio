@@ -28,7 +28,7 @@ lytter:
 vaerter:
   - navn: "Sofie"
     stemme: "marin"
-    elevenlabs_voice_id: ""
+    elevenlabs_voice_id: ""           # fx "AbCdEf123..." — kopieres fra ElevenLabs (se README)
     personlighed: "varm, kvik og nysgerrig. Styrer showet, laver overgangene og stiller de gode opfølgende spørgsmål."
     stemme_stil: "Kvindelig stemme, midt i 30'erne, lys og smilende, taler lidt hurtigt når hun er engageret."
   - navn: "Mads"
@@ -46,11 +46,14 @@ stemme_instruktion: >
 
 # Stemme-udbyder.
 #   openai     — billig (ca. 1 kr. pr. udsendelse), god kvalitet. Kræver OPENAI_API_KEY.
-#   elevenlabs — den mest naturlige danske tale (eleven_v3), ca. 5-10 kr. pr. udsendelse.
-#                Kræver GitHub Secret ELEVENLABS_API_KEY og elevenlabs_voice_id på værterne.
+#   elevenlabs — den mest naturlige danske tale (eleven_v3). Kræver GitHub Secret
+#                ELEVENLABS_API_KEY og elevenlabs_voice_id på begge værter (se README).
+#                Forbrug: ca. 9.000 tegn pr. udsendelse ved tale_minutter: 10
+#                ≈ 270.000 tegn/md. → kræver Creator-planen (eller sæt tale_minutter ned).
 tts:
-  udbyder: "openai"
+  udbyder: "openai"                   # skift til "elevenlabs" når voice-id'erne er sat
   elevenlabs_model: "eleven_v3"
+  elevenlabs_tilstand: "dialog"       # "dialog" = værterne indtales sammen (mest naturligt), "replik" = én ad gangen
 
 # Blød musikbund under intro og outro (radiofølelse). false = slå fra.
 musikbund: true
