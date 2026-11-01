@@ -2,9 +2,13 @@ name: Morgenradio
 
 on:
   schedule:
-    # 03:15 UTC = 04:15 dansk vintertid / 05:15 sommertid.
-    # GitHub kan forsinke planlagte kørsler 10-30 min, derfor i god tid.
-    - cron: "15 3 * * *"
+    # GitHub springer af og til planlagte kørsler over, når der er travlt.
+    # Derfor tre forsøg. Det første laver udsendelsen; de næste stopper med det
+    # samme, hvis dagens udsendelse allerede findes (koster intet).
+    # Tider i UTC: 03:17 = 04:17 dansk vintertid / 05:17 sommertid.
+    - cron: "17 3 * * *"
+    - cron: "43 4 * * *"
+    - cron: "11 6 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -61,8 +65,9 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
-        run: cd "$APP" && python -m radio.main ${{ inputs.dry_run && '--dry-run' || '' }}
+        run: cd "$APP" && python -m radio.main ${{ inputs.dry_run && '--dry-run' || '' }} ${{ github.event_name == 'schedule' && '--spring-over-hvis-findes' || '' }}
 
       # Hele siden lægges på gh-pages som ÉN commit (ingen voksende historik).
       - name: Publicér
