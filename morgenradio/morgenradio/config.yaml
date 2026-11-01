@@ -28,7 +28,7 @@ lytter:
 vaerter:
   - navn: "Sofie"
     stemme: "marin"
-    elevenlabs_voice_id: "gIfqD5jrnhkFu8ENVbXC"           # fx "AbCdEf123..." — kopieres fra ElevenLabs (se README)
+    elevenlabs_voice_id: "gIfqD5jrnhkFu8ENVbXC"   # kopieret fra ElevenLabs → My Voices
     personlighed: "varm, kvik og nysgerrig. Styrer showet, laver overgangene og stiller de gode opfølgende spørgsmål."
     stemme_stil: "Kvindelig stemme, midt i 30'erne, lys og smilende, taler lidt hurtigt når hun er engageret."
   - navn: "Mads"
@@ -57,6 +57,18 @@ tts:
 
 # Blød musikbund under intro og outro (radiofølelse). false = slå fra.
 musikbund: true
+
+# Jingler komponeres med ElevenLabs Music: Actions → Run workflow → hak i "lav_jingler".
+# Vil du have en anden stil, så skriv den her (på engelsk virker bedst) og kør igen.
+# Eksempler: "Funky disco-house with live bass and horns", "Warm acoustic indie-pop
+# with hand claps and whistling", "Energetic hip-hop beat with a soulful sample".
+# Egne lydfiler vinder altid: læg assets/jingle_intro.mp3 osv. i repositoriet.
+jingler:
+  stil: >
+    Modern Scandinavian morning radio station branding. Bright, warm and optimistic
+    synth-pop with crisp punchy drums, a bouncy bassline, shimmering plucks and a
+    catchy 4-note signature melody. Polished, contemporary, professional broadcast
+    mix. Not cheesy, not retro. Instrumental, no vocals.
 
 # Udsendelsens opbygning. Rækkefølgen er rækkefølgen i radioen.
 # type: tale = værterne taler, sang = et nummer fra Spotify.
