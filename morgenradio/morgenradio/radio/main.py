@@ -107,11 +107,15 @@ def skriv_feed(cfg, index, base_url: str):
 
 # ── Hovedforløb ─────────────────────────────────────────────────────────────
 
-def koer(dry: bool = False) -> Path:
+def koer(dry: bool = False, spring_over_hvis_findes: bool = False) -> Path | None:
     cfg = load_config()
     t0 = now(cfg)
     dato_iso, dato = t0.strftime("%Y-%m-%d"), dansk_dato(t0)
     log.info("=== %s — %s ===", cfg["station"]["navn"], dato)
+    eksisterende = read_json(SITE / "episodes" / dato_iso / "show.json", None)
+    if spring_over_hvis_findes and eksisterende and not eksisterende.get("test"):
+        log.info("Dagens udsendelse findes allerede — intet at lave (sikkerhedskørsel).")
+        return None
 
     historik = read_json(SITE / "history.json", [])
     graense = (t0 - timedelta(days=cfg["musik"]["undgaa_gentagelse_dage"])).strftime("%Y-%m-%d")
@@ -188,7 +192,7 @@ def koer(dry: bool = False) -> Path:
     else:
         from .tts import TTS
         log.info("Indtaler %d replikker …", len(alle_replikker))
-        filer = TTS(env("OPENAI_API_KEY"), cfg).lav_alle(alle_replikker, tmp)
+        filer = TTS(cfg).lav_alle(alle_replikker, tmp)
     fil_for = {id(r): f for r, f in zip(alle_replikker, filer)}
 
     # 6. Byg rundown: sammenhængende talesegmenter bliver ét klip
@@ -211,7 +215,10 @@ def koer(dry: bool = False) -> Path:
                 continue
             forj = "intro" if (not items and j == 0) else "sweeper"
             efterj = "outro" if (sidste and j == len(gruppe) - 1) else None
-            x, starter = audio.byg_klip([fil_for[id(r)] for r in reps], [r["vaert"] for r in reps], forj, efterj)
+            x, starter = audio.byg_klip([fil_for[id(r)] for r in reps], [r["vaert"] for r in reps], forj, efterj,
+                                        tekster=[r["tekst"] for r in reps],
+                                        bund=cfg.get("musikbund", True) and s["id"] in ("intro", "outro"),
+                                        seed=len(items) * 10 + j)
             for r, st in zip(reps, starter):
                 transcript.append({"vaert": r["vaert"], "tekst": r["tekst"], "start": round(offset + st, 2), "segment": s["id"]})
             lyd.append(x)
@@ -287,13 +294,15 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--tjek-kilder", action="store_true")
+    ap.add_argument("--spring-over-hvis-findes", action="store_true",
+                    help="Bruges af de planlagte kørsler: lav kun en udsendelse hvis dagens mangler")
     a = ap.parse_args()
     if a.tjek_kilder:
         _, status = collect.fetch_all(load_config())
         fejl = [k for k, v in status.items() if not v.startswith("ok") or v == "ok (0)"]
         print(f"\n{len(status) - len(fejl)} af {len(status)} kilder virker." + (f" Problemer: {', '.join(fejl)}" if fejl else ""))
         return
-    koer(dry=a.dry_run)
+    koer(dry=a.dry_run, spring_over_hvis_findes=a.spring_over_hvis_findes)
 
 
 if __name__ == "__main__":

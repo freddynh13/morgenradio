@@ -158,11 +158,12 @@ SCRIPT_SCHEMA = {
                         "type": "array",
                         "items": {
                             "type": "object", "additionalProperties": False,
-                            "required": ["vaert", "tekst", "tone"],
+                            "required": ["vaert", "tekst", "tone", "regi"],
                             "properties": {
                                 "vaert": {"type": "string"},
                                 "tekst": {"type": "string"},
                                 "tone": {"type": "string", "enum": ["neutral", "glad", "alvorlig", "energisk", "rolig"]},
+                                "regi": {"type": "string", "description": "Kort sceneanvisning til stemmen, 2-6 ord, fx 'griner kort', 'overrasket', 'drillende', 'tænker højt', 'nysgerrig'. Tom streng hvis neutral."},
                             },
                         },
                     },
@@ -210,16 +211,26 @@ PROGRAMMET (rækkefølgen er fast; skriv replikker for hvert 🎙-segment, IKKE 
 VEJRET (bruges i intro): {vejr}
 
 SÅDAN SKAL DET LYDE
-- Ægte dansk morgenradio: to værter der taler med hinanden, korte replikker (1-3 sætninger), naturlige overgange, lidt humor og personlighed. Ingen oplæsning af lister.
+- Ægte dansk morgenradio: to værter der taler MED hinanden, ikke på skift til en mikrofon. Ingen oplæsning af lister.
 - Samlet ca. {ord_i_alt} ord tale (± 15 %). Fordel efter vigtighed; intro og outro er korte.
 - Intro: hils på lytteren ved navn, sig dato og stationsnavn, kort teaser for dagens største historier, så vejret.
-- Skriv til ØRET: ingen URL'er, ingen parenteser, ingen forkortelser (skriv "for eksempel", "procent", "millioner kroner"), ingen emojis, ingen overskrifter. Datoer og tal skrives så de læses naturligt op.
+
+NATURLIG TALE — det vigtigste af alt. Det skal lyde som to mennesker, ikke som oplæst skrift:
+- Skriv TALESPROG, ikke skriftsprog. Korte sætninger. Det er fint at starte med "Og", "Men", "Nå", "Altså", "Ja".
+- De fleste replikker er 5-20 ord. Bland med helt korte reaktioner på 1-4 ord fra den anden vært: "Nej, seriøst?", "Ja, præcis.", "Hold da op.", "Hm, okay.", "Det er vildt.", "Ha!". Brug dem hvor de giver mening, gerne 1-2 pr. historie.
+- Værterne reagerer på hinanden: stiller et opfølgende spørgsmål, er lidt uenige, supplerer, laver en lille kommentar. En historie fortælles ofte i 3-5 korte replikker frem og tilbage, ikke én lang.
+- Små naturlige fyldord og omformuleringer er godt i småmængder ("altså", "jo", "lige", "sådan", "ikke?", "eller, det vil sige …"), men højst én pr. replik og ikke i alvorlige nyheder.
+- UNDGÅ AI-/oplæsningssprog: ingen "Det er en spændende udvikling", "Lad os dykke ned i", "I en verden hvor", "Det er værd at bemærke", "Tak, Mads". Ingen faste overleveringer, ingen opsummerende morale efter hver historie, ingen gentagne vendinger.
+- Varier hvordan historier starter. Rund tal af som man siger dem ("knap tre procent", "lidt over en milliard").
+- Skriv til ØRET: ingen URL'er, parenteser, forkortelser, emojis eller overskrifter. Skriv "for eksempel", "procent", "millioner kroner".
+- Brug "regi" til at give stemmen liv (fx "griner kort", "overrasket", "drillende", "tænker højt"), og "tone" til grundstemningen. Alvorlige nyheder: tone alvorlig, regi tom.
+
+INDHOLD
 - Nævn kilden mundret når det er relevant ("ifølge DR").
 - FAKTA: brug KUN oplysninger fra materialet ovenfor. Find aldrig på tal, citater, resultater eller navne. Er noget uklart, så sig det forsigtigt eller udelad det. Sportsresultater skal stå præcist som i kilden.
 - Alvorlige nyheder (død, krig, ulykker): alvorlig tone, ingen jokes, ingen sangkobling.
 - Før en sang: præsenter den kort og naturligt, præcis med den kunstner og titel der står ovenfor. Efter en sang må næste segment gerne starte med en kort kommentar til sangen.
 - Outro: tak for i dag, ønsk en god {dato.split()[0]}, og præsenter sidste sang.
-- tone-feltet styrer stemmen: brug alvorlig ved tunge nyheder, glad/energisk ved lette emner.
 - vaert skal være præcis "{v[0]['navn']}" eller "{v[1]['navn']}".
 """
     return _kald(api_key, cfg["claude"]["model"], cfg["claude"]["max_tokens"],
