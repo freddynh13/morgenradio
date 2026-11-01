@@ -22,21 +22,38 @@ lytter:
     Følger med i fodboldlandsholdet og international fodbold. Kan lide en blanding
     af dansk og international musik. Interesseret i tech, AI, økonomi og bolig.
 
-# To værter giver radiofølelse. Stemmerne er OpenAI-stemmer.
-# Gode valg til dansk: marin, cedar, coral, ash, sage, ballad, verse.
+# To værter giver radiofølelse.
+# OpenAI-stemmer der fungerer godt på dansk: marin, cedar, coral, ash, sage, ballad, verse.
+# elevenlabs_voice_id bruges kun hvis tts.udbyder er "elevenlabs" (se nedenfor).
 vaerter:
   - navn: "Sofie"
     stemme: "marin"
-    personlighed: "Varm, kvik og nysgerrig. Styrer showet, laver overgangene og stiller de gode opfølgende spørgsmål."
+    elevenlabs_voice_id: ""
+    personlighed: "varm, kvik og nysgerrig. Styrer showet, laver overgangene og stiller de gode opfølgende spørgsmål."
+    stemme_stil: "Kvindelig stemme, midt i 30'erne, lys og smilende, taler lidt hurtigt når hun er engageret."
   - navn: "Mads"
     stemme: "cedar"
-    personlighed: "Tør humor, sportsnørd og musikelsker. Lidt drillende, men aldrig fjollet ved alvorlige nyheder."
+    elevenlabs_voice_id: ""
+    personlighed: "tør humor, fodboldnørd og musikelsker. Lidt drillende, men aldrig fjollet ved alvorlige nyheder."
+    stemme_stil: "Mandlig stemme, sidst i 30'erne, dyb og afslappet, med et lille grin i stemmen ved sjove ting."
 
-# Fælles stilinstruktion til stemmerne (OpenAI gpt-4o-mini-tts "instructions").
+# Fælles stilinstruktion til stemmerne.
 stemme_instruktion: >
-  Tal naturligt rigsdansk som en erfaren dansk morgenradio-vært. Varm, vågen og
-  tydelig, i et roligt tempo. Udtal danske navne og stednavne korrekt. Ved alvorlige
-  nyheder: dæmpet og saglig tone. Ved lette emner: smil i stemmen.
+  Du er vært på et dansk morgenradioprogram og taler med din medvært. Tal naturligt,
+  ubesværet rigsdansk med dansk udtale og danske tryk — aldrig med engelsk eller svensk
+  accent. Udtal danske navne, stednavne og tal korrekt. Lyd vågen og nærværende, som en
+  rigtig vært i et studie klokken syv om morgenen.
+
+# Stemme-udbyder.
+#   openai     — billig (ca. 1 kr. pr. udsendelse), god kvalitet. Kræver OPENAI_API_KEY.
+#   elevenlabs — den mest naturlige danske tale (eleven_v3), ca. 5-10 kr. pr. udsendelse.
+#                Kræver GitHub Secret ELEVENLABS_API_KEY og elevenlabs_voice_id på værterne.
+tts:
+  udbyder: "openai"
+  elevenlabs_model: "eleven_v3"
+
+# Blød musikbund under intro og outro (radiofølelse). false = slå fra.
+musikbund: true
 
 # Udsendelsens opbygning. Rækkefølgen er rækkefølgen i radioen.
 # type: tale = værterne taler, sang = et nummer fra Spotify.
@@ -90,7 +107,7 @@ claude:
   model: "claude-opus-5"              # samme som dit nyhedsbrev. Billigere: "claude-sonnet-4-5"
   max_tokens: 16000
 openai_tts:
-  model: "gpt-4o-mini-tts"
+  model: "gpt-4o-mini-tts"            # du kan prøve nyere versioner her, når OpenAI udgiver dem
   reserve_stemmer: ["coral", "ash"]   # bruges hvis en valgt stemme ikke virker
 
 # Kilder. weight: 3 = foretrukken kilde (bedste link/fakta), 1 = aggregator.
