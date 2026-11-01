@@ -107,12 +107,23 @@ def _syntetiser(navn: str) -> np.ndarray:
     return 0.9 * x / (np.abs(x).max() + 1e-9)
 
 
-def jingle(navn: str) -> np.ndarray:
-    """Bruger assets/jingle_<navn>.(mp3|wav) hvis den findes, ellers genereres den."""
-    for ext in ("mp3", "wav"):
-        p = ASSETS / f"jingle_{navn}.{ext}"
+JINGLE_DIR = ROOT / "site" / "jingles"   # ElevenLabs-genererede jingler (gemmes på gh-pages)
+
+
+def _find_lyd(navn: str) -> Path | None:
+    """Rækkefølge: dine egne filer (assets/jingle_<navn>.mp3) → ElevenLabs-jingler
+    (site/jingles/<navn>.mp3) → de gamle genererede (assets/jingle_<navn>.wav)."""
+    for p in (ASSETS / f"jingle_{navn}.mp3", JINGLE_DIR / f"{navn}.mp3", ASSETS / f"jingle_{navn}.wav"):
         if p.exists():
-            return laes(p)
+            return p
+    return None
+
+
+def jingle(navn: str) -> np.ndarray:
+    p = _find_lyd(navn)
+    if p:
+        x = laes(p)
+        return 0.9 * x / (np.abs(x).max() + 1e-9)
     x = _syntetiser(navn)
     ASSETS.mkdir(exist_ok=True)
     _skriv_wav(x, ASSETS / f"jingle_{navn}.wav")
@@ -128,7 +139,25 @@ def _trim(x: np.ndarray, thr: float = 0.004) -> np.ndarray:
 
 
 def musikbund(sek: float) -> np.ndarray:
-    """Blød musikbund (akkordflade) til intro/outro — giver radiofølelse."""
+    """Musikbund under intro/outro. Bruger site/jingles/bund.mp3 (ElevenLabs) hvis
+    den findes — looper den med crossfade — ellers en blød syntetisk akkordflade."""
+    p = JINGLE_DIR / "bund.mp3"
+    if p.exists():
+        b = laes(p)
+        n, xf = int(SR * sek), int(SR * 1.0)
+        out = np.zeros(n + len(b), dtype=np.float32)
+        pos = 0
+        while pos < n:
+            seg = b.copy()
+            seg[:xf] *= np.linspace(0, 1, xf)
+            seg[-xf:] *= np.linspace(1, 0, xf)
+            out[pos:pos + len(seg)] += seg
+            pos += len(seg) - xf
+        out = out[:n]
+        fade = int(SR * 1.5)
+        out[:fade] *= np.linspace(0, 1, fade)
+        out[-fade:] *= np.linspace(1, 0, fade)
+        return 0.25 * out / (np.sqrt(np.mean(out ** 2)) + 1e-9)   # RMS-normaliseret
     akkorder = [[261.6, 329.6, 392.0], [220.0, 261.6, 329.6], [174.6, 220.0, 261.6], [196.0, 246.9, 293.7]]
     n = int(SR * sek)
     x = np.zeros(n, dtype=np.float32)

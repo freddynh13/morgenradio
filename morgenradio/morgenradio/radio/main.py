@@ -336,6 +336,7 @@ def main():
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--tjek-kilder", action="store_true")
     ap.add_argument("--stemmeprove", action="store_true", help="Lav kun en kort prøve på stemmerne")
+    ap.add_argument("--lav-jingler", action="store_true", help="Komponér nye jingler med ElevenLabs Music")
     ap.add_argument("--spring-over-hvis-findes", action="store_true",
                     help="Bruges af de planlagte kørsler: lav kun en udsendelse hvis dagens mangler")
     a = ap.parse_args()
@@ -343,6 +344,18 @@ def main():
         _, status = collect.fetch_all(load_config())
         fejl = [k for k, v in status.items() if not v.startswith("ok") or v == "ok (0)"]
         print(f"\n{len(status) - len(fejl)} af {len(status)} kilder virker." + (f" Problemer: {', '.join(fejl)}" if fejl else ""))
+        return
+    if a.lav_jingler:
+        from .jingler import lav_jingler
+        lav_jingler(load_config())
+        # Lyt-selv-fil: intro, overgang, outro og musikbund efter hinanden
+        stille = np.zeros(int(audio.SR * 0.8), dtype=np.float32)
+        demo = np.concatenate([audio.jingle("intro"), stille, audio.jingle("sweeper"), stille,
+                               audio.jingle("outro"), stille, audio.musikbund(12) * 0.6])
+        audio.skriv_mp3(demo, SITE / "jingleprove.mp3")
+        log.info("Lyt: %s/jingleprove.mp3", env("SITE_URL", required=False) or "site")
+        if a.stemmeprove:
+            stemmeprove()
         return
     if a.stemmeprove:
         return stemmeprove()
