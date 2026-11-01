@@ -28,12 +28,12 @@ lytter:
 vaerter:
   - navn: "Sofie"
     stemme: "marin"
-    elevenlabs_voice_id: ""           # fx "AbCdEf123..." — kopieres fra ElevenLabs (se README)
+    elevenlabs_voice_id: "gIfqD5jrnhkFu8ENVbXC"           # fx "AbCdEf123..." — kopieres fra ElevenLabs (se README)
     personlighed: "varm, kvik og nysgerrig. Styrer showet, laver overgangene og stiller de gode opfølgende spørgsmål."
     stemme_stil: "Kvindelig stemme, midt i 30'erne, lys og smilende, taler lidt hurtigt når hun er engageret."
   - navn: "Mads"
     stemme: "cedar"
-    elevenlabs_voice_id: ""
+    elevenlabs_voice_id: "EU14UTtflRFtOAuWCuVe"
     personlighed: "tør humor, fodboldnørd og musikelsker. Lidt drillende, men aldrig fjollet ved alvorlige nyheder."
     stemme_stil: "Mandlig stemme, sidst i 30'erne, dyb og afslappet, med et lille grin i stemmen ved sjove ting."
 
@@ -51,7 +51,7 @@ stemme_instruktion: >
 #                Forbrug: ca. 9.000 tegn pr. udsendelse ved tale_minutter: 10
 #                ≈ 270.000 tegn/md. → kræver Creator-planen (eller sæt tale_minutter ned).
 tts:
-  udbyder: "openai"                   # skift til "elevenlabs" når voice-id'erne er sat
+  udbyder: "elevenlabs"                   # skift til "elevenlabs" når voice-id'erne er sat
   elevenlabs_model: "eleven_v3"
   elevenlabs_tilstand: "dialog"       # "dialog" = værterne indtales sammen (mest naturligt), "replik" = én ad gangen
 
