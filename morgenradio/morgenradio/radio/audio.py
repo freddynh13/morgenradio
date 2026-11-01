@@ -143,13 +143,13 @@ def musikbund(sek: float) -> np.ndarray:
 
 
 def byg_klip(linjer: list[Path], vaerter: list[str], forjingle: str | None, efterjingle: str | None,
-             tekster: list[str] | None = None, bund: bool = False, seed: int = 0) -> tuple[np.ndarray, list[float]]:
+             tekster: list[str] | None = None, bund: bool = False, seed: int = 0) -> tuple[np.ndarray, list[float], list[float]]:
     """Sætter replikker sammen med naturlige, let varierende pauser. Korte
     reaktioner ("Ja, præcis.") overlapper en anelse, som når folk taler sammen.
     Jinglen overlapper starten af første replik let. Returnerer (lyd, starttider)."""
     rng = np.random.default_rng(seed)
     tekster = tekster or [""] * len(linjer)
-    stykker, starter = [], []
+    stykker, starter, varigheder = [], [], []
     pos = 0.0
     if forjingle:
         j = jingle(forjingle)
@@ -159,6 +159,7 @@ def byg_klip(linjer: list[Path], vaerter: list[str], forjingle: str | None, efte
     forrige = None
     for p, v, t in zip(linjer, vaerter, tekster):
         x = _trim(laes(p))
+        varigheder.append(round(len(x) / SR, 2))
         if forrige is None:
             pause = 0.0
         elif v == forrige:
@@ -194,4 +195,4 @@ def byg_klip(linjer: list[Path], vaerter: list[str], forjingle: str | None, efte
         cur += int(0.25 * SR)
         y[cur:cur + len(ej)] += ej * 0.8
         cur += len(ej)
-    return y[: cur + int(0.1 * SR)], starter
+    return y[: cur + int(0.1 * SR)], starter, varigheder

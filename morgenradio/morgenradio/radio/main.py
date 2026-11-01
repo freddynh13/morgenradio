@@ -184,16 +184,17 @@ def koer(dry: bool = False, spring_over_hvis_findes: bool = False) -> Path | Non
     ord_ = sum(len(r["tekst"].split()) for reps in replikker_pr_seg.values() for r in reps)
     log.info("Manuskript: %d replikker, %d ord (≈ %.1f min)", sum(map(len, replikker_pr_seg.values())), ord_, ord_ / 145)
 
-    # 5. Tale → lyd
-    alle_replikker = [r for s in cfg["programflade"] if s["type"] == "tale" for r in replikker_pr_seg.get(s["id"], [])]
+    # 5. Tale → lyd (blokke pr. segment: én replik, eller flere i ét dialog-kald)
+    segmenter = [(s["id"], replikker_pr_seg.get(s["id"], [])) for s in cfg["programflade"] if s["type"] == "tale"]
     tmp = Path(tempfile.mkdtemp(prefix="radio_"))
     if dry:
-        filer = _fake_tts(alle_replikker, tmp)
+        alle = [r for _, reps in segmenter for r in reps]
+        fil_for = {id(r): f for r, f in zip(alle, _fake_tts(alle, tmp))}
+        blokke = {sid: [{"fil": fil_for[id(r)], "reps": [r], "vaert": r["vaert"]} for r in reps] for sid, reps in segmenter}
     else:
         from .tts import TTS
-        log.info("Indtaler %d replikker …", len(alle_replikker))
-        filer = TTS(cfg).lav_alle(alle_replikker, tmp)
-    fil_for = {id(r): f for r, f in zip(alle_replikker, filer)}
+        log.info("Indtaler %d replikker …", sum(len(r) for _, r in segmenter))
+        blokke = TTS(cfg).lav_blokke(segmenter, tmp)
 
     # 6. Byg rundown: sammenhængende talesegmenter bliver ét klip
     ep_dir = SITE / "episodes" / dato_iso
@@ -215,12 +216,19 @@ def koer(dry: bool = False, spring_over_hvis_findes: bool = False) -> Path | Non
                 continue
             forj = "intro" if (not items and j == 0) else "sweeper"
             efterj = "outro" if (sidste and j == len(gruppe) - 1) else None
-            x, starter = audio.byg_klip([fil_for[id(r)] for r in reps], [r["vaert"] for r in reps], forj, efterj,
-                                        tekster=[r["tekst"] for r in reps],
-                                        bund=cfg.get("musikbund", True) and s["id"] in ("intro", "outro"),
-                                        seed=len(items) * 10 + j)
-            for r, st in zip(reps, starter):
-                transcript.append({"vaert": r["vaert"], "tekst": r["tekst"], "start": round(offset + st, 2), "segment": s["id"]})
+            bl = blokke.get(s["id"], [])
+            x, starter, varig = audio.byg_klip([b["fil"] for b in bl], [b["vaert"] for b in bl], forj, efterj,
+                                               tekster=[b["reps"][0]["tekst"] if len(b["reps"]) == 1 else "" for b in bl],
+                                               bund=cfg.get("musikbund", True) and s["id"] in ("intro", "outro"),
+                                               seed=len(items) * 10 + j)
+            for b, st, du in zip(bl, starter, varig):
+                # i en dialog-blok fordeles starttiderne efter tekstlængde
+                tegn = [len(r["tekst"]) for r in b["reps"]]
+                acc = 0
+                for r, t in zip(b["reps"], tegn):
+                    transcript.append({"vaert": r["vaert"], "tekst": r["tekst"], "segment": s["id"],
+                                       "start": round(offset + st + du * acc / max(1, sum(tegn)), 2)})
+                    acc += t
             lyd.append(x)
             offset += len(x) / audio.SR
             labels.append(s["titel"])
@@ -289,11 +297,36 @@ def koer(dry: bool = False, spring_over_hvis_findes: bool = False) -> Path | Non
     return ep_dir
 
 
+def stemmeprove() -> None:
+    """Kort prøve på værternes stemmer → site/stemmeprove.mp3 (rører ikke udsendelserne)."""
+    cfg = load_config()
+    a, b = (v["navn"] for v in cfg["vaerter"][:2])
+    navn = (cfg.get("lytter") or {}).get("navn", "")
+    by = cfg["station"]["by"]
+    reps = [
+        {"vaert": a, "tone": "glad", "regi": "", "tekst": f"God morgen, {navn}! Klokken er lidt over syv, og du lytter til {cfg['station']['navn']}."},
+        {"vaert": b, "tone": "glad", "regi": "chuckles", "tekst": "Og ja, det er stadig mørkt udenfor. Jeg har allerede drukket to kopper kaffe."},
+        {"vaert": a, "tone": "neutral", "regi": "playfully", "tekst": "To? Det er da ingenting. Hvordan ser vejret ud?"},
+        {"vaert": b, "tone": "neutral", "regi": "", "tekst": f"Altså, i {by} bliver det gråt og omkring otte grader. Men det klarer op i eftermiddag."},
+        {"vaert": a, "tone": "neutral", "regi": "surprised", "tekst": "Nej, seriøst? Sol i november?"},
+        {"vaert": b, "tone": "energisk", "regi": "laughs", "tekst": "Jeg lover ingenting. Men vi starter med dagens nyheder, og så får du lidt musik bagefter."},
+    ]
+    from .tts import TTS
+    tmp = Path(tempfile.mkdtemp(prefix="proeve_"))
+    bl = TTS(cfg).lav_blokke([("proeve", reps)], tmp)["proeve"]
+    x, _, _ = audio.byg_klip([b_["fil"] for b_ in bl], [b_["vaert"] for b_ in bl], "intro", None,
+                             tekster=[b_["reps"][0]["tekst"] if len(b_["reps"]) == 1 else "" for b_ in bl], bund=True)
+    SITE.mkdir(exist_ok=True)
+    dur = audio.skriv_mp3(x, SITE / "stemmeprove.mp3")
+    log.info("Stemmeprøve klar (%.0f sek.): %s/stemmeprove.mp3", dur, env("SITE_URL", required=False) or "site")
+
+
 def main():
     setup_logging()
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--tjek-kilder", action="store_true")
+    ap.add_argument("--stemmeprove", action="store_true", help="Lav kun en kort prøve på stemmerne")
     ap.add_argument("--spring-over-hvis-findes", action="store_true",
                     help="Bruges af de planlagte kørsler: lav kun en udsendelse hvis dagens mangler")
     a = ap.parse_args()
@@ -302,6 +335,8 @@ def main():
         fejl = [k for k, v in status.items() if not v.startswith("ok") or v == "ok (0)"]
         print(f"\n{len(status) - len(fejl)} af {len(status)} kilder virker." + (f" Problemer: {', '.join(fejl)}" if fejl else ""))
         return
+    if a.stemmeprove:
+        return stemmeprove()
     koer(dry=a.dry_run, spring_over_hvis_findes=a.spring_over_hvis_findes)
 
 

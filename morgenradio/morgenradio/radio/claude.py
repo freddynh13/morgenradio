@@ -163,7 +163,7 @@ SCRIPT_SCHEMA = {
                                 "vaert": {"type": "string"},
                                 "tekst": {"type": "string"},
                                 "tone": {"type": "string", "enum": ["neutral", "glad", "alvorlig", "energisk", "rolig"]},
-                                "regi": {"type": "string", "description": "Kort sceneanvisning til stemmen, 2-6 ord, fx 'griner kort', 'overrasket', 'drillende', 'tænker højt', 'nysgerrig'. Tom streng hvis neutral."},
+                                "regi": {"type": "string", "description": "Kort sceneanvisning til stemmen PÅ ENGELSK, 1-3 ord, fx 'laughs', 'chuckles', 'surprised', 'excited', 'playfully', 'thoughtful', 'sighs', 'curious'. Tom streng i de fleste replikker."},
                             },
                         },
                     },
@@ -223,7 +223,7 @@ NATURLIG TALE — det vigtigste af alt. Det skal lyde som to mennesker, ikke som
 - UNDGÅ AI-/oplæsningssprog: ingen "Det er en spændende udvikling", "Lad os dykke ned i", "I en verden hvor", "Det er værd at bemærke", "Tak, Mads". Ingen faste overleveringer, ingen opsummerende morale efter hver historie, ingen gentagne vendinger.
 - Varier hvordan historier starter. Rund tal af som man siger dem ("knap tre procent", "lidt over en milliard").
 - Skriv til ØRET: ingen URL'er, parenteser, forkortelser, emojis eller overskrifter. Skriv "for eksempel", "procent", "millioner kroner".
-- Brug "regi" til at give stemmen liv (fx "griner kort", "overrasket", "drillende", "tænker højt"), og "tone" til grundstemningen. Alvorlige nyheder: tone alvorlig, regi tom.
+- Brug "regi" (engelsk, fx "laughs", "surprised", "playfully", "thoughtful") til at give stemmen liv — men kun i ca. hver fjerde replik, ellers bliver det overspillet. "tone" er grundstemningen. Alvorlige nyheder: tone alvorlig, regi tom.
 
 INDHOLD
 - Nævn kilden mundret når det er relevant ("ifølge DR").
