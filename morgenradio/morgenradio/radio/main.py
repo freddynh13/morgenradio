@@ -194,7 +194,16 @@ def koer(dry: bool = False, spring_over_hvis_findes: bool = False) -> Path | Non
     else:
         from .tts import TTS
         log.info("Indtaler %d replikker …", sum(len(r) for _, r in segmenter))
-        blokke = TTS(cfg).lav_blokke(segmenter, tmp)
+        try:
+            blokke = TTS(cfg).lav_blokke(segmenter, tmp)
+        except (RuntimeError, SystemExit) as e:
+            # ElevenLabs løbet tør for credits (eller fejler) → udsendelsen laves med OpenAI i stedet
+            if (cfg.get("tts") or {}).get("udbyder") == "elevenlabs" and env("OPENAI_API_KEY", required=False):
+                log.warning("ElevenLabs fejlede (%s) — bruger OpenAI-stemmerne i dag i stedet.", str(e)[:200])
+                cfg["tts"]["udbyder"] = "openai"
+                blokke = TTS(cfg).lav_blokke(segmenter, tmp)
+            else:
+                raise
 
     # 6. Byg rundown: sammenhængende talesegmenter bliver ét klip
     ep_dir = SITE / "episodes" / dato_iso
