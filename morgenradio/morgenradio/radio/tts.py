@@ -109,7 +109,10 @@ class TTS:
             hint = ""
             if r.status_code == 401:
                 hint = " (forkert ELEVENLABS_API_KEY)"
-            elif "quota" in r.text.lower() or "credits" in r.text.lower():
+            elif "paid_plan_required" in r.text or "library voices" in r.text:
+                hint = (" (gratis-kontoen må ikke bruge stemmer fra Voice Library via API'et — opgradér til en "
+                        "betalt plan, eller vælg en af ElevenLabs' standardstemmer)")
+            elif "quota" in r.text.lower() or r.status_code == 402:
                 hint = " (ikke flere ElevenLabs-credits denne måned — opgradér planen eller skift tts.udbyder til openai)"
             raise RuntimeError(f"ElevenLabs-fejl {r.status_code}{hint}: {r.text[:300]}")
         raise RuntimeError("ElevenLabs svarede ikke efter flere forsøg")
@@ -125,8 +128,6 @@ class TTS:
     def _dialog(self, reps: list[dict], ud: Path) -> Path:
         body = {"inputs": [{"text": _el_tekst(r), "voice_id": self._voice(r["vaert"])} for r in reps],
                 "model_id": self.el_model, "language_code": "da"}
-        if self._req_ids:
-            body["previous_request_ids"] = self._req_ids[-3:]   # samme "stemning" hele vejen
         r = self._el_post("https://api.elevenlabs.io/v1/text-to-dialogue?output_format=mp3_44100_128", body)
         rid = r.headers.get("request-id")
         if rid:
