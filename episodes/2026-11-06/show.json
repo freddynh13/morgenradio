@@ -1,0 +1,1016 @@
+{
+  "date": "2026-11-06",
+  "dato_tekst": "fredag den 6. november 2026",
+  "title": "AI-nervøsitet på børserne, dansk Europa-aften og 3.000 edderkopper i sokker",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-06T11:55:01+01:00",
+  "tema": "AI-nervøsitet på børserne møder en lang dansk europæisk fodboldaften — og en kold, klar fredagsmorgen i Aarhus.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 288.45,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen, Frederik! Det er fredag den sjette november, klokken er syv, og du har fat i Morgenradio.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Og hvis du kigger ud ad vinduet lige nu, så gør det altså.",
+          "segment": "intro",
+          "start": 16.91
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er helt skyfrit over Aarhus. Otte grader, næsten ingen vind.",
+          "segment": "intro",
+          "start": 22.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nul procent regn hele dagen. Cyklen må gerne komme ud af kælderen.",
+          "segment": "intro",
+          "start": 28.58
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det skyer til hen ad formiddagen, og så ligger vi mellem seks og otte grader.",
+          "segment": "intro",
+          "start": 34.37
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Solen står op 07:37. Og den er nede igen 16:27.",
+          "segment": "intro",
+          "start": 41.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, november. Vi når lige at se hinanden i dagslys til frokost.",
+          "segment": "intro",
+          "start": 45.24
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvad har vi så?",
+          "segment": "intro",
+          "start": 50.77
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi har et ordentligt AI-ras på Wall Street. Snak om bobletendenser.",
+          "segment": "intro",
+          "start": 52.35
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi har en lang dansk europæisk fodboldaften med meget blandede følelser.",
+          "segment": "intro",
+          "start": 58.22
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og vi har tre tusind edderkopper gemt i snavsede sokker. Det vender vi tilbage til.",
+          "segment": "intro",
+          "start": 64.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter på børserne. De fem hundrede største amerikanske selskaber havde i går det største endagsfald siden april 2025.",
+          "segment": "nyheder",
+          "start": 74.55
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Altså siden Trump varslede global told. Det er ikke en lille dag.",
+          "segment": "nyheder",
+          "start": 83.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej. Og ifølge Reuters handler det om bekymring for fremtiden for de store AI-datacenterprojekter.",
+          "segment": "nyheder",
+          "start": 87.56
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Norske E24 skriver direkte om klare bobletendenser i teknologiaktierne.",
+          "segment": "nyheder",
+          "start": 94.37
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Dagens Næringsliv har en DNB-forvalter, der siger, at han er overrasket over, hvor brutalt det er.",
+          "segment": "nyheder",
+          "start": 99.31
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hold da op.",
+          "segment": "nyheder",
+          "start": 106.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Spørgsmålet, de stiller, er jo: er boblen sprukket, eller er der mere luft tilbage?",
+          "segment": "nyheder",
+          "start": 107.1
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det svar har ingen. Det er værd at holde fast i.",
+          "segment": "nyheder",
+          "start": 112.87
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Frederik, du sidder jo selv med AI i marketing til daglig. Det her er nok dagens kaffesnak på bureauet.",
+          "segment": "nyheder",
+          "start": 116.42
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Trump selv peger i øvrigt på noget helt andet. Han giver Demokraternes valgsejr skylden for aktiefaldet.",
+          "segment": "nyheder",
+          "start": 123.59
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det skriver han på Truth Social, ja. DR har det.",
+          "segment": "nyheder",
+          "start": 130.82
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og frygten hos investorerne er jo så, at en demokratisk sejr kan bremse udbygningen af AI-infrastrukturen.",
+          "segment": "nyheder",
+          "start": 134.16
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "DR Udland har en større analyse i dag, hvor udenrigsministeren siger, at det aldrig bliver det samme igen.",
+          "segment": "nyheder",
+          "start": 141.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Om de transatlantiske relationer.",
+          "segment": "nyheder",
+          "start": 148.91
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Præcis. Trump har vendt op og ned på verdensordenen, og der er kommet dybe revner. Selv en svækket Trump ændrer næppe det.",
+          "segment": "nyheder",
+          "start": 151.2
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det hænger sammen med den næste. For i dag lander der en stak papirer på Pete Hegseths skrivebord i Washington.",
+          "segment": "nyheder",
+          "start": 159.69
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Fire konkrete modeller for, hvordan USA kan skrue ned militært i Europa.",
+          "segment": "nyheder",
+          "start": 167.62
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Og manden bag forarbejdet er Natos øverste militære chef, den amerikanske general Alexus Grynkewich.",
+          "segment": "nyheder",
+          "start": 172.62
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Som altså har haft det lidt underlige bijob at undersøge, hvordan hans eget land kan trække sig fra Europa.",
+          "segment": "nyheder",
+          "start": 180.19
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han har svaret skriftligt på DR's spørgsmål. Og han skriver, at det er en nødvendighed, at Europa påtager sig hovedansvaret for kontinentets sikkerhed.",
+          "segment": "nyheder",
+          "start": 188.28
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Planen er så, at Trump-administrationen vælger en af modellerne og senere sætter den i gang.",
+          "segment": "nyheder",
+          "start": 199.7
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er en forsikringspolice, der har ligget der siden Anden Verdenskrig.",
+          "segment": "nyheder",
+          "start": 206.66
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er der nye trusler mod Københavns Lufthavn. Politiet er synligt til stede i dag.",
+          "segment": "nyheder",
+          "start": 212.11
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men ifølge Politiken er der umiddelbart ingen fare.",
+          "segment": "nyheder",
+          "start": 218.61
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Skal du flyve i dag, så regn med lidt ekstra uniformer og lidt ekstra tid.",
+          "segment": "nyheder",
+          "start": 222.47
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så tilbage til datacentrene, for der sker noget i dag og i morgen.",
+          "segment": "nyheder",
+          "start": 228.07
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, demonstrationer i flere europæiske lande. Organisationen Stop Dirty Data Centres står bag.",
+          "segment": "nyheder",
+          "start": 233.29
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Over hundrede organisationer er med. Og i Danmark går det løs i morgen i Lille Skensved ved Køge.",
+          "segment": "nyheder",
+          "start": 240.39
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvor Microsoft har bygget et datacenter. Den Grønne Ungdomsbevægelse er medarrangør.",
+          "segment": "nyheder",
+          "start": 247.73
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Aktivisten Lukas Grundtvig siger til DR, at der er en meget, meget lang kø for at komme på elnettet.",
+          "segment": "nyheder",
+          "start": 254.09
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det betyder, at andre dele af samfundet ikke kan elektrificeres. Det er hans pointe.",
+          "segment": "nyheder",
+          "start": 261.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Koordinatoren Owen Espley mener, politikerne lytter for meget til AI-lobbyen.",
+          "segment": "nyheder",
+          "start": 268.23
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så på én dag har vi både AI-aktier, der falder, og naboer, der kalder datacentre for naboen fra helvede.",
+          "segment": "nyheder",
+          "start": 274.05
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Den samme teknologi set fra to vinduer.",
+          "segment": "nyheder",
+          "start": 281.92
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skifter tempo. Her er Dua Lipa med Houdini.",
+          "segment": "nyheder",
+          "start": 284.87
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:6D8y7Bck8h11byRY88Pt2z",
+      "name": "Houdini",
+      "artist": "Dua Lipa",
+      "album": "Radical Optimism",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f8790ed72296c2614607575",
+      "duration_ms": 185917,
+      "url": "https://open.spotify.com/track/6D8y7Bck8h11byRY88Pt2z",
+      "kobling": "Skyfri himmel og 8 grader klokken syv — der skal energi og dansk drive til at få gang i fredagen."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 192.81,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Nå, Sofie. Hvad køber man, når man har rigtig mange penge?",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Altså, en sommerhusgrund?",
+          "segment": "aarhus",
+          "start": 6.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "En lufthavn.",
+          "segment": "aarhus",
+          "start": 8.35
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha!",
+          "segment": "aarhus",
+          "start": 9.18
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Norske E24 skriver, at Danmarks næstrigeste køber en flyveplads.",
+          "segment": "aarhus",
+          "start": 9.39
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der står ikke så meget mere end det i det, vi har fået ind.",
+          "segment": "aarhus",
+          "start": 13.8
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej, det er en kort en. Men der er noget skævt morsomt ved, at den historie kommer fra Norge.",
+          "segment": "aarhus",
+          "start": 17.87
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det siger vel noget om, hvor danske formuer ryger hen for tiden. Væk fra aktier og over i noget med jord under.",
+          "segment": "aarhus",
+          "start": 24.29
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Noget, der ikke kan falde tre procent på en eftermiddag, ja.",
+          "segment": "aarhus",
+          "start": 32.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi holder øje med, om der kommer flere detaljer i løbet af dagen.",
+          "segment": "aarhus",
+          "start": 36.29
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så var der fodbold. Meget fodbold.",
+          "segment": "sport",
+          "start": 43.5
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "En af de der aftener, hvor fire danske hold er i gang på samme tid. FC København, AGF, FC Midtjylland og FC Nordsjælland i Conference League.",
+          "segment": "sport",
+          "start": 46.41
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvordan gik det?",
+          "segment": "sport",
+          "start": 57.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "FCK sled sig til en sejr. Det var ikke kønt undervejs, de var foran og samtidig i store problemer.",
+          "segment": "sport",
+          "start": 58.79
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men tre point er tre point.",
+          "segment": "sport",
+          "start": 66.51
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. AGF spillede uafgjort mod portugiserne og er stadig uden sejr i turneringen.",
+          "segment": "sport",
+          "start": 68.64
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hm. Hvordan skal man læse det?",
+          "segment": "sport",
+          "start": 75.26
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Som et point mere end nul. Men der begynder at være travlt i regnestykket.",
+          "segment": "sport",
+          "start": 77.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Midtjylland?",
+          "segment": "sport",
+          "start": 83.46
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Den var grim. Rødt kort og en ydmygelse på eget græs, som DR Sporten skriver.",
+          "segment": "sport",
+          "start": 84.64
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Av.",
+          "segment": "sport",
+          "start": 90.71
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Kjell Wätjen fik det røde kort. Han har undskyldt bagefter og sagde, at han havde lidt tårer i øjnene.",
+          "segment": "sport",
+          "start": 90.95
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er faktisk ret ærligt sagt.",
+          "segment": "sport",
+          "start": 98.99
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er det. Og så er der den store: Cristiano Ronaldo stopper på landsholdet.",
+          "segment": "sport",
+          "start": 101.43
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej, seriøst?",
+          "segment": "sport",
+          "start": 107.5
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han meddelte det torsdag i en video på Instagram. Treogtyve år, to hundrede og fireogtredive kampe, hundrede og seksogfyrre mål.",
+          "segment": "sport",
+          "start": 108.53
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er helt vilde tal.",
+          "segment": "sport",
+          "start": 118.62
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Men afskeden er ikke køn. Hans sidste handling på landsholdet bliver, at han gik fra lejren i København i oktober.",
+          "segment": "sport",
+          "start": 120.35
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det var før kampen mod Danmark, ikke?",
+          "segment": "sport",
+          "start": 129.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jo. Han skulle have trænet dagen før, men forlod Parken og fløj til Madrid i privatfly. Han var utilfreds med at have siddet på bænken mod Norge.",
+          "segment": "sport",
+          "start": 132.57
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så fik han karantæne.",
+          "segment": "sport",
+          "start": 144.0
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "En måned. Den er udløbet nu, men han kommer altså ikke tilbage.",
+          "segment": "sport",
+          "start": 145.89
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvad siger DR's kommentator?",
+          "segment": "sport",
+          "start": 150.86
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Andreas Kraul var tæt på i Parken. Han siger, at man ikke kan dreje det til andet end en uskøn afsked.",
+          "segment": "sport",
+          "start": 153.06
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hårdt.",
+          "segment": "sport",
+          "start": 161.1
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så siger han faktisk, at det også er lidt en lettelse. At derouten har været sørgelig at se på.",
+          "segment": "sport",
+          "start": 161.95
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Kunne han være stoppet på toppen?",
+          "segment": "sport",
+          "start": 168.62
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Kraul mener, han kunne være gået efter sommerens VM eller EM for to år siden. Han har tydeligvis haft svært ved at se sin udløbsdato i øjnene.",
+          "segment": "sport",
+          "start": 170.87
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det gælder vist de færreste af os at kunne det.",
+          "segment": "sport",
+          "start": 180.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Og han har trods alt været med til at definere en hel æra sammen med Messi.",
+          "segment": "sport",
+          "start": 183.73
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skruer ned i tempo. Teddy Swims med Lose Control.",
+          "segment": "sport",
+          "start": 189.18
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:6usohdchdzW9oML7VC4Uhk",
+      "name": "Lose Control",
+      "artist": "Teddy Swims",
+      "album": "Lose Control",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739a7e719f37e9264656b95997",
+      "duration_ms": 210688,
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk",
+      "kobling": "Et temposkift efter nyhederne — varmt og vellydende, men stadig vågent."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 149.4,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den mand har en stemme, der lyder som om han har sovet fire timer. Positivt ment.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Relaterbart klokken halv otte.",
+          "segment": "musik",
+          "start": 9.33
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så til musiknyt, for The Minds of 99 har travlt lige nu.",
+          "segment": "musik",
+          "start": 11.82
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "De har jo lige startet deres eget pladeselskab, Rage Amadeus Records.",
+          "segment": "musik",
+          "start": 16.7
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Sidste uge kom Dét der udenfor plus b-sider. I dag lander 9mm plus b-sider på streaming.",
+          "segment": "musik",
+          "start": 22.41
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og der er noget nyt på den, ikke bare live-optagelser?",
+          "segment": "musik",
+          "start": 30.02
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jo. Der er et nummer, der hedder Sammen om at være alene. Det er bandets første duet.",
+          "segment": "musik",
+          "start": 34.49
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Mellem hvem?",
+          "segment": "musik",
+          "start": 41.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Niels Brandt og guitaristen Anders Folke Larsen. Det er ifølge Soundvenue helt nyt for dem.",
+          "segment": "musik",
+          "start": 42.52
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er der en gammel ven forbi studiet.",
+          "segment": "musik",
+          "start": 50.05
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Mikkel Bech-Hansen, som forlod bandet i 2016. Han og Brandt har været i studiet sammen for første gang i ti år.",
+          "segment": "musik",
+          "start": 53.44
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hold da op. Ti år.",
+          "segment": "musik",
+          "start": 62.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er blevet til et nummer, der hedder Selvtillidssang nummer et, i en Charno-demo. Charno er hans kælenavn.",
+          "segment": "musik",
+          "start": 64.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det hele peger frem mod det femte album, Sjælens alkymi, i april.",
+          "segment": "musik",
+          "start": 73.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Der er også en gammel liveoptagelse af Familie fra Roskilde i 2016 med på udgivelsen.",
+          "segment": "musik",
+          "start": 78.77
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der er også noget helt andet ude i dag. Gusto med No Mercy, sammen med Noah Carter og Ozzy.",
+          "segment": "musik",
+          "start": 86.46
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Soundvenue kalder den fuldstændig unhinged. Det er sjældent et kritikpunkt hos Gusto.",
+          "segment": "musik",
+          "start": 93.99
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej, han dyrker jo maksimalisme. De skriver noget om forvrænget bas og industrielle synthesizere som taget ud af Kanye Wests Yeezus.",
+          "segment": "musik",
+          "start": 101.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Anmelderen skriver endda, at det måske bliver for meget af det gode. Og så alligevel ikke.",
+          "segment": "musik",
+          "start": 111.95
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er julen begyndt. I november.",
+          "segment": "musik",
+          "start": 119.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Åh nej.",
+          "segment": "musik",
+          "start": 122.29
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Olivia Rodrigo har lavet sin første julesang. Den hedder Take Me Home 4 Christmas.",
+          "segment": "musik",
+          "start": 122.87
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og den lyder angiveligt som Talking Heads. Det er en julesang, jeg godt gider.",
+          "segment": "musik",
+          "start": 130.02
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og i videoen spiller Cynthia Nixon fra Sex and the City svigermor.",
+          "segment": "musik",
+          "start": 136.31
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Perfekt casting.",
+          "segment": "musik",
+          "start": 141.64
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men vi bliver i det danske. Her er The Minds of 99 med Sammen om at være alene.",
+          "segment": "musik",
+          "start": 142.93
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:0LyEiEt9BYk0JxtVWA9SLX",
+      "name": "Sammen Om At Være Alene - 9mm B-side",
+      "artist": "The Minds Of 99",
+      "album": "9mm + B-sider",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737a5f267ac2f13e59f2477cad",
+      "duration_ms": 209760,
+      "url": "https://open.spotify.com/track/0LyEiEt9BYk0JxtVWA9SLX",
+      "kobling": "Direkte kobling til musiknyt: The Minds of 99 udgiver deres første duet med et gensyn med et tidligere medlem — og Olivia Rodrigo er aktuel med sin første julesang."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 120.84,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Nå. Edderkopperne.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja! Tre tusind fugleedderkopper er blevet forsøgt smuglet ud af Peru.",
+          "segment": "let",
+          "start": 3.99
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tre tusind?",
+          "segment": "let",
+          "start": 9.22
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Tre personer, to tyskere og en polak, blev stoppet i lufthavnen i Lima. Det skriver DR efter The Guardian og AFP.",
+          "segment": "let",
+          "start": 10.05
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvordan opdager man lige det?",
+          "segment": "let",
+          "start": 18.61
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Personalet lagde mærke til usædvanlige bevægelser i de tre kufferter.",
+          "segment": "let",
+          "start": 20.8
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Åh nej. Nej nej nej.",
+          "segment": "let",
+          "start": 26.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "En tekniker fra myndighederne siger: vi lagde mærke til, at nogle af dem bevægede sig. Der var både små og store.",
+          "segment": "let",
+          "start": 27.54
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er altså den værste sætning, jeg har hørt i dag.",
+          "segment": "let",
+          "start": 36.1
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og de var gemt ved at være viklet ind i beskidte sokker.",
+          "segment": "let",
+          "start": 40.04
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Beskidte sokker. Som om det ikke var slemt nok i forvejen.",
+          "segment": "let",
+          "start": 44.28
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Bagagen havde kurs mod Tyskland. En enkelt tarantel kan sælges for omkring tre tusind syv hundrede kroner i Europa.",
+          "segment": "let",
+          "start": 48.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Gange tre tusind. Det er jo en hel forretningsplan.",
+          "segment": "let",
+          "start": 57.38
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Godt elleve millioner kroner, hvis det var gået igennem.",
+          "segment": "let",
+          "start": 61.24
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og i det store billede er ulovlig handel med vilde dyr vanvittigt mange penge.",
+          "segment": "let",
+          "start": 65.48
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ifølge Interpol omkring hundrede og treogtredive milliarder kroner om året på verdensplan.",
+          "segment": "let",
+          "start": 71.39
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De tre bliver tilbageholdt og retsforfulgt.",
+          "segment": "let",
+          "start": 78.21
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og jeg kommer aldrig til at pakke en kuffert på samme måde igen.",
+          "segment": "let",
+          "start": 81.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er vi ved vejs ende, Frederik. Tak fordi du lagde øre til.",
+          "segment": "outro",
+          "start": 89.04
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Husk nu, at det er skyfrit lige nu, men det skyer til. Så tag turen ind til byen, mens det står på.",
+          "segment": "outro",
+          "start": 93.86
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og solen er nede igen 16:27, så der er ingen grund til at gemme den gode kaffe.",
+          "segment": "outro",
+          "start": 101.31
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Rigtig god fredag derude.",
+          "segment": "outro",
+          "start": 107.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi slutter af i weekendhjørnet. Her er SZA med Kill Bill.",
+          "segment": "outro",
+          "start": 109.14
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:3OHfY25tqY28d16oZczHc8",
+      "name": "Kill Bill",
+      "artist": "SZA",
+      "album": "SOS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc18bdade69ec5ef0bb25b17",
+      "duration_ms": 153946,
+      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8",
+      "kobling": "Afslutning i R&B/hiphop-hjørnet som optakt til weekenden — i tråd med Gusto og Noah Carters nye udspil i musiknyt."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 763.88,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Tek-aksjer raser på Wall Street: –⁠ Klare bobletendenser",
+      "kilde": "E24",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYlRjWEVJSGhRdjN2OFFfVURKeklnaFhocDhYTnVKSzREWXEwZzhpR3RLbG9TU2dGOUk2bDRraUpHT1YwT0l0ak1fa2VVNTFXOXdzX0YwN0d1VWJTcjBhcGFGdjZ2ZXUwZVViVms1Wms5OV9VOHpqamw3MFBLbEgyTEVKLTJ6M2Y5RF80bXRTYkl1LXQzM0VaSQ?oc=5"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Udenrigsministeren: Det bliver aldrig det samme igen",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/valg-i-usa/udenrigsministeren-det-bliver-aldrig-det-samme-igen"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Natos øverste general til DR: Derfor skruer vi ned for amerikansk isenkram i Europa",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/natos-oeverste-general-til-dr-derfor-skruer-vi-ned-amerikansk-isenkram-i-europa"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Nye trusler rammer Københavns Lufthavn – politiet er til stede",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/rejser/art11050639/Nye-trusler-rammer-K%C3%B8benhavns-Lufthavn-%E2%80%93-politiet-er-til-stede"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Demonstranter i flere europæiske lande samler sig mod flere datacentre: De er naboen fra helvede",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/demonstranter-i-flere-europaeiske-lande-samler-sig-mod-flere-datacentre-de-er-naboen-fra-helvede"
+    },
+    {
+      "segment": "aarhus",
+      "titel": "Danmarks nest rikeste kjøper flyplass",
+      "kilde": "E24",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRTZua1pkYURjRFRQUDZGa1AxelhvS2xCS3BkRTdRRWdRdVl5amtUMVhMRzhhc043aWR4TVNrV3lzaHVkNGk3cHhFZkI3TjZaYld2ZWlMV29McWtJbFZOV1ZtLWxGVmdWSVE2VWNaanRhaWsyVlhyVjZjU1ZVOTlGMGczZVBDR1Vpc20wYTMtVGFJM3c?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "'Han har tydeligvis haft svært ved at se sin udløbsdato i øjnene'",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/i-danmark-satte-ronaldo-en-sort-plet-paa-sit-perfekte-eftermaele"
+    },
+    {
+      "segment": "sport",
+      "titel": "FCK er foran, men i store problemer",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/conference-league/fire-danske-hold-kaemper-vigtige-point-i-europa"
+    },
+    {
+      "segment": "sport",
+      "titel": "AGF fortsat uden sejr efter remis mod portugisere",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12782265#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "FCM ser rødt og bliver ydmyget på eget græs",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12782375#liveblog-embed"
+    },
+    {
+      "segment": "musik",
+      "titel": "The Minds of 99 udgiver første duet og gensyn med tidligere medlem",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/the-minds-of-99-udgiver-foerste-duet-og-gensyn-med-tidligere-medlem-703637"
+    },
+    {
+      "segment": "musik",
+      "titel": "Gusto, Noah Carter og Ozzy er fuldstændig unhinged på ‘No Mercy’",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/gusto-noah-carter-og-ozzy-er-fuldstaendig-unhinged-paa-no-mercy-703706"
+    },
+    {
+      "segment": "musik",
+      "titel": "Olivia Rodrigo har lavet sin første julesang – ‘Sex and the City’-stjerne gæster musikvideoen",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/olivia-rodrigo-har-lavet-sin-foerste-julesang-sex-and-the-city-stjerne-gaester-musikvideoen-703781"
+    },
+    {
+      "segment": "let",
+      "titel": "3.000 fugleedderkopper forsøgt smuglet ud af Peru",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/3-000-fugleedderkopper-forsoegt-smuglet-ud-af-peru"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (34)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (5)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (1)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (30)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (19)"
+  },
+  "test": false
+}

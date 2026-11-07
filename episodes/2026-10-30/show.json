@@ -1,0 +1,620 @@
+{
+  "date": "2026-10-30",
+  "dato_tekst": "fredag den 30. oktober 2026",
+  "title": "Krypto-hack, AI-uro og halloween-fredag",
+  "station": "Morgenradio",
+  "slogan": "Din personlige morgen",
+  "generated_at": "2026-10-30T21:28:39+01:00",
+  "tema": "Tech og tillid fylder dagen: historisk krypto-hack, AI-uro på børserne og danske techgiganter i ministerens skudlinje — mens weekenden banker på med halloween.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 360.22,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen Danmark, og velkommen til Morgenradio. Det er fredag den 30. oktober 2026, og du er lige præcis vågnet op til den rigtige dag.",
+          "start": 4.1,
+          "segment": "intro"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen! Fredag. Det eneste ord der smager bedre end morgenkaffe.",
+          "start": 15.69,
+          "segment": "intro"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi har en dag, hvor tech og tillid fylder det hele. Verdens største kryptobørs er ramt af et muligt hackerangreb, der er AI-uro på Wall Street, og justitsministeren har haft techgiganterne på besøg i ministeriet.",
+          "start": 20.87,
+          "segment": "intro"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så er der sport, hvor en sportsdomstol har truffet en beslutning, som får danske ishockeyfolk til at tage sig til hovedet. Mere om det lidt senere.",
+          "start": 34.01,
+          "segment": "intro"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men først vejret. I København er der lige nu elleve grader og overskyet, og det bliver sådan set ved dagen igennem. Mellem ti og tolv grader, og nul procent risiko for nedbør.",
+          "start": 43.52,
+          "segment": "intro"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nul procent! Så kan paraplyen blive hjemme. Vinden er også mild, op til tre meter i sekundet, så det er nærmest bare luft, der står stille.",
+          "start": 57.86,
+          "segment": "intro"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Solen står op klokken elleve minutter over syv og går ned klokken fireogtredive minutter over fire. Så nyd lyset mens du har det.",
+          "start": 67.2,
+          "segment": "intro"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er cirka ni timer. Jeg planlægger at bruge dem alle sammen på at glæde mig til weekenden.",
+          "start": 75.95,
+          "segment": "intro"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter med den helt store i morges. Kryptovalutabørsen Binance, verdens største, undersøger lige nu et muligt sikkerhedsbrud.",
+          "start": 82.21,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og vi taler ikke småpenge. Binance skriver selv på det sociale medie X, at det anslås, at kryptovaluta for 6,3 milliarder dollar er blevet påvirket.",
+          "start": 91.85,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ifølge Reuters skete tyveriet på blot tyve minutter. Tyve minutter. Det er kortere tid, end det tager at koge et æg forkert.",
+          "start": 103.87,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Norske NRK skriver, at der er tale om næsten tres milliarder norske kroner. Og et analysefirma vurderer, at den nordkoreanske statsstøttede hackergruppe TraderTraitor står bag.",
+          "start": 112.85,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Børsen har indefrosset værdier for tre milliarder dollar. Og medstifteren Yi He skriver på X, at brugernes midler er sikre, og at børsen vil dække alle tab.",
+          "start": 125.24,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De forventer at genoptage udbetalingstjenesterne inden for de næste otteogfyrre timer. Så der sidder nok en del og trykker opdater lige nu.",
+          "start": 136.95,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og uroen stopper ikke ved krypto. På Wall Street har det været et bratt teknologifald, skriver Dagens Næringsliv. Intel og Amazon faldt kraftigt efter deres regnskaber.",
+          "start": 146.03,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Finansavisen skriver, at Intel styrtdykkede otteogtyve procent. Og de store kunstig intelligens-favoritter falder også, mens investorerne kræver svar.",
+          "start": 160.06,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "E24 kalder det ligefrem AI-gys på Wall Street. Der er altså en begyndende nervøsitet omkring, hvornår alle de milliarder i kunstig intelligens egentlig tjener sig hjem.",
+          "start": 170.59,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er lidt som at købe en meget dyr løbecykel i januar. På et tidspunkt spørger ens partner, om man faktisk har brugt den.",
+          "start": 182.04,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Herhjemme har techgiganterne stået skoleret hos justitsministeren. Ifølge DR har Nicolai Wammen fra Socialdemokratiet haft repræsentanter fra Meta, TikTok, Google, Snapchat, Roblox og Discord til møde.",
+          "start": 189.92,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og han lagde ikke fingrene imellem. De store techgiganter har for længe gjort alt for lidt, siger han, og det betyder, at danske børn og unge kommer til at betale en pris for det.",
+          "start": 204.62,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ministeren peger på, at børn kan møde seksuelt indhold og ydmygelsesvold, blive rekrutteret til bander eller tilbudt at købe stoffer på de sociale medier. Red Barnet og Digitalt Ansvar deltog også i mødet.",
+          "start": 217.39,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Metas politiske chef i Norden, Martin Ruby, siger bagefter, at de ikke har nogen interesse i at have noget klamt eller ulovligt indhold liggende. Og adspurgt om de gør nok, svarer han nej.",
+          "start": 231.9,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han siger, at så længe der ligger bare ét stykke af den slags indhold, så gør de ikke nok. Men at de er et bedre sted end for nogle år siden, og at det er en evig kamp.",
+          "start": 244.51,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi er på bolden, som han formulerer det. Nu må vi se, om bolden også bliver sparket.",
+          "start": 255.68,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så til Christiansborg, hvor uroen i Venstre bare vokser. Folketingsmedlemmet Preben Bang Henriksen er blevet ekskluderet fra partiet, få dage efter at Søren Gade, tidligere formand for Folketinget, trak sig.",
+          "start": 261.35,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Begge dele har rod i intern uenighed. Og DR's politiske analytiker Rikke Gjøl Mansø siger, at problemerne har ligget og ulmet i årevis, selvom de først kommer op til overfladen nu.",
+          "start": 276.89,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så en tung en fra udlandet. Ruslands mest berømte systemkritiske medie, Novaja Gazeta, lukker og slukker den niende november efter mere end tredive år.",
+          "start": 289.05,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "I afskedsbrevet skriver redaktionen: Vi er blevet myrdet. Novaja Gazeta ophører med at eksistere. Vi lukker serverne ned og forlader stedet.",
+          "start": 302.09,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "I september blev mediet officielt stemplet som udenlandsk agent af det russiske justitsministerium, og det blev dødsstødet. Medarbejdere har gennem årene været udsat for alt fra tæv og gidseltagning til kidnapning og ransagninger.",
+          "start": 313.52,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Flemming Splidsboel, seniorforsker ved Dansk Institut for Internationale Studier, siger til DR, at det i et større perspektiv viser et Rusland, der bevæger sig i en endnu mere autoritær retning, hvor censuren er blevet endnu mere gennemtrængende.",
+          "start": 329.92,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi lader lige den stå et øjeblik. Og så henter vi lidt lys ind i mørket med noget dansk, der kan vække en hel by.",
+          "start": 347.36,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Her er Tobias Rahim og Andreas Odbjerg med STOR MAND.",
+          "start": 354.77,
+          "segment": "nyheder"
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:0BGEImCBesJKIm5kZ0fOkH",
+      "name": "STOR MAND (feat. Andreas Odbjerg)",
+      "artist": "Tobias Rahim, andreas odbjerg",
+      "album": "Når sjælen kaster op",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739b6acf87601a2caa4c971c45",
+      "duration_ms": 182816,
+      "url": "https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH",
+      "kobling": "Fredag morgen i mørket — solen står først op 07:11, så der skal et dansk, højtråbende nummer til at vække byen."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 155.07,
+      "label": "Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Der er altså ikke mange sange, der kan bære en hel morgen på ryggen. Den kan.",
+          "start": 0.9,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og nu til sporten, hvor dagens største historie ikke handler om mål eller måltider, men om en domstol.",
+          "start": 6.6,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, Den Internationale Sportsdomstol, CAS, har underkendt Det Internationale Ishockeyforbunds beslutning om fortsat at udelukke Rusland. Det betyder, at Rusland med øjeblikkelig virkning skal have lov til at deltage i VM-turneringer.",
+          "start": 14.09,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det omfatter flere ungdomsverdensmesterskaber og herrernes VM i Tyskland. CAS skriver, at ishockeyforbundets argumenter om sikkerhed og tryghed ikke var understøttet af tilstrækkelig dokumentation.",
+          "start": 28.92,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Rusland har været udelukket fra international ishockey siden den otteogtyvende februar 2022 som følge af invasionen af Ukraine.",
+          "start": 43.2,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og reaktionerne herhjemme er klare. Danmarks Idrætsforbunds formand Hans Natorp skriver til DR Sporten, at afgørelsen er bekymrende, og at han er dybt uenig i, at Rusland skal have adgang til de store mesterskaber.",
+          "start": 51.75,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Formanden for Danmarks Ishockey Union, Henrik Bach Nielsen, er endnu skarpere. Han kalder det komplet uforståeligt, ubegribeligt og også unødvendigt.",
+          "start": 67.59,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og han vil ikke afvise en boykot, hvis Danmark skulle komme til at møde Rusland ved VM. Han siger til DR Sporten, at man ikke kan anke en CAS-afgørelse, men blot tage den til efterretning.",
+          "start": 77.93,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han har selv siddet med om bordet i det internationale forbund, da udelukkelsen blev vedtaget i 2022. Og som han siger: Det har ikke ændret sig en tøddel set fra hans side.",
+          "start": 89.06,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er der en resultat, vi godt må sige stille og roligt. HB Køge tabte nul-otte hjemme mod FC Barcelona i Champions League.",
+          "start": 101.28,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nul-otte. Ifølge DR Sporten følte en Barcelona-stjerne efterfølgende med Køge efter afklapsningen. Det er på en måde den fineste form for respekt.",
+          "start": 110.92,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi runder lige resten af: Team Esbjerg vandt i sidste sekund og afværgede en pokalfiasko. Lyngby tilkæmpede sig vigtige point i bundstriden.",
+          "start": 121.59,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så sluttede Holger Runes sejrsstime i Basel, mens Anders Antonsen strøg i semifinalen i Tyskland. Alt sammen ifølge DR Sporten.",
+          "start": 132.67,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Efter en morgen med hackerangreb, børsuro og domstole trænger vi til noget let og svævende.",
+          "start": 143.98,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så her er Dua Lipa med Levitating.",
+          "start": 150.94,
+          "segment": "sport"
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:39LLxExYz6ewLAcYrzQQyP",
+      "name": "Levitating",
+      "artist": "Dua Lipa",
+      "album": "Future Nostalgia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c88bae7846e62a8ba59ee0bd",
+      "duration_ms": 203807,
+      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP",
+      "kobling": "Internationalt, let og uprætentiøst efter en nyhedsblok med hackerangreb og børsuro."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 148.66,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Dua Lipa, og pludselig er køkkengulvet et dansegulv.",
+          "start": 0.9,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og nu musiknyt, hvor der faktisk er en lille dansk godbid. The Minds of 99 har udgivet deres første fysiske udgivelse på deres eget nye pladeselskab, Rage Amadeus Records.",
+          "start": 6.16,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er udgivelsen Dét der udenfor plus b-sider, som ifølge Soundvenue kom i tirsdags på vinyl, kassettebånd og cd. Nu er den også på streaming.",
+          "start": 19.97,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og b-siderne er for de troende. Der er et dansksproget cover af The Churchs Under the Milky Way, der hedder Herunder mælkevejen.",
+          "start": 28.94,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så et medley live fra deres tre dage i Parken i 2024 med besøg af Tim Christensen, plus et akustisk cover af Kim Larsens Pianomand, optaget under TV 2 Nyhederne i 2019.",
+          "start": 38.25,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Niels Brandt siger om at blive uafhængig, at de havde lyst til selv at være herrer over det og dele det med fansene på en ny måde. Det nye album, Sjælens alkymi, kommer i april.",
+          "start": 53.93,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skal også lige forbi Aarhus. Lowly er ude med deres fjerde album, Softy, som Soundvenue kalder efterårets soundtrack til millennials med voksenlivskrise.",
+          "start": 65.96,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Altså folk med børn, realkreditlån og en snigende fornemmelse af, at ingen egentlig ved, hvad de laver. Jeg føler mig på én gang set og lettere angrebet.",
+          "start": 76.71,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Efter femten år sammen er kvintetten vendt tilbage til øvelokalet og har skrevet musikken i fællesskab i stedet for foran hver sin computerskærm. Og det kan høres, skriver anmelderen: varmt, organisk og tålmodigt.",
+          "start": 87.56,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så noget helt andet, passende til i morgen aften. My Chemical Romance har lavet en animeret gyserkortfilm, der hedder Prelude to The End.",
+          "start": 104.46,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er i anledning af tyveårsjubilæet for albummet The Black Parade. Og rollelisten er vild: Billie Eilish og Phoebe Bridgers lægger stemme til små roller, og det gør spilskaberen Hideo Kojima også.",
+          "start": 114.58,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Filmen er instrueret af den unge kunstner og skuespiller Lauren Tsai, og den blander stopmotion, totedimensionel animation og computereffekter. Tim Burton-agtigt, skriver Soundvenue.",
+          "start": 128.58,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi bliver i det danske og tager den nye single. Her er The Minds of 99 med Dét Der Udenfor.",
+          "start": 141.42,
+          "segment": "musik"
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:1o0UmpUR0GcQLZ8LFY40b8",
+      "name": "Dét Der Udenfor",
+      "artist": "The Minds Of 99",
+      "album": "Dét Der Udenfor",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cab8b28376873d9527e7faee",
+      "duration_ms": 214739,
+      "url": "https://open.spotify.com/track/1o0UmpUR0GcQLZ8LFY40b8",
+      "kobling": "Direkte kobling til musiknyt: The Minds of 99 udsender ny sang og liveoptagelser — og Billie Eilish/Lowly dækker de to øvrige historier."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 97.25,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Der er noget ved de guitarer klokken halv otte om morgenen, der gør, at man kører for stærkt på cyklen.",
+          "start": 0.9,
+          "segment": "let"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så skal vi lige have dagens lette historie, for i morgen er det halloween, og udklædningen er rykket et nyt sted hen.",
+          "start": 6.92,
+          "segment": "let"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, Clara Underdahl skriver i en klumme i Politiken, at børnefesten er rykket ind på klubberne, og at hun er klar til at gå all in.",
+          "start": 13.87,
+          "segment": "let"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det fine er, at hun indtil for nylig syntes, det var kikset. Nu bruger hun alt for meget tid på at tænke over, om hun skal være chihuahua eller sexet salami.",
+          "start": 22.74,
+          "segment": "let"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Sexet salami. Jeg har mange spørgsmål, og jeg tror ikke, jeg vil have svarene.",
+          "start": 32.34,
+          "segment": "let"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Jeg synes faktisk, det er meget sympatisk. Man går fra at himle med øjnene til at stå og klippe pap klokken elleve om aftenen.",
+          "start": 38.35,
+          "segment": "let"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jeg går som mig selv. Det er billigt, og folk bliver alligevel forskrækkede.",
+          "start": 46.94,
+          "segment": "let"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er faktisk dagens bedste kostume. Og så siger vi tak for i dag.",
+          "start": 52.09,
+          "segment": "let"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Tak fordi du var med i Morgenradio på denne fredag den 30. oktober. Det har været en morgen om tech og tillid, og om alt det, der står udenfor.",
+          "start": 58.78,
+          "segment": "outro"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Husk nu, at solen går ned allerede klokken fireogtredive minutter over fire. Så tag en tur udenfor i frokostpausen, selvom det er gråt og elleve grader.",
+          "start": 69.01,
+          "segment": "outro"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Rigtig god fredag derude, og god weekend, uanset om du skal være chihuahua eller bare sidde med en skål slik.",
+          "start": 78.89,
+          "segment": "outro"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi slutter med noget varmt og soulet. Her er Mark Ronson og Amy Winehouse med Valerie.",
+          "start": 86.7,
+          "segment": "outro"
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:6kopmMZiyLmw7h66uXcXR7",
+      "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
+      "artist": "Mark Ronson, Amy Winehouse",
+      "album": "Version",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a5beb0500ad6e3b0f7aea22",
+      "duration_ms": 219413,
+      "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7",
+      "kobling": "Soul og 00'er-klassiker som afrunding — gråvejr og 11 grader kalder på noget varmt, der peger mod weekenden."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 768.39,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Verdens største kryptobørs ramt af muligt hackerangreb",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/verdens-stoerste-kryptoboers-ramt-af-muligt-hackerangreb"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Bratt tek-fall på Wall Street – Intel og Amazon kraftig ned etter tallslipp",
+      "kilde": "Dagens Næringsliv",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU3hZdWMyaFJwUzY4RGZwNnRWVlBZUzNtVlgzc01GOTJnWFhRa2xNa1N2aEIwX0FIeGQzQmxsQXh4UmJqdy1SS25FVFp5b1liLUM0dmphRDdham1oQU8zZVhFM1ZZZ19TMEh3dU1JQ05GQjliUV8wQW43QV80VUF0U1pvUkZBQmx3X29xc0xwMHc4S19PUTV1Vjl1ZmRKaGZLdjFWNEFYZVFHR3piNVJ1RlBkUkx3OXpldXN6bGZlczdYS2RYUEhGdQ?oc=5"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Techgiganter har stået skoleret hos justitsministeren",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/techgiganter-har-staaet-skoleret-hos-justitsministeren"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Kurs mod ’krise’: Sådan et det gået så galt i Venstre",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/reels/kurs-mod-krise-saadan-et-det-gaaet-saa-galt-i-venstre"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Kritisk russisk medie i dystert afskedsbrev: 'Vi er blevet myrdet'",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/kritisk-russisk-medie-i-dystert-afskedsbrev-vi-er-blevet-myrdet"
+    },
+    {
+      "segment": "sport",
+      "titel": "Sportsdomsstol giver grønt lys til russisk comeback: 'Uforståeligt'",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/ishockey/sportsdomstol-vil-have-rusland-til-ishockey-vm-naeste-aar"
+    },
+    {
+      "segment": "sport",
+      "titel": "Danmark risikerer at møde Rusland ved VM - dansk chef afviser ikke boykot",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/ishockey/danmark-risikerer-moede-rusland-ved-vm-dansk-chef-afviser-ikke-boykot"
+    },
+    {
+      "segment": "sport",
+      "titel": "0-8: HB Køge får læsterlige klø af Barcelona",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/championsleague/barcelona-profil-har-aldrig-set-hb-koege-spille-men-ved-hvor-danskerne-kan-goere-ondt"
+    },
+    {
+      "segment": "sport",
+      "titel": "Team Esbjerg vinder i sidste sekund og afværger pokalfiasko",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/haandbold/liveblog-med-seneste-nyt-om-dansk-og-international-haandbold"
+    },
+    {
+      "segment": "musik",
+      "titel": "The Minds of 99 udgiver ny sang og sjældent hørte liveoptagelser",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/10/the-minds-of-99-udgiver-ny-sang-og-sjaeldent-hoerte-liveoptagelser-702667"
+    },
+    {
+      "segment": "musik",
+      "titel": "Med ‘Softy’ har Lowly lavet efterårets soundtrack til millennials med voksenlivskrise",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/10/med-softy-har-lowly-lavet-efteraarets-soundtrack-til-millennials-med-voksenlivskrise-701840"
+    },
+    {
+      "segment": "musik",
+      "titel": "Billie Eilish og Phoebe Bridgers lægger stemme til emoheltes nye gyserkortfilm",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/10/billie-eilish-og-phoebe-bridgers-laegger-stemme-til-emoheltes-nye-gyserkortfilm-702663"
+    },
+    {
+      "segment": "let",
+      "titel": "Børnefesten er rykket ind på klubberne, og jeg er klar til at gå all in",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/ibyen/klummer_ibyen/art11035762/B%C3%B8rnefesten-er-rykket-ind-p%C3%A5-klubberne-og-jeg-er-klar-til-at-g%C3%A5-all-in"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "FEJL (ConnectionError: HTTPSConnectionPool(host='feeds.tv2.dk', port=443): Max retries exceeded with ur)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "FEJL (ConnectionError: HTTPSConnectionPool(host='feeds.tv2.dk', port=443): Max retries exceeded with ur)",
+    "sport/Bold.dk": "FEJL (HTTPError: 403 Client Error: Forbidden for url: https://bold.dk/feed/rss)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "FEJL (HTTPError: 404 Client Error: Not Found for url: https://gaffa.dk/feed/)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (30)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (17)"
+  },
+  "test": false
+}

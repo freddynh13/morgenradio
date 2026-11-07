@@ -1,0 +1,992 @@
+{
+  "date": "2026-11-02",
+  "dato_tekst": "mandag den 2. november 2026",
+  "title": "Grå Aarhus-mandag, AI-uro og AGF-nedtur",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-02T12:10:50+01:00",
+  "tema": "Grå novembermandag i Aarhus med AI-uro på børserne, optakt til det amerikanske midtvejsvalg og en Superliga-nedtur for AGF.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 319.69,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen, Frederik! Det er mandag den anden november, og du er vågnet op til Morgenradio.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Første mandag i november. Det er jo sådan en uge, hvor man bare lukker øjnene og håber på december.",
+          "segment": "intro",
+          "start": 15.43
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi har en del med i dag. AI-uro på børserne i Asien, optakt til det amerikanske midtvejsvalg i morgen.",
+          "segment": "intro",
+          "start": 24.33
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hackede frysere i supermarkeder. Det lyder som en joke, men det er det ikke.",
+          "segment": "intro",
+          "start": 32.59
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skal også forbi sporten, hvor AGF altså ikke fik nogen god søndag.",
+          "segment": "intro",
+          "start": 38.98
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Vi tager den stille og roligt der.",
+          "segment": "intro",
+          "start": 44.57
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men først: vejret i Aarhus. Lige nu ti grader og overskyet.",
+          "segment": "intro",
+          "start": 47.73
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så let støvregn i løbet af dagen, ikke?",
+          "segment": "intro",
+          "start": 52.5
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Jo. Mellem otte og ti grader, og treoghalvfems procent risiko for nedbør.",
+          "segment": "intro",
+          "start": 55.9
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Treoghalvfems. Altså, det er jo bare regn med ekstra skridt.",
+          "segment": "intro",
+          "start": 61.81
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vinden er til gengæld mild, op til seks meter i sekundet. Så cykelturen ind til bureauet skal nok gå, Frederik — bare tag regnjakken.",
+          "segment": "intro",
+          "start": 66.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og solen står først op halv otte. Så det er mørkt, når du triller afsted.",
+          "segment": "intro",
+          "start": 77.43
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og nede igen seksogtredive minutter over fire. Velkommen til november.",
+          "segment": "intro",
+          "start": 83.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter med en trist nyhed. Tv-værten Henrik Dahl er død.",
+          "segment": "nyheder",
+          "start": 91.74
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han blev toogtres år. Det skriver både DR og Politiken.",
+          "segment": "nyheder",
+          "start": 96.67
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han døde efter længere tids sygdom. Mange vil kunne huske ham fra skærmen gennem rigtig mange år.",
+          "segment": "nyheder",
+          "start": 101.2
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Tankerne går til familien.",
+          "segment": "nyheder",
+          "start": 109.18
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så til USA, hvor der er midtvejsvalg i morgen.",
+          "segment": "nyheder",
+          "start": 111.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og DR's analyse stiller det helt skarpe spørgsmål: Vil Trump acceptere et nederlag?",
+          "segment": "nyheder",
+          "start": 115.44
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han er blevet spurgt. Og han svarer, at det vil han, hvis valget er ærligt.",
+          "segment": "nyheder",
+          "start": 122.26
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det er jo lige præcis det ord, der er hele knasten. Hvem afgør, om det var ærligt?",
+          "segment": "nyheder",
+          "start": 128.44
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Valgmyndighederne og domstolene — eller præsidenten selv. DR peger på, at mistilliden allerede ligger der.",
+          "segment": "nyheder",
+          "start": 135.43
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "En Gallup-måling fra oktober siger, at enoghalvtreds procent af amerikanerne ikke har tillid til, at valgsystemet er ærligt.",
+          "segment": "nyheder",
+          "start": 144.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Over halvdelen. Det er jo et dårligt udgangspunkt, uanset hvem der vinder.",
+          "segment": "nyheder",
+          "start": 154.36
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og Trump er ikke selv på stemmesedlen. Men mister republikanerne flertallet i et af kamrene, bliver hans handlerum altså mindre.",
+          "segment": "nyheder",
+          "start": 160.44
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi følger det i morgen og onsdag. Især hvis det afgøres af ganske få stemmer i én enkelt stat.",
+          "segment": "nyheder",
+          "start": 170.98
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så videre til børserne, hvor der er noget, du nok får at høre om på kontoret, Frederik.",
+          "segment": "nyheder",
+          "start": 178.71
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nemlig. Der er AI-uro på de asiatiske børser. Finansavisen og Dagens Næringsliv skriver om blandede markeder i Asien.",
+          "segment": "nyheder",
+          "start": 186.12
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og én tech-aktie styrtdykker tocifret efter varsel om svagere indtægter.",
+          "segment": "nyheder",
+          "start": 195.74
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Investorerne sidder og venter på regnskabstal fra Apple. Og så er der lidt nerver i det hele.",
+          "segment": "nyheder",
+          "start": 201.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Finansavisen kalder det den værste børsmåned i ti år. Der bliver indkaldt til krisemøde.",
+          "segment": "nyheder",
+          "start": 209.32
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvorfor lige nu, tror du?",
+          "segment": "nyheder",
+          "start": 216.56
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Altså, der er blevet pumpet enormt mange penge ind i AI. Og nu spørger folk, hvornår det tjener sig hjem.",
+          "segment": "nyheder",
+          "start": 218.95
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det spørgsmål kender man vel godt i marketingbranchen også.",
+          "segment": "nyheder",
+          "start": 226.61
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ha! Jo. Men lad os lige se tallene, før vi råber boble.",
+          "segment": "nyheder",
+          "start": 230.91
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så den her, som jeg simpelthen ikke kunne lade ligge. Frysere og kølediske er blevet hacket i supermarkeder.",
+          "segment": "nyheder",
+          "start": 234.92
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej, seriøst?",
+          "segment": "nyheder",
+          "start": 243.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Jo. I Sverige, Belgien og Luxembourg. Det skriver Reuters, ifølge Politiken.",
+          "segment": "nyheder",
+          "start": 243.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvor slemt er det?",
+          "segment": "nyheder",
+          "start": 249.5
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "I en ICA-butik i Sjöbo var temperaturen i frysere og køleskabe skruet op til halvtreds grader.",
+          "segment": "nyheder",
+          "start": 250.82
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Halvtreds? Det er jo ikke en fryser mere, det er en ovn.",
+          "segment": "nyheder",
+          "start": 257.67
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Præcis. Og det siger jo noget om, hvor mange helt almindelige ting der i dag hænger på nettet.",
+          "segment": "nyheder",
+          "start": 261.76
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Isterninger som cybersikkerhedsproblem. Velkommen til toogtyvehundredeseksogtyve.",
+          "segment": "nyheder",
+          "start": 268.61
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så en sidste, som er tungere. DR har fundet toogfirs videoer på sociale medier, hvor danske børn og unge bliver tævet og ydmyget.",
+          "segment": "nyheder",
+          "start": 274.52
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De bliver presset til at undskylde eller sige nedværdigende ting om sig selv, mens der filmes.",
+          "segment": "nyheder",
+          "start": 284.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "En psykolog fra Red Barnet kalder det et digitalt trofæ. Det handler ikke kun om at ydmyge, men om at vise andre, hvad man er i stand til.",
+          "segment": "nyheder",
+          "start": 291.0
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det starter ofte i helt almindelige teenagekonflikter. Så eskalerer det voldsomt, fordi det bliver delt.",
+          "segment": "nyheder",
+          "start": 301.06
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "DR har lavet en dokumentarserie om det. Hvis man har børn i den alder, er det nok værd at se.",
+          "segment": "nyheder",
+          "start": 308.87
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja.",
+          "segment": "nyheder",
+          "start": 315.65
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skifter gear. Her er Scarlet Pleasure med Windy.",
+          "segment": "nyheder",
+          "start": 315.87
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:6xraWJ8FdIJ8c8HpwXhNgs",
+      "name": "Windy",
+      "artist": "Scarlet Pleasure",
+      "album": "Mirage",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739445e16ada7f288e50b90dd3",
+      "duration_ms": 205951,
+      "url": "https://open.spotify.com/track/6xraWJ8FdIJ8c8HpwXhNgs",
+      "kobling": "Dansk energi til at vække en mørk mandag, hvor solen først står op 07:28."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 207.03,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Dejlig sang til en mørk mandag. Den lyder lidt af sommer, selv når det støvregner.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og vi bliver lige i området. Oppe på Djursland er der bøvl i en meget lille landsby.",
+          "segment": "aarhus",
+          "start": 9.04
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Dråbo, ikke? Femoghalvfjerds indbyggere.",
+          "segment": "aarhus",
+          "start": 15.61
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Jo. Og Syddjurs Kommune har planer om hundredeogotte kæmpesommerhuse tæt på byen.",
+          "segment": "aarhus",
+          "start": 18.73
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hundredeogotte huse til femoghalvfjerds mennesker. Det er altså en ret voldsom forstørrelse.",
+          "segment": "aarhus",
+          "start": 25.06
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og beboerne protesterer. En af dem, Nanna, frygter for børnenes cykeltur, fortæller hun til DR.",
+          "segment": "aarhus",
+          "start": 32.25
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvad siger kommunen?",
+          "segment": "aarhus",
+          "start": 39.68
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Formanden for planudvalget skriver, at intet er mejslet i sten. Tallet kan ændre sig efter høringsperioden.",
+          "segment": "aarhus",
+          "start": 41.24
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men han erkender, at der kommer flere biler.",
+          "segment": "aarhus",
+          "start": 49.61
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, og at det fortsat skal være sikkert for de bløde trafikanter, som han siger.",
+          "segment": "aarhus",
+          "start": 53.05
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er jo den klassiske: turisterne skal komme, men helst ikke køre forbi skolen.",
+          "segment": "aarhus",
+          "start": 59.3
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi holder øje med, hvad der sker, når høringen lukker.",
+          "segment": "aarhus",
+          "start": 65.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så sporten. Mads, jeg kan høre på dig, du har glædet dig.",
+          "segment": "sport",
+          "start": 72.57
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Delvist. Vi starter i England, for der er topkamp afgjort.",
+          "segment": "sport",
+          "start": 77.53
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Arsenal mod Liverpool.",
+          "segment": "sport",
+          "start": 82.32
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Arsenal slår Liverpool og går alene i spidsen. Det er DR Sporten.",
+          "segment": "sport",
+          "start": 84.14
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Alene i spidsen. Det er længe siden, de har haft så god en november.",
+          "segment": "sport",
+          "start": 89.51
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, og Liverpool har altså problemer. Det er ikke bare en dårlig dag på kontoret.",
+          "segment": "sport",
+          "start": 95.13
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så hjem til Superligaen, hvor det ikke var AGF's weekend.",
+          "segment": "sport",
+          "start": 101.82
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Brøndby får revanche mod, og jeg citerer DR Sporten her, ufarlige AGF.",
+          "segment": "sport",
+          "start": 106.78
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ufarlige. Av.",
+          "segment": "sport",
+          "start": 112.98
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Når overskriften gør mere ondt end resultatet, så ved man, det har været en lang eftermiddag.",
+          "segment": "sport",
+          "start": 114.05
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der var også comeback-drama i Farum.",
+          "segment": "sport",
+          "start": 121.74
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, FC Midtjylland vinder endelig derude efter et vildt comeback. Det har hængt dem ud af halsen i årevis.",
+          "segment": "sport",
+          "start": 124.71
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så noget helt andet. Formel 1 har fået en ny verdensmester.",
+          "segment": "sport",
+          "start": 133.47
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Kimi Antonelli. Tyve år gammel, og dermed den yngste verdensmester nogensinde.",
+          "segment": "sport",
+          "start": 138.59
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Tyve. Hvordan gik det til?",
+          "segment": "sport",
+          "start": 145.04
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han skulle bare i mål blandt de ni første i Mexico. Han blev nummer tre, og så var det afgjort.",
+          "segment": "sport",
+          "start": 147.19
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Med fire løb tilbage af sæsonen.",
+          "segment": "sport",
+          "start": 155.04
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Han har vundet ni løb i år. Verstappen tog sejren i Mexico foran Hamilton.",
+          "segment": "sport",
+          "start": 157.68
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og løbet blev afbrudt undervejs, hørte jeg?",
+          "segment": "sport",
+          "start": 164.46
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, Bottas fik et dæk til at eksplodere og røg ind i barrieren. Afbrudt i over en halv time.",
+          "segment": "sport",
+          "start": 168.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men han var okay?",
+          "segment": "sport",
+          "start": 175.61
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Alle kørerne blev sendt i garagerne, mens banen blev gjort klar igen. Og bagefter sagde Antonelli bare: vi gjorde det, vi gjorde det.",
+          "segment": "sport",
+          "start": 177.02
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er en dejlig simpel reaktion.",
+          "segment": "sport",
+          "start": 188.01
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han sagde også, at det her øjeblik bliver hos ham for evigt. Det tror jeg godt, man kan tillade sig, når man er tyve.",
+          "segment": "sport",
+          "start": 191.1
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi tager lidt internationalt tempo med videre. Her er Harry Styles og As It Was.",
+          "segment": "sport",
+          "start": 200.5
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:4Dvkj6JhhA12EX05fT7y2e",
+      "name": "As It Was",
+      "artist": "Harry Styles",
+      "album": "Harry's House",
+      "image": "https://i.scdn.co/image/ab67616d0000b27382ce362511fb3d9dda6578ee",
+      "duration_ms": 167303,
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e",
+      "kobling": "Internationalt tempo efter nyhedsblokken med børsuro og midtvejsvalg."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 139.01,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den sang er fire år gammel nu. Det må jeg lige sunde mig over.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Men der er faktisk noget dansk nyt. Sivas har delt en uudgivet sang med Hans Philip.",
+          "segment": "musik",
+          "start": 7.71
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Den hedder Sagaen fortsætter, ikke? Og den kom først kun til dem, der skrev en piratflag-emoji i kommentarsporet.",
+          "segment": "musik",
+          "start": 14.92
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Jo, men nu kan alle høre den. Og der er to versioner, skriver Soundvenue.",
+          "segment": "musik",
+          "start": 24.19
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "To? Hvad er forskellen?",
+          "segment": "musik",
+          "start": 30.17
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Den ene har et drømmende synth-underlag, der minder om de tidlige Ukendt Kunstner-dage.",
+          "segment": "musik",
+          "start": 32.05
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og den anden?",
+          "segment": "musik",
+          "start": 39.19
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Mere klassisk boombap med et smådystert klaver-loop. To ret forskellige stemninger.",
+          "segment": "musik",
+          "start": 40.25
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det hele peger jo frem mod Ukendt Kunstners musikfilm Sort. Den kommer i biograferne fra seksogtyvende november.",
+          "segment": "musik",
+          "start": 47.05
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Med blandt andre Lamin, Kesi og Noah Carter. Og et album af samme navn.",
+          "segment": "musik",
+          "start": 56.48
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Soundvenue har også listet månedens album. Og julen kommer tidligt i år.",
+          "segment": "musik",
+          "start": 62.3
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Allerede?",
+          "segment": "musik",
+          "start": 68.2
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Sufjan Stevens samler alle sine julesange på et album den sjette november. Det hedder Worst Christmas Ever.",
+          "segment": "musik",
+          "start": 68.94
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Okay, så han er altså ikke ligefrem i julehumør.",
+          "segment": "musik",
+          "start": 77.71
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jo, lidt. Der er en ny sang med titlen On This Christmas, It Only Gets Better.",
+          "segment": "musik",
+          "start": 81.64
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der er også Skepta samme dag, med sit første soloalbum i syv år.",
+          "segment": "musik",
+          "start": 88.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, han siger selv, det bliver mere personligt. Om det at være søn af nigerianske migranter.",
+          "segment": "musik",
+          "start": 93.28
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og dansk nyt fra Bette den trettende november. Et album om et brud, og om at give slip på en fremtid, man havde bygget op.",
+          "segment": "musik",
+          "start": 100.82
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Til sidst noget trist fra musikverdenen. Juan Atkins er død, fireogtres år gammel.",
+          "segment": "musik",
+          "start": 110.82
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Produceren fra Detroit. Han regnes for en af teknoens grundlæggere.",
+          "segment": "musik",
+          "start": 117.54
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, både solo og som del af Belleville Three og Cybotron. Det skriver Pitchfork.",
+          "segment": "musik",
+          "start": 123.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Uden ham lyder rigtig meget af musikken i dag helt anderledes.",
+          "segment": "musik",
+          "start": 129.95
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis.",
+          "segment": "musik",
+          "start": 134.62
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi spiller noget hjemligt nu. Medina, Kun For Mig.",
+          "segment": "musik",
+          "start": 135.15
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:7hBGy8DIYXuUZf5ZUjKHPO",
+      "name": "Kun For Mig",
+      "artist": "Medina",
+      "album": "Velkommen Til Medina",
+      "image": "https://i.scdn.co/image/ab67616d0000b27375bbceefa1ce802c55b5a236",
+      "duration_ms": 254586,
+      "url": "https://open.spotify.com/track/7hBGy8DIYXuUZf5ZUjKHPO",
+      "kobling": ""
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 115.39,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Der er altså noget ved at høre Medina en mandag morgen i november.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så har jeg en god en til sidst. Ringkøbing-Skjern Kommune er simpelthen blæst bagover.",
+          "segment": "let",
+          "start": 7.87
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Af hvad?",
+          "segment": "let",
+          "start": 14.93
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Af tyskere. De holder info-dag for tyske statsborgere, der drømmer om at flytte til Danmark.",
+          "segment": "let",
+          "start": 15.57
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvor mange har meldt sig?",
+          "segment": "let",
+          "start": 22.87
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Syvhundrede. Næsten trehundrede flere end sidste november.",
+          "segment": "let",
+          "start": 25.09
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hold da op.",
+          "segment": "let",
+          "start": 29.7
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Bosætningskoordinatoren siger til DR: det er jo helt sindssygt. Og at de er megastolte.",
+          "segment": "let",
+          "start": 30.57
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Kommer de fra grænseegnene?",
+          "segment": "let",
+          "start": 37.48
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej, fra hele Tyskland. Nogle kører otte hundrede til tusind kilometer hver vej fra Sydtyskland.",
+          "segment": "let",
+          "start": 39.62
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tusind kilometer. For at høre om skole og jobmuligheder i Vestjylland.",
+          "segment": "let",
+          "start": 47.24
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og et par østrigere har også meldt sig.",
+          "segment": "let",
+          "start": 52.8
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvorfor lige dem, tror du?",
+          "segment": "let",
+          "start": 55.89
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Kommunen siger, tyskerne er attraktive, fordi de hurtigt lærer dansk. Og de flytter sjældent væk igen.",
+          "segment": "let",
+          "start": 57.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og der er jo arbejde. Ledigheden var halvanden procent i august, mod godt tre på landsplan.",
+          "segment": "let",
+          "start": 66.05
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Svejsere, elektrikere, folk til turistbranchen. De står og mangler hænder.",
+          "segment": "let",
+          "start": 73.28
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vind i håret og sand mellem tæerne. Det er altså en stærk salgstale.",
+          "segment": "let",
+          "start": 79.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det var Morgenradio for i dag. Tak fordi du var med, Frederik.",
+          "segment": "outro",
+          "start": 87.27
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Husk regnjakken. Og hold lidt øje med Apple-tallene, hvis nogen spørger på kontoret.",
+          "segment": "outro",
+          "start": 91.79
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Ja. Ellers: god mandag derude, og kør forsigtigt i mørket.",
+          "segment": "outro",
+          "start": 97.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi er tilbage i morgen med midtvejsvalget.",
+          "segment": "outro",
+          "start": 101.94
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi slutter lyst af. Her er MØ med Final Song.",
+          "segment": "outro",
+          "start": 104.86
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:4qqArAiTPueDxIp7cf87h7",
+      "name": "Final Song",
+      "artist": "MØ",
+      "album": "Final Song",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738d3be8fc0f685dccb90dc549",
+      "duration_ms": 235826,
+      "url": "https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7",
+      "kobling": "Et lyst afsæt mod støvregn og 8-10 grader i Aarhus."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 793.5,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Tv-vært Henrik Dahl er død",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/tv-vaert-henrik-dahl-er-doed"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "ANALYSE: Vil Trump acceptere et nederlag tirsdag? Fem ting, du skal holde øje med",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/valg-i-usa/analyse-vil-trump-acceptere-et-nederlag-tirsdag-fem-ting-du-skal-holde-oeje-med"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Blandet i Asia: Tech-aksje stuper tosifret på varsel om svakere inntekter",
+      "kilde": "Finansavisen",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOGxLWkhGbTN4YUZ4WFRWRTU2RGtPOE1HdWpuUDVqeUttcW1hZk9ldTJfNVZyTjlQZTVmODFPOVJ1dWlBSEdBMW9zRUQxMUxHamlBSFFVakJ2ODJTSmtwVEl2YXJXSlI1RFhta1F0b0tzZ0RMNGpMM0h3eUVYYnpuYVBQWWw4M1dJSnQ1UDJUcHVlU21xdkFIRkZoMUhvYnE2emhvWTlKVUh1cjVHRnN1OXl5bFgyU0FBTUR6QkNMZHlyRm9N?oc=5"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Frysere og kølediske er blevet hacket i supermarkeder i flere lande",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/frysere-er-blevet-hacket-i-flere-svenske-supermarkeder"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "'Kys min sko': Børn bruger ydmygelsesvideoer som våben mod hinanden",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/kys-min-sko-boern-bruger-ydmygelsesvideoer-som-vaaben-mod-hinanden"
+    },
+    {
+      "segment": "sport",
+      "titel": "Arsenal slår Liverpool og går alene i spids",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12756381#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "Brøndby får revanche mod ufarlige AGF",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12756619#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "Kimi Antonelli bliver den yngste verdensmester i Formel 1-historien",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/formel1/kimi-antonelli-bliver-den-yngste-verdensmester-i-formel-1-historien"
+    },
+    {
+      "segment": "sport",
+      "titel": "FCM vinder endelig i Farum efter vildt comeback",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12755463#liveblog-embed"
+    },
+    {
+      "segment": "musik",
+      "titel": "Sivas deler uudgivet sang med Hans Philip – i to versioner",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/sivas-deler-uudgivet-sang-med-hans-philip-i-to-versioner-702936"
+    },
+    {
+      "segment": "musik",
+      "titel": "De syv album, du skal høre i november – julen kommer tidligt, og den stinker!",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/de-syv-album-du-skal-hoere-i-november-julen-kommer-tidligt-og-den-stinker-702124"
+    },
+    {
+      "segment": "musik",
+      "titel": "Juan Atkins, Co-Founder of Techno Music, Dies at 64",
+      "kilde": "Pitchfork News",
+      "link": "https://pitchfork.com/story/juan-atkins-co-founder-of-techno-music-dies-at-64/"
+    },
+    {
+      "segment": "let",
+      "titel": "Vestjysk kommune blæst bagover af tysk interesse: 'Det er jo helt sindssygt'",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/vestjysk-kommune-blaest-bagover-af-tysk-interesse-det-er-jo-helt-sindssygt"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (40)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (1)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (4)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (30)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (9)"
+  },
+  "test": false
+}

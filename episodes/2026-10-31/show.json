@@ -1,0 +1,637 @@
+{
+  "date": "2026-10-31",
+  "dato_tekst": "lørdag den 31. oktober 2026",
+  "title": "Halloween-lørdag: Meta-forlig, Temu-fald og Anfield-brag",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-10-31T10:32:00+01:00",
+  "tema": "Halloween-lørdag i gråvejr: Meta og Temu presses på tech- og e-handelsfronten, mens Liverpool-Arsenal og russisk sportscomeback fylder i sporten.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 352.42,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen Frederik, og velkommen til Morgenradio. Det er lørdag den 31. oktober 2026, og ja, det er halloween.",
+          "start": 4.1,
+          "segment": "intro"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Jeg har allerede set det første græskar på en trappesten i Aarhus, og det kigger lige så trist ud som himlen i dag.",
+          "start": 13.76,
+          "segment": "intro"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skal om lidt tale om et forlig mellem Meta og en teenager, om hvorfor Temu er raslet ned ad danskernes webshop-liste, og så er der en alvorlig ulykke nord for Aarhus.",
+          "start": 22.23,
+          "segment": "intro"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og i sporten: Liverpool mod Arsenal på Anfield senere i dag, og en sportsdomstol, der har åbnet døren for russisk comeback i ishockey.",
+          "start": 34.96,
+          "segment": "intro"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men først vejret. I Aarhus er der lige nu 10 grader og overskyet, og sådan bliver det stort set hele dagen. Mellem 10 og 12 grader.",
+          "start": 46.15,
+          "segment": "intro"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Til gengæld nul procent risiko for nedbør og vind op til tre meter i sekundet. Så cyklen kan sagtens komme ud, Frederik, du skal bare ikke forvente sol.",
+          "start": 56.77,
+          "segment": "intro"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Solen står op 07:24 og går ned 16:40. Så mørket kommer tidligt, hvilket jo passer meget godt til dagen.",
+          "start": 67.13,
+          "segment": "intro"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter alvorligt. En 24-årig mand er død i en færdselsulykke på Kaløvej nord for Aarhus, hvor en varebil og en personbil stødte sammen fredag.",
+          "start": 77.24,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det skriver Østjyllands Politi fredag aften. To andre personer er bragt på hospitalet, men ingen af dem har alvorlige skader, oplyser vagtchef Chris Mose til Ritzau.",
+          "start": 88.23,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Politiets indledende undersøgelser tyder på, at de to køretøjer stødte frontalt sammen, og at begge kørte af vejen. Den afdøde var fører af personbilen, hvor en 30-årig mand sad som passager.",
+          "start": 100.99,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De pårørende til den 24-årige er underrettet. Vores tanker går til familien.",
+          "start": 113.84,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så til Ukraine. Tre fly med evakuerede beboere fra byen Olesjky er ankommet til Belarus. Det skriver det belarussiske nyhedsbureau Belta ifølge Reuters.",
+          "start": 119.82,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Olesjky ligger i den russiskbesatte del af Kherson-regionen, og byen har fået meget opmærksomhed på grund af de dårlige humanitære forhold.",
+          "start": 130.81,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "I sidste uge meddelte Det Hvide Hus, at USA's førstedame, Melania Trump, havde etableret en våbenhvile mellem Rusland og Ukraine, begrænset til netop den by, så civile kunne evakueres.",
+          "start": 140.5,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De godt 2.000 tilbageværende indbyggere har ifølge planen kunnet vælge mellem ukrainskkontrolleret område, russiskkontrolleret område eller at blive. Vælger man Ukraine, går ruten 450 kilometer gennem det russiskkontrollerede Krim, videre med fly til Belarus og så over grænsen til det nordlige Ukraine.",
+          "start": 155.76,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "I torsdags rullede en humanitær konvoj ind i byen med 25 busser, ambulancer og andre køretøjer.",
+          "start": 176.34,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og i USA har en dommer slået fast, at Trump-regeringen ikke kan true, intimidere eller tvinge valgansvarlige til at stoppe optællingen af stemmesedler. Det skriver Politiken, som kalder afgørelsen skarpt formuleret.",
+          "start": 183.68,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så til noget, der ligger tæt på din branche, Frederik. Meta har indgået endnu et forlig med en teenager, der havde sagsøgt selskabet for at have designet Instagram og Facebook, så de er vanedannende. Det skriver Reuters ifølge DR.",
+          "start": 199.43,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Den unge kvinde, der omtales som K.D.B., er 18 år og fra Mississippi. Ifølge hendes advokater førte designet til psykiske problemer og et kompliceret forhold til mad.",
+          "start": 214.12,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Forliget kom få dage efter, at udvælgelsen af nævninge var gået i gang. Meta havde i forvejen indgået forlig med den anden sagsøger, en 16-årig pige fra Illinois.",
+          "start": 225.93,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så retssagen ventes nu at fortsætte alene mod Snap. Begge teenagere har tidligere indgået forlig med TikTok og YouTube.",
+          "start": 237.42,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Virksomhederne afviser, at platformene er designet til at gøre unge afhængige, og siger, de har indført en række tiltag for at gøre apps'ene sikre for unge.",
+          "start": 245.36,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det interessante er, at det her var tænkt som en prøvesag. Tusindvis af lignende søgsmål ligger og venter, skriver Reuters.",
+          "start": 256.09,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og i den første sag, der nåede retten og blev afsluttet i marts, fandt en jury i Los Angeles, at Meta og YouTube havde handlet uagtsomt og skulle betale millioner i erstatning.",
+          "start": 264.68,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Frederik, hvis man arbejder med paid social til dagligt, så er det altså værd at holde øje med. Det her kan ende med at flytte på, hvordan platformene må bygges.",
+          "start": 279.09,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så e-handel. Temu er raslet ned ad listen over danskernes mest benyttede webshops. Det skriver Ritzau med henvisning til Dansk Industris E-commerce Tracker.",
+          "start": 288.63,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "I tredje kvartal sidste år lå Temu nummer tre. I år er de helt nede på en tiendeplads.",
+          "start": 299.17,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Forklaringen er formentlig de nye toldregler fra i sommer. Chefkonsulent Mie Bilberg fra Dansk Industri siger, at man tidligere kunne bestille en pakke hårelastikker direkte fra Kina og få den leveret hjemme i Næstved for et par kroner.",
+          "start": 305.63,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hendes pointe er, at når prisen stiger til 28 kroner, så kan det pludselig bedre betale sig at købe dem i Føtex.",
+          "start": 321.82,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Konkret er der nu told på tre euro på alle pakker under 150 euro, og fra den 1. november kommer der et håndteringsgebyr på to euro oveni per varepost.",
+          "start": 329.15,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tyske Zalando ligger stadig nummer et, og danske Matas har overtaget tredjepladsen fra Temu.",
+          "start": 340.37,
+          "segment": "nyheder"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skal have lidt lys ind i en grå oktoberlørdag. Her er Scarlet Pleasure med \"Deja vu\".",
+          "start": 346.2,
+          "segment": "nyheder"
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:0tingGcGmcXnRozU493hbr",
+      "name": "Deja vu",
+      "artist": "Scarlet Pleasure",
+      "album": "Limbo/Lagune",
+      "image": "https://i.scdn.co/image/ab67616d0000b27389595fc140d113d602c431d6",
+      "duration_ms": 209090,
+      "url": "https://open.spotify.com/track/0tingGcGmcXnRozU493hbr",
+      "kobling": "Dansk, lys og uptempo åbner en grå oktoberlørdag med 10 grader og overskyet himmel — vækker uden at larme."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 166.55,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Dejlig måde at vække en lørdag på uden at råbe ad nogen.",
+          "start": 0.9,
+          "segment": "aarhus"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så lidt fra Aarhus. Det er trods alt halloween-lørdag, og i Viby har to søstre forvandlet en kælder til noget, man helst ikke går alene ned i.",
+          "start": 6.98,
+          "segment": "aarhus"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi vender tilbage til det senere. Ellers er det en stille dag i byen, 10 til 12 grader, ingen regn og næsten ingen vind.",
+          "start": 17.29,
+          "segment": "aarhus"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og mørket falder på klokken 16:40, så hvis der skal rangles slik, kan man begynde ret tidligt.",
+          "start": 24.88,
+          "segment": "aarhus"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Perfekt timing i forhold til Premier League, vil jeg sige. Men det kommer vi til nu.",
+          "start": 32.18,
+          "segment": "aarhus"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Dagens helt store kamp er Liverpool mod Arsenal på Anfield.",
+          "start": 37.64,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og ifølge de norske medier er der stor fokus på Martin Ødegaard forud for kampen. Arsenal har ikke vundet på Anfield i 14 år.",
+          "start": 42.28,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hos Liverpool holdes døren åben for både Szoboszlai og Munoz, skriver den norske Liverpool-fanklub. Og Kjetil Rekdal advarer om, at det bliver benhårdt for gæsterne.",
+          "start": 51.63,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "En kamp man godt kan planlægge sin eftermiddag efter, Frederik.",
+          "start": 62.7,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så er der en noget mere speciel historie. Aston Villa vil sagsøge Jamie Carragher for en udtalelse i en podcast. Det skriver DR Sporten og flere norske medier.",
+          "start": 67.4,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det handler om nogle udtalelser om Manchester United. Detaljerne er sparsomme, men klubben truer altså en fodboldekspert med søgsmål.",
+          "start": 79.49,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Man skal passe på med, hvad man siger i en podcast. Det tager jeg med mig herfra.",
+          "start": 88.13,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så en afgørelse, der har skabt reaktioner. Den Internationale Sportsdomstol, CAS, har underkendt ishockeyforbundets beslutning om fortsat at udelukke Rusland.",
+          "start": 94.05,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det betyder, at Rusland med øjeblikkelig virkning skal have lov til at deltage i VM-turneringer. Det gælder flere ungdomsmesterskaber og herrernes VM i Tyskland i maj næste år.",
+          "start": 107.16,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "CAS skriver, at ishockeyforbundets argumenter om sikkerhed og tryghed ikke var understøttet af tilstrækkelig dokumentation, og at kun dokumenterede sikkerhedshensyn kan veje tungere end atleters ret til at deltage.",
+          "start": 118.47,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Rusland har været udelukket fra international ishockey siden den 28. februar 2022 som følge af invasionen af Ukraine.",
+          "start": 133.18,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Danmarks Idrætsforbunds formand, Hans Natorp, kalder afgørelsen bekymrende og skriver til DR Sporten, at han er dybt uenig i, at Rusland skal have adgang til de store mesterskaber.",
+          "start": 142.62,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og til sidst Gullballen. Ifølge VG var der ikke mange point mellem Harry Kane og Kylian Mbappé i kåringen.",
+          "start": 154.33,
+          "segment": "sport"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi holder energien oppe. Her er MØ med \"Kamikaze\".",
+          "start": 162.64,
+          "segment": "sport"
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:6TjP1C3sGQH1jBfzUXfcMg",
+      "name": "Kamikaze",
+      "artist": "MØ",
+      "album": "Kamikaze",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8bee94735ef69ae82e988b0",
+      "duration_ms": 212231,
+      "url": "https://open.spotify.com/track/6TjP1C3sGQH1jBfzUXfcMg",
+      "kobling": "Holder energien oppe efter nyhedsblokken med et kendt dansk hit — og MØ i en anden udgave end den, der lige er spillet."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 134.63,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den der holder stadig, mange år efter.",
+          "start": 0.9,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi tager lidt musiknyt. The Minds of 99 har udgivet deres første fysiske udgivelse på deres eget nye pladeselskab, Rage Amadeus Records.",
+          "start": 4.04,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Udgivelsen hedder \"Dét der udenfor plus b-sider\", og den kom først på vinyl, kassettebånd og cd. Nu er den også på streaming, skriver Soundvenue.",
+          "start": 15.83,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og der er godter på den. Blandt andet et dansksproget cover af The Churchs \"Under the Milky Way\", som hedder \"Herunder mælkevejen\".",
+          "start": 26.67,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Plus et medley live fra deres tre dage i Parken i 2024 med besøg af Tim Christensen, og et akustisk cover af Kim Larsens \"Pianomand\", optaget under TV 2 Nyhederne i 2019.",
+          "start": 36.37,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Niels Brandt siger om beslutningen om at blive uafhængig, at de havde lyst til selv at være herrer over det og dele det med deres fans på en ny måde.",
+          "start": 50.99,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det nye album hedder \"Sjælens alkymi\" og kommer i april.",
+          "start": 60.87,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så en Northside-anbefaling, som er relevant for en aarhusianer. Amerikanske Joey Valence og Brae spiller på Northside til sommer.",
+          "start": 65.08,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Soundvenue kalder dem hiphoppens kamæleoner. De beskriver selv deres musik som hyper-rap, et sted mellem Beastie Boys og Skrillex.",
+          "start": 74.21,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "De bliver let overset, når Phoebe Bridgers står øverst på plakaten, men Soundvenue mener, de er en af de bedste bookinger til næste års program.",
+          "start": 83.13,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så er det jo halloween, og Lily Allen har vundet kostumekonkurrencen. Hun har klædt sig ud som det kort over tomme sæder, man ser, når man køber billetter hos Ticketmaster.",
+          "start": 92.57,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hun skriver på Instagram, at hun aldrig bliver fri af anklagerne, med hashtagget blue dot fever.",
+          "start": 104.46,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Blue dot fever er fænomenet, hvor ellers succesfulde musikere pludselig har svært ved at sælge billetter. Lily Allen har selv måttet rykke dele af en USA-turné til mindre spillesteder.",
+          "start": 111.49,
+          "segment": "musik"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "At gøre grin med sit eget billetsalg kræver altså et vist mod. Her er The Minds Of 99 med \"Det Er Knud Som Er Død\".",
+          "start": 123.51,
+          "segment": "musik"
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:7AQQBWgKM06aL368PRYFHy",
+      "name": "Det Er Knud Som Er Død",
+      "artist": "The Minds Of 99",
+      "album": "The Minds Of 99",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d2409653b1255774e21a6aad",
+      "duration_ms": 185121,
+      "url": "https://open.spotify.com/track/7AQQBWgKM06aL368PRYFHy",
+      "kobling": "Direkte kobling til musiknyt: The Minds of 99 har netop udgivet ny sang og sjældne liveoptagelser. Alternativt Joey Valence & Brae, der kommer til Northside i Aarhus til sommer, eller Lily Allen fra halloween-historien."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 69.84,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Og så tilbage til kælderen i Viby, som jeg lovede.",
+          "start": 0.9,
+          "segment": "let"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, søstrene Carina og Tina Boeriis Jørgensen har fyldt kælderen under aktivitets- og kulturhuset Myrhuset i Viby med gys og gru.",
+          "start": 4.41,
+          "segment": "let"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det er ikke noget, de lige har fundet på. Siden 2015 har de hvert år til halloween forvandlet kælderen til et creepy house.",
+          "start": 14.99,
+          "segment": "let"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "DR sendte reporteren Benjamin Rabjerg derned, og han tvang sig selv igennem de mørke gange.",
+          "start": 25.52,
+          "segment": "let"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han sprang af skræk. Jeg har fuld forståelse. Jeg ville være hoppet ud af mine sko i løbet af de første ti meter.",
+          "start": 31.87,
+          "segment": "let"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er noget af en tradition at holde kørende i elleve år. Respekt til søstrene.",
+          "start": 40.36,
+          "segment": "let"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det var Morgenradio for i dag. Tak fordi du lyttede med, Frederik.",
+          "start": 46.87,
+          "segment": "outro"
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Husk nu: Liverpool mod Arsenal på Anfield senere, og slik ved døren i aften. Prioriter selv rækkefølgen.",
+          "start": 51.98,
+          "segment": "outro"
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Rigtig god lørdag derude. Vi slutter med fuld energi. Her er Kendrick Lamar med \"HUMBLE.\".",
+          "start": 59.61,
+          "segment": "outro"
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:7KXjTSCq5nL1LoYtL7XAwS",
+      "name": "HUMBLE.",
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+      "duration_ms": 177000,
+      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS",
+      "kobling": "Afslutter med fuld energi inden weekenden og Premier League-eftermiddagen med Liverpool-Arsenal."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 730.64,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "24-årig mand omkommet i alvorligt sammenstød nord for Aarhus",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/24-aarig-mand-omkommet-i-alvorligt-sammenstoed-nord-aarhus"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Tre fly med evakuerede beboere fra Olesjky i Ukraine er ankommet til Belarus",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/tre-fly-med-evakuerede-beboere-fra-olesjky-i-ukraine-er-ankommet-til-belarus"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Skarp afgørelse: Dommer forhindrer Trump i at true valgansvarlige",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/internationalt/art11043274/Skarp-afg%C3%B8relse-Dommer-forhindrer-Trump-i-at-true-valgansvarlige"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Meta indgår forlig med teenager om sociale mediers afhængighed",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/meta-indgaar-forlig-med-teenager-om-sociale-mediers-afhaengighed"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Temu rasler ned på e-handelsliste efter nye toldregler",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/temu-rasler-ned-paa-e-handelsliste-efter-nye-toldregler"
+    },
+    {
+      "segment": "sport",
+      "titel": "Holder døren åpen for Szoboszlai og Munoz",
+      "kilde": "Liverpool FC Supporters Club Norway",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5McXJiLXRWMEhKUW5xT18wQmtuZHVKQzdFUWdpajRlT2pzUTJHa0FYcUJzV2VMalZacnNUOVZfY216VWJaRVNHNjN1N3k2YlA5eVp1cjVnS0d5UEtrNWVmc1Q2RHI5dk5i?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Aston Villa vil sagsøge Carragher for udtalelse i podcast",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12744558#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "Sportsdomsstol giver grønt lys til russisk comeback: 'Uforståeligt'",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/ishockey/sportsdomstol-vil-have-rusland-til-ishockey-vm-naeste-aar"
+    },
+    {
+      "segment": "sport",
+      "titel": "Gullballen-kåringen: Så mange poeng skilte Kane og Mbappé",
+      "kilde": "VG",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa1RCQlJSeVBBOGdhclA1dzllMUNrVWJ0d1ZoUHUwM3RHa3NwRUJBZ3hfZF9DbHRPNHBLV3lPTGdCTnJJMk5KSVd6TTg0OE1HeGNfVGpYdTVtX19lbjllaURWc0dfajdxc0h5b3ZzVnJqLWhScVA0YmFuX29Xc3J5ZGFmUUVIV3JCYWNiVG9WdEViN3pxcFE?oc=5"
+    },
+    {
+      "segment": "musik",
+      "titel": "The Minds of 99 udgiver ny sang og sjældent hørte liveoptagelser",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/10/the-minds-of-99-udgiver-ny-sang-og-sjaeldent-hoerte-liveoptagelser-702667"
+    },
+    {
+      "segment": "musik",
+      "titel": "De rapper om alt fra ‘Ben 10’ til John Cena – til sommer spiller Joey Valance & Brae på Northside",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/10/de-rapper-om-alt-fra-ben-10-til-john-cena-til-sommer-spiller-joey-valance-brae-paa-northside-702449"
+    },
+    {
+      "segment": "musik",
+      "titel": "Lily Allen klæder sig ud som sit eget dårlige billetsalg",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/10/lily-allen-klaeder-sig-ud-som-sit-eget-daarlige-billetsalg-702711"
+    },
+    {
+      "segment": "let",
+      "titel": "Søstre står bag gyserhus: DR-reporter springer af skræk",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/reels/soestre-staar-bag-gyserhus-dr-reporter-springer-af-skraek"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "FEJL (ConnectionError: HTTPSConnectionPool(host='feeds.tv2.dk', port=443): Max retries exceeded with ur)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (31)",
+    "lokalt/Google News Aarhus": "ok (3)",
+    "lokalt/Google News Østjylland": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "FEJL (ConnectionError: HTTPSConnectionPool(host='feeds.tv2.dk', port=443): Max retries exceeded with ur)",
+    "sport/Bold.dk": "FEJL (HTTPError: 403 Client Error: Forbidden for url: https://bold.dk/feed/rss)",
+    "sport/Google News Fodbold": "ok (1)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "FEJL (HTTPError: 404 Client Error: Not Found for url: https://gaffa.dk/feed/)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (30)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (14)"
+  },
+  "test": false
+}

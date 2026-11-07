@@ -1,0 +1,866 @@
+{
+  "date": "2026-11-07",
+  "dato_tekst": "lørdag den 7. november 2026",
+  "title": "Datacentre under pres, Cybertruck-stop og lørdagsfodbold",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-07T11:12:56+01:00",
+  "tema": "Datacentre og tech under pres — fra protester mod Microsofts byggeri til Teslas Cybertruck-stop — mens weekendens fodbold ruller videre.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 282.26,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen, Frederik! Det er lørdag den syvende november, klokken er lige blevet syv, og du har fundet Morgenradio.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Og det er sådan en lørdag, hvor dynen vinder de første to runder.",
+          "segment": "intro",
+          "start": 16.49
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men vi har noget at komme efter i dag. Demonstranter går mod datacentrene, også herhjemme ved Køge.",
+          "segment": "intro",
+          "start": 22.06
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og Elon Musk stopper Cybertrucken. Den kantede drøm er vist kørt i grøften.",
+          "segment": "intro",
+          "start": 29.31
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Plus fodbold, musiknyt og en italiensk kok, der gik i krig mod ananas.",
+          "segment": "intro",
+          "start": 34.8
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og han tabte. Men mere om det senere.",
+          "segment": "intro",
+          "start": 39.93
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vejret i Aarhus først. Lige nu otte grader og overskyet. Og sådan bliver det stort set hele dagen.",
+          "segment": "intro",
+          "start": 42.64
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Mellem syv og otte grader, nul procent risiko for regn. Det er faktisk fint cykelvejr.",
+          "segment": "intro",
+          "start": 49.82
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vind op til syv meter i sekundet, så tag en jakke, der kan lukke. Solen står op 7:39.",
+          "segment": "intro",
+          "start": 56.11
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og går ned 16:25. Så hvis du vil se dagslys, Frederik, så skal du ud tidligt.",
+          "segment": "intro",
+          "start": 62.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter med datacentrene. I dag klokken 14 samles demonstranter i Lille Skensved nær Køge.",
+          "segment": "nyheder",
+          "start": 70.71
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Foran et af Microsofts datacentre, ikke?",
+          "segment": "nyheder",
+          "start": 76.96
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Jo. Og der er både taler og musik på programmet. Det skriver DR.",
+          "segment": "nyheder",
+          "start": 79.64
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det er ikke kun Danmark. Der er demonstrationer i flere europæiske lande i dag, og der var også protester i går.",
+          "segment": "nyheder",
+          "start": 83.94
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "I Amsterdam har aktivister ifølge DR Udland været inde på et kommende Microsoft-datacenter.",
+          "segment": "nyheder",
+          "start": 91.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hovedarrangøren hedder Stop Dirty Data Centres. Herhjemme er Den Grønne Ungdomsbevægelse med i Køge.",
+          "segment": "nyheder",
+          "start": 97.78
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og aktivisten Lukas Grundtvig har tidligere kaldt datacentre for, citat, naboen fra helvede.",
+          "segment": "nyheder",
+          "start": 104.5
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hold da op. Det er jo ikke just en diplomatisk formulering.",
+          "segment": "nyheder",
+          "start": 110.68
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej. Men branchen selv erkender faktisk noget. Direktør i Datacenter Industrien Henrik Hansen siger til Ritzau, at de ikke har været gode nok til at lytte til lokalbefolkningen.",
+          "segment": "nyheder",
+          "start": 114.64
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er en ret ærlig melding, egentlig.",
+          "segment": "nyheder",
+          "start": 126.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han siger, de skal blive bedre til dialog og til at forklare, hvorfor datacentrene overhovedet bliver bygget.",
+          "segment": "nyheder",
+          "start": 129.09
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det er jo lidt interessant, Frederik, for alt det der AI, vi bruger i hverdagen, det bor et sted. Det bor i sådan en kasse på en mark ved Køge.",
+          "segment": "nyheder",
+          "start": 136.41
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Præcis. Og det er vist den diskussion, der for alvor går i gang nu.",
+          "segment": "nyheder",
+          "start": 146.22
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så til en anden tech-historie. Tesla stopper produktionen af Cybertrucken.",
+          "segment": "nyheder",
+          "start": 150.72
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej, seriøst?",
+          "segment": "nyheder",
+          "start": 155.89
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jo. Det melder flere norske medier, blandt andre TV 2 og Finansavisen. De kalder det Teslas prestigeprojekt, der floppede.",
+          "segment": "nyheder",
+          "start": 156.77
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Altså den kantede, rustfri stål-pickup, som alle havde en mening om.",
+          "segment": "nyheder",
+          "start": 164.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Den, ja. Finansavisen skriver, at Musk nu trækker stikket.",
+          "segment": "nyheder",
+          "start": 169.53
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er faktisk et ret stort fald fra alt det hype, der var omkring den.",
+          "segment": "nyheder",
+          "start": 173.76
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, og dagen efter det, Finansavisen kalder blodbadet, går Musk til angreb. Han er altså ikke typen, der tager et nederlag stille.",
+          "segment": "nyheder",
+          "start": 178.86
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej, det har vi vist lært efterhånden.",
+          "segment": "nyheder",
+          "start": 188.19
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så til Ukraine. Donald Trump har talt om, hvad han kalder en stor og smuk aftale.",
+          "segment": "nyheder",
+          "start": 190.92
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men Kreml dæmper forventningerne. Ifølge Nettavisen og Dagbladet siger russerne, at der ingen detaljer er.",
+          "segment": "nyheder",
+          "start": 196.73
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og EU afviser det amerikanske udspil om en ny sikkerhedsordning i Europa.",
+          "segment": "nyheder",
+          "start": 204.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så der er langt fra ord til aftale lige nu.",
+          "segment": "nyheder",
+          "start": 209.58
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og i Frankrig går titusindvis på gaden for fjerde lørdag i træk.",
+          "segment": "nyheder",
+          "start": 212.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der er 70.000 betjente ude i dag. Det oplyser indenrigsminister Laurent Nuñez ifølge AFP.",
+          "segment": "nyheder",
+          "start": 217.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er studenter- og fagforeninger, der har indkaldt til de lovlige demonstrationer, blandt andet i det centrale Paris.",
+          "segment": "nyheder",
+          "start": 223.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Problemet er, at de fredelige protester er blevet udnyttet til uro, sammenstød med politiet og plyndringer.",
+          "segment": "nyheder",
+          "start": 232.19
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og derfor den massive politiindsats i dag.",
+          "segment": "nyheder",
+          "start": 239.88
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så lige en hjemlig en. Politiken skriver, at nye tal sår tvivl om en central påstand i debatten om folkepensionisterne.",
+          "segment": "nyheder",
+          "start": 242.89
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Altså den om, at pensionisterne har mærket de høje priser hårdest?",
+          "segment": "nyheder",
+          "start": 251.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Lige præcis. Regeringen bruger det som argument for både lavere moms og flere penge til pensionister.",
+          "segment": "nyheder",
+          "start": 256.39
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men en ny beregning viser altså noget andet.",
+          "segment": "nyheder",
+          "start": 263.64
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Og så bliver det pludselig en diskussion om, hvem pengene egentlig skal gå til.",
+          "segment": "nyheder",
+          "start": 266.8
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi vender tilbage. Lige nu skruer vi op for noget dansk, der kan vække på sådan en grå lørdag. Det er Ukendt Kunstner med Uden Dig.",
+          "segment": "nyheder",
+          "start": 272.75
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:5dNSfOZb6AlEF0Xg6C970o",
+      "name": "Uden Dig",
+      "artist": "Ukendt Kunstner",
+      "album": "Dansktop",
+      "image": "https://i.scdn.co/image/ab67616d0000b27314a6604427d7d932d3103be8",
+      "duration_ms": 191341,
+      "url": "https://open.spotify.com/track/5dNSfOZb6AlEF0Xg6C970o",
+      "kobling": "Grå, overskyet 8-graders lørdag i Aarhus kræver noget der vækker — dansk energi først."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 136.57,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Hvor er det bare en god morgensang.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ikke? Og den passer til sådan en overskyet Aarhus-lørdag.",
+          "segment": "aarhus",
+          "start": 5.16
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og apropos Aarhus. Otte grader, ingen regn, vind op til syv meter i sekundet.",
+          "segment": "aarhus",
+          "start": 9.27
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er faktisk ret pænt vejr til at komme ud af døren.",
+          "segment": "aarhus",
+          "start": 14.83
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, men mørket kommer tidligt. Solen er væk 16:25.",
+          "segment": "aarhus",
+          "start": 18.72
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så hvis du skal en tur i byen, Frederik, så læg den før frokost.",
+          "segment": "aarhus",
+          "start": 22.33
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og tag lygter på cyklen. Det er sådan en dag, hvor det bliver skumring klokken fire.",
+          "segment": "aarhus",
+          "start": 26.95
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er der jo noget hyggeligt ved, at man må tænde stearinlys klokken halv fem.",
+          "segment": "aarhus",
+          "start": 33.01
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Du siger hyggeligt. Jeg siger november.",
+          "segment": "aarhus",
+          "start": 38.86
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Sporten. Og der har været gang i boldene.",
+          "segment": "sport",
+          "start": 44.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, i England er der spillet blandt andet Nottingham Forest mod Manchester City, Arsenal mod Hull City og Fulham mod Newcastle.",
+          "segment": "sport",
+          "start": 47.58
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og du har sikkert set højdepunkterne tre gange allerede.",
+          "segment": "sport",
+          "start": 57.45
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fire. Men hvem tæller.",
+          "segment": "sport",
+          "start": 61.8
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så var der et gensyn, der fik en del opmærksomhed. Haaland.",
+          "segment": "sport",
+          "start": 63.51
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, Dagbladet skriver om Haaland-gensynet, og at det tog af. Han havde ikke forventet den modtagelse.",
+          "segment": "sport",
+          "start": 68.33
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Antonio Nusa bliver hyldet efter sin kamp mod City.",
+          "segment": "sport",
+          "start": 76.18
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, i opgøret mellem RB Leipzig og Manchester City scorede både Nusa og Haaland. Det skriver NRK.",
+          "segment": "sport",
+          "start": 80.37
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "VG skriver ligefrem, at de ikke kan klare sig uden ham.",
+          "segment": "sport",
+          "start": 87.91
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det er altså stærkt sagt om en spiller på hans alder.",
+          "segment": "sport",
+          "start": 92.18
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hjemme i Superligaen har Silkeborg hentet tre vigtige point i en bundgyser.",
+          "segment": "sport",
+          "start": 96.54
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er lige præcis de point, der tæller dobbelt til foråret.",
+          "segment": "sport",
+          "start": 102.36
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og der er dansk glæde i Bundesligaen. Albert Grønbæk har scoret et drømmemål.",
+          "segment": "sport",
+          "start": 107.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "DR Sporten kalder det en stor forløsning for ham. Og det har han nok også brug for.",
+          "segment": "sport",
+          "start": 113.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så vender en dansk landsholdsstjerne hjem til Odense. Det er på håndboldsiden.",
+          "segment": "sport",
+          "start": 119.46
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hm, okay. Så der er også noget at glæde sig til på Fyn.",
+          "segment": "sport",
+          "start": 125.75
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi holder øje. Og nu skruer vi op igen, for her er Doja Cat med Paint The Town Red.",
+          "segment": "sport",
+          "start": 130.03
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:2IGMVunIBsBLtEQyoI1Mu7",
+      "name": "Paint The Town Red",
+      "artist": "Doja Cat",
+      "album": "Paint The Town Red",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e69a141e4ffe839c38c4c228",
+      "duration_ms": 231750,
+      "url": "https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7",
+      "kobling": ""
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 110.46,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den der bassgang er simpelthen for fed.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så til musiknyt, hvor der faktisk er en lidt tung historie først.",
+          "segment": "musik",
+          "start": 5.54
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Macklemore, ja.",
+          "segment": "musik",
+          "start": 10.62
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja. Han siger ifølge Soundvenue, at ni store amerikanske arenaer har afvist at lægge hus til hans Free Palestine-turné.",
+          "segment": "musik",
+          "start": 11.74
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det er store navne. Madison Square Garden, Barclays Center, Crypto-arenaen i Los Angeles og flere til.",
+          "segment": "musik",
+          "start": 20.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han skriver på Instagram, at de havde fået ledige datoer helt frem til årets afslutning.",
+          "segment": "musik",
+          "start": 28.48
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så fandt arenaerne ud af, at det var velgørenhedskoncerter for Palæstina. Og så var datoerne pludselig væk.",
+          "segment": "musik",
+          "start": 35.05
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han siger, at han aldrig har oplevet noget lignende i over tyve år på turné.",
+          "segment": "musik",
+          "start": 43.27
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det skal lige siges, at en talsperson for Madison Square Garden har svaret igen.",
+          "segment": "musik",
+          "start": 48.95
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, så der er to sider. Og det samme gælder en anden historie fra i år.",
+          "segment": "musik",
+          "start": 54.93
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ed Sheeran fjernede ham jo som opvarmningsnavn i september. Men hans europæiske turné spillede for udsolgte sale i Dublin, London og Paris.",
+          "segment": "musik",
+          "start": 60.23
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så noget helt andet. U2 er tilbage med et nyt album efter ni år.",
+          "segment": "musik",
+          "start": 70.61
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ni år. Hold da op.",
+          "segment": "musik",
+          "start": 75.62
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og ifølge Radio Haugaland rummer det Dolly Partons sidste vokalindspilning.",
+          "segment": "musik",
+          "start": 76.97
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Altså det der bliver sådan et album, man lytter til hele vejen igennem.",
+          "segment": "musik",
+          "start": 82.57
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er der en, der nok får lidt flere afspilninger. Future har et nyt album ude.",
+          "segment": "musik",
+          "start": 87.87
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og på første nummer, Ya Hit, har han både Drake og Travis Scott med. Og Loe Shimmy. Det skriver Pitchfork.",
+          "segment": "musik",
+          "start": 94.0
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er altså en ret tung gæsteliste.",
+          "segment": "musik",
+          "start": 101.92
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, og så tager vi en klassiker fra den ene af dem. Travis Scott, SICKO MODE.",
+          "segment": "musik",
+          "start": 104.61
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:2xLMifQCjDGFmkHkpNLD9h",
+      "name": "SICKO MODE",
+      "artist": "Travis Scott",
+      "album": "ASTROWORLD",
+      "image": "https://i.scdn.co/image/ab67616d0000b273daec894c14c0ca42d76eeb32",
+      "duration_ms": 312820,
+      "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h",
+      "kobling": "Direkte kobling til musiknyt: Future, Drake og Travis Scott er gået sammen om nummeret 'Ya Hit' fra Futures nye album."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 111.55,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så dagens lette historie, som handler om ananas på pizza.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Åh nej. Her går vi i krig.",
+          "segment": "let",
+          "start": 7.09
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Den italienske kok Davide Tamburella blev i maj fyret fra en restaurant i Brisbane i Australien.",
+          "segment": "let",
+          "start": 9.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fordi han ikke ville servere hawaii-pizza?",
+          "segment": "let",
+          "start": 16.17
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det var en af klagerne, ja. Han nægtede at servere skinke og ananas til nogle gæster.",
+          "segment": "let",
+          "start": 19.29
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvad var begrundelsen?",
+          "segment": "let",
+          "start": 25.61
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "At det som italiener er en fornærmelse mod hans kultur. Han mente ikke, ledelsens anbefalinger behøvede at blive fulgt, når de var krænkende.",
+          "segment": "let",
+          "start": 27.47
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ha! Det er altså en modig fortolkning af en jobbeskrivelse.",
+          "segment": "let",
+          "start": 37.96
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han bad også sin chef om at undersøge, hvor vigtigt det her egentlig er for italienere.",
+          "segment": "let",
+          "start": 42.35
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Som en slags obligatorisk læsning.",
+          "segment": "let",
+          "start": 48.82
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han gik så til den australske arbejdsmyndighed, fordi han mente, fyringen var uretmæssig. Det skriver BBC.",
+          "segment": "let",
+          "start": 51.35
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvordan gik det?",
+          "segment": "let",
+          "start": 59.23
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han tabte. Og det var faktisk fordi ansøgningen blev indgivet for sent.",
+          "segment": "let",
+          "start": 60.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så det blev ikke afgjort på ananasspørgsmålet.",
+          "segment": "let",
+          "start": 65.93
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej. Og restaurantens direktør siger til Daily Mail, at der er mere til historien end pizzafyld.",
+          "segment": "let",
+          "start": 69.35
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der er altid mere til historien end pizzafyld.",
+          "segment": "let",
+          "start": 76.49
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det var Morgenradio for i dag. Tak fordi du lyttede med, Frederik.",
+          "segment": "outro",
+          "start": 82.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Husk nu, at dagslyset er på udsalg. Kom ud før klokken fire.",
+          "segment": "outro",
+          "start": 87.74
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Otte grader, tørvejr og en hel lørdag foran dig. Det er til at leve med.",
+          "segment": "outro",
+          "start": 92.17
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og vi slutter dansk og med godt humør. Her er Nik og Jay med Hot!",
+          "segment": "outro",
+          "start": 97.5
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hav en rigtig god lørdag.",
+          "segment": "outro",
+          "start": 102.31
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:7xWiCG3N7tFgPTNGVYQoq8",
+      "name": "Hot!",
+      "artist": "Nik & Jay",
+      "album": "Nik & Jay",
+      "image": "https://i.scdn.co/image/ab67616d0000b273941828f300ece9febf65ae3c",
+      "duration_ms": 192840,
+      "url": "https://open.spotify.com/track/7xWiCG3N7tFgPTNGVYQoq8",
+      "kobling": "Dansk afslutning med godt humør inden solen går ned allerede 16:25."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 653.22,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Demonstranter bryder ind i Microsofts datacenter",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/demonstranter-bryder-ind-i-microsofts-datacenter"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Tesla avvikler produksjonen av Cybertruck",
+      "kilde": "mn24.no",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbGJNQ2FIZ1p4Q3pVamJaQmUwZGVzcFFyVjYzcjJzTVBzazhuR1N2TGcybjViYzR0VUg2b0VTeU5vcHNHcktSZWtXWHFWbm1FZU1ZYTR5bnBDMm5pLWJaMHp3WWhYeUhvOFd3RHJjcmdIZDlodUFfQ1pZTFBxa2NwZlduZVg?oc=5"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Kreml demper Trumps «store og vakre» Ukraina-avtale",
+      "kilde": "Nettavisen",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQalJoemhlNEIwQTU4bGJDNHdQbkpLYVROWTRrbGUzamd6aExLYkJpZ0NheDB5TkZ1cUR0Z29ZOTcxUUdUOU5KMVp0cURtVjl5Mk0xZURTRUN0RjhmTmpzQVhlWHNmNFVPRmtURU9Tb0tGOXNtTnhIVW1YX3RNeTEyank2bzh0UXYxSDZxSTdySG9QRk5RX1EyWWVhVHNwYmc?oc=5"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "For fjerde lørdag i træk går titusindvis på gaden i Frankrig",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/fjerde-loerdag-i-traek-gaar-titusindvis-paa-gaden-i-frankrig"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Nye tal sår tvivl om påstanden om folkepensionisterne og den dårligere købekraft",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/danmark/oekonomi/art11046024/Nye-tal-s%C3%A5r-tvivl-om-p%C3%A5standen-om-folkepensionisterne-og-den-d%C3%A5rligere-k%C3%B8bekraft"
+    },
+    {
+      "segment": "sport",
+      "titel": "Nottingham Forest - Manchester City sammendrag Fotball resultat og høydepunkter",
+      "kilde": "Eurosport",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2FYTld4MFlXNkp2bGZMSV9heDVJX3dmMVdreDZ0V1lTOG5GQS0wWEJSZi1HXzg2YVcydVNXU2pDcmstdkFYNFVRQnFkUThKM19aSmo4bkp3WGdQTzRLczZlRWtleVpFbnFvdTVjMVFJLVJ2Y0EzMTVPcTlDNnFqN3hZUjRvY1ItZzA5Vjg2V0x3SklGVjhTR1dPTjAwc0RFbU9fMVhNMVlGV2xteEZmd3IzamlpTmRNd25r?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Haaland-gjensyn tok av: - Ikke forventet",
+      "kilde": "Dagbladet",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRG5OdGxKeEhIWC0tSy04MHFGMVBGNFhtaWt6OE5UNFhsN3FlT05mRmxBZmx6VjRFNGRWalRfblBoY3kxcGxMWm5KY3k1OFlZWU5QVHE3NmJCeG1YR0drdkdHbGxnaW91cW92Qnc2cUpiTEpkdjhsaVRxQXFHQThGanZsbw?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Dansk landsholdsstjerne vender hjem til Odense",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/haandbold/liveblog-med-seneste-nyt-om-dansk-og-international-haandbold"
+    },
+    {
+      "segment": "sport",
+      "titel": "Silkeborg henter tre vigtige point i bundgyser",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12787773#liveblog-embed"
+    },
+    {
+      "segment": "musik",
+      "titel": "Future, Drake, and Travis Scott Join Forces for “Ya Hit”",
+      "kilde": "Pitchfork News",
+      "link": "https://pitchfork.com/story/future-drake-and-travis-scott-join-forces-for-ya-hit/"
+    },
+    {
+      "segment": "musik",
+      "titel": "Macklemore påstår, at ni amerikanske arenaer nægtede værtskab til ‘Free Palestine’-turné",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/macklemore-paastaar-at-ni-amerikanske-arenaer-naegtede-vaertskab-til-free-palestine-turne-703963"
+    },
+    {
+      "segment": "musik",
+      "titel": "U2 tilbake med nytt album etter ni år – med Dolly Partons siste vokalinnspilling",
+      "kilde": "Radio Haugaland",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXNNR1NmLXVtdFlmUUtNeC15Qk5uSlE2eGFSRWNXRXBYWXJJemRlM3ZXdzlia2xPZy1BblNfZGxjeDBLSjBETWtzQ1hMNHZvaEk5RmZ1cVB5WkxWQVFkb1NMWFhDbi1za0lmRFlxMlRBRGFUM0JralBFeUlaSVlSdFA2aXZMZFMzbzk4d3JvZTlKalFvWkFsdjZJTXphdw?oc=5"
+    },
+    {
+      "segment": "let",
+      "titel": "Italiensk kok mente, at pizza med ananas krænkede hans kultur - nu er sagen afgjort",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/italiensk-kok-mente-pizza-med-ananas-kraenkede-hans-kultur-nu-er-sagen-afgjort"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (40)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (5)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (1)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (5)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (29)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (18)"
+  },
+  "test": false
+}

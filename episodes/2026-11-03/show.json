@@ -1,0 +1,824 @@
+{
+  "date": "2026-11-03",
+  "dato_tekst": "tirsdag den 3. november 2026",
+  "title": "Midtvejsvalg i USA, AI-nervøsitet på børserne og Smukfest udsolgt",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-03T11:55:33+01:00",
+  "tema": "USA går til midtvejsvalg, mens AI-nervøsitet ryster børserne – og i Aarhus er det en grå, tør novembertirsdag med 9 grader.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 264.58,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "God morgen, Frederik! Du lytter til Morgenradio, og det er tirsdag den 3. november.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. November har meldt sin ankomst med fuld kraft.",
+          "segment": "intro",
+          "start": 15.33
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi har en stor dag foran os. Amerikanerne går til midtvejsvalg.",
+          "segment": "intro",
+          "start": 20.27
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og børserne i Asien skælver over kunstig intelligens. Flere finanstoppe advarer om en boble.",
+          "segment": "intro",
+          "start": 25.73
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skal også forbi en stærk afsløring fra DR. Og så er der sport og musik.",
+          "segment": "intro",
+          "start": 33.7
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men først vejret. Og Sofie, det er altså gråt.",
+          "segment": "intro",
+          "start": 40.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er det. Ni grader i Aarhus lige nu, og helt overskyet.",
+          "segment": "intro",
+          "start": 44.1
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Dagen igennem mellem fem og ni grader. Og nul procent chance for regn.",
+          "segment": "intro",
+          "start": 49.13
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nul procent! Så cyklen kan godt tages, Frederik. Vinden er svag, højst fem meter i sekundet.",
+          "segment": "intro",
+          "start": 55.19
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Solen står først op halv otte. Så tag lys på.",
+          "segment": "intro",
+          "start": 63.17
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og den går ned igen 16:34. Nå. Nyhederne.",
+          "segment": "intro",
+          "start": 67.07
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "I dag stemmer amerikanerne. Midtvejsvalg, og det bliver læst som en afstemning om Trump.",
+          "segment": "nyheder",
+          "start": 73.35
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "VG skriver direkte, at det er valget som kan ændre alt.",
+          "segment": "nyheder",
+          "start": 80.18
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og målingerne peger på stor utilfredshed. Dagbladet kalder det en krisemåling.",
+          "segment": "nyheder",
+          "start": 84.44
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men der er også modstemmer. Ketil Solvik-Olsen siger til Nettavisen, at USA ikke står på kanten af afgrunden.",
+          "segment": "nyheder",
+          "start": 90.5
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hm. Hvad er det ellers, der fylder derovre lige nu?",
+          "segment": "nyheder",
+          "start": 98.95
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jo, Nettavisen skriver, at Trump vil benåde Elon Musk på forhånd.",
+          "segment": "nyheder",
+          "start": 102.91
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Altså inden der overhovedet er en sag?",
+          "segment": "nyheder",
+          "start": 107.95
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er sådan, det beskrives. Vi følger det.",
+          "segment": "nyheder",
+          "start": 110.9
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er der Iran. Flere medier melder om nye amerikanske angreb.",
+          "segment": "nyheder",
+          "start": 114.24
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "VG skriver, at USA skal have angrebet en iransk ø. E24 melder om nye angreb mod Iran.",
+          "segment": "nyheder",
+          "start": 119.28
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og ABC Nyheter bringer en påstand om, at et atomangreb kan være dage væk.",
+          "segment": "nyheder",
+          "start": 125.88
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er en påstand, og den skal man tage med forbehold. Men nabolandene slår alarm.",
+          "segment": "nyheder",
+          "start": 131.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ifølge AP presser Netanyahu på for amerikanske angreb mod Iran efter midtvejsvalget.",
+          "segment": "nyheder",
+          "start": 137.9
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi holder øje med det hele dagen.",
+          "segment": "nyheder",
+          "start": 144.42
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hjemligt: et dansk fly er sikkerhedslandet i Polen efter en trussel.",
+          "segment": "nyheder",
+          "start": 146.98
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "DR skriver, at lufthavnen Warszawa-Modlin er lukket efter en mulig trussel om sprængstof på et fly fra London.",
+          "segment": "nyheder",
+          "start": 152.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og ifølge Politiken er et SAS-fly fra København angiveligt landet i en anden polsk lufthavn.",
+          "segment": "nyheder",
+          "start": 160.79
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der er ikke meldt om nogen kommet til skade. Billedet er stadig uklart.",
+          "segment": "nyheder",
+          "start": 167.93
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så til økonomien, hvor det er teknologiaktierne, der styrer stemningen.",
+          "segment": "nyheder",
+          "start": 173.44
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Finansavisen skriver om blandet stemning i Asien. Tech falder, og der er en renteforhøjelse i spil.",
+          "segment": "nyheder",
+          "start": 178.95
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det er ikke bare et lille dyk. Dagens Næringsliv skriver, at finanstoppe advarer mod investeringer i kunstig intelligens.",
+          "segment": "nyheder",
+          "start": 186.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Reitan Kapital advarer direkte mod en AI-boble.",
+          "segment": "nyheder",
+          "start": 195.97
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Frederik, det her er nok en af dem, du får på bordet på bureauet i dag.",
+          "segment": "nyheder",
+          "start": 199.38
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, for når markedet bliver nervøst, bliver budgetterne det også.",
+          "segment": "nyheder",
+          "start": 204.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men boble eller ej, værktøjerne forsvinder jo ikke i morgen.",
+          "segment": "nyheder",
+          "start": 209.26
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Det er mere prisen på dem, diskussionen handler om.",
+          "segment": "nyheder",
+          "start": 213.62
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så en alvorlig afsløring fra DR. To danskere står bag et verdensomspændende sadistisk netværk.",
+          "segment": "nyheder",
+          "start": 217.69
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Netværket kalder sig 1414. Ifølge DR afpresses børn og unge til hærværk, dyremishandling, selvskade og vold.",
+          "segment": "nyheder",
+          "start": 224.74
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "DR har forelagt sin research for Europol, som bekræfter, at netværket er stiftet af to danskere.",
+          "segment": "nyheder",
+          "start": 232.58
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "En teamleder i Europols Project Compass kalder det en af de mest berygtede grupper, de overvåger lige nu.",
+          "segment": "nyheder",
+          "start": 239.56
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og han siger, at der ingen fast ideologi er bag. Det eneste, de vil, er at sprede rædsel.",
+          "segment": "nyheder",
+          "start": 247.19
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Netværket er stadig aktivt. Har man brug for hjælp, kan man ringe til Livslinien.",
+          "segment": "nyheder",
+          "start": 253.65
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi lader lige musikken tage over. Her er Lukas Graham med Mama Said.",
+          "segment": "nyheder",
+          "start": 259.54
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:7675gjlUZzneYiMrQ9Inx8",
+      "name": "Mama Said",
+      "artist": "Lukas Graham",
+      "album": "Lukas Graham (Blue Album)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c2ba50154a64c3c898ec7e2",
+      "duration_ms": 206756,
+      "url": "https://open.spotify.com/track/7675gjlUZzneYiMrQ9Inx8",
+      "kobling": "Dansk vækker med fuld fart i en grå og overskyet novembermorgen – der skal lys på inden solen først står op 07:30."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 124.47,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "God vækning, den der. Den kan man godt stille vækkeuret til.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så til Aarhus, hvor byen altså ligger under et solidt gråt låg i dag.",
+          "segment": "aarhus",
+          "start": 7.87
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Helt overskyet, ingen regn. Det er faktisk den bedste udgave af en grå dag.",
+          "segment": "aarhus",
+          "start": 14.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Tørvejr hele vejen. Så det er cykelvejr, hvis man gider jakken.",
+          "segment": "aarhus",
+          "start": 20.7
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men det er mørkt, når man tager hjemmefra. Og mørkt igen klokken halv fem.",
+          "segment": "aarhus",
+          "start": 26.2
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ni timer lys. Vi skal nok lige vænne os til det.",
+          "segment": "aarhus",
+          "start": 32.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jeg har allerede købt stearinlys. Det er vist svaret.",
+          "segment": "aarhus",
+          "start": 36.85
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Nå, sporten.",
+          "segment": "aarhus",
+          "start": 41.47
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter med en trist nyhed fra spansk fodbold.",
+          "segment": "sport",
+          "start": 45.6
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tenerife-spilleren Jesús de Miguel er død efter hjertestop. Det skriver blandt andre Dagbladet og VG.",
+          "segment": "sport",
+          "start": 49.56
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ifølge DR Sporten skete det efter en kollision på banen.",
+          "segment": "sport",
+          "start": 57.72
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Reaktionerne i Spanien er præget af sorg. En klub skriver, at der ikke findes trøstende ord.",
+          "segment": "sport",
+          "start": 62.24
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vores tanker går til hans familie og klub.",
+          "segment": "sport",
+          "start": 69.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "I England har West Ham fyret manageren efter en række nederlag.",
+          "segment": "sport",
+          "start": 73.07
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvem overtager?",
+          "segment": "sport",
+          "start": 78.16
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ifølge VG tager en klublegende over midlertidigt. TV 2 skriver, at afløseren skal være klar.",
+          "segment": "sport",
+          "start": 79.37
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det går stærkt i den branche.",
+          "segment": "sport",
+          "start": 86.8
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det gør det altid. Og Newcastle havde heller ikke en god aften.",
+          "segment": "sport",
+          "start": 89.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nå?",
+          "segment": "sport",
+          "start": 94.24
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Everton vandt på et mål af Barry. VG kalder Newcastle tafatte, og kritikken lyder: for lidt kvalitet.",
+          "segment": "sport",
+          "start": 94.48
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og herhjemme, der gik det nemt for København.",
+          "segment": "sport",
+          "start": 102.64
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, DR Sporten skriver, at FCK spadserede til sejr mod et tamt Sønderjyske.",
+          "segment": "sport",
+          "start": 106.28
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Spadserede. Det er jo ikke ligefrem en kompliment til modstanderen.",
+          "segment": "sport",
+          "start": 112.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Men pointene tæller det samme.",
+          "segment": "sport",
+          "start": 117.75
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi holder tempoet. Her er Drakee med One Dance.",
+          "segment": "sport",
+          "start": 120.58
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:55ZWVMSdqi9VQACs86wdAt",
+      "name": "One Dance",
+      "artist": "Drakee",
+      "album": "One Dance",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eee1d96647ec53dd6e384787",
+      "duration_ms": 173050,
+      "url": "https://open.spotify.com/track/55ZWVMSdqi9VQACs86wdAt",
+      "kobling": "Internationalt hit med groove efter en tung nyhedsblok – holder tempoet oppe uden at blive for meget."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 111.29,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den der går aldrig af mode. Ti år på bagen, og den sidder stadig.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så til musiknyt, hvor Malte Ebert trækker en sang tilbage.",
+          "segment": "musik",
+          "start": 7.25
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er nummeret En ild der altid brænder, som er med i TV 2-programmet Alle elsker Rasmus.",
+          "segment": "musik",
+          "start": 11.59
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Programmet er trukket tilbage efter hård kritik. Nu ryger sangen også af streamingtjenesterne.",
+          "segment": "musik",
+          "start": 17.99
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han skriver på Instagram, at han ikke skulle have udgivet den, og at ansvaret er hans.",
+          "segment": "musik",
+          "start": 24.67
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og ifølge Soundvenue var sangen oprindeligt dedikeret til hans forlovede.",
+          "segment": "musik",
+          "start": 30.78
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så den har personlig betydning. Han tøvede faktisk først.",
+          "segment": "musik",
+          "start": 35.97
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Flere medvirkende har undskyldt, blandt andre Anders W. Berthelsen og Josephine Højbjerg.",
+          "segment": "musik",
+          "start": 40.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så noget helt andet. Soundvenue har kigget på, hvor dansk pop henter inspiration lige nu.",
+          "segment": "musik",
+          "start": 46.35
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hvor gør den så det?",
+          "segment": "musik",
+          "start": 52.89
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hos amerikanerne Mk.gee og Dijon. Hullede, nærmest spøgelsesagtige kompositioner og afpillet lofi-produktion.",
+          "segment": "musik",
+          "start": 54.53
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Dem har man hørt på Bon Ivers seneste og på Justin Biebers Swag, ikke?",
+          "segment": "musik",
+          "start": 62.28
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jo, præcis. Og nu popper lyden op hos Lord Siva, Guzo, Bette og Ozzy.",
+          "segment": "musik",
+          "start": 67.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvordan lyder det egentlig?",
+          "segment": "musik",
+          "start": 72.16
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Rumligt. Som om alt er optaget på én mikrofon midt i lokalet. Vådt af rumklang, men alligevel knastørt.",
+          "segment": "musik",
+          "start": 74.08
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er vildt, at to navne kan vende hele lyden sådan.",
+          "segment": "musik",
+          "start": 81.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så en sidste: Sam Fender synger på årets John Lewis-julereklame.",
+          "segment": "musik",
+          "start": 85.17
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Allerede? Vi er jo lige landet i november.",
+          "segment": "musik",
+          "start": 89.93
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, ja. Han har lavet et cover af Rolling Stones' You Can't Always Get What You Want.",
+          "segment": "musik",
+          "start": 92.92
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hvad siger Mick Jagger til det?",
+          "segment": "musik",
+          "start": 98.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ifølge NME synes han, Fender har gjort det rigtig godt. Det er vist blåstemplet nok.",
+          "segment": "musik",
+          "start": 101.38
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så lad os høre ham. Sam Fender, Seventeen Going Under.",
+          "segment": "musik",
+          "start": 107.35
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:1Dp7ASSZVVOPJ85VdLpjOX",
+      "name": "Seventeen Going Under",
+      "artist": "Sam Fender",
+      "album": "Seventeen Going Under",
+      "image": "https://i.scdn.co/image/ab67616d0000b273504b74c88ce63e33826c553b",
+      "duration_ms": 302360,
+      "url": "https://open.spotify.com/track/1Dp7ASSZVVOPJ85VdLpjOX",
+      "kobling": "Direkte kobling til musiknyt: Sam Fender synger på årets John Lewis-julereklame med et Rolling Stones-cover, som Mick Jagger selv roser."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 77.13,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den sang rammer mig hver eneste gang.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så noget lettere. Smukfest er udsolgt.",
+          "segment": "let",
+          "start": 5.84
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvor hurtigt?",
+          "segment": "let",
+          "start": 9.4
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Godt halvanden time. Salget åbnede klokken ti, og der var kø fra starten.",
+          "segment": "let",
+          "start": 10.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hold da op. Partoutbilletterne er altså væk.",
+          "segment": "let",
+          "start": 16.87
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det skriver Politiken. Og det er jo lige i baghaven, Skanderborg.",
+          "segment": "let",
+          "start": 20.7
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tyve minutter i tog fra Aarhus. Så du skulle have siddet klar ved ti.",
+          "segment": "let",
+          "start": 26.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der er altså noget trøstende ved, at folk stadig gider stå i kø for en festival i august.",
+          "segment": "let",
+          "start": 32.33
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Midt i en grå novembertirsdag. Ja, det hjælper faktisk.",
+          "segment": "let",
+          "start": 40.06
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det var Morgenradio for i dag. Tak fordi du lyttede med, Frederik.",
+          "segment": "outro",
+          "start": 47.57
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Husk lyset på cyklen. Det er mørkt derude til halv otte.",
+          "segment": "outro",
+          "start": 52.84
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Tørvejr hele dagen, og op til ni grader. Hav en rigtig god tirsdag.",
+          "segment": "outro",
+          "start": 57.12
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi slutter med noget dansk og noget festivalagtigt.",
+          "segment": "outro",
+          "start": 62.24
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Her er Hjalmer med Dig Og Mig. Vi ses i morgen.",
+          "segment": "outro",
+          "start": 66.14
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:2MvTYQvSg56qlzHgyZNhFK",
+      "name": "Dig Og Mig",
+      "artist": "Hjalmer",
+      "album": "Midt I En Drøm Eller Noget Der Ligner",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb7b16f790225ce480cc16d0",
+      "duration_ms": 192693,
+      "url": "https://open.spotify.com/track/2MvTYQvSg56qlzHgyZNhFK",
+      "kobling": "Dansk festivalstemning til afslutningen, hvor Smukfest-billetterne røg på halvanden time – lige i baghaven i Skanderborg."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 589.85,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Valget som kan endre alt: –⁠ Avstemning om Trump",
+      "kilde": "VG",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZUU3WEdtQ2xIdGlES2lyTDRabnFFZU5iZl9FVUlPWlM0ZzBWY1lTY3VtaHA2YU1FdVRyTXRVbEpISWNSdGtaeEJudFg0amdFUVRzU0JsT3NPeEY2Y0dOS1dOeDRTMlpjNWZGdUcyWDNVVlVCX0RDcTdJZVRpdXhQQ0ltUzFLdw?oc=5"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Hevder atomangrep kan være dager unna",
+      "kilde": "ABC Nyheter",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWF2VE5uQ3pxT3Y2OTNmM3lDclcyTG10QWROTGw1am5Oa2JmR002V0ZNaDNSd2JNeFozRjRVNnQ4NE85NmVjcU9QVDlOMEdndzFYaUVrYnJhaUU0MjNxb2pQdEJsSU9LbmFOOTg4SUctNFhJYTQzX1JiTVc3NHV4b2h1REdSX2ZEVkdOOUtCcXNQRFNYODV6dW1sTTRfQWtTY1Jzd2V3?oc=5"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Dansk fly sikkerhedslandet i Warszawa efter trussel",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/fly-lander-i-polen-efter-mulig-bombetrussel"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Blandet stemning: Tech-fall og renteheving preger børsene i Asia",
+      "kilde": "Finansavisen",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVXQza0FZektBZ21iLXNBWlA4dXN3QjZQZ0w1RTNiUGJTNHRqeFN2U056cDJmVy1Ic1d4Q3RNQi1CcWktcFhuTldjYndSOXh5ZnFDQXlJZDdfb29FdGZMWmRQTVMxOF95Umw5bjc5SHo3Rzhpdlpzb2cxMDJfdlpWYWR1VnlKSzhVV3lEd1RGaEtjRzVfbEZSdlU0SGJlTTFzWTlnQkdtWDdYbkFqdFl1UFFYMDB1R0l5?oc=5"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "DR afslører: To danskere står bag verdensomspændende sadistisk netværk",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/p3/dr-afsloerer-danskere-staar-bag-verdensomspaendende-sadistisk-netvaerk"
+    },
+    {
+      "segment": "sport",
+      "titel": "Fotballspiller død etter hjertestans",
+      "kilde": "Dagbladet",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOWdNQVA2QTBjeXhaRG41SjJsVjNTQk1XbVZKZks3T1h4VUtWMk5qYS16b2t6YVVBN3FGUzZseFl0UlJGMFl5MWtMWE40N2VIYkFkN1BZTVBHdk83Tlkya3NFQkZsRDZpeHFWZ1JVcHNjaFE1dG05VDhkX1E5UVRNZHZ3?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "West Ham sparket manageren",
+      "kilde": "Stavanger Aftenblad",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTmxzcWZxSVQyUmdpbl9IWXNoQ1dUdXZXdWhVZWlfRnNvODBNRU90SU5rWkN6dDRxM0VKcjJHQ3dUQWNGa0xBX3M4VElGLV9ENGhHam5aMDVpX19MVnA5Zkg0Y2tKemwzRnNTdVBTaXZITkNGYWVLUll4a3RaYWFiM3hJMnpQWVJoYWFkR3pn?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Barry-mål senket tafatt Newcastle: –⁠ For lite kvalitet",
+      "kilde": "VG",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQckdpNTMzdFZ6b2NNaUctZkJoTUJCUkNjazd2UUFoQnBudGp5VkFrSTlxWDg3V29zSXVXWGNxRHNkVWJJVGsyeE1MN3pxdzdhZDJ6U0NNNHhzS3FRQ21zVDl1UEljMXZGd0dqMERDSmVkTlZDN3E1aWFZVzRhcjdibklnU2NLUmNLYnhtcGJ4TWVKX003?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "F.C. København spadserer til sejr mod tamme Sønderjyske",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12762058#liveblog-embed"
+    },
+    {
+      "segment": "musik",
+      "titel": "Malte Ebert trækker ‘Alle elsker Rasmus’-sang tilbage",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/malte-ebert-traekker-alle-elsker-rasmus-sang-tilbage-703228"
+    },
+    {
+      "segment": "musik",
+      "titel": "Der er ingen tvivl om, hvem de danske popmusikere er inspireret af lige nu",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/der-er-ingen-tvivl-om-hvem-de-danske-popmusikere-er-inspireret-af-lige-nu-703123"
+    },
+    {
+      "segment": "musik",
+      "titel": "Sam Fender soundtracks 2026 John Lewis Christmas advert with cover of The Rolling Stones’ ‘You Can’t Always Get What You Want’",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/music/sam-fender-soundtracks-2026-john-lewis-christmas-advert-with-cover-of-the-rolling-stones-you-cant-always-get-what-you-want-3974871?utm_source=rss&utm_medium=rss&utm_campaign=sam-fender-soundtracks-2026-john-lewis-christmas-advert-with-cover-of-the-rolling-stones-you-cant-always-get-what-you-want"
+    },
+    {
+      "segment": "let",
+      "titel": "Partoutbilletter til Smukfest udsolgt på godt halvanden time",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/kultur/musik/art11045792/Partoutbilletter-til-Smukfest-udsolgt-p%C3%A5-godt-halvanden-time"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (40)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (3)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (4)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (30)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (14)"
+  },
+  "test": false
+}
