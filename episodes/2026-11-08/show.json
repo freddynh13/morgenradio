@@ -1,0 +1,896 @@
+{
+  "date": "2026-11-08",
+  "dato_tekst": "søndag den 8. november 2026",
+  "title": "Grå Aarhus-søndag, terror i Krakow og derby i Parken",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-08T11:25:36+01:00",
+  "tema": "Grå novembersøndag i Aarhus med terrorchok fra Krakow, AI i de danske klasselokaler og en fodboldsøndag med derby i Parken og Premier League på skærmen.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 283.23,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen Frederik, og velkommen til Morgenradio. Det er søndag den ottende november.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Og det er sådan en rigtig grå en af slagsen i dag.",
+          "segment": "intro",
+          "start": 14.65
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er det. Vi skal om lidt til Polen, hvor seks mennesker er dræbt i et skyderi i Krakow.",
+          "segment": "intro",
+          "start": 19.33
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så kigger vi på kunstig intelligens i folkeskolen. Ingen regler, nærmest.",
+          "segment": "intro",
+          "start": 26.22
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Plus derby i Parken klokken tolv. Men først: vejret i Aarhus.",
+          "segment": "intro",
+          "start": 32.04
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Seks grader lige nu og overskyet. Det er ikke ligefrem en terrassemorgen.",
+          "segment": "intro",
+          "start": 36.72
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej. Og der kommer lidt støvregn i løbet af dagen. Mellem seks og otte grader.",
+          "segment": "intro",
+          "start": 42.31
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men kun seks procent risiko for nedbør, står der. Vinden op til syv meter i sekundet.",
+          "segment": "intro",
+          "start": 48.29
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så cyklen kan sagtens bruges, Frederik. Bare tag jakken på.",
+          "segment": "intro",
+          "start": 54.8
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Solen står op klokken enogfyrre minutter over syv. Og går ned treogtyve minutter over fire.",
+          "segment": "intro",
+          "start": 59.32
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Altså otte en halv times lys. November, ikke?",
+          "segment": "intro",
+          "start": 66.29
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter i Polen. Seks mennesker er dræbt i et skyderi i Krakow.",
+          "segment": "nyheder",
+          "start": 72.47
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det skete på Rynek Główny, hovedtorvet i den gamle bydel. Omkring klokken femten i går.",
+          "segment": "nyheder",
+          "start": 77.45
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ifølge polsk politi kørte en mand ind på pladsen i en bil og begyndte at skyde mod tilfældige.",
+          "segment": "nyheder",
+          "start": 84.01
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "DR skriver, at op mod seksten er såret. Blandt andet politibetjente.",
+          "segment": "nyheder",
+          "start": 91.1
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Gerningsmanden blev tilbageholdt. Polens premierminister, Donald Tusk, kalder det terrorisme.",
+          "segment": "nyheder",
+          "start": 96.23
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han skriver på X, at han løbende bliver orienteret af indenrigsministeriet.",
+          "segment": "nyheder",
+          "start": 103.24
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og vi ved endnu ikke noget om ofrenes nationalitet. Krakow er Polens næststørste by.",
+          "segment": "nyheder",
+          "start": 108.9
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Med turister året rundt. Også mange danskere.",
+          "segment": "nyheder",
+          "start": 115.24
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi følger det gennem dagen.",
+          "segment": "nyheder",
+          "start": 118.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så til noget helt andet. Danske skoler har stort set ingen regler for børns brug af kunstig intelligens.",
+          "segment": "nyheder",
+          "start": 120.67
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det skriver Politiken. Kun ganske få skoler har en politik eller en aldersgrænse.",
+          "segment": "nyheder",
+          "start": 128.51
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det på trods af, at der er klare tegn på, at det underminerer elevernes læring.",
+          "segment": "nyheder",
+          "start": 134.62
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvad er det, der går galt? At de får svaret før de har tænkt?",
+          "segment": "nyheder",
+          "start": 140.81
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Lidt. Avisen kalder det, at tilfældighederne blafrer. Det er én skole, én lærer, én holdning.",
+          "segment": "nyheder",
+          "start": 145.41
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hm. Det minder lidt om, da arbejdspladserne skulle finde ud af det samme.",
+          "segment": "nyheder",
+          "start": 152.42
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, Frederik sidder jo med det til daglig. Først bruger alle det, bagefter kommer retningslinjerne.",
+          "segment": "nyheder",
+          "start": 157.93
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Præcis. Og børnene har bare ikke en chef, der skriver en politik.",
+          "segment": "nyheder",
+          "start": 165.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nå, men over til elprisen. Den er den højeste i knap fire år lige nu.",
+          "segment": "nyheder",
+          "start": 170.3
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og årsagen har sådan et næsten poetisk navn. Dunkelflaute.",
+          "segment": "nyheder",
+          "start": 175.5
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Mørkt og stille. Lidt sol på cellerne, lidt vind i møllerne.",
+          "segment": "nyheder",
+          "start": 179.88
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Altså præcis sådan en dag som i dag.",
+          "segment": "nyheder",
+          "start": 184.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Så måske vent med vaskemaskinen til det blæser igen.",
+          "segment": "nyheder",
+          "start": 187.45
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så en historie jeg faktisk synes er ret fed. Danskere bygger deres eget beskednetværk.",
+          "segment": "nyheder",
+          "start": 192.18
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Uden om mobilnettet, ja. Det hedder Meshcore og kører på radiobølger.",
+          "segment": "nyheder",
+          "start": 199.69
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "DR har talt med Torben Mørk fra Grindsted. Han har investeret omkring femhundrede kroner i en lille radioenhed.",
+          "segment": "nyheder",
+          "start": 205.52
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Små batteri- og solcelledrevne sendere. Det fungerer lidt ligesom sms, siger han.",
+          "segment": "nyheder",
+          "start": 214.89
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Kodet i små bip, nærmest som morsekode. Og intet abonnement.",
+          "segment": "nyheder",
+          "start": 221.73
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det bedste er, at Aarhus Kommune lige har godkendt et pilotprojekt.",
+          "segment": "nyheder",
+          "start": 226.8
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej, seriøst?",
+          "segment": "nyheder",
+          "start": 232.46
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jo. De vil se, om de kan sende beskeder ud til folkeskolerne i en beredskabssituation.",
+          "segment": "nyheder",
+          "start": 233.56
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Altså hvor man får drikkevand, og hvor længe strømmen er væk.",
+          "segment": "nyheder",
+          "start": 240.82
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Lige præcis. Hjemmelavet nødnet fra Bornholm og ud på landet.",
+          "segment": "nyheder",
+          "start": 245.97
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så lige kort til USA. Politikens Michael Jarlner advarer mod at skrive nekrologen over Trump for tidligt.",
+          "segment": "nyheder",
+          "start": 251.12
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Efter midtvejsvalget, ja. Han ser en ny klassekamp tegne sig.",
+          "segment": "nyheder",
+          "start": 260.24
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Big Tech over for folket, kalder han det. Og enorme formuer i spil.",
+          "segment": "nyheder",
+          "start": 265.39
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Pendulet svinger. Han sammenligner med tyverne i Tyskland.",
+          "segment": "nyheder",
+          "start": 271.05
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skal have lidt energi ind i den her grå morgen. Her er Nephew med Igen og Igen og.",
+          "segment": "nyheder",
+          "start": 275.95
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:5EwP9NvAJHsWVqVguSx5IM",
+      "name": "Igen & Igen &",
+      "artist": "Nephew",
+      "album": "Interkom Kom Ind",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ca4c642f28a6dfff50f6b954",
+      "duration_ms": 275213,
+      "url": "https://open.spotify.com/track/5EwP9NvAJHsWVqVguSx5IM",
+      "kobling": "Første sang skal vække på en overskyet 6-graders morgen - dansk energi der river gardinerne fra."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 196.72,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den river altså gardinerne fra, den der.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og vi bliver lige i Aarhus. For det er faktisk byen, der går forrest med det nødnetværk.",
+          "segment": "aarhus",
+          "start": 5.77
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, det er it-folkene i kommunen, der kører pilotprojektet. Krisekommunikation ud til skolerne.",
+          "segment": "aarhus",
+          "start": 12.68
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er lidt sjovt, ikke? Det mest lavteknologiske bliver pludselig det mest robuste.",
+          "segment": "aarhus",
+          "start": 20.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Radiobølger. Vi har haft dem i hundrede år, og de holder stadig.",
+          "segment": "aarhus",
+          "start": 26.73
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ellers er det en stille søndag i byen. Overskyet og seks grader.",
+          "segment": "aarhus",
+          "start": 31.76
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Perfekt kaffevejr. Og lyset er væk igen halv fem.",
+          "segment": "aarhus",
+          "start": 36.78
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så en tur rundt om bugten tidligt, hvis man vil nå det.",
+          "segment": "aarhus",
+          "start": 40.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så er det jo søndag. Derby i Parken klokken tolv.",
+          "segment": "sport",
+          "start": 47.68
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "FCK mod Brøndby. Og for første gang i to år er der fans fra begge hold på tribunerne.",
+          "segment": "sport",
+          "start": 52.07
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "To år, ja. Det er lang tid for et derby.",
+          "segment": "sport",
+          "start": 59.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Da de mødtes på Brøndby Stadion i september, fik begge fangrupper bøde og betinget tribunestraf.",
+          "segment": "sport",
+          "start": 62.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "For pyroteknik, hærværk og et krænkende banner. Så tribunerne kan lukkes igen, hvis der er ballade.",
+          "segment": "sport",
+          "start": 70.74
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Københavns Politi opretter en visitationszone. Vicepolitiinspektør Esben Godiksen siger til DR, at de kender historikken.",
+          "segment": "sport",
+          "start": 79.1
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og FCK har fået påbud om at kunne holde på Brøndbys fans i op til en time efter slutfløjt.",
+          "segment": "sport",
+          "start": 89.32
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvad siger spillerne?",
+          "segment": "sport",
+          "start": 96.92
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Cornelius siger til DR, at et derby er fedest med fans fra begge lejre. Og han har jo ret.",
+          "segment": "sport",
+          "start": 98.7
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er også det, man betaler for.",
+          "segment": "sport",
+          "start": 106.3
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så er der Premier League-søndag ovenpå. United mod Aston Villa på Old Trafford.",
+          "segment": "sport",
+          "start": 109.09
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Crystal Palace mod Liverpool i London, ikke?",
+          "segment": "sport",
+          "start": 116.01
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jo. Liverpool jagter tre point. Og Brighton mod Brentford er også i kalenderen.",
+          "segment": "sport",
+          "start": 119.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvad med City? Jeg så noget med Haaland.",
+          "segment": "sport",
+          "start": 126.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De fik en kæmpesmæk mod Nottingham Forest. Og Haaland har sendt en besked til fansene bagefter.",
+          "segment": "sport",
+          "start": 130.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hold da op.",
+          "segment": "sport",
+          "start": 138.06
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, de norske eksperter har travlt. Det er ligesom deres nationalsport.",
+          "segment": "sport",
+          "start": 138.99
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så skal vi lige have Magnus Ditlev med. Han satte verdensrekord på ironman-distancen i Florida i går.",
+          "segment": "sport",
+          "start": 144.99
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og vandt. Men han kan altså ikke rigtig glæde sig over det.",
+          "segment": "sport",
+          "start": 153.77
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej. For fire uger siden førte han VM på Hawaii og kollapsede i varmen på vej mod mål.",
+          "segment": "sport",
+          "start": 158.75
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han siger til DR Sporten: det er vildt fedt med rekorden, men jeg er stadig enormt skuffet og ked af det.",
+          "segment": "sport",
+          "start": 166.02
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hvor længe sidder det i ham?",
+          "segment": "sport",
+          "start": 174.89
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Indtil han forhåbentlig vinder, svarer han. Helt ærligt, siger han.",
+          "segment": "sport",
+          "start": 177.88
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er sådan en vinder tænker, ikke?",
+          "segment": "sport",
+          "start": 182.9
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jo. Han er i hvert fald allerede kvalificeret til Hawaii næste år.",
+          "segment": "sport",
+          "start": 185.6
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skal have noget kaffe til morgenmørket. Her er Sabrina Carpenter med Espresso.",
+          "segment": "sport",
+          "start": 190.54
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:2qSkIjg1o9h3YT9RAgYN75",
+      "name": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "album": "Espresso",
+      "image": "https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5",
+      "duration_ms": 175459,
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75",
+      "kobling": "Et internationalt hit fra lige nu som modvægt til de tunge nyheder om Krakow og elpriser - og 'Espresso' passer til kaffen i morgenmørket."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 114.86,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den der må have solgt en del kaffe.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Helt sikkert. Og så til musiknyt, hvor Royal Arena stod på den anden ende i går.",
+          "segment": "musik",
+          "start": 5.51
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Emma Sehested Høeg. Soundvenue skriver, at hun fik det fantastiske til at se legende let ud.",
+          "segment": "musik",
+          "start": 12.11
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Knap seksten tusind mennesker. Hendes hidtil største koncert.",
+          "segment": "musik",
+          "start": 19.69
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og midtvejs indrømmer hun fra scenen: jeg har løjet rigtig meget.",
+          "segment": "musik",
+          "start": 24.71
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvad mente hun med det?",
+          "segment": "musik",
+          "start": 30.07
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Noget med en sang, hun altid indleder på samme måde. Og så svævede hun op under loftet på en diskokugle.",
+          "segment": "musik",
+          "start": 31.96
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Det er jo totalteater.",
+          "segment": "musik",
+          "start": 40.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Anmelderen kalder det et skriglyserødt parallelunivers. Og nævner altså Wagner undervejs.",
+          "segment": "musik",
+          "start": 42.67
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Wagner i Royal Arena. Det er ikke hver dag.",
+          "segment": "musik",
+          "start": 50.01
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Og så er Skepta tilbage efter syv år med albummet The Fork and Knife.",
+          "segment": "musik",
+          "start": 53.55
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Syv år. Er det så et comeback?",
+          "segment": "musik",
+          "start": 59.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ikke rigtigt, siger Soundvenue. Han har turneret og været feature på alt muligt hele vejen.",
+          "segment": "musik",
+          "start": 62.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så det føles knap nok, som om han har været væk.",
+          "segment": "musik",
+          "start": 69.62
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Og anmelderen savner en retning. Der er genbrugte sange fra tidligere udgivelser.",
+          "segment": "musik",
+          "start": 73.57
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men der er noget godt?",
+          "segment": "musik",
+          "start": 80.91
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, når han går efter moshpitten. Der er noget af den gamle aggression tilbage.",
+          "segment": "musik",
+          "start": 82.72
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så en trist en. Richard Lloyd fra Television er død, femoghalvfjerds år gammel.",
+          "segment": "musik",
+          "start": 89.23
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Guitaristen, ja. Johnny Marr og Lloyd Cole er blandt dem, der mindes ham.",
+          "segment": "musik",
+          "start": 95.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "En søgende og en finder, og en sand inspiration, skriver de ifølge NME.",
+          "segment": "musik",
+          "start": 102.0
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han har sat spor hos rigtig mange guitarister.",
+          "segment": "musik",
+          "start": 107.85
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi bliver hos Skepta. Her er Shutdown.",
+          "segment": "musik",
+          "start": 111.64
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:44GokgCa37BTZP2NU2zkoJ",
+      "name": "Shutdown",
+      "artist": "Skepta",
+      "album": "Konnichiwa",
+      "image": "https://i.scdn.co/image/ab67616d0000b273969de80dfcad2d496da82410",
+      "duration_ms": 188938,
+      "url": "https://open.spotify.com/track/44GokgCa37BTZP2NU2zkoJ",
+      "kobling": "Skepta er aktuel med comeback-albummet 'The Fork and Knife' efter syv års pause, The Strokes spillede netop i SNL, og Television nævnes efter Richard Lloyds død."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 74.09,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Og så noget helt let til sidst. Juletræet er hejst på plads ved Rockefeller Center.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Allerede? Vi er da kun ottende november.",
+          "segment": "let",
+          "start": 8.77
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jep. En rødgran på treogtyve meter. Omkring femoghalvfjerds år gammel.",
+          "segment": "let",
+          "start": 11.72
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hvad sker der nu?",
+          "segment": "let",
+          "start": 16.9
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Over halvtreds tusind lys, håndlavede guirlander og en stjerne på firehundrede kilo.",
+          "segment": "let",
+          "start": 18.38
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Firehundrede kilo! Det er jo en lille bil i toppen af et træ.",
+          "segment": "let",
+          "start": 24.59
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det tændes anden december. Og traditionen går helt tilbage til nittenhundredeogtreogtredive.",
+          "segment": "let",
+          "start": 29.1
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Okay, det må jeg sige. Jeg har ikke engang fundet adventslysene frem.",
+          "segment": "let",
+          "start": 35.9
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er vi der, hvor vi siger tak for i dag, Frederik.",
+          "segment": "outro",
+          "start": 43.73
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tak fordi du lyttede. Og god søndag derude i det grå Aarhus.",
+          "segment": "outro",
+          "start": 47.95
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Husk derbyet klokken tolv. Og så Premier League hele eftermiddagen.",
+          "segment": "outro",
+          "start": 52.56
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jeg har allerede ryddet sofaen.",
+          "segment": "outro",
+          "start": 57.71
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi slutter af med lidt dansk godt humør. Rasmus Seebach og Ankerstjerne med Millionær.",
+          "segment": "outro",
+          "start": 60.09
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:4pllRPq45GBTFQ1PFUgyLd",
+      "name": "Millionær",
+      "artist": "Rasmus Seebach, Ankerstjerne",
+      "album": "Mer End' Kærlighed",
+      "image": "https://i.scdn.co/image/ab67616d0000b273463f38b775b0c32098644ae9",
+      "duration_ms": 269053,
+      "url": "https://open.spotify.com/track/4pllRPq45GBTFQ1PFUgyLd",
+      "kobling": "Dansk afslutning med godt humør inden fodboldsøndagen med derby i Parken og Premier League."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 681.28,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Seks er dræbt og flere såret i skyderi i Krakow",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/draebt-og-ti-saaret-i-skyderi-i-krakow"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Michael Jarlner: Vent lidt med nekrologen over Trump og trumpismen",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/internationalt/art11047531/Vent-lidt-med-nekrologen-over-Trump-og-trumpismen"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Danske skoler har ingen regler for børns brug af kunstig intelligens",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/danmark/art11048957/Danske-skoler-har-ingen-regler-for-b%C3%B8rns-brug-af-kunstig-intelligens"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Elpriserne er på deres højeste i knap fire år. Årsagen er såkaldt 'dunkelflaute'",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/danmark/forbrug/art11052185/Elpriserne-er-p%C3%A5-deres-h%C3%B8jeste-i-knap-fire-%C3%A5r.-%C3%85rsagen-er-s%C3%A5kaldt-dunkelflaute"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Danskere tager sagen i egen hånd: Laver et netværk til beskeder, der fungerer uden om mobilnettet",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/danskere-tager-sagen-i-egen-haand-laver-et-netvaerk-til-beskeder-der-fungerer-uden-om-mobilnettet"
+    },
+    {
+      "segment": "sport",
+      "titel": "Politiet klar til første Derby i to år med fans fra begge hold i Parken",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/nyheder/indland/politiet-klar-til-foerste-derby-i-aar-med-fans-fra-begge-hold-i-parken"
+    },
+    {
+      "segment": "sport",
+      "titel": "(+) Våre vurderinger rundt 11eren mot Villa - United",
+      "kilde": "forsiden",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR0xvUEpaYmp4Z09hNnlhYmI1RWtORWpKUnd1V1hKX0t2d0xUMGdZTW5EN0ZIOEY5YVRpS2RyNUMtZkVsUWFpbmg0UE5IMkVFR3NqbjktZXZzREF3S09YOWZBcko3N1h6SWVKeFVZSDl4R3Y0OUljQjk5cTJjczNPbFRyZw?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Haaland med melding til fansen",
+      "kilde": "Nettavisen",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNejFCalBpR1RuTENWaUZjbTJMdS1hR05wMjNqaVRqZHVtVnNmVVNMNjVPazJtWS14cFhWQkZaWEdheWtsYlJWRGRQOFRFM0x6R3ZiWkZSMTBBN0lNaVRMMnpUUFQ1Vi1WTTFkalRCejNDbEdHYjA2MkhneklZdVh0d19heFlITG0zR1BzTmFaaWFRRm02Zkc0aUNlMUtVUQ?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Kollapset fylder stadig alt - selv efter dansker har sat verdensrekord",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/kollapset-fylder-stadig-alt-selv-efter-dansker-har-sat-verdensrekord"
+    },
+    {
+      "segment": "musik",
+      "titel": "Emma Sehested Høeg fik det fantastiske til at se legende let ud i Royal Arena",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/emma-sehested-hoeeg-fik-det-fantastiske-til-at-se-legende-let-ud-i-royal-arena-703975"
+    },
+    {
+      "segment": "musik",
+      "titel": "Efter syv års pause føles det knap nok, som om Skepta er tilbage med ‘The Fork and Knife’",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/efter-syv-aars-pause-foeles-det-knap-nok-som-om-skepta-er-tilbage-med-the-fork-and-knife-703772"
+    },
+    {
+      "segment": "musik",
+      "titel": "Tributes paid after death of Television guitarist Richard Lloyd: “A seeker and finder and a true inspiration”",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/music/tributes-paid-after-death-of-television-guitarist-richard-lloyd-a-seeker-and-finder-and-a-true-inspiration-3975375?utm_source=rss&utm_medium=rss&utm_campaign=tributes-paid-after-death-of-television-guitarist-richard-lloyd-a-seeker-and-finder-and-a-true-inspiration"
+    },
+    {
+      "segment": "let",
+      "titel": "Kæmpe juletræ hejst på plads ved Rockefeller Center",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/reels/kaempe-juletrae-hejst-paa-plads-ved-rockefeller-center"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (33)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (2)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (5)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (29)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (16)"
+  },
+  "test": false
+}

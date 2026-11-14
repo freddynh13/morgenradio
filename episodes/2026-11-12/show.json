@@ -1,0 +1,986 @@
+{
+  "date": "2026-11-12",
+  "dato_tekst": "torsdag den 12. november 2026",
+  "title": "Skatteaftale, Nvidia-krise og Carrick fyret",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-12T12:14:28+01:00",
+  "tema": "Skatteaftalen rammer danskernes pengepung, mens Nvidia-krisen ryster techverdenen og Manchester United fyrer Carrick.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 269.6,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen Frederik, og velkommen til Morgenradio. Det er torsdag den 12. november.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Og hvis du kigger ud ad vinduet nu, så lad være.",
+          "segment": "intro",
+          "start": 13.91
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Så slemt er det altså ikke.",
+          "segment": "intro",
+          "start": 18.21
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jo. Fire grader og let regn i Aarhus lige nu.",
+          "segment": "intro",
+          "start": 21.6
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det bliver sådan hele dagen. Mellem tre og seks grader, hundrede procent risiko for nedbør.",
+          "segment": "intro",
+          "start": 25.82
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hundrede. Ikke halvfems. Hundrede.",
+          "segment": "intro",
+          "start": 31.93
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Plus vind op til tretten meter i sekundet. Så cykelturen bliver en opgave i dag.",
+          "segment": "intro",
+          "start": 35.39
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Regntøj på. Og solen står først op ti i otte.",
+          "segment": "intro",
+          "start": 41.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi har en skatteaftale, der rammer din pengepung. Vi har kaos omkring Nvidia.",
+          "segment": "intro",
+          "start": 46.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og Manchester United har fyret deres cheftræner. Igen.",
+          "segment": "intro",
+          "start": 52.73
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter med nyhederne.",
+          "segment": "intro",
+          "start": 56.76
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Regeringen og Dansk Folkeparti er landet på en skatteaftale. Den første store af slagsen.",
+          "segment": "nyheder",
+          "start": 61.21
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hovedoverskriften er, at skatten letter.",
+          "segment": "nyheder",
+          "start": 65.08
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja. Og benzin og diesel bliver billigere, skriver Politiken.",
+          "segment": "nyheder",
+          "start": 68.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men der strammes også andre steder. Det er jo altid den del, man skal læse to gange.",
+          "segment": "nyheder",
+          "start": 72.37
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Præcis. Politiken har lavet et overblik over, hvor der lettes, og hvor der strammes.",
+          "segment": "nyheder",
+          "start": 79.11
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det er værd at bruge ti minutter på i dag. Det her rykker på budgettet derhjemme.",
+          "segment": "nyheder",
+          "start": 85.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så er der techverdenen, hvor det godt nok buldrer.",
+          "segment": "nyheder",
+          "start": 92.28
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nvidia. Verdens måske mest værdifulde selskab.",
+          "segment": "nyheder",
+          "start": 96.44
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Aktien er dykket knap otte procent på eftermarkedet i USA, skriver DR.",
+          "segment": "nyheder",
+          "start": 100.94
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvorfor det?",
+          "segment": "nyheder",
+          "start": 106.43
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Fordi bestyrelsen ifølge flere amerikanske medier mødes om topchefen Jensen Huangs fremtid.",
+          "segment": "nyheder",
+          "start": 107.62
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hold da op.",
+          "segment": "nyheder",
+          "start": 113.76
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "DR understreger, at de ikke selv kan bekræfte mødet. Det er anonyme kilder hos New York Times, CBS og Wall Street Journal.",
+          "segment": "nyheder",
+          "start": 114.69
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det handler om en sag om en affære med en medarbejder i Nvidia. Intet af det er bekræftet.",
+          "segment": "nyheder",
+          "start": 123.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hverken han eller hun har kommenteret. Men aktien har taget flere dyk i denne uge.",
+          "segment": "nyheder",
+          "start": 128.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han grundlagde jo selskabet tilbage i treoghalvfems. Så det er en stor mand at vælte.",
+          "segment": "nyheder",
+          "start": 135.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hele AI-markedet hænger på den virksomhed. Så det her mærkes bredt.",
+          "segment": "nyheder",
+          "start": 141.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Frederik, hvis du arbejder med AI-værktøjer til daglig, så er det her historien at følge i dag.",
+          "segment": "nyheder",
+          "start": 146.5
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og når vi er ved tech herhjemme. Datacentre.",
+          "segment": "nyheder",
+          "start": 152.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, der har været debat i månedsvis. Har vi brug for flere?",
+          "segment": "nyheder",
+          "start": 154.67
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og svaret fra eksperterne er sådan set: vi ved det ikke.",
+          "segment": "nyheder",
+          "start": 159.58
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Seriøst?",
+          "segment": "nyheder",
+          "start": 164.49
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Brit Ross Winthereik, professor på DTU, siger til DR: vi famler i blinde.",
+          "segment": "nyheder",
+          "start": 165.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvorfor det?",
+          "segment": "nyheder",
+          "start": 171.59
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Fordi vi ikke ved, hvad kapaciteten bliver brugt til. Kunder og data er forretningshemmeligheder.",
+          "segment": "nyheder",
+          "start": 172.73
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så regeringen laver en strategi uden at kende behovet.",
+          "segment": "nyheder",
+          "start": 179.32
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og en forsker fra Københavns Universitet siger, at branchen sidder med langt den største viden.",
+          "segment": "nyheder",
+          "start": 183.36
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så det foregår på branchens præmisser. Fint nok sagt.",
+          "segment": "nyheder",
+          "start": 190.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så en tung en. Arbejdsrelateret stress sætter rekord.",
+          "segment": "nyheder",
+          "start": 194.52
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, ny analyse fra Arbejderbevægelsens Erhvervsråd.",
+          "segment": "nyheder",
+          "start": 199.3
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Siden 2019 er antallet af stressrelaterede erhvervssygdomme steget med halvtreds procent.",
+          "segment": "nyheder",
+          "start": 203.78
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det er det højeste niveau nogensinde. Også målt per lønmodtager.",
+          "segment": "nyheder",
+          "start": 210.31
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Chefanalytiker Kristoffer Lind Glavind siger, at de måler på den meget alvorlige del af stress.",
+          "segment": "nyheder",
+          "start": 215.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Dårlig ledelse er en af årsagerne, lyder det.",
+          "segment": "nyheder",
+          "start": 222.6
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og under fem procent af sagerne bliver anerkendt som arbejdsskade. Bevisbyrden er meget høj.",
+          "segment": "nyheder",
+          "start": 226.54
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han peger selv på, at det er et problem i arbejdsskadesystemet.",
+          "segment": "nyheder",
+          "start": 230.83
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "En tidligere analyse satte prisen på arbejdsrelateret stress til femoghalvtreds milliarder kroner om året.",
+          "segment": "nyheder",
+          "start": 235.92
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er mange penge. Og mange mennesker bag det tal.",
+          "segment": "nyheder",
+          "start": 243.39
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så kort til USA. Efter midtvejsvalget står Trump svækket i sit eget parti.",
+          "segment": "nyheder",
+          "start": 246.55
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Republikanerne skal finde en ny frontfigur, når han forlader posten om to år.",
+          "segment": "nyheder",
+          "start": 252.41
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og efter nederlaget har han mindre indflydelse på, hvem det bliver. Det skriver DR.",
+          "segment": "nyheder",
+          "start": 258.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Den kamp bliver lang.",
+          "segment": "nyheder",
+          "start": 262.5
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nu skal vi have lidt vågenhed ind i kroppen. Nephew og Hospital.",
+          "segment": "nyheder",
+          "start": 264.37
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:2xBoXQrnVAk15VKGJnpRif",
+      "name": "Hospital",
+      "artist": "Nephew",
+      "album": "Roskilde 07.07.07",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739307ed77d9f5d2cfb284a795",
+      "duration_ms": 323946,
+      "url": "https://open.spotify.com/track/2xBoXQrnVAk15VKGJnpRif",
+      "kobling": "Energisk dansk opvågner til en grå, våd torsdag morgen i Aarhus med 4 grader og regn."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 141.44,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Der er ikke noget som Nephew klokken syv om morgenen.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej. Og så til Aarhus, hvor dagen altså starter vådt.",
+          "segment": "aarhus",
+          "start": 6.1
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Let regn, fire grader og blæst. Busserne bliver fyldte i dag.",
+          "segment": "aarhus",
+          "start": 11.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og mørkt. Solen går ned kvart over fire i eftermiddag.",
+          "segment": "aarhus",
+          "start": 15.42
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så hvis du vil se dagslys, Frederik, skal det være i frokostpausen.",
+          "segment": "aarhus",
+          "start": 19.58
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ellers er det jo den tid på året, hvor byen tænder lys i vinduerne.",
+          "segment": "aarhus",
+          "start": 23.8
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvor man pludselig synes, at en kop kaffe er en begivenhed.",
+          "segment": "aarhus",
+          "start": 28.36
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Tag lygterne på cyklen. Det er sådan en dag, hvor man ikke bliver set.",
+          "segment": "aarhus",
+          "start": 32.57
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så er der sket det, vi alle sammen vidste ville ske.",
+          "segment": "sport",
+          "start": 40.47
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Manchester United.",
+          "segment": "sport",
+          "start": 44.79
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Michael Carrick er fyret som cheftræner. Det bekræfter DR Sporten.",
+          "segment": "sport",
+          "start": 46.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "En klublegende, der tjekker ud på den måde. Det er ikke sjovt.",
+          "segment": "sport",
+          "start": 52.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Norske VG citerer ham for, at det er blevet en total katastrofe.",
+          "segment": "sport",
+          "start": 57.33
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hvem overtager så?",
+          "segment": "sport",
+          "start": 62.6
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Dagbladet peger på Pep Guardiola som førstevalg. Men det er altså spekulation lige nu.",
+          "segment": "sport",
+          "start": 64.81
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Pep i United. Det ville være noget af et skifte.",
+          "segment": "sport",
+          "start": 71.24
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det ville det. Og så er der dansk vinkel. Patrick Dorgu.",
+          "segment": "sport",
+          "start": 74.65
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nå ja, han kom jo dertil som ret ung.",
+          "segment": "sport",
+          "start": 79.69
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, DR skriver, at United løb en risiko med ham. Riemer mener, han kan få en jokerrolle.",
+          "segment": "sport",
+          "start": 83.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så en trænerfyring kan faktisk være godt nyt for ham.",
+          "segment": "sport",
+          "start": 89.6
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det kan det. Nye øjne, nye chancer.",
+          "segment": "sport",
+          "start": 93.94
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og herhjemme fortsætter VM i ishockey i Herning og Esbjerg.",
+          "segment": "sport",
+          "start": 97.45
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, og Danmark er i kvartfinalen. Uden at være på isen.",
+          "segment": "sport",
+          "start": 102.6
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvordan?",
+          "segment": "sport",
+          "start": 106.82
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Andre resultater faldt ud til vores fordel. Det er jo den bedste måde at vinde på.",
+          "segment": "sport",
+          "start": 107.57
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Fra sofaen.",
+          "segment": "sport",
+          "start": 113.57
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Turneringen kører til den sekstende, og alle danske kampe er på DRTV.",
+          "segment": "sport",
+          "start": 116.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Herning bliver i øvrigt vært igen. Både EM og VM.",
+          "segment": "sport",
+          "start": 120.86
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De bygger jo nærmest en karriere på det.",
+          "segment": "sport",
+          "start": 126.04
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og i tennis er Holger Rune i kvartfinalen, hvor han møder en amerikansk stjerne.",
+          "segment": "sport",
+          "start": 129.37
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Den tager vi op igen, når vi ved mere.",
+          "segment": "sport",
+          "start": 135.48
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Her er The Weeknd med Save Your Tears.",
+          "segment": "sport",
+          "start": 138.73
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:5QO79kh1waicV47BqGRL3g",
+      "name": "Save Your Tears",
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+      "duration_ms": 215626,
+      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g",
+      "kobling": "Internationalt hit med tempo efter nyhedsblokken — holder humøret oppe når skat og aktiekurser er gennemgået."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 94.13,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den holder bare, hver eneste gang.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så musiknyt. Der ligger noget og ulmer hos Live Nation.",
+          "segment": "musik",
+          "start": 4.93
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Foo Fighters?",
+          "segment": "musik",
+          "start": 9.89
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det tyder på det. De har lagt bandets logo op på Instagram og et tidspunkt: sekstende november klokken ti.",
+          "segment": "musik",
+          "start": 11.1
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så mandag får vi en annoncering. Det skriver Soundvenue.",
+          "segment": "musik",
+          "start": 18.92
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der er ingen danske stop på deres verdensturné lige nu. Men det laver de nok om på.",
+          "segment": "musik",
+          "start": 23.59
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Sidste gang herhjemme var Roskilde forrige år. To timers rock på Orange.",
+          "segment": "musik",
+          "start": 30.33
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er Coachella-navnene til 2027 ude.",
+          "segment": "musik",
+          "start": 35.06
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Kom med dem.",
+          "segment": "musik",
+          "start": 39.0
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Dua Lipa, Madonna, Tame Impala og SZA i toppen. Daddy Yankee i den fjerde headliner-plads.",
+          "segment": "musik",
+          "start": 40.2
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Madonna på Coachella. Okay.",
+          "segment": "musik",
+          "start": 46.58
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og længere nede: Robyn, Phoebe Bridgers, Zara Larsson og Måneskin.",
+          "segment": "musik",
+          "start": 49.3
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men den bedste musiknyhed i dag er dansk.",
+          "segment": "musik",
+          "start": 54.96
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Branco?",
+          "segment": "musik",
+          "start": 57.95
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Branco. Han sagde stop i 2024. Nu har han annulleret sin egen førtidspension.",
+          "segment": "musik",
+          "start": 58.69
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Hvordan formulerer man lige det?",
+          "segment": "musik",
+          "start": 64.55
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "På Instagram skriver han: man er sulten igen. Tilbage til det, vi er bedst til.",
+          "segment": "musik",
+          "start": 68.27
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og bliver det et album eller en turné?",
+          "segment": "musik",
+          "start": 73.42
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det ved vi ikke endnu. Soundvenue skriver, at tiden må vise det.",
+          "segment": "musik",
+          "start": 76.08
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han har jo heller ikke ligget helt stille. Et par udgivelser undervejs.",
+          "segment": "musik",
+          "start": 80.81
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og to shows i København i april. Så sulten har været der.",
+          "segment": "musik",
+          "start": 85.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så lad os fejre comebacket. Branco med RISIKO.",
+          "segment": "musik",
+          "start": 90.1
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:0eE8GmJaD7SeEm0JyhKup1",
+      "name": "RISIKO",
+      "artist": "Branco",
+      "album": "BABA BUSINESS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f513f5c454e44e2629027558",
+      "duration_ms": 177317,
+      "url": "https://open.spotify.com/track/0eE8GmJaD7SeEm0JyhKup1",
+      "kobling": "Branco har netop afblæst sin pension, og SZA og Dua Lipa er nyannoncerede Coachella 2027-headlinere — begge dele nævnt i musiknyt."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 109.56,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Sofie, hvor meget elsker du fodbold?",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Øh. Hvorfor spørger du sådan der?",
+          "segment": "let",
+          "start": 5.71
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fordi FC Barcelona nu tilbyder dig at blive på stadion. For evigt.",
+          "segment": "let",
+          "start": 7.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej, seriøst?",
+          "segment": "let",
+          "start": 12.88
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jo. De har indviet et mindeområde ved Camp Nou med seksogtyve tusind urnepladser.",
+          "segment": "let",
+          "start": 15.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hold da op. Og hvad koster det?",
+          "segment": "let",
+          "start": 22.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Atten tusind kroner for ti år. Femogfyrre tusind for halvtreds år.",
+          "segment": "let",
+          "start": 25.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så man kan altså leje?",
+          "segment": "let",
+          "start": 30.48
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Man kan leje. Vil du have det evige sæsonkort, koster det femoghalvfjerds tusind.",
+          "segment": "let",
+          "start": 32.57
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Et sæsonkort der aldrig udløber. Det er jo faktisk god markedsføring.",
+          "segment": "let",
+          "start": 38.51
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og en mindeplade starter ved tre tusind seks hundrede kroner oveni.",
+          "segment": "let",
+          "start": 43.84
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men hvorfor gør de det?",
+          "segment": "let",
+          "start": 48.83
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Pengene skal være med til at betale for ombygningen. Den er løbet løbsk, skriver The Guardian via DR.",
+          "segment": "let",
+          "start": 50.32
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvor galt?",
+          "segment": "let",
+          "start": 56.78
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fra knap syv milliarder kroner til nu omkring femten milliarder.",
+          "segment": "let",
+          "start": 57.66
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Av.",
+          "segment": "let",
+          "start": 62.09
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og billetpriserne er fordoblet de seneste år. Så de levende betaler også.",
+          "segment": "let",
+          "start": 62.78
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Stadion skal kunne rumme hundrede og fem tusind og have tag over det hele.",
+          "segment": "let",
+          "start": 68.77
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tag over hele stadion. Det havde vi godt kunnet bruge i Aarhus i dag.",
+          "segment": "let",
+          "start": 73.86
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det var Morgenradio for i dag.",
+          "segment": "outro",
+          "start": 80.62
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Skatteaftale, Nvidia i frit fald og en fyret United-træner. Fin torsdag.",
+          "segment": "outro",
+          "start": 83.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Tak fordi du lyttede med, Frederik. Hav en rigtig god torsdag derude.",
+          "segment": "outro",
+          "start": 88.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og husk regnjakken. Og lygterne.",
+          "segment": "outro",
+          "start": 93.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi slutter med lidt varme i stemmen. Rasmus Seebach og Natteravn.",
+          "segment": "outro",
+          "start": 97.24
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:2539KcLV6WkgGdNkkrpGMi",
+      "name": "Natteravn",
+      "artist": "Rasmus Seebach",
+      "album": "Rasmus Seebach",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb04813d22da3c9a31763c21",
+      "duration_ms": 239346,
+      "url": "https://open.spotify.com/track/2539KcLV6WkgGdNkkrpGMi",
+      "kobling": "Dansk afslutning med lys i stemmen — solen står først op 07:50, så der skal lidt varme til."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 627.11,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Få overblikket over skatteaftalen: Her letter og strammer regeringen og DF",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/danmark/art11056637/F%C3%A5-overblikket-over-skatteaftalen-Her-letter-og-strammer-regeringen-og-DF"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Nvidia-aktien styrtdykker",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/nvidia-aktien-styrtdykker"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Slår rekord: Flere og flere får arbejdsrelaterende stress",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/slaar-rekord-flere-og-flere-faar-arbejdsrelaterende-stress"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Efter valgnederlaget: Trump mister grebet om sit eget parti",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/reels/efter-valgnederlaget-trump-mister-grebet-om-sit-eget-parti"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Eksperter skærer igennem i datacenter-debat: 'Vi famler i blinde'",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/eksperter-skaerer-igennem-i-datacenter-debat-vi-famler-i-blinde"
+    },
+    {
+      "segment": "sport",
+      "titel": "Manchester United fyrer cheftræner Michael Carrick",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12821503#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "Manchester United løb risiko med Dorgu: Kan få joker-rolle, siger Riemer",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12817227#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "Herning bliver igen vært for både EM og VM",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/haandbold/liveblog-med-seneste-nyt-om-dansk-og-international-haandbold"
+    },
+    {
+      "segment": "sport",
+      "titel": "Danmark er i VM-kvartfinalen uden at være på isen",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/ishockey/danske-spillere-kan-slet-ikke-vente-til-vm-paa-hjemmebane"
+    },
+    {
+      "segment": "musik",
+      "titel": "Live Nation teaser dansk Foo Fighters-koncert",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/live-nation-teaser-dansk-foo-fighters-koncert-704706"
+    },
+    {
+      "segment": "musik",
+      "titel": "Coachella 2027 line-up revealed with Dua Lipa, Madonna, Tame Impala, SZA and more",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/music/coachella-2027-line-up-revealed-with-dua-lipa-madonna-tame-impala-sza-and-more-3975649"
+    },
+    {
+      "segment": "musik",
+      "titel": "Branco afblæser pension: »Man er sulten igen«",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/branco-afblaeser-pension-man-er-sulten-igen-704693"
+    },
+    {
+      "segment": "let",
+      "titel": "FC Barcelona-fans kan nu få et evigt hvilested på Camp Nou for 75.000 kroner",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/nyheder/udland/fc-barcelona-fans-kan-nu-faa-et-evigt-hvilested-paa-camp-nou-75-000-kroner"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (37)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (40)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (3)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (0)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (28)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (14)"
+  },
+  "test": false
+}

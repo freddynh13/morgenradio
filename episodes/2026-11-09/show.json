@@ -1,0 +1,920 @@
+{
+  "date": "2026-11-09",
+  "dato_tekst": "mandag den 9. november 2026",
+  "title": "Trump-kovending, Nvidia-mysterium og FCK-drøn i Parken",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-09T12:34:54+01:00",
+  "tema": "Trump-politik og geopolitik fylder, mens Nvidia-sagen og datacentre giver tech-vinkel — og i sporten er der Superliga-drama og Mariah Carey til Danmark som lun kontrast.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 285.74,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "God morgen, Frederik! Du lytter til Morgenradio, og det er mandag den niende november.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Mandag. Altså den rigtige slags mandag. Grå og våd.",
+          "segment": "intro",
+          "start": 14.73
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skal høre om Trump, der pludselig siger, at hans egen deportationspolitik har været for hård.",
+          "segment": "intro",
+          "start": 18.64
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og en spionhistorie om Nvidias topchef, som du nok skal høre to gange for at tro på.",
+          "segment": "intro",
+          "start": 26.0
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Plus derbydrama i Parken og Mariah Carey til Danmark.",
+          "segment": "intro",
+          "start": 32.44
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Mariah i Sønderborg. Vi vender tilbage til den.",
+          "segment": "intro",
+          "start": 36.5
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vejret i Aarhus lige nu: ni grader og overskyet. Og sådan bliver det stort set hele dagen.",
+          "segment": "intro",
+          "start": 40.11
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Mellem syv og ni grader, og nitogfirs procent risiko for nedbør.",
+          "segment": "intro",
+          "start": 47.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så regnjakken på cyklen, Frederik. Vinden er til gengæld helt mild, op til tre meter i sekundet.",
+          "segment": "intro",
+          "start": 51.91
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og solen går ned 16:21. Så nyd den, hvis du ser den.",
+          "segment": "intro",
+          "start": 59.27
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter i USA. Donald Trump erkender nu, at hans deportationspolitik har været for hård.",
+          "segment": "nyheder",
+          "start": 65.99
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er altså ham selv, der siger det?",
+          "segment": "nyheder",
+          "start": 72.09
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja. I et interview med CBS i programmet 60 Minutes. Han bliver spurgt direkte, om det er gået for vidt.",
+          "segment": "nyheder",
+          "start": 74.57
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvad svarer han?",
+          "segment": "nyheder",
+          "start": 81.48
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "\"For hård\", siger han. Og da værten spørger igen: \"Jeg tror, den måske har været for hård, ja.\"",
+          "segment": "nyheder",
+          "start": 82.75
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvad er det så konkret, han peger på?",
+          "segment": "nyheder",
+          "start": 89.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "At folk med gode job er blevet udvist. Folk, der ifølge ham kun har brudt loven ved at rejse ulovligt ind.",
+          "segment": "nyheder",
+          "start": 91.6
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han siger samtidig, at han har fået topkarakter for at lukke grænsen.",
+          "segment": "nyheder",
+          "start": 98.71
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Præcis. Men han mener også selv, det skadede ham ved midtvejsvalget i sidste uge.",
+          "segment": "nyheder",
+          "start": 103.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og nu åbner han så for at samarbejde med Demokraterne om immigration?",
+          "segment": "nyheder",
+          "start": 108.77
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han nævner en mulig løsning for folk, der har boet i USA i ti eller femten år.",
+          "segment": "nyheder",
+          "start": 113.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der er bare lige det der med timingen. Interviewet blev optaget fredag.",
+          "segment": "nyheder",
+          "start": 118.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Samme dag, som han forfremmede Stephen Miller til stabschef i Det Hvide Hus.",
+          "segment": "nyheder",
+          "start": 123.39
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Som er blevet beskrevet som arkitekten bag netop den hårde linje.",
+          "segment": "nyheder",
+          "start": 128.48
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er DR og Politiken, der har det.",
+          "segment": "nyheder",
+          "start": 132.84
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Trump fylder også i en anden sag. Han regner med at mødes med både Xi Jinping og Putin.",
+          "segment": "nyheder",
+          "start": 135.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvornår og hvor?",
+          "segment": "nyheder",
+          "start": 141.09
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Næste uge, til Apec-mødet i den kinesiske by Shenzhen. Det siger han ifølge Reuters.",
+          "segment": "nyheder",
+          "start": 142.16
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og samtidig afviser Rusland, at Europa får en plads ved forhandlingsbordet i Abu Dhabi.",
+          "segment": "nyheder",
+          "start": 147.8
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er en melding, flere nordiske medier bringer i morges.",
+          "segment": "nyheder",
+          "start": 153.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så Europa står udenfor, mens de store taler sammen. Det er værd at holde øje med.",
+          "segment": "nyheder",
+          "start": 157.52
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så er der den her Nvidia-historie. Og den er speciel.",
+          "segment": "nyheder",
+          "start": 162.95
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Kom bare.",
+          "segment": "nyheder",
+          "start": 166.5
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nvidias topchef, Jensen Huang, skulle ifølge flere medier have været mål for en udenlandsk efterretningsoperation.",
+          "segment": "nyheder",
+          "start": 167.44
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvordan?",
+          "segment": "nyheder",
+          "start": 176.28
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Gennem et intimt forhold til en kvinde, som amerikansk efterretning mener er kinesisk spion.",
+          "segment": "nyheder",
+          "start": 176.9
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hold da op.",
+          "segment": "nyheder",
+          "start": 184.04
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og ifølge Reuters har han i en intern mail til medarbejderne erkendt, at han har været sin kone utro.",
+          "segment": "nyheder",
+          "start": 184.89
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvad siger Kina så til spiondelen?",
+          "segment": "nyheder",
+          "start": 192.72
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Afviser det. Udenrigsministeriets talsmand kalder det en såkaldt kinesisk spionfortælling uden hold i.",
+          "segment": "nyheder",
+          "start": 195.36
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Nvidia selv?",
+          "segment": "nyheder",
+          "start": 203.27
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De har sat en undersøgelse i gang. Bestyrelsen mener ikke, selskabets hemmeligheder er kompromitteret.",
+          "segment": "nyheder",
+          "start": 204.43
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er altså verdens førende chipproducent inden for AI. Et af de mest værdifulde selskaber overhovedet.",
+          "segment": "nyheder",
+          "start": 212.35
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så det er ikke bare sladder. Det er geopolitik med en meget privat indgang.",
+          "segment": "nyheder",
+          "start": 220.41
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og mens vi er ved tech: Norge sætter nu en prop i strømmen til nye datacentre.",
+          "segment": "nyheder",
+          "start": 226.23
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Helt stop?",
+          "segment": "nyheder",
+          "start": 232.28
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Midlertidigt. Statnett siger, datacentre ikke kan få mere strøm, end de allerede er lovet. Det skriver NRK.",
+          "segment": "nyheder",
+          "start": 233.05
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Begrundelsen er forsvarlig drift af elnettet, ikke?",
+          "segment": "nyheder",
+          "start": 241.35
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Jo. Og regeringen går i gang med en licensordning med krav til de datacentre, der bygges i Norge.",
+          "segment": "nyheder",
+          "start": 245.31
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvem kommer så forrest i køen?",
+          "segment": "nyheder",
+          "start": 252.83
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Forsvar, politi og beredskab. Og sundhed, mobilnet og finansielle systemer.",
+          "segment": "nyheder",
+          "start": 255.16
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og i Danmark har vi jo allerede en akutplan, hvor først til mølle er droppet.",
+          "segment": "nyheder",
+          "start": 260.97
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Præcis. Og Frederik, det her rammer jo lige ned i AI-regnestykket på et bureau.",
+          "segment": "nyheder",
+          "start": 266.95
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Alle de modeller, vi fyrer af i hverdagen, skal køre et sted. Og det sted skal have strøm.",
+          "segment": "nyheder",
+          "start": 273.07
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi løfter stemningen lidt. Her er Nik og Jay med \"Mod Solnedgangen\".",
+          "segment": "nyheder",
+          "start": 280.36
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:5FOamJTVE7MYt2eMZE4MYh",
+      "name": "Mod Solnedgangen",
+      "artist": "Nik & Jay",
+      "album": "Engle Eller Dæmoner",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736ca4c0a1ca9007c6dcad30ed",
+      "duration_ms": 256746,
+      "url": "https://open.spotify.com/track/5FOamJTVE7MYt2eMZE4MYh",
+      "kobling": "Energisk dansk opvågner til en grå mandag med 9 grader og overskyet himmel i Aarhus."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 127.53,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "God sang til en grå mandag. Den gør ni grader lidt mere udholdelige.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi bliver lige i Aarhus. Og i dag handler det mest om himlen over byen.",
+          "segment": "aarhus",
+          "start": 8.36
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Overskyet fra morgen til aften.",
+          "segment": "aarhus",
+          "start": 14.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Sol op 07:43, ned 16:21. Så dagslyset er til at overskue.",
+          "segment": "aarhus",
+          "start": 16.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Til gengæld er vinden mild. Tre meter i sekundet er næsten en kærlig klapsalve.",
+          "segment": "aarhus",
+          "start": 21.76
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så det er regnen, ikke modvinden, der er fjenden i dag.",
+          "segment": "aarhus",
+          "start": 28.42
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og med nitogfirs procent risiko for nedbør vinder regnen nok.",
+          "segment": "aarhus",
+          "start": 33.06
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi holder øje, hvis der sker mere i byen i løbet af formiddagen.",
+          "segment": "aarhus",
+          "start": 38.2
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så sporten. Det var derby i Parken i går.",
+          "segment": "sport",
+          "start": 46.32
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og et drøn af et mål. FC København slog Brøndby et-nul.",
+          "segment": "sport",
+          "start": 49.82
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvem scorede?",
+          "segment": "sport",
+          "start": 54.21
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Toogtyveårige William Clem. Et langskud, der var forskellen på de to hold.",
+          "segment": "sport",
+          "start": 55.24
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hvad betyder det i tabellen?",
+          "segment": "sport",
+          "start": 61.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "FCK ligger nummer et. Med et point ned til FC Midtjylland, som spillede senere mod Sønderjyske.",
+          "segment": "sport",
+          "start": 63.61
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så det kan have flyttet sig siden. Og hvad med AGF?",
+          "segment": "sport",
+          "start": 71.18
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "DR Sporten skriver, at AGF sparker døren ind til mesterskabsspillet.",
+          "segment": "sport",
+          "start": 75.24
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det lyder jo meget godt for en Aarhus-morgen.",
+          "segment": "sport",
+          "start": 80.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Og ude i Spanien gjorde Andreas Christensen comeback i en Barcelona-sejr.",
+          "segment": "sport",
+          "start": 84.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det har vi ventet længe på.",
+          "segment": "sport",
+          "start": 90.38
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Rigtig længe. Dejligt at se ham tilbage på banen.",
+          "segment": "sport",
+          "start": 92.53
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og i England?",
+          "segment": "sport",
+          "start": 96.44
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Patrick Dorgu reddede Manchester United fra en kæmpefiasko i overtiden.",
+          "segment": "sport",
+          "start": 97.47
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "I overtiden? Ha!",
+          "segment": "sport",
+          "start": 103.13
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Meget United. De kan ikke lade være med at gøre det svært for sig selv.",
+          "segment": "sport",
+          "start": 104.41
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "En ting mere fra derbyet: der blev affyret pyro, og kampen blev udskudt flere minutter.",
+          "segment": "sport",
+          "start": 110.07
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og der bliver nu krævet, at de ansvarlige individer findes og straffes.",
+          "segment": "sport",
+          "start": 117.0
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skifter tempo. Her er Chappell Roan med \"Pink Pony Club\".",
+          "segment": "sport",
+          "start": 122.66
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:1k2pQc5i348DCHwbn5KTdc",
+      "name": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "album": "The Rise and Fall of a Midwest Princess",
+      "image": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
+      "duration_ms": 258034,
+      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc",
+      "kobling": "Internationalt hit med tempo efter nyhedsblokken, så stemningen løftes igen."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 128.97,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den der sang er simpelthen svær at sidde stille til.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og nu til musiknyt. Mariah Carey kommer til Danmark.",
+          "segment": "musik",
+          "start": 7.17
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej, seriøst?",
+          "segment": "musik",
+          "start": 11.71
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Jo. Første danske koncert i otte år. Fireogtyvende juni 2027 i Mølleparken i Sønderborg.",
+          "segment": "musik",
+          "start": 12.84
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Sønderborg i juni. Så bliver det nok ikke \"All I Want for Christmas\".",
+          "segment": "musik",
+          "start": 20.53
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hun har nitten nummer et-hits i USA, så hun har lidt at vælge imellem.",
+          "segment": "musik",
+          "start": 26.55
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvad koster det, og hvornår går billetterne i salg?",
+          "segment": "musik",
+          "start": 32.66
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Knap tusind kroner. Salget starter fredag den trettende november klokken ti. Det skriver Soundvenue.",
+          "segment": "musik",
+          "start": 37.11
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og der er kun plads til femtusindefemhundrede gæster. Så den går nok hurtigt.",
+          "segment": "musik",
+          "start": 45.84
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Sæt en påmindelse, Frederik. Fredag klokken ti.",
+          "segment": "musik",
+          "start": 52.57
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Apropos festivaler: der er kommet overblik over de danske festivaler i 2027.",
+          "segment": "musik",
+          "start": 56.67
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Noget, der stikker ud?",
+          "segment": "musik",
+          "start": 63.31
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Northside har hævet musikbudgettet med tredive procent og rykket datoen.",
+          "segment": "musik",
+          "start": 65.23
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det kan man høre?",
+          "segment": "musik",
+          "start": 71.51
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "The Strokes, Turnstile og Phoebe Bridgers er hovednavne. Sytten navne er ude indtil videre.",
+          "segment": "musik",
+          "start": 73.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er altså stærkt for en festival i Aarhus.",
+          "segment": "musik",
+          "start": 81.2
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Heartland satser mere dansk. Thomas Helmig og Christopher debuterer der.",
+          "segment": "musik",
+          "start": 85.13
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så fejrer Rosalía et år med albummet \"Lux\".",
+          "segment": "musik",
+          "start": 91.42
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvordan fejrer man egentlig et album?",
+          "segment": "musik",
+          "start": 95.43
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Med en playliste på tusind sange. Mozart, Pink Floyd, Yung Lean, Labi Siffre.",
+          "segment": "musik",
+          "start": 98.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er en playliste, man ikke kommer igennem på én arbejdsdag.",
+          "segment": "musik",
+          "start": 105.39
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der kommer også et jubilæumsbokssæt. Hun har selv sagt, hun tænkte på katedraler, da hun lavede pladen.",
+          "segment": "musik",
+          "start": 110.8
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det giver faktisk mening, når man hører den.",
+          "segment": "musik",
+          "start": 119.79
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så tager vi den selvfølgelig. Mariah Carey med \"Fantasy\".",
+          "segment": "musik",
+          "start": 123.63
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:6xkryXuiZU360Lngd4sx13",
+      "name": "Fantasy",
+      "artist": "Mariah Carey",
+      "album": "Daydream",
+      "image": "https://i.scdn.co/image/ab67616d0000b273749e9bfa78277f30ad2c9a9c",
+      "duration_ms": 243493,
+      "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13",
+      "kobling": "Direkte kobling til musiknyt: Mariah Carey spiller i Sønderborg til sommer, og Rosalía fejrer et år med 'Lux'."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 77.39,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Nittennoghalvfems og stadig perfekt.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så dagens lette. Frankrig får en lidt usædvanlig præsidentkandidat.",
+          "segment": "let",
+          "start": 5.74
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Usædvanlig hvordan?",
+          "segment": "let",
+          "start": 11.78
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Judokæmperen Teddy Riner stiller op. Flerdobbelt verdensmester.",
+          "segment": "let",
+          "start": 13.42
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hold da op.",
+          "segment": "let",
+          "start": 18.85
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han annoncerede det på Instagram. \"Mit navn er Teddy Riner, og jeg er kandidat til præsidentvalget i 2027.\"",
+          "segment": "let",
+          "start": 19.8
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det kom bag på folk?",
+          "segment": "let",
+          "start": 29.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Helt. Kandidaturet var ikke ventet, skriver DR med henvisning til France 24.",
+          "segment": "let",
+          "start": 31.02
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der er valg i Frankrig den attende april næste år.",
+          "segment": "let",
+          "start": 37.57
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Man skal i hvert fald tænke sig om, før man går i clinch med ham i en debat.",
+          "segment": "let",
+          "start": 41.89
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Jeg ville nok give ham det sidste ord.",
+          "segment": "let",
+          "start": 48.45
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det var Morgenradio for i dag. Tak fordi du var med, Frederik.",
+          "segment": "outro",
+          "start": 54.8
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Husk regnjakken. Og fredag klokken ti, hvis du vil til Mariah.",
+          "segment": "outro",
+          "start": 59.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Ja. Hav en rigtig god mandag derude.",
+          "segment": "outro",
+          "start": 63.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi sender dig afsted med Tessa og \"Snakker For Meget\".",
+          "segment": "outro",
+          "start": 66.27
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:5WvK9QLls6WikBoh5RrroV",
+      "name": "Snakker For Meget",
+      "artist": "Tessa",
+      "album": "Snakker For Meget",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731061e4ddc1b030711b26d00a",
+      "duration_ms": 156923,
+      "url": "https://open.spotify.com/track/5WvK9QLls6WikBoh5RrroV",
+      "kobling": "Dansk hiphop med drive til at sende Frederik afsted på arbejde — holder dansk-andelen omkring halvdelen."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 632.0,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Trump erkender, at deportationspolitik har været for hård og åbner for lempelse",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/trump-erkender-deportationspolitik-har-vaeret-haard-og-aabner-lempelse"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Russland avviser at Europa får plass ved forhandlingsbordet i Abu Dhabi",
+      "kilde": "ABC Nyheter",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnliVHN4LWtkUXgwQmxCUVdUa2k2WlBKdUEwYm9tc2YyQUtNX0FRVHFUUVFRRHdFU2Z5ZEhuVEdTNUpDNVBXTDd0X1hDbWk5Skh6Y0VMUEVrVUxocXIxR3RSRVBPQ1R3aUlyYlVGbkdLMzNYYUdJSXdPc0lDLVRreGI3NFZsajBnbGVlNkN6aWFhSVVNMW5wTWNQVk1aZnYwOWRua3JKUzlzWlFkVmdwWDktOA?oc=5"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Kina afviser beskyldninger om Nvidia-spionage efter erkendt utroskab",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/kina-afviser-beskyldninger-om-nvidia-spionage-efter-erkendt-utroskab"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Også Norge strammer grebet om datacentre: Stopper for ny strøm til projekter",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/ogsaa-norge-strammer-grebet-om-datacentre-stopper-ny-stroem-til-projekter"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Trump forventer at deltage i møde med Kina og Putin",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/trump-forventer-deltage-i-moede-med-kina-og-putin"
+    },
+    {
+      "segment": "sport",
+      "titel": "Drømmehug sikrer FCK derby-sejr over Brøndby",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/superliga/reels/droemmehug-sikrer-fck-derby-sejr-over-broendby"
+    },
+    {
+      "segment": "sport",
+      "titel": "AGF sparker døren ind til mesterskabsspillet",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12799634#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "Andreas Christensen gør comeback i Barcelona-sejr",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12803796#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "Dorgu redder United fra kæmpefiasko i overtiden",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12802894#liveblog-embed"
+    },
+    {
+      "segment": "musik",
+      "titel": "Mariah Carey annoncerer første danske koncert i otte år",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/mariah-carey-annoncerer-foerste-danske-koncert-i-otte-aar-704051"
+    },
+    {
+      "segment": "musik",
+      "titel": "Rosalía celebrates one year of ‘Lux’ with 1,000-song playlist and anniversary box set",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/music/rosalia-celebrates-one-year-lux-1000-song-playlist-anniversary-box-set-3975386"
+    },
+    {
+      "segment": "musik",
+      "titel": "Hvem spiller på de danske festivaler i 2027? Her er dit overblik",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/hvem-spiller-paa-de-danske-festivaler-i-2027-her-er-dit-overblik-702795"
+    },
+    {
+      "segment": "let",
+      "titel": "Judokæmper og flerdobbelt verdensmester vil være fransk præsident",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/judokaemper-og-flerdobbelt-verdensmester-vil-vaere-fransk-praesident"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (31)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (1)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (1)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (29)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (11)"
+  },
+  "test": false
+}

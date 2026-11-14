@@ -1,0 +1,878 @@
+{
+  "date": "2026-11-04",
+  "dato_tekst": "onsdag den 4. november 2026",
+  "title": "Demokratisk storsejr i USA, grønne aktier i vejret og United-comeback",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-04T11:57:21+01:00",
+  "tema": "Demokraternes historiske storsejr ved det amerikanske midtvejsvalg — og hvad det betyder for danskernes aktier og renter.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 275.3,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen, Frederik! Du lytter til Morgenradio, og det er onsdag den fjerde november.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Og hvis du har sovet i nat, så er der sket et eller andet i USA.",
+          "segment": "intro",
+          "start": 15.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Lidt af en nat, ja. Demokraterne har vundet flertallet i både Repræsentanternes Hus og Senatet.",
+          "segment": "intro",
+          "start": 21.7
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og danske vindaktier er gået fuldstændig amok fra morgenstunden.",
+          "segment": "intro",
+          "start": 29.75
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi har også en ny senator i Texas, studerende der boykotter undervisningen, og United der laver comeback.",
+          "segment": "intro",
+          "start": 35.17
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men først: vejret i Aarhus. Og det er faktisk ret fint lige nu.",
+          "segment": "intro",
+          "start": 44.06
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ni grader og skyfri himmel. Senere skyer på, mellem fire og ti grader.",
+          "segment": "intro",
+          "start": 49.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nul procent regn og næsten ingen vind. Cyklen kan klare sig selv i dag.",
+          "segment": "intro",
+          "start": 55.33
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Solen står op 7.32 og går ned 16.31. Så nyd lyset mens du har det.",
+          "segment": "intro",
+          "start": 61.35
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så til det store. Demokraterne har flertal i begge kamre efter midtvejsvalget.",
+          "segment": "nyheder",
+          "start": 69.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og Barack Obama var hurtigt ude. Han sagde, at nu smøger de ærmerne op.",
+          "segment": "nyheder",
+          "start": 75.55
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Trump accepterer resultatet. Men han har delt et billede på Truth Social.",
+          "segment": "nyheder",
+          "start": 80.9
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Den røde MAGA-kasket med ordet veto på.",
+          "segment": "nyheder",
+          "start": 86.4
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Altså et ret tydeligt signal om, at han vil blokere, hvis de prøver at vedtage nye love.",
+          "segment": "nyheder",
+          "start": 89.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så flertal er én ting. At få noget igennem er noget andet.",
+          "segment": "nyheder",
+          "start": 95.97
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men børsen er glad. Ørsted stiger over seks procent, Vestas godt fem.",
+          "segment": "nyheder",
+          "start": 100.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hold da op.",
+          "segment": "nyheder",
+          "start": 105.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Logikken er, at Demokraterne er mildere stemt over for vindmøller end Republikanerne.",
+          "segment": "nyheder",
+          "start": 106.37
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, Trump har jo ikke lagt skjul på, hvad han synes om vindmøller.",
+          "segment": "nyheder",
+          "start": 112.78
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "C25 stiger samlet med 1,2 procent. Og Novo og Pandora kom med kvartalsregnskaber i dag.",
+          "segment": "nyheder",
+          "start": 117.75
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Begge aktier op. Så hvis du har en pensionsopsparing, Frederik, har den haft en fin morgen.",
+          "segment": "nyheder",
+          "start": 124.31
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men hold lige hestene. Politiken har talt med en økonom om, hvad det betyder på den lange bane.",
+          "segment": "nyheder",
+          "start": 131.16
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og?",
+          "segment": "nyheder",
+          "start": 138.32
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Normalt sker der ikke ret meget med danskernes aktier og økonomi efter et amerikansk valg.",
+          "segment": "nyheder",
+          "start": 138.55
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men der er et scenarie, hvor det kan betyde noget.",
+          "segment": "nyheder",
+          "start": 145.33
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Præcis. Så en god børsdag er ikke det samme som en ny retning.",
+          "segment": "nyheder",
+          "start": 149.1
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nå, men det vildeste enkeltresultat er altså fra Texas.",
+          "segment": "nyheder",
+          "start": 153.77
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja! James Talarico. 37 år, tidligere skolelærer.",
+          "segment": "nyheder",
+          "start": 157.92
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Første demokrat der vinder et senatsvalg i Texas siden 1988.",
+          "segment": "nyheder",
+          "start": 161.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Altså et halvt år før han selv blev født. Det er 38 år.",
+          "segment": "nyheder",
+          "start": 166.06
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han var stort set ukendt for et år siden. På valgnatten i Lubbock stod køen ud på gaden.",
+          "segment": "nyheder",
+          "start": 170.2
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han sagde, at texanerne er klar til forandring. At de har fået nok af ekstremisme og korruption.",
+          "segment": "nyheder",
+          "start": 176.83
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hans pointe er, at den største kløft i USA ikke er mellem højre og venstre.",
+          "segment": "nyheder",
+          "start": 184.4
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej, mellem top og bund. Han har brugt Bibelen til at argumentere for sygeforsikring og gratis børnepasning.",
+          "segment": "nyheder",
+          "start": 190.19
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvilket har vakt stærke reaktioner blandt kristne, skriver DR.",
+          "segment": "nyheder",
+          "start": 198.22
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og i Michigan vandt demokraten Abdul El-Sayed. Han bliver den første muslim i Senatet.",
+          "segment": "nyheder",
+          "start": 202.83
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "42 år. Og jubelen var til at få øje på.",
+          "segment": "nyheder",
+          "start": 209.22
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hjemme i Danmark: studerende over hele landet boykotter undervisningen i dag.",
+          "segment": "nyheder",
+          "start": 212.11
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det handler om regeringens planer om at skære i SU'en.",
+          "segment": "nyheder",
+          "start": 217.84
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Omkring 10.000 ventes på Rådhuspladsen i København. 21 organisationer står bag.",
+          "segment": "nyheder",
+          "start": 221.85
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og 30.000 gymnasieelever fra 40 gymnasier nedlægger undervisningen.",
+          "segment": "nyheder",
+          "start": 227.72
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "De samles halv et og går mod Christiansborg derfra.",
+          "segment": "nyheder",
+          "start": 232.7
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så en, du nok bider mærke i, Frederik. Politiken har talt med en chef om AI.",
+          "segment": "nyheder",
+          "start": 236.49
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "I en dansk virksomhed har kunstig intelligens på kort tid overtaget 80 procent af opgavearbejdet.",
+          "segment": "nyheder",
+          "start": 242.36
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Firs procent. Det er ikke et forsøg mere.",
+          "segment": "nyheder",
+          "start": 249.56
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og konsekvensen er, at de ansætter færre nyuddannede.",
+          "segment": "nyheder",
+          "start": 252.61
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Chefen advarer selv om, at det bliver et samfundsproblem. For hvor skal folk så lære håndværket?",
+          "segment": "nyheder",
+          "start": 256.55
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, det er jo juniorerne, der bliver til seniorerne.",
+          "segment": "nyheder",
+          "start": 263.68
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Noget at tage med på bureauet i dag.",
+          "segment": "nyheder",
+          "start": 267.55
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skruer lidt ned i tempo. Her er Lukas Graham med \"Love Someone\".",
+          "segment": "nyheder",
+          "start": 270.22
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:3id2EVGKc3eFAMn9nFnB0r",
+      "name": "Love Someone",
+      "artist": "Lukas Graham",
+      "album": "3 (The Purple Album)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d266be64b095db17c5b6814a",
+      "duration_ms": 205440,
+      "url": "https://open.spotify.com/track/3id2EVGKc3eFAMn9nFnB0r",
+      "kobling": "Energisk morgenåbner til en skyfri novemberhimmel over Aarhus."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 140.38,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den er svær ikke at synge med på klokken syv om morgenen.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Du synger den i hvert fald. Nå, hjemme i Aarhus.",
+          "segment": "aarhus",
+          "start": 6.79
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og i dag er det altså byens bedste trafikdag på papiret.",
+          "segment": "aarhus",
+          "start": 10.28
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nul procent regn, vind op til tre meter i sekundet. Det er næsten vindstille.",
+          "segment": "aarhus",
+          "start": 14.37
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så hvis du har tænkt på at tage cyklen ind i stedet for bussen, Frederik, så er det i dag.",
+          "segment": "aarhus",
+          "start": 19.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det eneste minus er, at skyerne lukker til hen på formiddagen.",
+          "segment": "aarhus",
+          "start": 26.54
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og at solen går ned 16.31. Altså mens man stadig sidder foran skærmen.",
+          "segment": "aarhus",
+          "start": 31.06
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så tag frokostpausen udenfor. Det er faktisk mit bedste råd i dag.",
+          "segment": "aarhus",
+          "start": 36.16
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvis de studerende også demonstrerer i Aarhus, kan der være lidt ekstra liv i bybilledet.",
+          "segment": "aarhus",
+          "start": 40.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Den store demonstration er planlagt i København, men der nedlægges undervisning landet over.",
+          "segment": "aarhus",
+          "start": 47.68
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Champions League i går. Og Manchester er i ekstase, skriver DR Sporten.",
+          "segment": "sport",
+          "start": 57.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "United?",
+          "segment": "sport",
+          "start": 62.27
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "United. Vildt comeback, og så bryder de endelig en lang sejrstørke.",
+          "segment": "sport",
+          "start": 62.78
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Altså det har man ikke kunnet sige om dem så tit på det seneste.",
+          "segment": "sport",
+          "start": 67.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Og så var der en dansk back, der scorede to mål i en Champions League-sejr.",
+          "segment": "sport",
+          "start": 72.3
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "To mål? Som back?",
+          "segment": "sport",
+          "start": 78.11
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "To mål. Det er sådan en, man gerne vil have i sit fantasyhold.",
+          "segment": "sport",
+          "start": 79.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og i pokalen herhjemme gik det skævt for Randers.",
+          "segment": "sport",
+          "start": 83.85
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, Lyngby sender Randers ud af pokalen i tillægstiden. Det gør bare ekstra ondt.",
+          "segment": "sport",
+          "start": 87.41
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der er også landsholdsnyt på vej. Der skal udtages trup til Portugal og Norge.",
+          "segment": "sport",
+          "start": 93.29
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "To brag. Dem glæder jeg mig allerede til.",
+          "segment": "sport",
+          "start": 98.96
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så en alvorligere en fra isen. De danske ishockeyherrer vil ikke spille mod Rusland.",
+          "segment": "sport",
+          "start": 101.93
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De deltager ved VM, men afviser kampe mod Rusland. Det handler om sikkerhed for alle, siger formanden.",
+          "segment": "sport",
+          "start": 108.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Finland, Letland og Norge har sagt det samme. Norge peger på sikkerhedsrisiko for spillere og stab.",
+          "segment": "sport",
+          "start": 115.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og holdningen er, at Rusland bør udelukkes, så længe krigen i Ukraine fortsætter.",
+          "segment": "sport",
+          "start": 122.85
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "De danske ishockeykvinder tabte i øvrigt 0-5 til Tyskland i Vojens i går. De åbner VM mod Finland fredag.",
+          "segment": "sport",
+          "start": 128.74
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi lander lidt blødt. Her er Drake med \"Passionfruit\".",
+          "segment": "sport",
+          "start": 136.36
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:5mCPDVBb16L4XQwDdbRUpz",
+      "name": "Passionfruit",
+      "artist": "Drake",
+      "album": "More Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+      "duration_ms": 298940,
+      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz",
+      "kobling": "Internationalt R&B-pust efter de tunge USA-nyheder — behageligt uden at være melankolsk."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 106.89,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Den der bas klokken halv otte. Perfekt.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Musiknyt. Og vi starter med Malte Ebert.",
+          "segment": "musik",
+          "start": 6.13
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han trækker sin sang fra \"Alle elsker Rasmus\" tilbage. Efter TV 2 trak programmet.",
+          "segment": "musik",
+          "start": 9.72
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han skriver på Instagram, at han ikke skulle have udgivet den. At ansvaret er hans.",
+          "segment": "musik",
+          "start": 17.07
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og sangen var oprindeligt dedikeret til hans forlovede. Så den betyder noget personligt for ham.",
+          "segment": "musik",
+          "start": 24.52
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Derfor tøvede han. Men nu er den væk fra streamingtjenesterne.",
+          "segment": "musik",
+          "start": 33.13
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Flere af de medvirkende har undskyldt, blandt andre Anders W. Berthelsen og Josephine Højbjerg.",
+          "segment": "musik",
+          "start": 38.7
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så til noget helt andet: julereklamerne er begyndt at rulle.",
+          "segment": "musik",
+          "start": 47.22
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Allerede?",
+          "segment": "musik",
+          "start": 52.87
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Allerede. Sam Fender laver musikken til årets John Lewis-julereklame.",
+          "segment": "musik",
+          "start": 53.68
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvad har han valgt?",
+          "segment": "musik",
+          "start": 59.87
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Et cover af Rolling Stones' \"You Can't Always Get What You Want\".",
+          "segment": "musik",
+          "start": 61.57
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er modigt.",
+          "segment": "musik",
+          "start": 67.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Mick Jagger har godkendt det. Han siger, at Fender har gjort det rigtig godt.",
+          "segment": "musik",
+          "start": 68.66
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så er man vist fredet.",
+          "segment": "musik",
+          "start": 75.57
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og 2027 begynder at ligne et godt koncertår. Robert Smith lover Cure-datoer fyldt med nye sange.",
+          "segment": "musik",
+          "start": 77.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Courteeners har annonceret UK-turné til sommeren 2027 med blandt andre The Coral.",
+          "segment": "musik",
+          "start": 86.16
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Blandt andet et stort show i Sheffield. Noget at planlægge en weekendtur efter.",
+          "segment": "musik",
+          "start": 93.69
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi bliver i selskabet. Her er Sam Fender med \"Hypersonic Missiles\".",
+          "segment": "musik",
+          "start": 100.78
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:6CltzquypraYIlWFp48m1O",
+      "name": "Hypersonic Missiles",
+      "artist": "Sam Fender",
+      "album": "Hypersonic Missiles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273afb4accd45527de5717afc9a",
+      "duration_ms": 237986,
+      "url": "https://open.spotify.com/track/6CltzquypraYIlWFp48m1O",
+      "kobling": "Direkte kobling til musiknyt: Sam Fender synger på årets John Lewis-julereklame, og The Cure lover ny turné i 2027 — Stones-originalen er coveret, Fender har lavet."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 93.68,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så dagens lette. Hvad kalder man det at brokke sig over noget, man ikke har orket at sætte sig ind i?",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det kalder jeg et kommentarspor.",
+          "segment": "let",
+          "start": 10.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Nej, der er faktisk kommet en ny ordbog, skriver Politiken.",
+          "segment": "let",
+          "start": 12.61
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Med ord for alt det, man ikke vidste, man manglede ord for?",
+          "segment": "let",
+          "start": 17.23
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Præcis. For eksempel: hvad hedder det modsatte af en anbefaling?",
+          "segment": "let",
+          "start": 21.56
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Altså en frarådning. Nej, det lyder som noget fra en indlægsseddel.",
+          "segment": "let",
+          "start": 26.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hvad med den skam, man har på andres vegne?",
+          "segment": "let",
+          "start": 31.17
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Den kender jeg alt for godt. Det er hele følelsen ved at se dårligt tv.",
+          "segment": "let",
+          "start": 34.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Pointen er, at når noget får et navn, bliver det lettere at tale om.",
+          "segment": "let",
+          "start": 39.75
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, og i vores branche elsker vi jo at sætte navn på ting.",
+          "segment": "let",
+          "start": 44.74
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi kalder det bare en strategi.",
+          "segment": "let",
+          "start": 49.0
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det var Morgenradio for i dag. Tak fordi du lyttede med, Frederik.",
+          "segment": "outro",
+          "start": 54.0
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi tager lige den korte: Demokraterne har begge kamre, vindaktierne er i vejret.",
+          "segment": "outro",
+          "start": 59.38
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Studerende demonstrerer, og United vandt faktisk en fodboldkamp.",
+          "segment": "outro",
+          "start": 65.61
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det sidste er stadig det mest overraskende.",
+          "segment": "outro",
+          "start": 70.6
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ni grader, skyfrit lige nu og ingen regn. Tag cyklen.",
+          "segment": "outro",
+          "start": 73.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ha en rigtig god onsdag derude.",
+          "segment": "outro",
+          "start": 78.09
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi slutter med dansk energi til turen på arbejde. Alan Gillis med \"Pills\".",
+          "segment": "outro",
+          "start": 80.51
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:2C1qCRw3eys3yrbZrsbV9b",
+      "name": "Pills",
+      "artist": "Alan Gillis",
+      "album": "Alan Gillis",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732aaad88d80f167780f0fff61",
+      "duration_ms": 212503,
+      "url": "https://open.spotify.com/track/2C1qCRw3eys3yrbZrsbV9b",
+      "kobling": "Dansk energi til vejen på arbejde — holder andelen af dansk musik oppe i udsendelsen."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 628.63,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Obama om Demokraternes sejr: Nu smøger vi ærmerne op",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/valg-i-usa/obama-om-demokraternes-sejr-nu-smoeger-vi-aermerne-op"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Talarico slår Musks millioner og bliver første demokratiske senator i Texas siden 1988",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/valg-i-usa/talarico-slaar-musks-millioner-og-bliver-foerste-demokratiske-senator-i-texas-siden-1988"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Det betyder demokratisk storsejr i USA for din økonomi",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/danmark/oekonomi/art11047064/Det-betyder-demokratisk-storsejr-i-USA-for-din-%C3%B8konomi"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Chef: Vi ansætter færre nyuddannede, efter at ai er kommet – og det er et problem",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/danmark/oekonomi/art11038822/Vi-ans%C3%A6tter-f%C3%A6rre-nyuddannede-efter-at-ai-er-kommet-%E2%80%93-og-det-er-et-problem"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Studerende boykotter undervisningen i protest mod SU-spareplan",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/studerende-boykotter-undervisningen-i-protest-mod-su-spareplan"
+    },
+    {
+      "segment": "sport",
+      "titel": "Manchester i ekstase: United i vildt comeback",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/championsleague/maalfarlig-dansker-er-tvivlsom-til-moede-med-agf-s-boedler"
+    },
+    {
+      "segment": "sport",
+      "titel": "Dansk back scorer to i Champions League-sejr",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12768973#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "'Det handler om sikkerhed for alle': Danske ishockeyherrer går ikke på isen mod Rusland",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/ishockey/det-handler-om-sikkerhed-alle-danske-ishockeyherrer-gaar-ikke-paa-isen-mod-rusland"
+    },
+    {
+      "segment": "sport",
+      "titel": "Lyngby sender Randers ud af pokalen i tillægstiden",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12767413#liveblog-embed"
+    },
+    {
+      "segment": "musik",
+      "titel": "Malte Ebert trækker ‘Alle elsker Rasmus’-sang tilbage",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/malte-ebert-traekker-alle-elsker-rasmus-sang-tilbage-703228"
+    },
+    {
+      "segment": "musik",
+      "titel": "Sam Fender soundtracks 2026 John Lewis Christmas advert with cover of The Rolling Stones’ ‘You Can’t Always Get What You Want’",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/music/sam-fender-soundtracks-2026-john-lewis-christmas-advert-with-cover-of-the-rolling-stones-you-cant-always-get-what-you-want-3974871?utm_source=rss&utm_medium=rss&utm_campaign=sam-fender-soundtracks-2026-john-lewis-christmas-advert-with-cover-of-the-rolling-stones-you-cant-always-get-what-you-want"
+    },
+    {
+      "segment": "musik",
+      "titel": "Courteeners announce summer 2027 UK tour dates with The Coral and more",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/music/courteeners-announce-summer-2027-uk-tour-dates-with-the-coral-and-more-3974876?utm_source=rss&utm_medium=rss&utm_campaign=courteeners-announce-summer-2027-uk-tour-dates-with-the-coral-and-more"
+    },
+    {
+      "segment": "let",
+      "titel": "Hvad kalder du det at brokke sig over noget uden at have orket at sætte sig ind i det?",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/kultur/art11030816/Hvad-kalder-du-det-at-brokke-sig-over-noget-uden-at-have-orket-at-s%C3%A6tte-sig-ind-i-det"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (40)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (2)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (1)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (5)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (30)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (10)"
+  },
+  "test": false
+}

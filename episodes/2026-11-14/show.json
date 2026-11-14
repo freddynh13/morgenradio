@@ -1,0 +1,938 @@
+{
+  "date": "2026-11-14",
+  "dato_tekst": "lørdag den 14. november 2026",
+  "title": "Flykaos i USA, billigere elbiler og landskamp mod Portugal",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-14T11:28:47+01:00",
+  "tema": "Landskamp mod Portugal i aften, flykaos i USA og en ny finanslovsaftale om billigere elbiler fylder dagen.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 248.04,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen, Frederik! Det er lørdag den fjortende november, og du har fundet Morgenradio.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Og hvilken lørdag at vågne op til.",
+          "segment": "intro",
+          "start": 14.79
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, der er landskamp i aften. Danmark mod Portugal.",
+          "segment": "intro",
+          "start": 18.46
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jeg har tænkt på det siden i torsdags. Bare så I ved det.",
+          "segment": "intro",
+          "start": 22.32
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi har også kaos i amerikansk luftrum. Mere end otte tusind aflyste fly.",
+          "segment": "intro",
+          "start": 26.51
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hold da op.",
+          "segment": "intro",
+          "start": 32.08
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så en ny finanslovsdelaftale om billigere elbiler. Men kun for nogle.",
+          "segment": "intro",
+          "start": 32.97
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der er en krølle der, ja. Den tager vi om lidt.",
+          "segment": "intro",
+          "start": 39.39
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vejret skal jeg ikke sige så meget om i dag. Vores vejrdata er ikke kommet ind.",
+          "segment": "intro",
+          "start": 43.26
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så kig ud ad vinduet, Frederik. Gammeldags metode, virker stadig.",
+          "segment": "intro",
+          "start": 48.36
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men tag en jakke med. Det er altså midt i november i Aarhus.",
+          "segment": "intro",
+          "start": 53.49
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter i USA. Det var en vild nat for flytrafikken derovre.",
+          "segment": "nyheder",
+          "start": 60.55
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Myndighederne indførte startforbud for indenrigsflyvninger. Over otte tusind fly blev aflyst.",
+          "segment": "nyheder",
+          "start": 65.35
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det tal kommer fra flytrackeren Flight24. Og det er det længste startforbud siden elleve. september.",
+          "segment": "nyheder",
+          "start": 72.24
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Transportminister Sean Duffy siger, at konsekvenserne kan vare flere dage frem.",
+          "segment": "nyheder",
+          "start": 78.97
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvad var årsagen?",
+          "segment": "nyheder",
+          "start": 85.51
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ifølge Duffy forældet teknologi i flyvekontrolsystemet. Og routere, der var overbelastet med data.",
+          "segment": "nyheder",
+          "start": 87.07
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han bad direkte Kongressen om penge. Halvtreds milliarder dollar til et nyt system.",
+          "segment": "nyheder",
+          "start": 93.43
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og han advarer om, at det kan ske igen, hvis pengene ikke kommer.",
+          "segment": "nyheder",
+          "start": 98.79
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ministeren for indenrigssikkerhed, Markwayne Mullin, giver en lidt anden forklaring. Han peger på et nedbrud i telekommunikationen.",
+          "segment": "nyheder",
+          "start": 103.74
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men begge afviser, at det skulle være et cyberangreb. Og at det hænger sammen med Microsoft-nedbruddet.",
+          "segment": "nyheder",
+          "start": 112.29
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Tidligere på natten lød det, at fly fra Danmark til USA var indstillet indtil klokken seks.",
+          "segment": "nyheder",
+          "start": 119.28
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Københavns Lufthavn siger, man skal holde sig orienteret hos sit eget flyselskab. Det er DR, der skriver det.",
+          "segment": "nyheder",
+          "start": 125.67
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og apropos Microsoft. Der er godt nyt i morges.",
+          "segment": "nyheder",
+          "start": 133.29
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Alle tjenester er genoprettet. Teams, Outlook, Copilot. Det hele kører igen.",
+          "segment": "nyheder",
+          "start": 138.23
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nedbruddet ramte brugere i fireoghalvfjerds lande og varede mere end et døgn.",
+          "segment": "nyheder",
+          "start": 144.73
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Frederik, hvis din arbejdsuge har været lidt tung på det punkt, så var det ikke dig. Det var dem.",
+          "segment": "nyheder",
+          "start": 151.0
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Microsoft siger, det skyldtes et problem under en tidligere netværksopdatering. Og de beklager dybt.",
+          "segment": "nyheder",
+          "start": 156.99
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De lover en rapport, når de har gennemgået forløbet.",
+          "segment": "nyheder",
+          "start": 163.53
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hjemme i Danmark er der en ny delaftale til finansloven.",
+          "segment": "nyheder",
+          "start": 167.08
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Regeringen, Enhedslisten og Alternativet. Og den indeholder blandt andet billigere elbiler.",
+          "segment": "nyheder",
+          "start": 171.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men ikke til alle. Det er til udvalgte samfundsgrupper, skriver Politiken.",
+          "segment": "nyheder",
+          "start": 177.61
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvilke grupper?",
+          "segment": "nyheder",
+          "start": 183.11
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er ikke specificeret endnu i det, vi har. Så vi venter med at gætte.",
+          "segment": "nyheder",
+          "start": 184.39
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fair nok. Men det er jo en af de der nyheder, der rammer både bilbudget og boligøkonomi.",
+          "segment": "nyheder",
+          "start": 188.84
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så Ukraine. EU-landene har besluttet, hvem der skal repræsentere Europa i fremtidige forhandlinger.",
+          "segment": "nyheder",
+          "start": 194.91
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Frankrig, Storbritannien, Tyskland, Polen og Italien. Plus EU-institutionerne.",
+          "segment": "nyheder",
+          "start": 201.79
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "EU's præsident António Costa siger, at Europa skal tale med én klar stemme.",
+          "segment": "nyheder",
+          "start": 208.22
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det blev besluttet på det uformelle topmøde i Dublin. Nato vil formentlig også være repræsenteret.",
+          "segment": "nyheder",
+          "start": 213.49
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og lige en sidste en til dig, der arbejder med det digitale til daglig.",
+          "segment": "nyheder",
+          "start": 219.15
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, ChatGPT får en wallet. Så kan den shoppe for dig.",
+          "segment": "nyheder",
+          "start": 223.89
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej, seriøst?",
+          "segment": "nyheder",
+          "start": 227.73
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jo. Men hvert køb skal godkendes med ansigt eller fingeraftryk.",
+          "segment": "nyheder",
+          "start": 229.64
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Okay, det beroliger mig lidt. Lige lidt.",
+          "segment": "nyheder",
+          "start": 234.35
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Julegaveindkøbet bliver i hvert fald et andet dyr i år.",
+          "segment": "nyheder",
+          "start": 237.69
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skruer op. Her er Christopher og Brandon Beal med CPH Girls.",
+          "segment": "nyheder",
+          "start": 242.61
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:2d84pvizU81Nynps4Cuf8P",
+      "name": "CPH Girls (feat. Brandon Beal)",
+      "artist": "Christopher, Brandon Beal",
+      "album": "Told You So (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734a6d3a784b3b991e549f3d21",
+      "duration_ms": 211973,
+      "url": "https://open.spotify.com/track/2d84pvizU81Nynps4Cuf8P",
+      "kobling": "Høj energi og kendt omkvæd til at vække en lørdag morgen i Aarhus."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 155.07,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den der sætter altså stadig gang i en lørdag morgen.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Selvom det er København, der bliver hyldet. Det må Aarhus bære over med.",
+          "segment": "aarhus",
+          "start": 5.95
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Aarhus bærer over med meget. Det er en robust by.",
+          "segment": "aarhus",
+          "start": 10.8
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og en lørdag i november i Aarhus, det er jo midtbyen, en kop kaffe og ingen travlhed.",
+          "segment": "aarhus",
+          "start": 15.74
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Og så er det en af de weekender, hvor byen begynder at gøre sig klar til december.",
+          "segment": "aarhus",
+          "start": 22.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der er stille på nyhedsfronten lokalt her til morgen. Ikke noget nyt vi kan stå inde for.",
+          "segment": "aarhus",
+          "start": 28.04
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det er jo også en slags nyhed. Alt er fint i Aarhus.",
+          "segment": "aarhus",
+          "start": 34.71
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men Frederik, hvis du skal ud og cykle i dag, så pak dig ind. November holder ikke igen.",
+          "segment": "aarhus",
+          "start": 39.32
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvis du skal se kampen i byen i aften, så find stedet nu. Der bliver fyldt.",
+          "segment": "aarhus",
+          "start": 45.81
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så er det din tur, Mads. Du har ventet hele programmet.",
+          "segment": "sport",
+          "start": 52.32
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jeg har ventet hele ugen. Danmark mod Portugal i Nations League i aften.",
+          "segment": "sport",
+          "start": 56.48
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og der er noget på spil.",
+          "segment": "sport",
+          "start": 61.43
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, Danmark kan sikre sig en vigtig fordel i årets næstsidste landskamp. Det skriver DR Sporten.",
+          "segment": "sport",
+          "start": 64.0
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Du kan følge den i LIGA på P4, hvis du ikke sidder foran et skærmbillede.",
+          "segment": "sport",
+          "start": 71.92
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der er også nyt om truppen. En Bundesliga-dansker er siet fra.",
+          "segment": "sport",
+          "start": 77.0
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvem?",
+          "segment": "sport",
+          "start": 81.7
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Navnet står ikke i det, vi har her. Så det skal jeg ikke sidde og gætte på direkte.",
+          "segment": "sport",
+          "start": 82.28
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Klogt.",
+          "segment": "sport",
+          "start": 87.99
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men vi ved, at Patrick Dorgu har forladt landsholdslejren. Det melder DR Sporten.",
+          "segment": "sport",
+          "start": 88.84
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er da ærgerligt så tæt på kampen.",
+          "segment": "sport",
+          "start": 94.77
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er det. Men sådan er november. Der er altid nogen, der falder fra.",
+          "segment": "sport",
+          "start": 97.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og ude i Europa, der skete der noget vildt i går.",
+          "segment": "sport",
+          "start": 102.32
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Holland slog Grækenland syv-nul. Syv!",
+          "segment": "sport",
+          "start": 106.27
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Mod et hold, der ellers var i form.",
+          "segment": "sport",
+          "start": 108.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jurrien Timber og Tijjani Reijnders stod for fem af de syv mål. To mand. Fem mål.",
+          "segment": "sport",
+          "start": 110.8
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er vildt.",
+          "segment": "sport",
+          "start": 117.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Norske medier kalder det mildt sagt chokerende. Og det er svært at være uenig.",
+          "segment": "sport",
+          "start": 118.7
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så den her med Manchester United.",
+          "segment": "sport",
+          "start": 123.74
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, de har fundet deres nye cheftræner i USA. Mauricio Pochettino.",
+          "segment": "sport",
+          "start": 126.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han står jo i spidsen for det amerikanske landshold lige nu.",
+          "segment": "sport",
+          "start": 132.13
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han leder USA først og overtager United derefter. En gammel kending vender tilbage til Premier League.",
+          "segment": "sport",
+          "start": 136.87
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Tror du på det?",
+          "segment": "sport",
+          "start": 143.97
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jeg tror på, at United får prøvet endnu en god træner af. Mere tør jeg ikke sige.",
+          "segment": "sport",
+          "start": 144.96
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi holder tempoet. Kendrick Lamar og Not Like Us.",
+          "segment": "sport",
+          "start": 150.74
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:6AI3ezQ4o3HUoP6Dhudph3",
+      "name": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "album": "Not Like Us",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731ea0c62b2339cbf493a999ad",
+      "duration_ms": 274192,
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3",
+      "kobling": "Groovy puls efter nyheder og sport — holder tempoet uden at blive tung."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 94.67,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den beat går aldrig af mode.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej. Og vi bliver i hiphoppen. Der er nyt om Drake.",
+          "segment": "musik",
+          "start": 5.6
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han har opdateret Take Care. Albummet fra tusind og elleve.",
+          "segment": "musik",
+          "start": 10.48
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Med en ny sang?",
+          "segment": "musik",
+          "start": 16.02
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, en gammel optagelse der aldrig er udkommet. Hate Sleeping Alone hedder den. Pitchfork skriver om det.",
+          "segment": "musik",
+          "start": 17.36
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Femten år efter. Det er sjovt, at der stadig ligger noget i skuffen.",
+          "segment": "musik",
+          "start": 25.86
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der ligger altid noget i skuffen hos de store.",
+          "segment": "musik",
+          "start": 31.0
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så Rosalía. Hun skrev historie ved Latin Grammy.",
+          "segment": "musik",
+          "start": 34.21
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Album of the Year. Og hun er den første kvindelige soloartist, der vinder den tre gange.",
+          "segment": "musik",
+          "start": 38.36
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hold da op.",
+          "segment": "musik",
+          "start": 44.07
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "La Perla blev også kåret som årets sang. Og hun optrådte med et medley fra albummet Lux.",
+          "segment": "musik",
+          "start": 45.57
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hun er bare i en klasse for sig lige nu.",
+          "segment": "musik",
+          "start": 52.21
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hjemme i Danmark har Kundo lavet noget, der overrasker.",
+          "segment": "musik",
+          "start": 54.64
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nummeret hedder Illumineret. Og Soundvenue kalder det hans mest radikale stilskifte til dato.",
+          "segment": "musik",
+          "start": 59.38
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han er jo rapper. Men det her er poprock. Akustisk intro, guitarhooks, indierock-mellemspil.",
+          "segment": "musik",
+          "start": 66.31
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hvad synes anmelderen?",
+          "segment": "musik",
+          "start": 73.04
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "At det er et udmærket nummer om at finde lys i mørket. Men at Kundo stadig er bedst som rapper.",
+          "segment": "musik",
+          "start": 74.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er da en fair dom. Man skal have lov at prøve noget af.",
+          "segment": "musik",
+          "start": 81.6
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Helt enig. Og der er altså et omkvæd, der bliver sunget med på til koncerterne.",
+          "segment": "musik",
+          "start": 84.99
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi bliver ved Drake. Her er Take Care med Rihanna.",
+          "segment": "musik",
+          "start": 90.25
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:124NFj84ppZ5pAxTuVQYCQ",
+      "name": "Take Care",
+      "artist": "Drake, Rihanna",
+      "album": "Take Care (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
+      "duration_ms": 277386,
+      "url": "https://open.spotify.com/track/124NFj84ppZ5pAxTuVQYCQ",
+      "kobling": "Drake har lagt et nyt nummer på 'Take Care'-albummet, og Rosalía satte netop rekord ved Latin Grammy — begge nævnt i musiknyt."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 113.86,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så har jeg en historie, der gør en lørdag morgen lidt blødere.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Kom med den.",
+          "segment": "let",
+          "start": 6.73
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "På Hindsholmskolen i Kerteminde har sjette klasse fået pennevenner. Rigtige breve, på papir.",
+          "segment": "let",
+          "start": 7.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Breve? Har de overhovedet prøvet det før?",
+          "segment": "let",
+          "start": 14.29
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej. Det er første gang for dem. Og deres pennevenner er ældre fra nabolaget.",
+          "segment": "let",
+          "start": 17.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er jo en skøn idé.",
+          "segment": "let",
+          "start": 23.38
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Dagmar er tolv år. Hendes penneven hedder Jessie og er otteoghalvfjerds.",
+          "segment": "let",
+          "start": 25.11
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og de bor tæt på hinanden?",
+          "segment": "let",
+          "start": 31.09
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, omkring to hundrede meter fra skolen. Henne om hjørnet.",
+          "segment": "let",
+          "start": 33.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er næsten bedre end selve brevet.",
+          "segment": "let",
+          "start": 38.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og klassekammeraten Filuka siger det så godt. At det føles lidt mere fint, end hvis man bare får en sms.",
+          "segment": "let",
+          "start": 41.79
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ha! Ud af munden på en tolvårig.",
+          "segment": "let",
+          "start": 49.88
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der er rykket en lille rød postkasse ind i klasseværelset. Det er DR, der har været forbi.",
+          "segment": "let",
+          "start": 52.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvem står bag?",
+          "segment": "let",
+          "start": 58.39
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nina Aagaard Skov fra Kerteminde Kommune. Midlerne kommer fra en pulje i Ældreministeriet.",
+          "segment": "let",
+          "start": 59.55
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hun fik idéen, fordi hun selv havde pennevenner som ung.",
+          "segment": "let",
+          "start": 66.04
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Præcis. Det der med at få et brev og dvæle ved det.",
+          "segment": "let",
+          "start": 70.79
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Dvæle. Det er et ord, vi godt kunne bruge noget mere af.",
+          "segment": "let",
+          "start": 74.56
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og dermed er vi ved vejs ende for i dag.",
+          "segment": "outro",
+          "start": 81.39
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det gik stærkt. Flykaos, elbiler, syv-nul og et brev på tyndt papir.",
+          "segment": "outro",
+          "start": 84.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Tak fordi du var med, Frederik. Ha' en rigtig god lørdag i Aarhus.",
+          "segment": "outro",
+          "start": 90.3
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og nyd kampen i aften. Danmark mod Portugal. Jeg sidder klar.",
+          "segment": "outro",
+          "start": 95.32
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi slutter af med noget glad og dansk. Rasmus Seebach og Lidt I Fem.",
+          "segment": "outro",
+          "start": 99.35
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi ses i morgen. Kom godt afsted.",
+          "segment": "outro",
+          "start": 104.12
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:03JWulDUJ44wH1g1VYRLmv",
+      "name": "Lidt I Fem",
+      "artist": "Rasmus Seebach",
+      "album": "Rasmus Seebach",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb04813d22da3c9a31763c21",
+      "duration_ms": 223973,
+      "url": "https://open.spotify.com/track/03JWulDUJ44wH1g1VYRLmv",
+      "kobling": "Glad dansk weekendafslutning, der sender Frederik videre ind i lørdagen før aftenens landskamp."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 624.02,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Det længste startforbud siden 11. september skabte flykaos i USA: Konsekvenserne kan vare flere dage, siger minister",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/det-laengste-startforbud-siden-9-11-skabte-flykaos-i-usa-konsekvenserne-kan-vare-flere-dage-siger"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Regeringen præsenterer aftale om billigere elbiler – men kun til udvalgte grupper",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/danmark/politik/art11060304/Regeringen-pr%C3%A6senterer-aftale-om-billigere-elbiler-%E2%80%93-men-kun-til-udvalgte-grupper"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Disse lande skal repræsentere Europa i Ukraine-forhandlinger",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/disse-lande-skal-repraesentere-europa-i-ukraine-forhandlinger"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Alle Microsofts tjenester virker igen efter globalt nedbrud",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/alle-microsofts-tjenester-virker-igen-efter-globalt-nedbrud"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "ChatGPT Wallet lar KI handle for deg, men hvert kjøp krever ansikt eller fingeravtrykk",
+      "kilde": "Martin Cid Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOE5qUlk1YUg4NWNKQjBIaEN6VlRuT3FDeDBtSXZPc2pvNlFjdUY2TTBTTmltcHkyVmhzWEVqWlF3NG5EYnlGNy1BWld5aFRBaU8ycm9zWE5ETDNUQnJGenhBS3B0UlprcWZ6QXJITzhMbHFTa1pwOExsc1NHVmV1blNFVnQtSlI3d2tlcFNiVkRIN1Q3czlyTGF0VlRuQ3UxcHpsVzd4TTNod04xbEhzNXlSdHVCOVZWMHUyN2pWYVFzMWM?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Bundesliga-dansker siet fra landsholdstruppen",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/landsholdet/danmark-kan-sikre-vigtig-fordel-i-aarets-sidste-landskampe"
+    },
+    {
+      "segment": "sport",
+      "titel": "Dorgu forlader landsholdslejren",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12829715#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "Manchester United finder ny cheftræner i USA",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12828912#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "– Mildt sagt sjokkerende",
+      "kilde": "TV 2",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIUXd6V2VXX0hYRnhNWTJTVTRHa2VlZFg3bXV1Y3BVTHUwamRoa3JfTkxsOVFIMEJtNHMyeDZTSG9tRXd6MUVGYkdPSldnTHZidkRrOWY4U0g5UVhqLWtWWVYyVGQ4TWM3?oc=5"
+    },
+    {
+      "segment": "musik",
+      "titel": "Drake Updates Take Care With New Song “Hate Sleeping Alone”",
+      "kilde": "Pitchfork News",
+      "link": "https://pitchfork.com/story/drake-updates-take-care-with-new-song-hate-sleeping-alone/"
+    },
+    {
+      "segment": "musik",
+      "titel": "Rosalía makes history with Album Of The Year award win at Latin Grammys and performs ‘Lux’ medley",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/music/rosalia-album-year-award-latin-grammys-performs-lux-medley-3975928"
+    },
+    {
+      "segment": "musik",
+      "titel": "‘Illumineret’ er Kundos mest radikale stilskifte til dato",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/illumineret-er-kundos-mest-radikale-stilskifte-til-dato-704933"
+    },
+    {
+      "segment": "let",
+      "titel": "Dagmar på 12 har fået en penneven på 78: 'Det føles bare mere vigtigt end at få en sms'",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/dagmar-paa-12-har-faaet-en-penneven-paa-78-det-foeles-bare-mere-vigtigt-end-faa-en-sms"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (32)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (29)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (3)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (0)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (30)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (12)"
+  },
+  "test": false
+}
