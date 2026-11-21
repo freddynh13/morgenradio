@@ -1,0 +1,890 @@
+{
+  "date": "2026-11-19",
+  "dato_tekst": "torsdag den 19. november 2026",
+  "title": "Grønland-aftale, trepartsmøde i Shenzhen og Nadim-comeback",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-19T12:47:46+01:00",
+  "tema": "Stormagtspolitik og Grønland fylder, mens danskerne vågner til en grå novembertorsdag i Aarhus med frost om morgenen.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 291.81,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen, Frederik! Du lytter til Morgenradio, og det er torsdag den nittende november.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Og det er sådan en rigtig novembertorsdag i dag.",
+          "segment": "intro",
+          "start": 14.41
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Grå, ja. Vi skal om lidt tale Grønland, for Folketinget har stemt om amerikansk militæradgang.",
+          "segment": "intro",
+          "start": 18.85
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så er Trump, Putin og Xi samlet i Shenzhen. Det er ikke hver dag.",
+          "segment": "intro",
+          "start": 26.21
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Plus en streamingtjeneste, der lukker, og et hussalg, der bremser op omkring København.",
+          "segment": "intro",
+          "start": 30.36
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men først: vejret. Og Frederik, hvis du cykler, så tag handsker på.",
+          "segment": "intro",
+          "start": 36.74
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der er to grader i Aarhus lige nu og skiftende skydække. Frost i luften.",
+          "segment": "intro",
+          "start": 41.46
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det bliver ikke meget bedre. Overskyet hele dagen, mellem minus en og fire grader.",
+          "segment": "intro",
+          "start": 47.74
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Omkring en tredjedels risiko for nedbør, og vinden er mild nok, op til fem meter i sekundet.",
+          "segment": "intro",
+          "start": 54.39
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Solen står op klokken fire minutter over otte. Og går ned igen fire minutter over fire.",
+          "segment": "intro",
+          "start": 60.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Otte timer. Det er jo nærmest en frokostpause.",
+          "segment": "intro",
+          "start": 67.56
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Folketinget har stemt for udvidet amerikansk militæradgang i Grønland. Det skriver Politiken.",
+          "segment": "nyheder",
+          "start": 74.11
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er en sikkerheds- og forsvarsaftale, der åbner for nye amerikanske forsvarsområder.",
+          "segment": "nyheder",
+          "start": 80.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men de konkrete vilkår er ikke på plads endnu. De skal stadig forhandles.",
+          "segment": "nyheder",
+          "start": 85.82
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så rammen er sat, detaljerne mangler. Og det er typisk der, det bliver svært.",
+          "segment": "nyheder",
+          "start": 91.42
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja. Vi følger det selvfølgelig, efterhånden som der kommer mere kød på.",
+          "segment": "nyheder",
+          "start": 96.82
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det hænger jo sammen med det andet, der fylder lige nu.",
+          "segment": "nyheder",
+          "start": 101.89
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Shenzhen, ja. Trump, Putin og Xi mødes for første gang til et trepartsmøde.",
+          "segment": "nyheder",
+          "start": 105.25
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Krigen i Ukraine er på bordet. Og atomnedrustning kan også komme op, ifølge DR.",
+          "segment": "nyheder",
+          "start": 111.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "De sagde et par ord til pressen, og så blev dørene lukket.",
+          "segment": "nyheder",
+          "start": 117.7
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Flere sammenligner det med Jalta i fyrre-fem. Altså stormagterne, der deler Europa op.",
+          "segment": "nyheder",
+          "start": 121.86
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Er det en rimelig sammenligning?",
+          "segment": "nyheder",
+          "start": 127.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er i hvert fald den, der bliver brugt. DR's korrespondent mener, Trump kommer svækket ud af mødet.",
+          "segment": "nyheder",
+          "start": 130.3
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og der er kritik af, at Putin overhovedet sidder med ved bordet.",
+          "segment": "nyheder",
+          "start": 136.89
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Han fører jo en snart fem år lang ulovlig krig i Ukraine.",
+          "segment": "nyheder",
+          "start": 141.36
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi bliver klogere i løbet af dagen. Men det er stort, det her.",
+          "segment": "nyheder",
+          "start": 146.35
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Herhjemme er fire personer blevet løsladt i sagen fra Give.",
+          "segment": "nyheder",
+          "start": 150.64
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er sagen, hvor tre mennesker blev fundet døde på en ejendom.",
+          "segment": "nyheder",
+          "start": 155.11
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Sydøstjyllands Politi siger, der ingen indikationer er på, at de anholdte havde noget med dødsfaldene at gøre.",
+          "segment": "nyheder",
+          "start": 159.24
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "De tre afdøde er en mand på toogtres, en kvinde på otteogfyrre og en pige på ti. De boede på stedet.",
+          "segment": "nyheder",
+          "start": 166.45
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De pårørende er underrettet. I dag skal de tre obduceres.",
+          "segment": "nyheder",
+          "start": 173.24
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Politiet formoder stadig, det er en isoleret hændelse, og mener ikke, folk i området skal være bekymrede.",
+          "segment": "nyheder",
+          "start": 177.89
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Adressen har været bevogtet natten over.",
+          "segment": "nyheder",
+          "start": 185.5
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så til noget helt andet. SkyShowtime lukker i Danmark og resten af Europa.",
+          "segment": "nyheder",
+          "start": 188.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hold da op. Allerede?",
+          "segment": "nyheder",
+          "start": 193.35
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "I toogtyvehundrede og syvogtyve. Så tjenesten når kun at blive fem år gammel.",
+          "segment": "nyheder",
+          "start": 195.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvad er begrundelsen?",
+          "segment": "nyheder",
+          "start": 201.31
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ejerne skriver til medarbejderne, at streaminglandskabet har udviklet sig markant.",
+          "segment": "nyheder",
+          "start": 203.38
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Altså: de store har pumpet penge i indhold, teknologi og sport. Og så blev der ikke plads.",
+          "segment": "nyheder",
+          "start": 209.56
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Omkring ti millioner abonnenter på tværs af landene. Herhjemme lidt over hundrede og treogtredive tusind i fjor.",
+          "segment": "nyheder",
+          "start": 215.84
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Direktøren stopper også. Det er en hel branche, der konsoliderer sig.",
+          "segment": "nyheder",
+          "start": 223.58
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så boligmarkedet, som jo altid er værd at holde øje med.",
+          "segment": "nyheder",
+          "start": 228.69
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hushandlen bremser op omkring København. Nye tal fra Boligsiden, ifølge DR.",
+          "segment": "nyheder",
+          "start": 232.99
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "I Københavns Omegn er der solgt godt tolv procent færre villaer og rækkehuse end sidste år.",
+          "segment": "nyheder",
+          "start": 239.99
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nordsjælland elleve procent ned, og i selve København knap elleve.",
+          "segment": "nyheder",
+          "start": 246.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Forklaringen kan være lejlighedsmarkedet. Familier skal sælge lejligheden, før de kan købe hus.",
+          "segment": "nyheder",
+          "start": 251.26
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og i oktober alene blev der solgt knap otteogtredive procent færre ejerlejligheder i Københavns Kommune.",
+          "segment": "nyheder",
+          "start": 258.2
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "På landsplan er hussalget kun faldet knap fire procent. Og hør så her, Frederik.",
+          "segment": "nyheder",
+          "start": 265.61
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "I Østjylland er salget faktisk steget. Samme med Bornholm.",
+          "segment": "nyheder",
+          "start": 271.3
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Boligsiden understreger, at hussalget stadig ligger historisk højt.",
+          "segment": "nyheder",
+          "start": 276.52
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nå. Der skal lidt energi til nu.",
+          "segment": "nyheder",
+          "start": 281.24
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, når solen først står op klokken otte. Her er Major Lazer, DJ Snake og MØ med Lean On.",
+          "segment": "nyheder",
+          "start": 283.89
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:2YWjW3wwQIBLNhxWKBQd16",
+      "name": "Lean On",
+      "artist": "Major Lazer, DJ Snake, MØ",
+      "album": "Peace Is The Mission : Extended",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ed17a14e09145f2986a42726",
+      "duration_ms": 176561,
+      "url": "https://open.spotify.com/track/2YWjW3wwQIBLNhxWKBQd16",
+      "kobling": "Et garanteret vækkeur med dansk MØ i front — der skal energi til, når solen i Aarhus først står op 08:04 og det er to grader."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 165.64,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "MØ om morgenen. Det virker hver eneste gang.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så lidt Aarhus. Byen vågner til frost på cykelstierne i dag.",
+          "segment": "aarhus",
+          "start": 6.17
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Minus en til fire grader. Det er ikke rigtig vinter, og det er slet ikke efterår.",
+          "segment": "aarhus",
+          "start": 11.58
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er november. Den der måned, hvor man tænder lys klokken tre.",
+          "segment": "aarhus",
+          "start": 16.33
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men det østjyske boligmarked holder altså stand, mens hovedstaden bremser.",
+          "segment": "aarhus",
+          "start": 20.6
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, det er faktisk værd at hæfte sig ved. Flere flytter den vej.",
+          "segment": "aarhus",
+          "start": 26.12
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og med otte timers dagslys skal man ud i det, mens det er der.",
+          "segment": "aarhus",
+          "start": 30.77
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Frokostturen rundt om havnen, Frederik. Den er guld værd lige nu.",
+          "segment": "aarhus",
+          "start": 34.94
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så sporten. Og vi starter med en nyhed, jeg godt kan lide.",
+          "segment": "sport",
+          "start": 43.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nadia Nadim gør comeback på landsholdet.",
+          "segment": "sport",
+          "start": 47.78
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Otteogtredive år gammel. Hun stoppede jo efter EM sidste år.",
+          "segment": "sport",
+          "start": 51.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og nu er hun tilbage i truppen til samlingen i slutningen af november, hvor der venter en testkamp mod Zambia.",
+          "segment": "sport",
+          "start": 57.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og tallene er altså vilde. Seksten mål i seksten kampe for HB Køge sidste sæson.",
+          "segment": "sport",
+          "start": 64.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og ni mål i otte kampe i denne sæson.",
+          "segment": "sport",
+          "start": 70.27
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Landstræner Jakob Michelsen bliver spurgt hvorfor. Han siger bare: fordi hun er god nok.",
+          "segment": "sport",
+          "start": 74.55
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Svært at diskutere.",
+          "segment": "sport",
+          "start": 80.52
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hun har hundrede og otte landskampe og otteogtredive mål i rødt og hvidt.",
+          "segment": "sport",
+          "start": 82.81
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Selv siger hun, at hun slet ikke er færdig med fodbolden, og at hun vil gå all in.",
+          "segment": "sport",
+          "start": 88.56
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der er flere comebacks og nye ansigter i truppen. Blandt andre Sigen Bruun fra Real Madrid.",
+          "segment": "sport",
+          "start": 94.28
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Som jo scorede to gange i Champions League.",
+          "segment": "sport",
+          "start": 100.24
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. En dansk landsholdsspiller, der bliver helten for Real Madrid. Det lyder meget godt.",
+          "segment": "sport",
+          "start": 104.28
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men så er der herrelandsholdet, og der er stemningen en anden.",
+          "segment": "sport",
+          "start": 110.77
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nederlaget til Norge i Parken. To-tre i overtiden. Det gør stadig ondt.",
+          "segment": "sport",
+          "start": 115.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og nu skal Danmark ud i playoffkampe til marts for at overleve i Nations Leagues A-lag.",
+          "segment": "sport",
+          "start": 121.59
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "DR's kommentator Andreas Kraul kalder konsekvenserne ved en nedrykning uoverstigelige.",
+          "segment": "sport",
+          "start": 127.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvorfor så dramatisk?",
+          "segment": "sport",
+          "start": 132.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fordi man i B-laget ikke kan sikre sig topseedning til EM- og VM-kvalifikation.",
+          "segment": "sport",
+          "start": 134.5
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nå, så det hænger ved i flere år.",
+          "segment": "sport",
+          "start": 141.52
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Og så ryger de store kampe mod de store nationer. Både økonomisk og sportsligt.",
+          "segment": "sport",
+          "start": 144.51
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og nordmændene er jo ikke ligefrem stille om det.",
+          "segment": "sport",
+          "start": 151.28
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Haaland håner Danmark, skriver DR Sporten. Jeg lader den ligge.",
+          "segment": "sport",
+          "start": 155.51
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Klogt valg. Vi holder tempoet oppe med lidt dansk pop. Her er Medina med Har Du Glemt.",
+          "segment": "sport",
+          "start": 159.23
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:4ufqrfmGcjclTt9GXThmuZ",
+      "name": "Har Du Glemt",
+      "artist": "Medina",
+      "album": "For Altid - Special Edition Inkl. Bonustrack",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736537923942488d4c47972770",
+      "duration_ms": 263080,
+      "url": "https://open.spotify.com/track/4ufqrfmGcjclTt9GXThmuZ",
+      "kobling": "Dansk popklassiker efter nyhederne — lys og velkendt, så tempoet holdes oppe uden at blive tungt."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 101.58,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Medina. Den har bare ikke tabt noget.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er der en festivalnyhed, der er værd at notere sig.",
+          "segment": "musik",
+          "start": 5.6
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Billie Eilish spiller på Roskilde Festival til sommer.",
+          "segment": "musik",
+          "start": 9.69
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Altså i toogtyvehundrede og syvogtyve. Og det bliver det eneste sted i Skandinavien, hun optræder.",
+          "segment": "musik",
+          "start": 14.11
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej, seriøst? Et af ganske få steder i hele Europa.",
+          "segment": "musik",
+          "start": 20.81
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Musikchef Thomas Sønderby Jepsen siger, hun passer fuldstændig til Roskilde, både kunstnerisk og værdimæssigt.",
+          "segment": "musik",
+          "start": 25.93
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hun var jo i Royal Arena sidste år. To udsolgte koncerter.",
+          "segment": "musik",
+          "start": 34.07
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og dagen før Roskilde-annonceringen blev hun også meldt ud til Glastonbury.",
+          "segment": "musik",
+          "start": 39.12
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og den plakat er altså værd at kigge på, selvom man aldrig sætter en fod i England.",
+          "segment": "musik",
+          "start": 44.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Fordi det siger noget om, hvem der turnerer i Europa til sommer.",
+          "segment": "musik",
+          "start": 50.32
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Lige præcis. Øverst står Sam Fender, Harry Styles, Billie Eilish og Cher.",
+          "segment": "musik",
+          "start": 54.95
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Cher! Okay.",
+          "segment": "musik",
+          "start": 59.95
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så Massive Attack, Little Simz, The xx, Lily Allen og Kraftwerk.",
+          "segment": "musik",
+          "start": 61.71
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Længere nede er der Robyn, Chvrches, FKA Twigs, Thundercat og The War on Drugs.",
+          "segment": "musik",
+          "start": 67.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Et par af dem er allerede hjemme. Ezra Collective kommer til Roskilde, og Tinariwen til Northside.",
+          "segment": "musik",
+          "start": 73.47
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Roskilde har indtil videre atten navne ude, blandt andre Tame Impala og Caroline Polachek.",
+          "segment": "musik",
+          "start": 79.45
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så er der en ny sang fra Erika de Casier, der hedder Whispers.",
+          "segment": "musik",
+          "start": 86.27
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Produceret sammen med Eurohead, som har arbejdet med Bladee og Yung Lean.",
+          "segment": "musik",
+          "start": 91.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Den skal lige høres i dag.",
+          "segment": "musik",
+          "start": 96.89
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men først: Billie Eilish, LUNCH.",
+          "segment": "musik",
+          "start": 98.78
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:629DixmZGHc7ILtEntuiWE",
+      "name": "LUNCH",
+      "artist": "Billie Eilish",
+      "album": "HIT ME HARD AND SOFT",
+      "image": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+      "duration_ms": 179586,
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE",
+      "kobling": "Billie Eilish er netop annonceret til Roskilde Festival 2027 og headliner samtidig Glastonbury sammen med Harry Styles — og Erika de Casier er lige ude med nyt."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 65.24,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Og så dagens lette. Der var nogle, der ikke sov i nat.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "GTA 6 blev udgivet ved midnat.",
+          "segment": "let",
+          "start": 7.08
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Endelig, må man sige. Det spil har været ventet i årevis.",
+          "segment": "let",
+          "start": 10.16
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "DR har mødt Morten og Thomas, der sad klar ved konsollen, da klokken slog tolv.",
+          "segment": "let",
+          "start": 13.83
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og holdt sig vågne hele natten. Respekt.",
+          "segment": "let",
+          "start": 19.32
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Er du misundelig?",
+          "segment": "let",
+          "start": 22.7
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "En lille smule. Men jeg kender mig selv. Jeg havde sovet klokken halv et.",
+          "segment": "let",
+          "start": 24.17
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der sidder nok et par stykker på kontorerne i dag med meget kaffe.",
+          "segment": "let",
+          "start": 29.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det var Morgenradio for i dag. Tak fordi du lyttede med, Frederik.",
+          "segment": "outro",
+          "start": 36.76
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Husk handskerne. Der er frost på cykelstien i Aarhus.",
+          "segment": "outro",
+          "start": 42.84
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og nyd de otte timers lys, mens de er der. Rigtig god torsdag.",
+          "segment": "outro",
+          "start": 47.57
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi slutter med noget dansk feelgood. Her er Nik og Jay med Lækker.",
+          "segment": "outro",
+          "start": 52.97
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:6wqpsj3Gjty9r6CFs5F6Ig",
+      "name": "Lækker",
+      "artist": "Nik & Jay",
+      "album": "Nik & Jay 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735969c8b0ead2062e4eee7a92",
+      "duration_ms": 203960,
+      "url": "https://open.spotify.com/track/6wqpsj3Gjty9r6CFs5F6Ig",
+      "kobling": "Afslutning med dansk feelgood-hiphop, der sender Frederik ud i den overskyede novemberdag i godt humør."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 636.65,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Folketinget stemmer for udvidet amerikansk militæradgang i Grønland",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/internationalt/art11066519/Folketinget-stemmer-for-udvidet-amerikansk-milit%C3%A6radgang-i-Gr%C3%B8nland"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Jalta 2.0: Splitter USA og Rusland igen Europa?",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/jalta-2-0-splitter-usa-og-rusland-igen-europa"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Fire løsladt i sag om tre dødsfald i Give",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/fire-loesladt-i-sag-om-tre-doedsfald-i-give"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Streamingtjeneste lukker i Danmark og resten af Europa",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/streamingtjeneste-lukker-i-danmark-og-resten-af-europa"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Hushandlen bremser omkring København",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/hushandlen-bremser-omkring-koebenhavn"
+    },
+    {
+      "segment": "sport",
+      "titel": "Dansk landsholdsspiller bliver helten for Real Madrid",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12862622#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "Dansk nedrykning kan få 'uoverstigelige' konsekvenser",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/landsholdet/dansk-nedrykning-kan-faa-uoverstigelige-konsekvenser"
+    },
+    {
+      "segment": "sport",
+      "titel": "Haaland håner Danmark",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12859350#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "Nadim gør comeback på landsholdet",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/nadim-goer-comeback-paa-landsholdet"
+    },
+    {
+      "segment": "musik",
+      "titel": "Tager Billie Eilish et nyt album med til Roskilde Festival? Her er alt, vi ved",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/tager-billie-eilish-et-nyt-album-med-til-roskilde-festival-her-er-alt-vi-ved-705681"
+    },
+    {
+      "segment": "musik",
+      "titel": "Glastonbury deler stjernespækket plakat – hvem kommer til Danmark?",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/glastonbury-deler-stjernespaekket-plakat-hvem-kommer-til-danmark-705877"
+    },
+    {
+      "segment": "musik",
+      "titel": "Listen to Erika de Casier’s New Song “Whispers”",
+      "kilde": "Pitchfork News",
+      "link": "https://pitchfork.com/story/listen-to-erika-de-casiers-new-song-whispers/"
+    },
+    {
+      "segment": "let",
+      "titel": "GTA-natten: Morten og Thomas holdt sig vågne",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/reels/gta-natten-morten-og-thomas-holdt-sig-vaagne"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (38)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (1)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (0)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (29)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (10)"
+  },
+  "test": false
+}

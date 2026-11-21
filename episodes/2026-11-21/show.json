@@ -1,0 +1,878 @@
+{
+  "date": "2026-11-21",
+  "dato_tekst": "lørdag den 21. november 2026",
+  "title": "Tech-blodbad, dronealarm og AGF i top-6",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-21T12:04:35+01:00",
+  "tema": "Kold, klar novemberlørdag i Aarhus med tech-uro på børserne, dronealarm i Norden og AGF i top-6.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 281.31,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen, Frederik! Det er lørdag den enogtyvende november, og du er vågnet op til Morgenradio.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Og hold da op, hvilken uge at lande på en lørdag efter.",
+          "segment": "intro",
+          "start": 14.53
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, vi skal tale Wall Street, hvor teknologiaktierne fik en ordentlig én over nakken.",
+          "segment": "intro",
+          "start": 20.17
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi skal også til Østersøen, hvor der har været dronealarm i både Finland og Estland i nat.",
+          "segment": "intro",
+          "start": 26.22
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er der jo det der med AGF. Men det gemmer vi lidt.",
+          "segment": "intro",
+          "start": 32.6
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det gemmer vi overhovedet ikke. Men okay.",
+          "segment": "intro",
+          "start": 37.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vejret først. I Aarhus er der fire grader lige nu, og det er mest klart.",
+          "segment": "intro",
+          "start": 41.12
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Altså den der knivskarpe novemberluft. Mellem nul og fem grader i løbet af dagen.",
+          "segment": "intro",
+          "start": 46.09
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og nul procent risiko for nedbør. Nul. Vinden når op på fem meter i sekundet.",
+          "segment": "intro",
+          "start": 52.38
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så cyklen kan sagtens bruges, Frederik. Bare husk handsker, ikke?",
+          "segment": "intro",
+          "start": 59.87
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Solen står op otte minutter over otte og er nede igen et minut over fire.",
+          "segment": "intro",
+          "start": 65.94
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Knap otte timers dagslys. Brug dem klogt.",
+          "segment": "intro",
+          "start": 72.13
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter på Wall Street. Den værste uge siden coronapandemien, skriver VG.",
+          "segment": "nyheder",
+          "start": 78.85
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det er teknologigiganterne, der trækker ned. Nasdaq faldt over fem procent, ifølge NRK.",
+          "segment": "nyheder",
+          "start": 86.36
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Fem procent på en dag. Det er ikke småting.",
+          "segment": "nyheder",
+          "start": 93.33
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Og Nvidia-aktien styrtdykkede efter rygter om en efterforskning, skriver E24.",
+          "segment": "nyheder",
+          "start": 96.57
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Rygter. Altså, det er ikke bekræftet, det skal vi lige holde fast i.",
+          "segment": "nyheder",
+          "start": 104.41
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Helt enig. Men det siger noget om nerverne lige nu, at et rygte kan gøre så meget.",
+          "segment": "nyheder",
+          "start": 109.53
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "E24 har i øvrigt talt med en mand, der har solgt frokost på Wall Street i over tredive år.",
+          "segment": "nyheder",
+          "start": 115.32
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nå? Og hvad siger han?",
+          "segment": "nyheder",
+          "start": 121.96
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "At økonomien er dårlig. Kort og godt. Han kan mærke det på kunderne.",
+          "segment": "nyheder",
+          "start": 124.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der er noget ved den slags målestok, som jeg stoler mere på end mange analyser.",
+          "segment": "nyheder",
+          "start": 129.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Frederik, du sidder jo med AI og marketing til daglig. Det her er nok en snak på kontoret mandag.",
+          "segment": "nyheder",
+          "start": 134.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Helt sikkert. Hele AI-boomet hviler jo på de aktier der.",
+          "segment": "nyheder",
+          "start": 142.11
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så til en meget alvorlig sag herhjemme. To danske mænd er mistænkt for at være hyret af den russiske efterretningstjeneste.",
+          "segment": "nyheder",
+          "start": 146.61
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Til at likvidere en ukrainsk rapper, der skulle give koncert i Danmark.",
+          "segment": "nyheder",
+          "start": 156.21
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det kom frem ved et retsmøde i Retten i Lyngby i går formiddag.",
+          "segment": "nyheder",
+          "start": 161.71
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Attentatet mislykkedes, fordi mændene blev anholdt kort inden koncerten.",
+          "segment": "nyheder",
+          "start": 165.84
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Koncerten skulle have været afholdt den femogtyvende september på Skovriderkroen i Charlottenlund.",
+          "segment": "nyheder",
+          "start": 170.43
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og statsminister Mette Frederiksen siger, at det samlede mønster er tydeligt.",
+          "segment": "nyheder",
+          "start": 176.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er DR, der har det. Og det hænger sammen med det næste.",
+          "segment": "nyheder",
+          "start": 183.98
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Der har været dronealarm i både Finland og Estland i nat.",
+          "segment": "nyheder",
+          "start": 188.49
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nato-fly blev sendt på vingerne, skriver Aftenposten. Esterne er blevet advaret.",
+          "segment": "nyheder",
+          "start": 192.45
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og Finland har indført en række restriktioner for både fly- og skibstrafikken.",
+          "segment": "nyheder",
+          "start": 196.69
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Samtidig er et fragtskib på vej mod Kaliningrad blevet angrebet af to droner i Den Finske Bugt.",
+          "segment": "nyheder",
+          "start": 202.01
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det oplyser guvernøren i Leningrad-regionen. Besætningen er ved at blive evakueret.",
+          "segment": "nyheder",
+          "start": 208.61
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er ikke oplyst, hvem der står bag.",
+          "segment": "nyheder",
+          "start": 214.26
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Og det er ikke første gang i området. Den tolvte november tog Ukraine ansvaret for et droneangreb på et russisk krigsskib derude.",
+          "segment": "nyheder",
+          "start": 216.84
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så til Midtjylland. En mand er i nat blevet ramt af skud ved Kærshovedgård nær Silkeborg.",
+          "segment": "nyheder",
+          "start": 225.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han er bragt på sygehuset og er uden for livsfare, oplyser politiet.",
+          "segment": "nyheder",
+          "start": 231.41
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Midt- og Vestjyllands Politi siger, at den indledende efterforskning tyder på et internt opgør.",
+          "segment": "nyheder",
+          "start": 237.17
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og ingen udenforstående har været i fare. Politiet er ved at afslutte undersøgelserne på stedet.",
+          "segment": "nyheder",
+          "start": 243.94
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "En sidste ting. En dom i Haag peger på Facebooks rolle i folkedrabet mod rohingyaerne i Myanmar.",
+          "segment": "nyheder",
+          "start": 250.06
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Politiken skriver, at Facebooks algoritmer ifølge en ekspert skabte det had, der førte til folkedrabet.",
+          "segment": "nyheder",
+          "start": 256.6
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Amnesty International kræver nu, at Facebook betaler kompensation til rohingyaerne.",
+          "segment": "nyheder",
+          "start": 264.22
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Algoritmer er ikke bare teknik. Det er den sag her på den værst tænkelige måde.",
+          "segment": "nyheder",
+          "start": 270.75
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skifter gear. Her er Christopher med Monogamy.",
+          "segment": "nyheder",
+          "start": 277.25
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:4CTZcAXWa0XFdyLSKSCheh",
+      "name": "Monogamy",
+      "artist": "Christopher",
+      "album": "Monogamy",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736848e70b117891072eb63cad",
+      "duration_ms": 184179,
+      "url": "https://open.spotify.com/track/4CTZcAXWa0XFdyLSKSCheh",
+      "kobling": "Energisk dansk opvågner til en knivskarp, klar frostmorgen hvor solen først står op 08:08 — der skal lyd til at få gang i lørdagen."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 125.98,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Christopher klokken syv om morgenen. Det virker faktisk.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er svært at ligge stille til den der.",
+          "segment": "aarhus",
+          "start": 6.84
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så er det jo lørdag i Aarhus med mest klart vejr. Det er nærmest for godt.",
+          "segment": "aarhus",
+          "start": 9.79
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Solen står først op otte minutter over otte, så der er tid til kaffe først.",
+          "segment": "aarhus",
+          "start": 14.99
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nul procent nedbør, Frederik. Det er sådan en dag, hvor man går en tur uden at planlægge det.",
+          "segment": "aarhus",
+          "start": 20.11
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og på musiksiden er der en trist aarhushistorie, som vi vender om lidt.",
+          "segment": "aarhus",
+          "start": 26.3
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, en aflyst koncert her i byen, der viste sig at være noget større.",
+          "segment": "aarhus",
+          "start": 31.31
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men først sporten. Og der er noget at tale om i Aarhus.",
+          "segment": "aarhus",
+          "start": 35.7
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "AGF besejrede Lyngby på hjemmebane og er nu i top-6 for første gang i sæsonen.",
+          "segment": "sport",
+          "start": 43.22
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Første gang i sæsonen. Det har taget sin tid.",
+          "segment": "sport",
+          "start": 49.74
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det har det. Mestrene har jo haft et efterår, hvor det bare ikke ville sidde.",
+          "segment": "sport",
+          "start": 53.2
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er det femtende spillerunde, lige efter landsholdspausen.",
+          "segment": "sport",
+          "start": 57.95
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Mesterskabsspillet er pludselig ikke bare noget, man taler om i teorien.",
+          "segment": "sport",
+          "start": 62.43
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der er nok en god stemning i Aarhus i dag.",
+          "segment": "sport",
+          "start": 67.24
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der er en meget god stemning i Aarhus i dag.",
+          "segment": "sport",
+          "start": 70.76
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Landsholdet skal møde Bosnien-Hercegovina til marts. Hvad siger eksperterne?",
+          "segment": "sport",
+          "start": 73.69
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "DR Sportens fodboldekspert kalder det en hård modstander. Et hold i medvind.",
+          "segment": "sport",
+          "start": 78.84
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hm, okay. Så ingen gratis omgang der.",
+          "segment": "sport",
+          "start": 83.92
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Det bliver en rigtig kamp.",
+          "segment": "sport",
+          "start": 87.66
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og i håndbolden henter Ikast en ny cheftræner i en ungarsk storklub.",
+          "segment": "sport",
+          "start": 90.62
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, det har DR Sporten. Og Thomas Frank har fået debut i spidsen for Crystal Palace.",
+          "segment": "sport",
+          "start": 96.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der skal også spilles i Premier League. Newcastle mod Arsenal.",
+          "segment": "sport",
+          "start": 102.25
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "På St. James' Park. Det er sjældent en behagelig tur for et topholdt.",
+          "segment": "sport",
+          "start": 107.91
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej, det er vist ikke stedet, man henter tre lette point.",
+          "segment": "sport",
+          "start": 112.95
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Overhovedet ikke. Den kan man godt sætte af tid til, Frederik.",
+          "segment": "sport",
+          "start": 117.3
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi holder tempoet. Her er Drake med Nice For What.",
+          "segment": "sport",
+          "start": 121.65
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:3CA9pLiwRIGtUBiMjbZmRw",
+      "name": "Nice For What",
+      "artist": "Drake",
+      "album": "Scorpion",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+      "duration_ms": 210746,
+      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw",
+      "kobling": "Internationalt hiphop-drive efter nyhedsblokken — holder tempoet oppe uden at blive for tungt efter alvorlige historier."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 92.97,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Drake på en frostklar lørdag. Det kører bare.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skal starte musiknyt et alvorligt sted. Det danske punkband Users stopper.",
+          "segment": "musik",
+          "start": 6.93
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. De skrev på Instagram, at de afslutter projektet på grund af alvorlige psykiske helbredsproblemer i bandet.",
+          "segment": "musik",
+          "start": 12.92
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "De havde for nylig aflyst koncerter i både København og Aarhus.",
+          "segment": "musik",
+          "start": 21.05
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og de skriver, at de lige nu må passe på sig selv og hinanden.",
+          "segment": "musik",
+          "start": 25.8
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "De siger også, at måske ser vi dem igen en dag. Men de ved det ikke.",
+          "segment": "musik",
+          "start": 29.86
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De har udgivet musik siden tyve-fireogtyve og spillet på både Spot og Roskilde.",
+          "segment": "musik",
+          "start": 35.09
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Alle med billet får pengene retur, skriver Soundvenue.",
+          "segment": "musik",
+          "start": 41.28
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er en rigtig ærgerlig måde at miste et band på.",
+          "segment": "musik",
+          "start": 45.66
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så til noget lettere. Billie Eilish er annonceret som headliner på BST Hyde Park i tyve-syvogtyve.",
+          "segment": "musik",
+          "start": 49.43
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Efter Glastonbury. Og der ventes ny musik til sommer, skriver NME.",
+          "segment": "musik",
+          "start": 56.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så den her, som jeg synes er sjov. Lana Del Reys Crazy for You er endelig officielt udgivet.",
+          "segment": "musik",
+          "start": 62.19
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Den sang har jo svævet rundt som en løs fil i årevis.",
+          "segment": "musik",
+          "start": 70.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Præcis. Og nu har den fundet et hjem. På soundtracket til GTA seks.",
+          "segment": "musik",
+          "start": 74.46
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ha! Et computerspil som pladeselskab. Det er tyve-tyvere i en nøddeskal.",
+          "segment": "musik",
+          "start": 80.13
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det skriver Pitchfork. Og vi spiller den selvfølgelig nu. Lana Del Rey, Crazy For You.",
+          "segment": "musik",
+          "start": 86.04
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:7atOpwxr1aIeRlyGEPNn0C",
+      "name": "Crazy For You",
+      "artist": "Lana Del Rey",
+      "album": "Grand Theft Auto VI: The Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737f62c9c136c0ab9ef78f2d15",
+      "duration_ms": 223683,
+      "url": "https://open.spotify.com/track/7atOpwxr1aIeRlyGEPNn0C",
+      "kobling": "Direkte kobling til musiknyt: Lana Del Reys 'Crazy for You' er netop officielt udgivet på GTA VI-soundtracket, og både The Strokes (Øya 2027) og Billie Eilish (Hyde Park-headliner) er dagens andre navne."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 137.53,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den sang er lige lovlig smuk til klokken her.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Dagens lette historie kommer fra Gundsølille. Ti kilometer nordøst for Roskilde.",
+          "segment": "let",
+          "start": 5.02
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvad sker der der?",
+          "segment": "let",
+          "start": 11.38
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "De tager imod FC København i femte runde af pokalturneringen for U19.",
+          "segment": "let",
+          "start": 12.64
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Gundsølille mod FCK. Okay, hvor ligger de henne til daglig?",
+          "segment": "let",
+          "start": 19.72
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Sjettebedste række. Og for halvandet år siden havde de slet ikke et U19-hold.",
+          "segment": "let",
+          "start": 24.42
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej, seriøst?",
+          "segment": "let",
+          "start": 29.65
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "To gymnasiedrenge, Asger Holmsgaard og Josef Rey-Andersen, manglede et sted at spille.",
+          "segment": "let",
+          "start": 31.56
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så de startede bare deres eget hold som sekstenårige?",
+          "segment": "let",
+          "start": 37.64
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja. I dag har de fyrre medlemmer fra mange forskellige byer.",
+          "segment": "let",
+          "start": 42.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvem laver så alt arbejdet? Kommunikation, sponsorer, sociale medier?",
+          "segment": "let",
+          "start": 46.42
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Dem selv. De har endda en flittigt brugt Instagram-profil.",
+          "segment": "let",
+          "start": 52.07
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der er jo noget content marketing over det der. Frederik nikker nok derhjemme.",
+          "segment": "let",
+          "start": 56.19
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Asger siger, de savnede at spille seriøst, uden at det blev professionelt.",
+          "segment": "let",
+          "start": 61.22
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Et sted, hvor man både kan drikke øl og spille fodbold. Det er faktisk en præcis beskrivelse.",
+          "segment": "let",
+          "start": 66.83
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han siger også, de har slået danmarksrekord i at rykke hurtigst op gennem rækkerne.",
+          "segment": "let",
+          "start": 73.71
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hold da op. Og i dag kommer morgendagens FCK-stjerner til landsbyen.",
+          "segment": "let",
+          "start": 79.94
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han regner med kanonstemning og massiv opbakning fra hele Gundsølille.",
+          "segment": "let",
+          "start": 85.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jeg håber virkelig, de holder nullet i ti minutter. Bare for historiens skyld.",
+          "segment": "let",
+          "start": 92.35
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det var Morgenradio for i dag. Tak fordi du lyttede med, Frederik.",
+          "segment": "outro",
+          "start": 101.8
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fire grader, klar himmel og nul procent regn. Kom ud i det.",
+          "segment": "outro",
+          "start": 106.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hold øje med børserne i næste uge. Der er noget i gære.",
+          "segment": "outro",
+          "start": 111.25
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men først en lørdag med AGF i top-6. Det er ikke det værste udgangspunkt.",
+          "segment": "outro",
+          "start": 114.79
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Rigtig god lørdag. Vi slutter dansk og blødt af.",
+          "segment": "outro",
+          "start": 122.42
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Her er Andreas Odbjerg med jeg tror jeg elsker dig for evigt.",
+          "segment": "outro",
+          "start": 126.05
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:2bsahf0KRgkJB8LDE4rmAb",
+      "name": "jeg tror jeg elsker dig for evigt",
+      "artist": "andreas odbjerg",
+      "album": "jeg tror jeg elsker dig for evigt",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733a5b9080426fbd56c27e9a19",
+      "duration_ms": 193020,
+      "url": "https://open.spotify.com/track/2bsahf0KRgkJB8LDE4rmAb",
+      "kobling": "Dansk afslutning med let løftet stemning — passer til en lørdag med nul procent regn og AGF i top-6."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 650.17,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Blodbad på Wall Street: Den verste uken siden corona­pandemien",
+      "kilde": "VG",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON1A3bTZtZzdnOGVSVzA0ODM0dG9PcVBMMTNtc2NQbjR4ZEF2VXZzWE9lS1BPSlRuM1JIWW9EdUE2Uk1CenVEZnFBRVkzMUdGYzhqUFlUdXVBalpTUEIweXprVUp5ZVpQNHNBXzhKSDV0X0Z2cUdoMWVpSkJwOVdGSFJ3SkFsNFJqVmxxTmVYNFgtaF9wNnhlSk1TXzI?oc=5"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Mette Frederiksen: 'Det samlede mønster er tydeligt'",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/live-sigtelse-rusland-hyrede-danskere-til-draebe-ukrainer-i-danmark?focusId=12879528#liveblog-embed"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Dronealarm i Finland og Estland – Nato-fly på vingene",
+      "kilde": "Aftenposten",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXB5dnYzdkxnSkpBbUNlbnVheGpWQTZvUXl6MXBodzZIRUQ0QWxlcWZzMjQ4UUhPQnBCbnZ3eVotV05fdWladTI1UlA2QmYzd3NCQjBlS3AtZXpxcFZrV0pBaG5oaHlZb0JleHBDYUdDeVpPdDNTLVU2aVMtcXU4RUVSdWdPQkw4YUtVOXhMVGh4N0ZhSFJBU3FQRQ?oc=5"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Mand ramt af skud nær Silkeborg",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/mand-ramt-af-skud-naer-silkeborg"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Haag-dom peger på Facebooks rolle i folkedrabet",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/internationalt/art11068342/Haag-dom-peger-p%C3%A5-Facebooks-rolle-i-folkedrabet"
+    },
+    {
+      "segment": "sport",
+      "titel": "AGF besejrer Lyngby og kravler ind i top-6",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/superliga/agf-maalmand-tangerer-superliga-rekord-mod-lyngby"
+    },
+    {
+      "segment": "sport",
+      "titel": "Danmark møder et hold i medvind",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12878031#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "Ikast henter ny cheftræner i ungarsk storklub",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/haandbold/liveblog-med-seneste-nyt-om-dansk-og-international-haandbold"
+    },
+    {
+      "segment": "sport",
+      "titel": "Newcastle - Arsenal på TV: Tøff bortekamp for Arsenal på St. James' Park",
+      "kilde": "TVkampen.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OOFU3Szk1cko1UjVuOVJCNEw4ZnRPX051cVNrZnVYZUMwTEVuZm9PcEtROWdQajdhZWctcFhGV05CS1huM0twdFF1eWtsZmk2NjJ3c3JzNmZrbm9FNkdjeE9pZjFaX05qOEl1MVZ3a2xMYjF4Ymx6QVBoSQ?oc=5"
+    },
+    {
+      "segment": "musik",
+      "titel": "Lana Del Rey’s “Crazy for You” Gets Official Release for GTA VI",
+      "kilde": "Pitchfork News",
+      "link": "https://pitchfork.com/story/lana-del-reys-crazy-for-you-gets-official-release-for-gta-vi/"
+    },
+    {
+      "segment": "musik",
+      "titel": "Users stopper karrieren grundet psykisk sygdom",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/users-stopper-grundet-alvorlige-psykiske-helbredsproblemer-706069"
+    },
+    {
+      "segment": "musik",
+      "titel": "BST Hyde Park 2027: Billie Eilish announced as latest headliner",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/music/bst-hyde-park-2027-billie-eilish-london-tour-headline-tickets-3976586"
+    },
+    {
+      "segment": "let",
+      "titel": "For to år siden havde de ikke et hold - i dag spiller de mod landets største fodboldklub",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/aar-siden-havde-de-ikke-et-hold-i-dag-spiller-de-mod-landets-stoerste-fodboldklub"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (40)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (5)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (4)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (29)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (11)"
+  },
+  "test": false
+}

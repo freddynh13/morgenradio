@@ -1,0 +1,890 @@
+{
+  "date": "2026-11-11",
+  "dato_tekst": "onsdag den 11. november 2026",
+  "title": "Spionsag i England, fjernvarme-ulighed og Coachella-plakaten",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-11T11:59:50+01:00",
+  "tema": "Spionage-sag i Storbritannien, dansk fjernvarme-ulighed og skatteaftale — plus landsholdsuge og Coachella-plakat.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 292.65,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "God morgen, Frederik. Klokken er lidt over seks, det er onsdag den 11. november, og du har fat i Morgenradio.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Midt i ugen, midt i landsholdsugen. Det er ikke det værste sted at være.",
+          "segment": "intro",
+          "start": 16.55
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skal om lidt til England, hvor en amerikansk soldat er anholdt og mistænkt for spionage for Rusland.",
+          "segment": "intro",
+          "start": 22.07
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så er der fjernvarme. Altså, forskellen på din regning alt efter hvor i landet du bor er vanvittig.",
+          "segment": "intro",
+          "start": 29.83
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Plus Coachella-plakaten, der lige er landet. Den er stor i år.",
+          "segment": "intro",
+          "start": 36.85
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men først: hvordan ser det ud udenfor i Aarhus?",
+          "segment": "intro",
+          "start": 41.09
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Gråt. Otte grader lige nu og overskyet. I løbet af dagen let støvregn, mellem seks og ni grader.",
+          "segment": "intro",
+          "start": 45.29
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tyve procents risiko for nedbør. Så cyklen kan sagtens klare det, Frederik — bare tag den jakke, der ikke suger.",
+          "segment": "intro",
+          "start": 52.72
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vinden er nede på fem meter i sekundet, så det er mildt. Sol op 07:47, ned 16:17.",
+          "segment": "intro",
+          "start": 60.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Solen går ned klokken kvart over fire. Jeg siger det ikke igen.",
+          "segment": "intro",
+          "start": 69.42
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter i England. Britisk politi har anholdt en 41-årig amerikansk soldat, mistænkt for spionage med forbindelse til Rusland.",
+          "segment": "nyheder",
+          "start": 76.31
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han gjorde ifølge DR tjeneste ved en Nato-enhed i Storbritannien.",
+          "segment": "nyheder",
+          "start": 85.16
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han mistænkes for at have videregivet oplysninger og hjulpet en af Ruslands efterretningstjenester.",
+          "segment": "nyheder",
+          "start": 90.28
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og anholdelsen er sket i et tæt samarbejde mellem FBI, det amerikanske militær og britisk antiterrorpoliti.",
+          "segment": "nyheder",
+          "start": 97.97
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Chefen for den amerikanske hærs kontraspionagekommando kalder det en alvorlig påmindelse om, at trusler indefra er reelle og vedvarende.",
+          "segment": "nyheder",
+          "start": 106.21
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "En højtstående soldat, der var betroet følsomme oplysninger. Det er nok det, der gør ondt derovre.",
+          "segment": "nyheder",
+          "start": 116.07
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Sagen er helt frisk, så der er meget, vi endnu ikke ved.",
+          "segment": "nyheder",
+          "start": 123.51
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi følger den.",
+          "segment": "nyheder",
+          "start": 127.43
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Herhjemme ser det ud til, at der lander en skatteaftale. Politiken skriver efter kilder, at Dansk Folkeparti om kort tid sikrer regeringen flertal.",
+          "segment": "nyheder",
+          "start": 128.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvad får de så ud af det?",
+          "segment": "nyheder",
+          "start": 138.23
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Deres krav om en midlertidig nedsættelse af afgiften på benzin og diesel ventes opfyldt.",
+          "segment": "nyheder",
+          "start": 140.41
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Midlertidig. Det ord skal man lige holde øje med.",
+          "segment": "nyheder",
+          "start": 147.1
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ingenting er underskrevet endnu, så det er kilder, ikke en aftale.",
+          "segment": "nyheder",
+          "start": 150.48
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så er der den her fjernvarmehistorie fra DR, som jeg simpelthen ikke kunne slippe.",
+          "segment": "nyheder",
+          "start": 154.77
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, overskriften er, at Gert betaler fjorten hundrede procent mere for sin fjernvarme end Frederik.",
+          "segment": "nyheder",
+          "start": 159.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "En anden Frederik, altså. Vi har ikke tjekket din varmeregning.",
+          "segment": "nyheder",
+          "start": 166.91
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Forskellen er geografi. I Hvide Sande sørger tre vindmøller for landets billigste fjernvarme.",
+          "segment": "nyheder",
+          "start": 171.31
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De satte dem op for flere år siden. Og i Holsted sidder Gert Trøst og kigger misundeligt mod vest.",
+          "segment": "nyheder",
+          "start": 177.88
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Fordi Holsted Varmeværk ikke kan få lov til at sætte vindmøller op. Lovgivningen spænder ben.",
+          "segment": "nyheder",
+          "start": 185.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Altså, samme land, samme vind, vildt forskellig regning.",
+          "segment": "nyheder",
+          "start": 191.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det er jo noget, man mærker, når man kigger på bolig.",
+          "segment": "nyheder",
+          "start": 196.39
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Postnummeret afgør mere end man tror.",
+          "segment": "nyheder",
+          "start": 200.74
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Bolig er også årsagen til, at der er generalstrejke i Spanien. Den første i fjorten år.",
+          "segment": "nyheder",
+          "start": 204.58
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hold da op. Hvad strejker de over helt konkret?",
+          "segment": "nyheder",
+          "start": 211.13
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Stigende boligpriser. Ifølge Politiken har de største fagforeninger bakket op om strejken.",
+          "segment": "nyheder",
+          "start": 214.32
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er altså stort, når boligmarkedet får et helt land til at lægge arbejdet ned.",
+          "segment": "nyheder",
+          "start": 220.74
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og i USA: Republikanerne har foreløbig bremset et forsøg på rigsretssag mod forsvarsminister Pete Hegseth.",
+          "segment": "nyheder",
+          "start": 225.88
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det var en republikaner fra Kentucky, Thomas Massie, der stillede forslaget. Hans egne partifæller stoppede det.",
+          "segment": "nyheder",
+          "start": 234.99
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Med 211 stemmer mod 204 sendte Repræsentanternes Hus de otte anklagepunkter til retsudvalget. Så ligger det stille.",
+          "segment": "nyheder",
+          "start": 242.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Kernen er krigen mod Iran. Massie beskylder Hegseth for at have ført krig i mere end halvfems dage uden Kongressens godkendelse.",
+          "segment": "nyheder",
+          "start": 250.74
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hegseth kalder selv forsøget for sabotage og siger, det gør amerikanske soldater til mål.",
+          "segment": "nyheder",
+          "start": 260.85
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Massie sammenlignede sine partifæller med passagererne på Titanic. De ved, skibet synker, men bliver om bord.",
+          "segment": "nyheder",
+          "start": 267.58
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Sagen kan tages op igen i januar, når Demokraterne får flertal i begge kamre.",
+          "segment": "nyheder",
+          "start": 275.5
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så den er ikke væk. Den er bare parkeret.",
+          "segment": "nyheder",
+          "start": 281.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skifter gear. Her er noget dansk, der kan vække en grå onsdag.",
+          "segment": "nyheder",
+          "start": 284.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nik og Jay, \"Nu Er Det For Sent\".",
+          "segment": "nyheder",
+          "start": 289.3
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:0pmKzC33WYbnRzBpLPdAi9",
+      "name": "Nu Er Det For Sent",
+      "artist": "Nik & Jay",
+      "album": "3: Fresh-Fri-Fly",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325aeb0e15ae02c2657048dca",
+      "duration_ms": 245346,
+      "url": "https://open.spotify.com/track/0pmKzC33WYbnRzBpLPdAi9",
+      "kobling": "Dansk energi til en grå, overskyet morgen i Aarhus — noget der vækker uden at være hårdt."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 182.41,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Den der har jo bare stadig et eller andet.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Den er ældre end halvdelen af landsholdet. Og den holder.",
+          "segment": "aarhus",
+          "start": 5.39
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Her i Aarhus er det stille og gråt indtil videre. Støvregnen kommer stille og roligt hen over formiddagen.",
+          "segment": "aarhus",
+          "start": 9.44
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så er det sådan en dag, hvor man lige kigger ud ad vinduet og tager bussen i stedet.",
+          "segment": "aarhus",
+          "start": 17.49
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Eller cykler. Fem meter i sekundet, Mads. Det er jo nærmest vindstille.",
+          "segment": "aarhus",
+          "start": 23.62
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jeg hører dig.",
+          "segment": "aarhus",
+          "start": 28.49
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ellers er nyhedsbilledet rundt i landet mest politi i dag. På Fyn efterforsker Fyns Politi seriehærværk i Nyborg.",
+          "segment": "aarhus",
+          "start": 29.59
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Mere end femogtyve biler på et døgn. Primært punkterede dæk omkring Johannes Høirupsvej.",
+          "segment": "aarhus",
+          "start": 38.28
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Politiet efterlyser vidner. Så har du set noget derovre, så sig til.",
+          "segment": "aarhus",
+          "start": 45.36
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og i København blev tre mænd anholdt med omkring 71.000 ulovlige cigaretter i kufferterne.",
+          "segment": "aarhus",
+          "start": 50.21
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Enoghalvfjerds tusind? I kufferter?",
+          "segment": "aarhus",
+          "start": 57.11
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Toldstyrelsen fandt dem ved en kontrol. Alle tre fik en straksdom på halvtreds dages fængsel.",
+          "segment": "aarhus",
+          "start": 60.4
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Landsholdsuge. Og der er én mand, der aldrig melder afbud.",
+          "segment": "sport",
+          "start": 69.31
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Morten Hjulmand. DR Sporten har et fint portræt af ham i dag. Møgsvin i modstandernes øjne, beskytter i medspillernes.",
+          "segment": "sport",
+          "start": 74.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han siger selv, at han elsker at komme ind til samlingerne.",
+          "segment": "sport",
+          "start": 83.51
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, han siger, han elsker at være en type, de andre kan læne sig op ad. Firmaets mand, kalder DR ham.",
+          "segment": "sport",
+          "start": 88.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og han bor i en af de fedeste byer i Europa, som han siger. Men han misser aldrig Marienlyst.",
+          "segment": "sport",
+          "start": 94.89
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han er også ærlig omkring, at spilmønstre og løb ikke altid er i sync. Sådan er det med skiftende kollegaer.",
+          "segment": "sport",
+          "start": 102.6
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men han smider ingen under bussen.",
+          "segment": "sport",
+          "start": 109.76
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Aldrig i livet. Han har kun roser til overs for attitude og fysisk indsats i de seneste kampe.",
+          "segment": "sport",
+          "start": 112.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og han har kun enogtredive landskampe. Det overraskede mig faktisk.",
+          "segment": "sport",
+          "start": 120.1
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, det føles som flere. Han siger, han ikke kunne føle sig mere tilpas derude.",
+          "segment": "sport",
+          "start": 125.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Herhjemme nærmer guldkampen sig. FCK mod FCM.",
+          "segment": "sport",
+          "start": 131.47
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og DR's kommentator har FCK et mulehår foran. Et mulehår. Det er altså tæt.",
+          "segment": "sport",
+          "start": 135.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvad siger du selv?",
+          "segment": "sport",
+          "start": 143.0
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jeg siger mulehår den anden vej. Men jeg har også taget fejl før.",
+          "segment": "sport",
+          "start": 144.49
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er der igen uro omkring Manchester United.",
+          "segment": "sport",
+          "start": 148.95
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "The Athletic skriver, at United er på vej mod en aftale med Mauricio Pochettino. Han sejler op som favorit.",
+          "segment": "sport",
+          "start": 153.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så Carricks skæbne afgøres snart.",
+          "segment": "sport",
+          "start": 159.32
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er ikke bekræftet endnu. Men det er United, så der sker altid noget.",
+          "segment": "sport",
+          "start": 162.32
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og på Wembley venter der Harry Kane en hyldest.",
+          "segment": "sport",
+          "start": 167.2
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han slår en legendarisk rekord, skriver TV 2. Manden scorer bare videre.",
+          "segment": "sport",
+          "start": 170.53
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi trænger til lidt lys efter den nyhedsblok. Her er Mark Ronson og Bruno Mars med \"Uptown Funk\".",
+          "segment": "sport",
+          "start": 175.75
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:32OlwWuMpZ6b0aN2RZOeMS",
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "artist": "Mark Ronson, Bruno Mars",
+      "album": "Uptown Special",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739860171ddfee17f77a570cf6",
+      "duration_ms": 269658,
+      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS",
+      "kobling": "Internationalt feelgood-hit som modvægt til dagens tunge nyheder om spionage og boligkrise."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 120.51,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den der er stadig umulig at sidde stille til. Selv klokken halv syv.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og nu til noget, der får festivalfolk op af stolen: Coachella har afsløret plakaten.",
+          "segment": "musik",
+          "start": 7.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hovednavnene står med størst skrift: Dua Lipa, SZA og Tame Impala.",
+          "segment": "musik",
+          "start": 14.47
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Daddy Yankee i den fjerde headliner-plads, ifølge Pitchfork.",
+          "segment": "musik",
+          "start": 19.9
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men det er de såkaldt mindre navne, der er vilde. Madonna. Robyn. Phoebe Bridgers.",
+          "segment": "musik",
+          "start": 24.36
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Madonna med lille skrift. Det er jo næsten frækt.",
+          "segment": "musik",
+          "start": 31.27
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Plus Zara Larsson, Tove Lo, Don Toliver, Måneskin. Og elektronisk har de Four Tet, Peggy Gou og Tiësto.",
+          "segment": "musik",
+          "start": 35.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det løber over to weekender i april med samme program begge gange.",
+          "segment": "musik",
+          "start": 44.49
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og de plejer at livestreame de største koncerter gratis. Så man kan sidde i Aarhus og se med.",
+          "segment": "musik",
+          "start": 49.85
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og noget af det kommer tættere på. Tame Impala og Caroline Polachek er allerede annonceret til Roskilde.",
+          "segment": "musik",
+          "start": 56.82
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og Phoebe Bridgers kommer til Northside. Det er jo lige i baghaven, Frederik.",
+          "segment": "musik",
+          "start": 65.16
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Herhjemme får Emma Sehested Høeg en runde mere i Royal Arena.",
+          "segment": "musik",
+          "start": 70.39
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Efter lørdagens koncert foran seksten tusind mennesker. Soundvenue gav seks stjerner.",
+          "segment": "musik",
+          "start": 75.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Anmelderen kaldte det en storslået totaloplevelse, hvor popkoncert, teater og burlesque blev forenet.",
+          "segment": "musik",
+          "start": 82.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hun vender tilbage sjette marts. Billetsalget starter på fredag klokken ti.",
+          "segment": "musik",
+          "start": 90.6
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og mandag var det J. Cole i Royal Arena. Første gang i Danmark i ni år.",
+          "segment": "musik",
+          "start": 95.6
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han startede showet siddende nede blandt publikum. Og rappede sig op på scenen.",
+          "segment": "musik",
+          "start": 101.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hundredeogfem minutter uden backup-rapper. Det er gammel skole.",
+          "segment": "musik",
+          "start": 106.79
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Bars frem for vibes. Jeg er solgt.",
+          "segment": "musik",
+          "start": 111.29
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og siden hun står øverst på den plakat — her er SZA med \"Good Days\".",
+          "segment": "musik",
+          "start": 114.81
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:4PMqSO5qyjpvzhlLI5GnID",
+      "name": "Good Days",
+      "artist": "SZA",
+      "album": "SOS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc18bdade69ec5ef0bb25b17",
+      "duration_ms": 279203,
+      "url": "https://open.spotify.com/track/4PMqSO5qyjpvzhlLI5GnID",
+      "kobling": "Kobler direkte til musiknyt om Coachella-plakaten, hvor SZA, Tame Impala og Robyn alle er på listen."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 93.81,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Okay, dagens lidt skøre historie handler om internettet. Altså hele internettet.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nå? Hvad har vi lavet nu?",
+          "segment": "let",
+          "start": 6.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "GTA 6 er landet. Og nedlastningerne skabte simpelthen en top i nettrafikken, skriver norske Tek.no.",
+          "segment": "let",
+          "start": 8.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så mange hentede spillet samtidig, at man kunne se det på kurverne?",
+          "segment": "let",
+          "start": 16.04
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Og udgiveren siger, at forhåndsbestillingerne har været på, citat, enestående niveauer.",
+          "segment": "let",
+          "start": 21.02
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og annoncørerne er vel kastet over det?",
+          "segment": "let",
+          "start": 27.94
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, de hopper med. Det er jo et spilfænomen, der samler flere øjne end de fleste tv-begivenheder.",
+          "segment": "let",
+          "start": 31.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der må være nogen på et marketingbureau, der sidder og kigger misundeligt på de tal lige nu.",
+          "segment": "let",
+          "start": 39.36
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jeg nævner ingen navne.",
+          "segment": "let",
+          "start": 45.35
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er der den detalje, at nogen fik afsløret spillet kørende på en Xbox One.",
+          "segment": "let",
+          "start": 47.46
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "En Xbox One. Den konsol er ældre end mange af dem, der spiller det.",
+          "segment": "let",
+          "start": 53.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det var Morgenradio for i dag, Frederik.",
+          "segment": "outro",
+          "start": 60.11
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Husk jakken. Støvregnen kommer stille og roligt.",
+          "segment": "outro",
+          "start": 63.23
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi holder øje med spionagesagen i England og med skatteaftalen i løbet af dagen.",
+          "segment": "outro",
+          "start": 67.64
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og med guldkampen. Et mulehår, altså.",
+          "segment": "outro",
+          "start": 73.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Tak fordi du lyttede med. Hav en rigtig god onsdag derude.",
+          "segment": "outro",
+          "start": 77.18
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi slutter dansk og roligt. Hjalmer med \"Som At Sove På Hotel\".",
+          "segment": "outro",
+          "start": 82.32
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:1KaTAZ2v23KkUGDfKbnCk6",
+      "name": "Som At Sove På Hotel",
+      "artist": "Hjalmer",
+      "album": "Tændstikmand",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db42504b97d8eb6caf122e74",
+      "duration_ms": 174750,
+      "url": "https://open.spotify.com/track/1KaTAZ2v23KkUGDfKbnCk6",
+      "kobling": "Dansk afslutning der holder morgenens tempo oppe på vej ud i støvregnen."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 701.76,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Amerikansk Nato-soldat i Storbritannien mistænkt for at spionere for Rusland",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/amerikansk-nato-soldat-i-storbritannien-mistaenkt-spionere-rusland"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Kilder til Politiken: Skatteaftale med DF lige om hjørnet",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/danmark/politik/art11055126/Kilder-til-Politiken-Skatteaftale-med-DF-lige-om-hj%C3%B8rnet"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Gert betaler 1.400 procent mere for fjernvarme end Frederik",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/reels/gert-betaler-1-400-procent-mere-fjernvarme-end-frederik"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Spansk boligkrise fører til første generalstrejke i 14 år",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/internationalt/art11055015/Spansk-boligkrise-f%C3%B8rer-til-f%C3%B8rste-generalstrejke-i-14-%C3%A5r"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Republikanerne holder hånden over Hegseth og bremser forsøg på rigsretssag",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/republikanerne-holder-haanden-over-hegseth-og-bremser-forsoeg-paa-rigsretssag"
+    },
+    {
+      "segment": "sport",
+      "titel": "Elefanter eller ej. Hjulmand elsker sin rolle på landsholdet",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/landsholdet/elefanter-eller-ej-hjulmand-elsker-sin-rolle-paa-landsholdet"
+    },
+    {
+      "segment": "sport",
+      "titel": "DR-kommentator har FCK et mulehår foran FCM i guld-kampen",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/superliga/reels/dr-kommentator-har-fck-et-mulehaar-foran-fcm-i-guld-kampen"
+    },
+    {
+      "segment": "sport",
+      "titel": "The Athletic: Manchester United i ferd med å inngå Pochettino-avtale",
+      "kilde": "TV 2",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNW5VU1p2cUdVUDFqMW9nNC04Tl82RGg0eU5fbUFhc19QckxCZ0tnM2dFNlhFV2hVYnlRS0VJVWo0VTZYUU9YbkhBbFZwYXhZcF9ucnhTcUN1UmVkZnRHMEFxeXhXcDd3SnhJSmpIbjBVUGdVeVl6OWZnTUZCWjJzUmJ6cXBHTkZwWEdDUlc0X0VoS1k?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Wembley-hyllest venter Kane – slår legendarisk rekord",
+      "kilde": "TV 2",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdmxuU19BckJLa25oQnBRS0ZsRlkzNk51dHRQcDR4aWlaa3k5Rml4NGl3MGUteHhoTTRSTl83OUFYTV8wTHIwRTlTVkxsT2FNcnh1YnlEcFljRHctbTlCc1RZVzdXVVdCNEh1LUJ1SWF2SW1ObzdzMzRRQU9vNjdXVWllY3I3RlAzSFE0OGlHOA?oc=5"
+    },
+    {
+      "segment": "musik",
+      "titel": "Coachella afslører årets stjernespækkede plakat – med Tame Impala, SZA og Dua Lipa",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/coachella-afsloerer-aarets-stjernespaekkede-plakat-med-tame-impala-sza-og-dua-lipa-704324"
+    },
+    {
+      "segment": "musik",
+      "titel": "Efter topkarakter: Emma Sehested Høeg vender tilbage til Royal Arena",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/efter-topkarakter-emma-sehested-hoeeg-annoncerer-endnu-en-koncert-i-royal-arena-704273"
+    },
+    {
+      "segment": "musik",
+      "titel": "J. Cole tabte hverken pusten eller publikum i Royal Arena",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/j-cole-tabte-hverken-pusten-eller-publikum-i-royal-arena-704078"
+    },
+    {
+      "segment": "let",
+      "titel": "GTA 6-nedlastinger skapte topp i nettrafikken",
+      "kilde": "Tek.no",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnl1d0NORHZ0NlJSdHpoTEQ3bWhJRUF6YUlmeWpJWThIM0xQaTlmVlExb0QzTGliUjdhdGxldVNKdmR4WlBKRHFIMENMYVpkbXd5aTVlNm1RNVY5aWkxcTMxd3NocGxXclZ2MmVXZVQ1Z1dfYWQ4eE8wTi1KeWxEUFc1X21USUMxaWNwaC1xeE8?oc=5"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (30)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (4)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (0)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (27)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (13)"
+  },
+  "test": false
+}

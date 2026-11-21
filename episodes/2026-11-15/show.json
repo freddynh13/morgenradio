@@ -1,0 +1,956 @@
+{
+  "date": "2026-11-15",
+  "dato_tekst": "søndag den 15. november 2026",
+  "title": "Danmarks 4-1 i Braga, Bornholm-ballade og GTA-hype",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-15T11:56:24+01:00",
+  "tema": "Landsholdets vilde 4-1 over Portugal fylder alt på en grå novembersøndag i Aarhus — krydret med AI, Nvidia-nerver og Bornholm-ballade.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 262.93,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen, Frederik. Du er vågnet til Morgenradio, og det er søndag den femtende november.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvilken søndag at vågne op til, ikke?",
+          "segment": "intro",
+          "start": 14.69
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Du har tænkt på det siden i går aftes, har du ikke?",
+          "segment": "intro",
+          "start": 18.3
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jeg har stort set ikke sovet. Fire-et i Portugal. Fire-et.",
+          "segment": "intro",
+          "start": 22.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det kommer vi grundigt ind på i sporten. Vi skal også forbi en dansk politiker, der vil afgive Bornholm.",
+          "segment": "intro",
+          "start": 27.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Plus nerver omkring Nvidia, og en matematiker der fik livet vendt på hovedet af kunstig intelligens.",
+          "segment": "intro",
+          "start": 33.57
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men først: vejret i Aarhus. Lige nu seks grader og skiftende skydække.",
+          "segment": "intro",
+          "start": 39.94
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så bliver det bare gråt resten af dagen, ikke?",
+          "segment": "intro",
+          "start": 46.0
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Overskyet, mellem fire og syv grader. Tyve procent risiko for nedbør, vind op til syv meter i sekundet.",
+          "segment": "intro",
+          "start": 50.8
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Cykelvenligt nok. Bare tag handsker på.",
+          "segment": "intro",
+          "start": 58.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Solen står op fem i otte og er nede igen ti minutter over fire. Så nyd det, mens det er der.",
+          "segment": "intro",
+          "start": 61.16
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter i Mellemøsten, hvor spændingerne er stigende.",
+          "segment": "nyheder",
+          "start": 71.21
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ifølge Aftenposten skød Saudi-Arabien i går to missiler ned, der var rettet mod hovedstaden.",
+          "segment": "nyheder",
+          "start": 75.39
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og VG skriver, at Iran hævder at have angrebet en amerikansk base i Bahrain.",
+          "segment": "nyheder",
+          "start": 81.87
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi kender ikke omfanget endnu. Oplysningerne er stadig sparsomme.",
+          "segment": "nyheder",
+          "start": 87.48
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Samtidig bekræfter Rusland ifølge Dagbladet, at Putin, Trump og Xi mødes i Kina.",
+          "segment": "nyheder",
+          "start": 92.85
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvornår og hvor præcist, det er ikke meldt ud. Vi følger det.",
+          "segment": "nyheder",
+          "start": 100.28
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Herhjemme har en udtalelse fra løsgængeren Jacob Harris vakt kraftig opsigt.",
+          "segment": "nyheder",
+          "start": 103.39
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han sagde på et debatmøde i Kolding i går, at danskerne skal være klar til at afgive Bornholm, hvis Rusland angriber.",
+          "segment": "nyheder",
+          "start": 109.62
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvordan formulerede han det?",
+          "segment": "nyheder",
+          "start": 117.15
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "At når halvdelen i lokalet har mistet et familiemedlem, så kunne vi måske holde sommerferie et andet sted. Det er ifølge JydskeVestkysten.",
+          "segment": "nyheder",
+          "start": 119.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og reaktionerne er hårde. Lea Wermelin kalder det galskab og skriver, at det er vildt at høre på som bornholmer.",
+          "segment": "nyheder",
+          "start": 129.28
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Venstres Peter Juel-Jensen tilbyder at give tilskud til en enkeltbillet til Rusland.",
+          "segment": "nyheder",
+          "start": 137.23
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Harris selv siger, han er misforstået. At det handler om at stoppe krigen i Ukraine.",
+          "segment": "nyheder",
+          "start": 142.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og at vi selvfølgelig ville kæmpe for at få øen tilbage. Det skriver han ifølge DR.",
+          "segment": "nyheder",
+          "start": 148.0
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så til noget helt andet. Politiken har en historie, du nok vil kunne lide, Frederik.",
+          "segment": "nyheder",
+          "start": 154.47
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Matematikeren?",
+          "segment": "nyheder",
+          "start": 159.73
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja. En gåde, mennesker har grublet over i halvfems år, blev løst af kunstig intelligens. På otteogfirs timer.",
+          "segment": "nyheder",
+          "start": 161.05
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Otteogfirs timer. Hold da op.",
+          "segment": "nyheder",
+          "start": 169.43
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Lektoren Asger Dag Törnquist kalder det et chok. Og det fik ham til at træffe en livsændrende beslutning.",
+          "segment": "nyheder",
+          "start": 172.8
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvad gik beslutningen ud på?",
+          "segment": "nyheder",
+          "start": 180.58
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det folder Politiken ud i artiklen. Men datoen, ottende september, står åbenbart printet i ham.",
+          "segment": "nyheder",
+          "start": 182.9
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Altså, det er jo den samtale alle fagfolk har med sig selv lige nu.",
+          "segment": "nyheder",
+          "start": 189.83
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er der uro om Nvidia. Norske E24 kalder det ligefrem et farligt pengespil.",
+          "segment": "nyheder",
+          "start": 194.0
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Finansavisen har en analytiker, Molnes, der advarer med ordene: alle selskaberne skal lige ned.",
+          "segment": "nyheder",
+          "start": 200.39
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og nogle har tjent stort på at shorte Nvidia. Beskeden derfra er kom jer ud.",
+          "segment": "nyheder",
+          "start": 207.27
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Samtidig vil Samsung satse på datacentre. Så nogen tror stadig voldsomt på det her.",
+          "segment": "nyheder",
+          "start": 213.61
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er to fortællinger, der kører ved siden af hinanden lige nu.",
+          "segment": "nyheder",
+          "start": 220.51
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, og ingen af os ved hvilken der holder.",
+          "segment": "nyheder",
+          "start": 225.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Sidste punkt: den tidligere spionchef Lars Findsen er blevet direktør i en ny tænketank.",
+          "segment": "nyheder",
+          "start": 228.04
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Med flere tunge profiler, skriver Politiken. Udgangspunktet er, at USA's blik er varigt vendt mod Kina.",
+          "segment": "nyheder",
+          "start": 234.06
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og at den gamle verden ikke vender tilbage. De vil skubbe til den danske debat.",
+          "segment": "nyheder",
+          "start": 243.52
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det bliver spændende at se, hvor hårdt de tør slå.",
+          "segment": "nyheder",
+          "start": 248.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skifter gear. Bruno Mars og fireogtyve karat magi.",
+          "segment": "nyheder",
+          "start": 252.21
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Perfekt efter i går aftes. Det her er Bruno Mars med tyvefire K Magic.",
+          "segment": "nyheder",
+          "start": 256.83
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:6b8Be6ljOzmkOmFslEb23P",
+      "name": "24K Magic",
+      "artist": "Bruno Mars",
+      "album": "24K Magic",
+      "image": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
+      "duration_ms": 225983,
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P",
+      "kobling": "Fejrende, funky morgenvækker der matcher stemningen efter landsholdets 4-1 i Lissabon."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 233.48,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Nå. Søndag i Aarhus. Grå himmel og seks grader.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er sådan et vejr, hvor man går ned efter rundstykker og så bliver væk i tre timer.",
+          "segment": "aarhus",
+          "start": 7.61
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Risikoen for regn er kun tyve procent, så der er faktisk en god chance for tørvejr.",
+          "segment": "aarhus",
+          "start": 12.99
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så er lyset jo væk ti minutter over fire. Det er lidt brutalt.",
+          "segment": "aarhus",
+          "start": 19.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Frederik, hvis du skal ud på cyklen, så gør det mens solen er oppe. Det er fire timer i midten af dagen, der gør forskellen.",
+          "segment": "aarhus",
+          "start": 24.62
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så ligger byen jo stadig og brummer lidt efter i går.",
+          "segment": "aarhus",
+          "start": 33.4
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det gør hele landet. Og det kommer vi til nu.",
+          "segment": "aarhus",
+          "start": 37.69
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Okay. Danmark slog Portugal fire-et i Braga.",
+          "segment": "sport",
+          "start": 43.58
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "På deres eget græs.",
+          "segment": "sport",
+          "start": 47.19
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "På deres eget græs, i silende regn, til en aften der var planlagt som hyldest til Cristiano Ronaldo.",
+          "segment": "sport",
+          "start": 48.73
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Som ikke selv mødte op.",
+          "segment": "sport",
+          "start": 57.26
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Han var der ikke. Men hele det portugisiske hold troppede op med nummer syv på ryggen, og publikum klappede efter syv minutter.",
+          "segment": "sport",
+          "start": 59.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så kom Danmark og ødelagde festen.",
+          "segment": "sport",
+          "start": 68.83
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "DR Sporten skriver, at Rasmus Højlund efter seksoghalvtreds minutter fik børnefamilierne til at udvandre.",
+          "segment": "sport",
+          "start": 73.04
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Det er en hård sætning.",
+          "segment": "sport",
+          "start": 79.49
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Omkring tolv hundrede danskere var fundet frem til bjerget i Braga. De satte præg på et ellers døsigt hjemmepublikum.",
+          "segment": "sport",
+          "start": 82.05
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så var der straffesparket. Det var ikke Højlund, der tog det.",
+          "segment": "sport",
+          "start": 89.79
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej, det var anføreren. Pierre-Emile Højbjerg sendte Danmark foran et-nul efter treogfyrre minutter.",
+          "segment": "sport",
+          "start": 95.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvorfor gav Højlund den fra sig? Han plejer jo at stå der.",
+          "segment": "sport",
+          "start": 102.98
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det var aftalt dagen før. Højlund sagde til DR, at Bruno Fernandes måske havde en bedre indgangsvinkel til, hvordan han sparker.",
+          "segment": "sport",
+          "start": 106.99
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Fordi de har spillet sammen i Manchester United.",
+          "segment": "sport",
+          "start": 116.85
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Højlund husker, at Bruno altid gik ned og snakkede med målmanden. Han går den vej, og den vej.",
+          "segment": "sport",
+          "start": 119.62
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så der var en overraskelse i at lade Højbjerg tage den.",
+          "segment": "sport",
+          "start": 124.35
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og Højbjerg havde sparket rigtig godt til træning dagen før. Højlund tænkte bare: den skal han have lov til.",
+          "segment": "sport",
+          "start": 128.58
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Højbjerg siger selv?",
+          "segment": "sport",
+          "start": 136.11
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "At han tænkte, den skal ind. Og det kom den. Men han understreger, at det stadig er Rasmus, der er manden.",
+          "segment": "sport",
+          "start": 137.87
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Højlund blev kåret som kampens spiller, men mente selv, at prisen lå bedst hos anføreren.",
+          "segment": "sport",
+          "start": 144.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er sådan et hold, man gerne vil have.",
+          "segment": "sport",
+          "start": 152.1
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og overskrifterne derude er jo … ret voldsomme.",
+          "segment": "sport",
+          "start": 153.88
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "O Jogo skriver: Danmark udraderer Portugal. Aftenen ender som et mareridt.",
+          "segment": "sport",
+          "start": 158.05
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "A Bola spørger bare: Hvad skete der, Portugal? Landsholdet ydmyget af Danmark.",
+          "segment": "sport",
+          "start": 165.13
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så den bedste. Publico: Ronaldo dukkede ikke op til hyldestaftenen. Og det gjorde Portugal heller ikke.",
+          "segment": "sport",
+          "start": 172.36
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Av.",
+          "segment": "sport",
+          "start": 179.69
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Spanske Marca skriver, at visse kampe bliver skrevet ind i historiebøgerne for altid. Det her var Portugals første kamp uden Ronaldo efter treogtyve år.",
+          "segment": "sport",
+          "start": 180.69
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og svenske SVT kalder det en fest for Danmark.",
+          "segment": "sport",
+          "start": 191.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Landstræner Brian Riemer havde lovet en overraskelse i startopstillingen, og byen summede hele dagen af gæt.",
+          "segment": "sport",
+          "start": 195.97
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og en ting mere: DR skriver, at Norge skruede bissen på og dermed sikrede en dansk fordel.",
+          "segment": "sport",
+          "start": 203.11
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, man kan godt blive lidt glad for nordmændene en lørdag aften.",
+          "segment": "sport",
+          "start": 209.41
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og kvindefodbolden: Pernille Harder og Bayern er fortsat ubesejrede i Bundesligaen.",
+          "segment": "sport",
+          "start": 214.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De vandt stort i et topbrag. Det kører bare for hende.",
+          "segment": "sport",
+          "start": 220.56
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skruer lidt ned igen. Dansk pop med drive til en grå novembersøndag.",
+          "segment": "sport",
+          "start": 225.01
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Her er Medina med Ensom.",
+          "segment": "sport",
+          "start": 231.28
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:2Y3Ql68jUJrOYM4SqcggXM",
+      "name": "Ensom",
+      "artist": "Medina",
+      "album": "Velkommen Til Medina",
+      "image": "https://i.scdn.co/image/ab67616d0000b27375bbceefa1ce802c55b5a236",
+      "duration_ms": 249520,
+      "url": "https://open.spotify.com/track/2Y3Ql68jUJrOYM4SqcggXM",
+      "kobling": "Dansk pop med drive til en overskyet novembersøndag, hvor solen først er oppe 07:56 og nede igen 16:10."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 119.25,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Der er stadig noget ved den sang, der rammer præcis i november.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det passer meget godt til næste historie. Soundvenue har spurgt Andreas Odbjerg om kunstig intelligens.",
+          "segment": "musik",
+          "start": 6.92
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Er han nervøs?",
+          "segment": "musik",
+          "start": 14.3
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han siger, han sgu ikke ved det. Den dystopiske tolkning er, at musikken bliver mere generisk og dårligere.",
+          "segment": "musik",
+          "start": 15.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og den optimistiske?",
+          "segment": "musik",
+          "start": 22.65
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "At det kræver mere originalitet. At dem, der bliver lagt mærke til, er dem, der sprænger rammerne for, hvordan musik kan lyde.",
+          "segment": "musik",
+          "start": 24.5
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så er der den overskrift: alt det der middle-of-the-road-popmusik er snart dødt.",
+          "segment": "musik",
+          "start": 34.17
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han kalder det en fangeleg med AI'en. Når han går i studiet, handler det om at bringe så meget menneskelighed ind som muligt.",
+          "segment": "musik",
+          "start": 40.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Omfavne fejlene. Et spontant grin midt i et vokaltake.",
+          "segment": "musik",
+          "start": 49.3
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Noget der ikke lige stemmer. Ja, præcis.",
+          "segment": "musik",
+          "start": 53.74
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og modsat ham kan man prompte en Suno og have et færdigt popnummer på få minutter.",
+          "segment": "musik",
+          "start": 57.38
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Frederik, det er jo lidt den samme diskussion, I har på bureauet. Hvad er håndværk, og hvad er bare hurtigt?",
+          "segment": "musik",
+          "start": 63.95
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Soundvenue har også talt med andre i branchen. En af dem siger ligeud, at det ødelægger kulturarven i Danmark.",
+          "segment": "musik",
+          "start": 69.99
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hårde ord. Det er en hel artikelserie, de kører.",
+          "segment": "musik",
+          "start": 76.85
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "To andre ting. Eurovision Asia er blevet afholdt for første gang i Bangkok.",
+          "segment": "musik",
+          "start": 80.65
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hvem vandt?",
+          "segment": "musik",
+          "start": 85.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Filippinerne. Den nittenårige Carmelle med nummeret Sobra-Sobra. Hun toppede både jury og folkeafstemning.",
+          "segment": "musik",
+          "start": 87.45
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Begge dele. Det er flot.",
+          "segment": "musik",
+          "start": 94.89
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så Noel Gallagher. Han var på scenen til London Jazz Festival med Goldie og Skin fra Skunk Anansie.",
+          "segment": "musik",
+          "start": 97.35
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Jazzfestival? Det er lidt uventet.",
+          "segment": "musik",
+          "start": 104.29
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Med liveband, kor og orkester. Det er hans første optræden siden Oasis-genforeningsturnéen.",
+          "segment": "musik",
+          "start": 106.74
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi bliver i det danske. Her er Andreas Odbjerg med Føler mig selv hundrede.",
+          "segment": "musik",
+          "start": 113.54
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:7iuM7vnvSjX9qqcuFtij1T",
+      "name": "føler mig selv 100",
+      "artist": "andreas odbjerg",
+      "album": "føler mig selv 100",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a239712418a0dce88270a9f3",
+      "duration_ms": 207288,
+      "url": "https://open.spotify.com/track/7iuM7vnvSjX9qqcuFtij1T",
+      "kobling": "Direkte kobling til musiknyt: Odbjerg udtaler sig om AI og popmusikkens fremtid — og Oasis-nummeret griber Noel Gallaghers comeback-optræden i London."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 101.19,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Og så dagens lidt lettere historie. Brugte PlayStations bliver revet væk.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "På grund af GTA 6?",
+          "segment": "let",
+          "start": 8.18
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Spillet udkommer den nittende november, og DR skriver, at det tydeligt kan mærkes på Den Blå Avis.",
+          "segment": "let",
+          "start": 10.81
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvor meget taler vi?",
+          "segment": "let",
+          "start": 17.89
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Antallet af nye annoncer på Pro-versionen er steget med to hundrede og fyrre procent. Søgningerne med tre hundrede og tyve.",
+          "segment": "let",
+          "start": 19.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hold da op.",
+          "segment": "let",
+          "start": 28.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og nyprisen på topmodellen er gået fra omkring syv tusind kroner til omkring tretten tusind.",
+          "segment": "let",
+          "start": 29.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er næsten en fordobling. Bare fordi folk vil spille det på det bedste udstyr.",
+          "segment": "let",
+          "start": 36.35
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Spileksperten Thomas Bense siger, at hypen har været enorm længe. Men selv han er overrasket over priserne.",
+          "segment": "let",
+          "start": 42.39
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så hvis man har en stående i skabet?",
+          "segment": "let",
+          "start": 49.21
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så er det nu. En genbrugsekspert fra Vend siger, at du formentlig kan gøre en rigtig god handel lige nu.",
+          "segment": "let",
+          "start": 52.08
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er faktisk et ret vildt eksempel på efterspørgsel, der løber foran udbuddet.",
+          "segment": "let",
+          "start": 59.52
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, og Pricerunner mærker det også ude i butikkerne.",
+          "segment": "let",
+          "start": 65.9
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er vi ved vejs ende, Frederik.",
+          "segment": "outro",
+          "start": 72.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fire-et. Jeg siger det bare en sidste gang.",
+          "segment": "outro",
+          "start": 75.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det havde jeg regnet med. Tak fordi du var med i dag.",
+          "segment": "outro",
+          "start": 78.71
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hav en rigtig god søndag derude i Aarhus. Seks grader og gråt, men helt til at holde ud.",
+          "segment": "outro",
+          "start": 82.24
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi slutter med noget, der holder tempoet oppe. The Weeknd og Can't Feel My Face.",
+          "segment": "outro",
+          "start": 88.63
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:22VdIZQfgXJea34mQxlt81",
+      "name": "Can't Feel My Face",
+      "artist": "The Weeknd",
+      "album": "Beauty Behind The Madness",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737fcead687e99583072cc217b",
+      "duration_ms": 213520,
+      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81",
+      "kobling": "Internationalt hit med energi til at sende Frederik ud i de 6 grader uden at tabe tempoet."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 729.24,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Saudi-Arabia skjøt ned to missiler rettet mot hovedstaden",
+      "kilde": "Aftenposten",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejVLbnNVVEV0alBZNGJKdHczZzB1cFJKVFNZc3Vqb3BLS1Rza240S1VUQ2o3dm5WTzhSNzM5a0o0RW5fX2JZRmtnS3Z1eXlEeFpKNW90cU5oOWo3cjBpaS1HdGQ1UjU2YzN0NWhrUnRDMHg2WUdyNmVFalJ2cVBMbUEtZGYybHJoVGt5ZnF5RUtVMGlYcHNaX2dWZ2pNUzhJTmhn?oc=5"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Jacob Harris' udtalelse vækker opsigt: Klar til at give Bornholm til Rusland",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/jakob-harris-udtalelse-vaekker-opsigt-klar-til-give-bornholm-til-rusland"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Da chokket fra 8. september havde lagt sig, tog matematiker Asger Törnquist en livsændrende beslutning",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/viden/viden/art11044272/Da-chokket-fra-8.-september-havde-lagt-sig-tog-matematiker-Asger-T%C3%B6rnquist-en-livs%C3%A6ndrende-beslutning"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Nvidias farlige pengespill",
+      "kilde": "E24",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8waFlLbVU2VEdrXzcwb09tZGRlVFdoU1M5TXBnLWU3WHMtcnQ0SXZYVl8wclBJenc2QUhJVlN3RnJ2di0tUm4tRnVHZERzT0FYZWNUaFlEWVBLUThOM1l1eXdNQnpNRzRYS3Y2Rk9NZ2I0QmdJ?oc=5"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Lars Findsen er direktør i ny tænketank med flere tunge profiler",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/danmark/art11058740/Lars-Findsen-er-direkt%C3%B8r-i-ny-t%C3%A6nketank-med-flere-tunge-profiler"
+    },
+    {
+      "segment": "sport",
+      "titel": "Danmark ydmyger Portugal på eget græs",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/landsholdet/danmark-ydmyger-portugal-paa-eget-graes"
+    },
+    {
+      "segment": "sport",
+      "titel": "Det var ikke tilfældigt, at Højlund overlod straffespark til Højbjerg",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/landsholdet/det-var-ikke-tilfaeldigt-hoejlund-overlod-straffespark-til-hoejbjerg"
+    },
+    {
+      "segment": "sport",
+      "titel": "'Ronaldo dukkede ikke op til hyldestaftenen. Det gjorde Portugal heller ikke'",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/landsholdet/ronaldo-dukkede-ikke-op-til-hyldestaftenen-det-gjorde-portugal-heller-ikke"
+    },
+    {
+      "segment": "sport",
+      "titel": "Norge skruer bissen på - og sikrer dansk fordel",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12838258#liveblog-embed"
+    },
+    {
+      "segment": "musik",
+      "titel": "Andreas Odbjerg har et bud på, hvordan vi kommer AI til livs: »Alt det der middle-of-the-road-popmusik er snart dødt«",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/andreas-odbjerg-har-et-bud-paa-hvordan-vi-kommer-ai-til-livs-alt-det-der-middle-of-the-road-popmusik-er-snart-doedt-704566"
+    },
+    {
+      "segment": "musik",
+      "titel": "Philippines crowned first Eurovision Asia winners as Carmelle triumphs with ‘Sobra-Sobra’",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/music/philippines-crowned-first-eurovision-asia-winners-as-carmelle-triumphs-with-sobra-sobra-3975977"
+    },
+    {
+      "segment": "musik",
+      "titel": "Watch Noel Gallagher join Goldie and Skunk Anansie’s Skin on stage for first performance since Oasis reunion tour",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/music/watch-noel-gallagher-goldie-skunk-anansie-skin-first-performance-oasis-reunion-3975973"
+    },
+    {
+      "segment": "let",
+      "titel": "Hypen om nyt GTA-spil er enorm: Brugte PlayStations bliver revet væk",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/hypen-om-nyt-gta-spil-er-enorm-brugte-playstations-bliver-revet-vaek"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (37)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (31)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (2)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (0)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (30)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (10)"
+  },
+  "test": false
+}

@@ -1,0 +1,902 @@
+{
+  "date": "2026-11-13",
+  "dato_tekst": "fredag den 13. november 2026",
+  "title": "Nvidia-chefen ude, Microsoft nede og is på cykelstierne",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-13T12:00:38+01:00",
+  "tema": "Tech-chok på to fronter: Nvidia-chefen Jensen Huang er fortid, og et globalt Microsoft-nedbrud rammer arbejdsdagen — imens er vejene isglatte i Østjylland.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 370.22,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "God morgen, Frederik. Det er fredag den trettende november, klokken er lidt over seks, og du lytter til Morgenradio.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fredag den trettende. Jeg siger det bare højt én gang, så er det ude af verden.",
+          "segment": "intro",
+          "start": 15.91
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og vi har faktisk en morgen, hvor det passer lidt for godt. Chefen for verdens største chipselskab er fortid fra det ene øjeblik til det andet.",
+          "segment": "intro",
+          "start": 21.59
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og halvdelen af verdens arbejdsmails har ligget og blinket rødt i nat.",
+          "segment": "intro",
+          "start": 32.06
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, Microsoft har haft et større nedbrud. Vi tager begge dele om lidt.",
+          "segment": "intro",
+          "start": 37.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men først: kig ud ad vinduet. Det er faktisk ret flot.",
+          "segment": "intro",
+          "start": 41.48
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Skyfri himmel over Aarhus og syv grader lige nu. I løbet af dagen mest klart, mellem to og syv grader.",
+          "segment": "intro",
+          "start": 45.91
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tolv procent risiko for nedbør. Altså, stort set ingenting.",
+          "segment": "intro",
+          "start": 53.92
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vind op til otte meter i sekundet. Og solen står først op 07:52, så der er mørkt et godt stykke endnu.",
+          "segment": "intro",
+          "start": 58.69
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og ned igen 16:14. Man når lige at se den.",
+          "segment": "intro",
+          "start": 68.58
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men hør, Frederik — der er en alvorlig ting i det vejr i dag. Den vender vi tilbage til i nyhederne.",
+          "segment": "intro",
+          "start": 72.6
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Jensen Huang stopper som topchef i Nvidia. Med øjeblikkelig virkning.",
+          "segment": "nyheder",
+          "start": 81.5
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Manden der stiftede selskabet i 1993 og har været direktør hele vejen.",
+          "segment": "nyheder",
+          "start": 86.52
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja. Bestyrelsen skriver i en pressemeddelelse, at han fratræder som præsident, administrerende direktør og bestyrelsesmedlem.",
+          "segment": "nyheder",
+          "start": 92.69
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og baggrunden er affærer uden for ægteskabet. Han erkendte det i weekenden.",
+          "segment": "nyheder",
+          "start": 101.37
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "En af dem med en kvinde, som ifølge The New York Times er mistænkt for at være kinesisk spion. Både hun og Kina afviser det.",
+          "segment": "nyheder",
+          "start": 107.27
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hun har været chef i et selskab i Singapore, der køber chips af Nvidia. Amerikanske myndigheder har kigget på det selskab.",
+          "segment": "nyheder",
+          "start": 115.79
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Mistanken går på, at de skulle hjælpe det kinesiske styre med at få fat i avancerede chips, som ikke må sælges til Kina.",
+          "segment": "nyheder",
+          "start": 123.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Finansdirektøren Colette Kress er konstitueret topchef nu. Og så leder de efter en ny, både internt og eksternt.",
+          "segment": "nyheder",
+          "start": 132.47
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Aktien er styrtdykket de seneste dage. Politiken citerer en finanskommentator for, at det har ramt som et lyn fra en klar himmel.",
+          "segment": "nyheder",
+          "start": 140.76
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og pointen derfra er, at det kan række langt ud over kursen. Hele ai-industrien står lidt og vipper.",
+          "segment": "nyheder",
+          "start": 149.9
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Finansavisen i Norge skærer det endnu skarpere: utroskaben er ikke problemet. Det er spørgsmålet om chips og Kina.",
+          "segment": "nyheder",
+          "start": 157.07
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nvidia er altså verdens førende producent af chips til kunstig intelligens. Alt det, rigtig mange af os arbejder med, hænger på dem.",
+          "segment": "nyheder",
+          "start": 165.06
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi følger det. Og så til noget, du måske allerede har mærket på telefonen i nat.",
+          "segment": "nyheder",
+          "start": 173.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Outlook har været nede. I store dele af verden.",
+          "segment": "nyheder",
+          "start": 178.38
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Torsdag aften og natten til i dag, skriver DR med AFP som kilde. USA, Australien, titusindvis af brugere.",
+          "segment": "nyheder",
+          "start": 181.94
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og ikke kun mail. Teams, Sharepoint, Planner, To Do — en hel stribe Microsoft-produkter.",
+          "segment": "nyheder",
+          "start": 191.02
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvor slemt var det?",
+          "segment": "nyheder",
+          "start": 198.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Downdetector havde knap 130.000 fejlmeldinger på den amerikanske østkyst klokken syv dansk tid. Siden faldet til omkring 50.000.",
+          "segment": "nyheder",
+          "start": 200.51
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Microsoft siger, det skyldes forhøjet belastning på infrastrukturen. Altså ikke et cyberangreb.",
+          "segment": "nyheder",
+          "start": 210.41
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det har de også meldt til den australske indenrigsminister. Deres efterretningstjeneste og politi var nemlig blandt de ramte.",
+          "segment": "nyheder",
+          "start": 217.33
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hold da op.",
+          "segment": "nyheder",
+          "start": 226.45
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De begyndte at genoprette forbindelsen omkring midnat. Så det kører forhåbentlig, når du møder ind.",
+          "segment": "nyheder",
+          "start": 227.42
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Frederik, hvis Teams driller i dag, så er det altså ikke din computer.",
+          "segment": "nyheder",
+          "start": 233.25
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så har vi en historie om kunstig intelligens, der går den helt forkerte vej.",
+          "segment": "nyheder",
+          "start": 237.69
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja. Charlotte Svensson fra Ullerslev har i over ti år kæmpet med Nyborg Kommune om hjemmetræning af sin handicappede søn.",
+          "segment": "nyheder",
+          "start": 243.32
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Kommunen stoppede bevillingen. Hun klagede — en klage på 36 sider, sendt sent om aftenen.",
+          "segment": "nyheder",
+          "start": 251.75
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og næste formiddag lå afgørelsen i indbakken. Under tolv timer efter.",
+          "segment": "nyheder",
+          "start": 259.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hun siger til DR, at hun bare tænkte: hvad sker der her? Det virkede mystisk.",
+          "segment": "nyheder",
+          "start": 264.39
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hun spurgte kommunen direkte, om de havde brugt AI. Og det indrømmer Nyborg Kommune nu, at de gjorde.",
+          "segment": "nyheder",
+          "start": 269.62
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Kommunen erkender, at det var et regelbrud. Og de siger undskyld.",
+          "segment": "nyheder",
+          "start": 276.43
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Afgørelsen blev fastholdt. Hjemmetræningen skulle ophøre.",
+          "segment": "nyheder",
+          "start": 280.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og til Ukraine. Jared Kushner og Steve Witkoff mødte Putin i Moskva i onsdags og Zelenskyj i Dublin i går aftes.",
+          "segment": "nyheder",
+          "start": 285.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Meldingen bagefter var, at europæerne kommer med ved bordet næste gang. Vi kan ikke indgå aftalen uden dem, sagde Kushner.",
+          "segment": "nyheder",
+          "start": 293.71
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han mener, Putin er villig til at give det et forsøg. Rusland har ellers modsat sig europæisk deltagelse.",
+          "segment": "nyheder",
+          "start": 302.9
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er spørgsmålet, hvem der skal tale på Europas vegne. Det drøfter EU-lederne på et uformelt topmøde i Dublin i dag.",
+          "segment": "nyheder",
+          "start": 309.88
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Zelenskyj kaldte det vigtigt, fordi krigen foregår i Europa. DR's EU-korrespondent Ole Ryborg siger, flere europæiske ledere tvivler på Ruslands forhandlingsvilje.",
+          "segment": "nyheder",
+          "start": 318.51
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så tæt på. Der er spejlglat i Østjylland i morges.",
+          "segment": "nyheder",
+          "start": 331.99
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, nedbør i går og minusgrader i asfalten i nat. Politiet i Østjylland advarer direkte.",
+          "segment": "nyheder",
+          "start": 336.65
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "P4 Trafik får opkald fra Djursland, Aarhus, Sabro og Galten. Et tyndt lag is, hvor bilerne ikke rigtig har fat.",
+          "segment": "nyheder",
+          "start": 343.27
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og cykelstierne i Aarhus er også glatte. En pendler var en tur på numsen i morges.",
+          "segment": "nyheder",
+          "start": 351.51
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så Frederik — tag den med ro på vej ind i dag. Politiet siger: pas på hinanden derude.",
+          "segment": "nyheder",
+          "start": 357.59
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi skal have noget, der vækker. Her er Medina med \"Kl. 10\".",
+          "segment": "nyheder",
+          "start": 365.85
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:1Awq2X3B58lApsJQqdh2qv",
+      "name": "Kl. 10",
+      "artist": "Medina",
+      "album": "For Altid",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732218ec531cfcf7606c158e69",
+      "duration_ms": 242733,
+      "url": "https://open.spotify.com/track/1Awq2X3B58lApsJQqdh2qv",
+      "kobling": "Energisk dansk popåbner til en skyfri, kold fredag morgen hvor solen først står op 07:52 — den skal vække før kaffen virker."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 151.61,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Medina klokken ti. Og vi er knap nok nået til syv.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Den holder stadig. Den har en eller anden fredagsmotor indbygget.",
+          "segment": "aarhus",
+          "start": 6.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nyt fra Aarhus — og det fylder altså stadig det med isen.",
+          "segment": "aarhus",
+          "start": 11.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Der er meldinger om glatte cykelstier rundt om i byen, og det samme gælder fortovene.",
+          "segment": "aarhus",
+          "start": 15.87
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Også i oplandet. Sabro, Galten, ud mod Djursland.",
+          "segment": "aarhus",
+          "start": 21.86
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "En pendler i Sabro fortalte P4 Trafik, hvordan han nærmest skøjtede rundt på fortovet.",
+          "segment": "aarhus",
+          "start": 26.1
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og bilerne kører langsomt af samme grund. Så læg ti minutter til.",
+          "segment": "aarhus",
+          "start": 32.75
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Eller lad cyklen stå i dag. Det er ikke vejret, det er asfalten.",
+          "segment": "aarhus",
+          "start": 37.94
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Til gengæld bliver det flot. Skyfrit hele vejen, og solen op 07:52.",
+          "segment": "aarhus",
+          "start": 43.28
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Kold, klar fredag. Det er jo egentlig den bedste slags november.",
+          "segment": "aarhus",
+          "start": 51.09
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så er der Manchester United.",
+          "segment": "sport",
+          "start": 58.81
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Michael Carrick er fyret.",
+          "segment": "sport",
+          "start": 61.23
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fyret i går. Og klubben skal nu ansætte sin niende cheftræner siden Sir Alex Ferguson.",
+          "segment": "sport",
+          "start": 63.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Niende. Det er vildt.",
+          "segment": "sport",
+          "start": 68.5
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De går ind til landskampspausen på en attendeplads i Premier League. Under nedrykningsstregen.",
+          "segment": "sport",
+          "start": 71.22
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og er det træneren, den er gal med?",
+          "segment": "sport",
+          "start": 76.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej, siger fodboldeksperten Mikkel Bischoff til DR. Det største problem er ledelsen.",
+          "segment": "sport",
+          "start": 78.89
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Altså at der ikke sidder nogen med fodboldforstand og træffer de store beslutninger?",
+          "segment": "sport",
+          "start": 85.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Og selv efter Ratcliffe kom ind i 2024 med flere fodboldkyndige hoveder, bliver der ikke lyttet til dem, mener han.",
+          "segment": "sport",
+          "start": 90.69
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Omklædningsrummet er splittet. Bruno Fernandes er bare én af dem, der har kritiseret både ledelse og taktik.",
+          "segment": "sport",
+          "start": 99.05
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så er der jo altid et dansk navn i hatten. Thomas Frank nævnes til et ledigt Premier League-job.",
+          "segment": "sport",
+          "start": 106.1
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nævnes. Det er et stort ord i fodbold.",
+          "segment": "sport",
+          "start": 112.95
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er det. Vi lader den ligge der.",
+          "segment": "sport",
+          "start": 116.77
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og ude i Europa var der landskampe i aftes.",
+          "segment": "sport",
+          "start": 119.25
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Harry Kane skrev historie og blev matchvinder for England i en rekordkamp.",
+          "segment": "sport",
+          "start": 122.75
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Frankrig fik tæsk af Italien?",
+          "segment": "sport",
+          "start": 128.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Italien vendte kampen og slog Frankrig. Første gang i 64 år, skriver de norske medier.",
+          "segment": "sport",
+          "start": 132.06
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "64 år. Zidane må have haft en lang aften.",
+          "segment": "sport",
+          "start": 139.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det danske U21-landshold møder et svækket Holland i jagten på en EM-plads.",
+          "segment": "sport",
+          "start": 143.22
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi tager et gear ned. SZA med \"Snooze\".",
+          "segment": "sport",
+          "start": 148.7
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:4iZ4pt7kvcaH6Yo8UoZ4s2",
+      "name": "Snooze",
+      "artist": "SZA",
+      "album": "SOS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc18bdade69ec5ef0bb25b17",
+      "duration_ms": 201800,
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2",
+      "kobling": "R&B/hiphop-gear efter nyhedsblokken med Nvidia og Microsoft-nedbrud — let at høre på, men med driv."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 103.14,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den der sang er simpelthen bare behagelig at være i.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så har vi en musikhistorie, der er lidt tung at bære.",
+          "segment": "musik",
+          "start": 7.31
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Dolly Parton. Hendes sidste vokalindspilning er udkommet.",
+          "segment": "musik",
+          "start": 10.68
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja. Det er en duet med U2, nummeret hedder \"Torn\", og det ligger sidst på deres nye album.",
+          "segment": "musik",
+          "start": 15.13
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hun og Bono deles om versene og synger omkvædet sammen. Hun står også som sangskriver.",
+          "segment": "musik",
+          "start": 21.94
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og den blev indspillet i juni, mens hun var syg med kræft. Hun døde i august.",
+          "segment": "musik",
+          "start": 28.24
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Bono har fortalt til Rolling Stone, at hun stod ud af sengen for at synge den. Og at han ikke kan lytte til den nu.",
+          "segment": "musik",
+          "start": 34.44
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Sangen handler om brud mellem mennesker. Og der er en del, der læser det splittede USA ind i teksten.",
+          "segment": "musik",
+          "start": 40.64
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det er faktisk ikke det sidste, vi hører fra hende.",
+          "segment": "musik",
+          "start": 46.33
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej, hvordan?",
+          "segment": "musik",
+          "start": 49.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hun begravede i 2015 en tidskapsel med en uudgivet sang. Den må først åbnes på hendes hundredårsdag i 2045.",
+          "segment": "musik",
+          "start": 50.94
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hold da op.",
+          "segment": "musik",
+          "start": 60.94
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så noget helt andet: Eee Gee har lavet en julesang.",
+          "segment": "musik",
+          "start": 62.21
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Allerede?",
+          "segment": "musik",
+          "start": 66.46
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Allerede. Den hedder \"December\". Og Soundvenue skriver faktisk, at de fleste burde holde sig fra julesange — men hun må godt lave flere.",
+          "segment": "musik",
+          "start": 67.18
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er jo nærmest en medalje.",
+          "segment": "musik",
+          "start": 76.58
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Klaver, strygere, kor og bjældeklang. De kalder det en sang om New York og hjertesorg.",
+          "segment": "musik",
+          "start": 79.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og The Weeknd er ude med en ny video til \"Hong Kong\". En powerballade med cantopop-sangeren Faye Wong.",
+          "segment": "musik",
+          "start": 85.76
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han står og synger karaoke og ser dyster ud. Meget ham.",
+          "segment": "musik",
+          "start": 92.62
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så lad os tage ham i et andet humør. The Weeknd og Daft Punk med \"Starboy\".",
+          "segment": "musik",
+          "start": 98.05
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:7MXVkk9YMctZqd1Srtv4MB",
+      "name": "Starboy",
+      "artist": "The Weeknd, Daft Punk",
+      "album": "Starboy",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+      "duration_ms": 230453,
+      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB",
+      "kobling": "Kobler direkte til musiknyt: The Weeknd er ude med ny video til 'Hong Kong', og Dolly Partons sidste indspilning er en duet med U2 — og 'Beautiful Day' passer til den skyfri himmel over Aarhus."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 80.79,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Okay, en god historie fra Australien.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, den her er faktisk dejlig. En 17-årig dreng var på campingtur med en ven i sidste uge.",
+          "segment": "let",
+          "start": 5.97
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og de blev væk fra hinanden. Så han blev meldt savnet.",
+          "segment": "let",
+          "start": 12.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "I seks døgn. Alene i den australske bush, ude mod øst.",
+          "segment": "let",
+          "start": 15.98
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De brugte helikoptere og frivillige i eftersøgningen. Og i går fandt de ham. I live.",
+          "segment": "let",
+          "start": 21.22
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvordan havde han det?",
+          "segment": "let",
+          "start": 26.78
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Solbrændt. Men ellers i god behold, siger politiet.",
+          "segment": "let",
+          "start": 28.04
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Seks dage og så solskoldning. Det er godt klaret.",
+          "segment": "let",
+          "start": 32.37
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Drengen har autisme. Og moren har bagefter sagt i spøg, at han aldrig forlader huset igen.",
+          "segment": "let",
+          "start": 37.17
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det forstår man jo godt.",
+          "segment": "let",
+          "start": 44.76
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er vi ved vejs ende, Frederik. Tak fordi du var med i morges.",
+          "segment": "outro",
+          "start": 49.15
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Kort opsamling: Jensen Huang er ude af Nvidia, Microsoft har haft nedbrud, og der er is på cykelstierne.",
+          "segment": "outro",
+          "start": 54.91
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Tag den med ro på vej ind. Og så bliver det en flot, kold fredag.",
+          "segment": "outro",
+          "start": 63.16
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "God weekend derude.",
+          "segment": "outro",
+          "start": 67.62
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi slutter af hjemmefra. Nephew med \"Hjertestarter\".",
+          "segment": "outro",
+          "start": 69.78
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:04NHOgkM0y4raFQD1PjQZW",
+      "name": "Hjertestarter",
+      "artist": "Nephew",
+      "album": "Hjertestarter - Bonus edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eb622e2efa8a2f2dac393471",
+      "duration_ms": 283773,
+      "url": "https://open.spotify.com/track/04NHOgkM0y4raFQD1PjQZW",
+      "kobling": "Dansk afrunding med fredagsenergi inden weekenden — holder balancen på cirka halvdelen danske numre i udsendelsen."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 718.14,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Jensen Huang stopper som topchef i Nvidia øjeblikkeligt efter affære",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/jensen-huang-stopper-som-topchef-i-nvidia-oejeblikkeligt-efter-affaere"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Microsoft Outlook er nede i store dele af verden",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/microsoft-outlook-er-nede-i-store-dele-af-verden"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Charlottes klage blev lynekspederet med AI: Nu siger kommune undskyld",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/charlottes-klage-blev-lynekspederet-med-ai-nu-siger-kommune-undskyld"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Kushner ser ingen fredsaftale om Ukraine uden Europa ved bordet",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/kushner-ser-ingen-fredsaftale-om-ukraine-uden-europa-ved-bordet"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Vejene er glatte i Østjylland",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/vejene-er-glatte-i-oestjylland"
+    },
+    {
+      "segment": "sport",
+      "titel": "Hvad i alverden er der galt med Manchester United?",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/skole/engelsk/hvad-i-alverden-er-der-galt-med-manchester-united"
+    },
+    {
+      "segment": "sport",
+      "titel": "Thomas Frank nævnes til ledigt Premier League-job",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12822322#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "Kane skrev historie – ble matchvinner på drømmekvelden",
+      "kilde": "VG",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcndVekV5cWM0SU9EMHZQWk1RSlVVQTBkUUlrRHh2dk9MM1ZiVUN0SzU3TXo3QmVEbU1aN05CM1lpWDNSLXBNVktOTE9uOE9rRGdITXRPYk16RUdBV01veWVPNllRM1QwMS1saDFoRjZvWlV6Tzh5TWpyRW93VlpFeW5VXy1FalhKT1hR?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Zinedine zidane, Frankrike | Zidane-smell: Første på 64 år",
+      "kilde": "Nettavisen",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRG1UYlhrc1p2UHpKM0RDQjZ5emZtMExzSC10NEpjdzBlaURMOE9XZDFkWmlHbE1JcHV2WXdteHVtVUZibWk1dExtMHZSb2J0OXI5ZXphSVhMTzItRzdUelVZUVQzZ2hXVnV0OFNVNEwxMGw3WkR4OFJ6akVaeU5BOA?oc=5"
+    },
+    {
+      "segment": "musik",
+      "titel": "Dolly Partons sidste indspilning er netop udkommet – lyt til U2-duetten ‘Torn’",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/dolly-partons-sidste-indspilning-er-netop-udkommet-lyt-til-u2-duetten-torn-704915"
+    },
+    {
+      "segment": "musik",
+      "titel": "The Weeknd Broods, Sings Karaoke in “Hong Kong” Video",
+      "kilde": "Pitchfork News",
+      "link": "https://pitchfork.com/story/the-weeknd-broods-sings-karaoke-in-hong-kong-video/"
+    },
+    {
+      "segment": "musik",
+      "titel": "De fleste bør holde sig fra julesange. Eee Gee må godt lave endnu flere",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/de-fleste-boer-holde-sig-fra-julesange-eee-gee-maa-godt-lave-endnu-flere-702864"
+    },
+    {
+      "segment": "let",
+      "titel": "Teenager fundet efter seks dage alene i Australiens bush",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/reels/teenager-fundet-efter-seks-dage-alene-i-australiens-bush"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (17)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (36)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (2)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (1)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (28)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (12)"
+  },
+  "test": false
+}
