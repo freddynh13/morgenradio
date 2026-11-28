@@ -1,0 +1,986 @@
+{
+  "date": "2026-11-23",
+  "dato_tekst": "mandag den 23. november 2026",
+  "title": "Bombetrusler mod skoler, mobilforbud og 0-5 i Farum",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-23T13:45:27+01:00",
+  "tema": "Bombetrusler mod skoler over hele landet og et nyt mobilforbud i folkeskolen fylder dagen, mens FCK fik en historisk lussing i Farum.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 297.22,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen, Frederik. Det er mandag den treogtyvende november, og du er vågnet til Morgenradio.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Og det er altså en af de mandage, hvor der er sket rigeligt.",
+          "segment": "intro",
+          "start": 14.87
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja. Vi starter med bombetrusler mod skoler over hele landet. Politiet maner til ro.",
+          "segment": "intro",
+          "start": 19.32
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så bliver mobiltelefonerne smidt ud af folkeskolen. Helt op til tiende klasse.",
+          "segment": "intro",
+          "start": 25.86
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Plus sporten, hvor der skete noget i Farum i går, som … ja.",
+          "segment": "intro",
+          "start": 32.36
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Som jeg stadig ikke har fordøjet.",
+          "segment": "intro",
+          "start": 37.0
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vejret må vi tage med forbehold i dag. Vi har simpelthen ikke tal på det.",
+          "segment": "intro",
+          "start": 38.93
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så Frederik, kig ud ad vinduet før du vælger jakke til cyklen i Aarhus.",
+          "segment": "intro",
+          "start": 43.47
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Klogt råd. Vi går til nyhederne.",
+          "segment": "intro",
+          "start": 48.18
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Rigtig mange skoler over hele landet har her til morgen modtaget trusler om en bombe.",
+          "segment": "nyheder",
+          "start": 53.2
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er Fyns Politi, der oplyser det. Og de taler om, citat, rigtig mange skoler.",
+          "segment": "nyheder",
+          "start": 58.93
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det er ikke kun Fyn. Østjylland, Nordjylland, Midt- og Vestjylland, København, Vestegnen, Sydsjælland.",
+          "segment": "nyheder",
+          "start": 65.56
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Stort set hele landet, ja. Truslerne er flere steder kommet på mail.",
+          "segment": "nyheder",
+          "start": 74.38
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Politiet siger meget tydeligt, at der ikke er grund til bekymring på nuværende tidspunkt.",
+          "segment": "nyheder",
+          "start": 79.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og de vurderer, at der ikke er grundlag for at evakuere eller sætte særlige sikkerhedsforanstaltninger i gang.",
+          "segment": "nyheder",
+          "start": 85.94
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Er der noget, man skal gøre som forælder?",
+          "segment": "nyheder",
+          "start": 92.71
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Politiet frabeder sig anmeldelser, hvis skolen bare har fået en mail. Har man set mistænkelige genstande eller personer, skal man derimod endelig ringe.",
+          "segment": "nyheder",
+          "start": 95.82
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Fyns Politi har sendt patruljer ud til flere af de berørte skoler. Og i Sydøstjylland taler vagtchefen om hundredvis af trusler alene i den kreds.",
+          "segment": "nyheder",
+          "start": 104.92
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tyske skoler har også fået trusler, skriver Politiken. Og vi så noget lignende mod flytrafikken i Europa tidligere på måneden.",
+          "segment": "nyheder",
+          "start": 114.68
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi følger det tæt hos DR hen over formiddagen.",
+          "segment": "nyheder",
+          "start": 123.3
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så er der en anden skolehistorie i dag, af en helt anden slags.",
+          "segment": "nyheder",
+          "start": 127.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Mobiltelefonerne ryger ud. Regeringen, Enhedslisten og Alternativet har lavet en aftale om et forbud.",
+          "segment": "nyheder",
+          "start": 132.04
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det er bredt. Grundskolen, tiende klasse, efterskoler, frie grundskoler og fritidstilbud som SFO.",
+          "segment": "nyheder",
+          "start": 139.86
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Både i undervisningen og i pauserne. Det træder i kraft fra skoleåret syvogtyve-otteogtyve.",
+          "segment": "nyheder",
+          "start": 148.31
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så der er lidt tid til at vænne sig til det.",
+          "segment": "nyheder",
+          "start": 155.76
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Undervisningsminister Magnus Heunicke siger, at børn skal kunne gå i skole uden hele tiden at blive forstyrret af sociale medier, onlineshopping og gaming.",
+          "segment": "nyheder",
+          "start": 158.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Altså, som en der arbejder i reklamebranchen, så er det jo nærmest en målgruppe, der forsvinder.",
+          "segment": "nyheder",
+          "start": 167.9
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Der var den.",
+          "segment": "nyheder",
+          "start": 173.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der kommer undtagelser for børn, hvor der skal tages sundhedsmæssige hensyn.",
+          "segment": "nyheder",
+          "start": 175.38
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det hele bliver meldt ud samme dag, som regeringstoppen mødes i Fredericia til stormøde om folkeskolen.",
+          "segment": "nyheder",
+          "start": 179.57
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Timing, ikke?",
+          "segment": "nyheder",
+          "start": 186.95
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så er der noget, der går lidt mere direkte på din indbakke, Frederik.",
+          "segment": "nyheder",
+          "start": 188.19
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nemlig. Styrelsen for Samfundssikkerhed, politiet, Finans Danmark og Forbrugerrådet Tænk er gået sammen om tre nationale råd mod digital svindel.",
+          "segment": "nyheder",
+          "start": 192.65
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hvad er de tre?",
+          "segment": "nyheder",
+          "start": 204.25
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Afbryd kontakten. Klik ikke på mistænkelige links. Og beskyt dine personlige oplysninger.",
+          "segment": "nyheder",
+          "start": 206.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det lyder næsten for simpelt.",
+          "segment": "nyheder",
+          "start": 213.18
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Pointen er, at man skal møde de samme råd, uanset hvor man søger hjælp. Og stadig flere danskere oplever svindelforsøg.",
+          "segment": "nyheder",
+          "start": 215.64
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så en stor en til dem, der rejser. Københavns Lufthavn vil udvide massivt.",
+          "segment": "nyheder",
+          "start": 224.36
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fra omkring femogtredive millioner passagerer i år til op mod femoghalvtreds millioner om året.",
+          "segment": "nyheder",
+          "start": 230.76
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hold da op. Det er jo en helt anden lufthavn.",
+          "segment": "nyheder",
+          "start": 237.38
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Direktøren Christian Poulsen siger, at Danmark som lille land med åben økonomi er dybt afhængigt af forbindelser til resten af verden.",
+          "segment": "nyheder",
+          "start": 240.79
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men naboerne i Kastrup har jo klaget over støj og forurening i årevis.",
+          "segment": "nyheder",
+          "start": 250.07
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Lufthavnen siger, det skal ske med respekt for dem. Højere støjvolde, støjdæmpende beklædning på bygninger, nyere fly der støjer mindre.",
+          "segment": "nyheder",
+          "start": 255.23
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hvornår sker det?",
+          "segment": "nyheder",
+          "start": 264.22
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der skal et nyt plangrundlag til. Det ventes først færdigt i otteogtyve.",
+          "segment": "nyheder",
+          "start": 265.51
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Til sidst et par linjer fra udlandet. Tyske medier skriver, at Rusland skulle forberede atomvåben i rummet.",
+          "segment": "nyheder",
+          "start": 271.28
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er den tyske rumkommando, der varsler, at det kan ske i kredsløb før jul. Det er stadig medieoplysninger, så vi tager det med varsomhed.",
+          "segment": "nyheder",
+          "start": 278.07
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og i Norge skriver Nettavisen, at regeringen går af før jul.",
+          "segment": "nyheder",
+          "start": 285.15
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det følger vi også.",
+          "segment": "nyheder",
+          "start": 290.14
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skruer lidt op for humøret. Her er Nik og Jay med Boing.",
+          "segment": "nyheder",
+          "start": 291.86
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:2geMSoH29SfXAZVgPR8avw",
+      "name": "Boing!",
+      "artist": "Nik & Jay",
+      "album": "3: Fresh-Fri-Fly",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325aeb0e15ae02c2657048dca",
+      "duration_ms": 197320,
+      "url": "https://open.spotify.com/track/2geMSoH29SfXAZVgPR8avw",
+      "kobling": "Energisk dansk vækker til en mandag morgen med meget på programmet."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 168.7,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den sang er ren koffein.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så til Aarhus, hvor du jo sidder, Frederik.",
+          "segment": "aarhus",
+          "start": 4.48
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Østjyllands Politi er en af de kredse, der har fået meldinger om trusler mod skoler i morges.",
+          "segment": "aarhus",
+          "start": 7.82
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Samme besked derfra som alle andre steder. Ingen grund til bekymring lige nu.",
+          "segment": "aarhus",
+          "start": 13.64
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så hvis du passerer en skole på vej til bureauet i dag og ser en patruljevogn, så er det derfor.",
+          "segment": "aarhus",
+          "start": 18.8
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og mobilforbuddet rammer jo også aarhusianske klasselokaler fra syvogtyve-otteogtyve.",
+          "segment": "aarhus",
+          "start": 25.12
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jeg tror, der er nogle lærere i Aarhus, der har sat kaffen i halsen af glæde i morges.",
+          "segment": "aarhus",
+          "start": 30.85
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Eller af bekymring for, hvem der skal samle dem ind.",
+          "segment": "aarhus",
+          "start": 36.93
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, den kasse bliver tung.",
+          "segment": "aarhus",
+          "start": 40.36
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Mads. Farum.",
+          "segment": "sport",
+          "start": 44.86
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Må jeg få et øjeblik?",
+          "segment": "sport",
+          "start": 46.91
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nul-fem. FC Nordsjælland mod FC København.",
+          "segment": "sport",
+          "start": 48.76
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det vilde er, at kampen var tæt et godt stykke ind i anden halvleg. Nordsjælland førte et-nul efter en stor FCK-fejl.",
+          "segment": "sport",
+          "start": 52.71
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så?",
+          "segment": "sport",
+          "start": 62.5
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Efter en times spil får Akos Markgraf direkte rødt kort. Og derfra stod der bare FC Nordsjælland på det hele.",
+          "segment": "sport",
+          "start": 63.11
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Fire mål på den sidste halve time.",
+          "segment": "sport",
+          "start": 71.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og bagefter ville Bo Svensson ikke sige noget som helst om det røde kort.",
+          "segment": "sport",
+          "start": 75.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvorfor ikke?",
+          "segment": "sport",
+          "start": 80.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han siger til DR Sporten: Ikke noget. Jeg har ikke noget at sige om det. Jeg tror, jeg har lært, at man helst ikke skal udtale sig.",
+          "segment": "sport",
+          "start": 81.55
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nå ja, der har været de der karantæner i efteråret.",
+          "segment": "sport",
+          "start": 89.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Det begyndte med Andreas Cornelius, der fik en spilledags karantæne for en udtalelse om dommerens integritet. Og senest fik både Brøndbys Luis Binks og Svensson selv en advarsel efter derbyet.",
+          "segment": "sport",
+          "start": 93.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men han sagde da noget om kampen?",
+          "segment": "sport",
+          "start": 107.89
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "At det røde kort var afgørende. Og at på det underlag, mod den modstander, er en mand i overtal en endnu større fordel end normalt.",
+          "segment": "sport",
+          "start": 110.37
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og forsvarsspilleren?",
+          "segment": "sport",
+          "start": 119.84
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Felix Bejimo havde lidt mere på hjerte. Han sagde til Viaplay, at vi bor i et land, hvor man må mene og sige, hvad man vil, men sådan er det tydeligvis ikke her.",
+          "segment": "sport",
+          "start": 121.74
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hm. Der kommer vist en debat mere.",
+          "segment": "sport",
+          "start": 130.09
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Resten af søndagen: Viborg og Randers nul-nul. Horsens slog Silkeborg tre-et, og Silkeborg så også rødt. Og OB vandt to-et ude over Sønderjyske.",
+          "segment": "sport",
+          "start": 132.88
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Noget fra udlandet?",
+          "segment": "sport",
+          "start": 143.7
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, og det er heller ikke sjovt, hvis man er United-fan. Liverpool gav Pochettino en skrækdebut som Manchester United-træner.",
+          "segment": "sport",
+          "start": 145.48
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Av.",
+          "segment": "sport",
+          "start": 153.42
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og i håndbolden led GOG sæsonens første liganederlag.",
+          "segment": "sport",
+          "start": 154.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så det var en weekend, hvor favoritterne fik tæsk.",
+          "segment": "sport",
+          "start": 158.79
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Kort sagt.",
+          "segment": "sport",
+          "start": 162.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi prøver at redde humøret. Pharrell Williams, Happy, i liveudgaven.",
+          "segment": "sport",
+          "start": 163.38
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:72K0gi3DyEuaW0kPCw0lrO",
+      "name": "Happy - Live",
+      "artist": "Pharrell Williams",
+      "album": "Happy (Live)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273223c7e6520f0136c5d21733b",
+      "duration_ms": 201106,
+      "url": "https://open.spotify.com/track/72K0gi3DyEuaW0kPCw0lrO",
+      "kobling": ""
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 104.85,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Virkede det?",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Lidt. Men vi starter musiknyt et alvorligt sted.",
+          "segment": "musik",
+          "start": 4.04
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Co-op Live i Manchester blev evakueret under en koncert med Don Toliver.",
+          "segment": "musik",
+          "start": 8.11
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der blev frigivet et ukendt stof i hallen. Mere end halvtreds mennesker blev behandlet på stedet, skriver NME.",
+          "segment": "musik",
+          "start": 14.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tusindvis blev evakueret, og politiet erklærede det en større hændelse.",
+          "segment": "musik",
+          "start": 21.9
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi ved endnu ikke, hvad stoffet var.",
+          "segment": "musik",
+          "start": 26.72
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så til noget helt andet. Grand Theft Auto seks kom ud i torsdags, efter tretten års ventetid.",
+          "segment": "musik",
+          "start": 29.78
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det er faktisk også en musikhistorie, ikke?",
+          "segment": "musik",
+          "start": 36.78
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jo. Der er omkring otte hundrede numre fordelt på spillets radiostationer.",
+          "segment": "musik",
+          "start": 40.27
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Otte hundrede?",
+          "segment": "musik",
+          "start": 45.09
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og på en af dem ligger der en helt uudgivet sang af D'Angelo. Den hedder Kamikazi, skriver Soundvenue efter Washington Post.",
+          "segment": "musik",
+          "start": 46.14
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Kan man høre den andre steder?",
+          "segment": "musik",
+          "start": 54.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Kun i spillet. Fans har selvfølgelig optaget den og delt den.",
+          "segment": "musik",
+          "start": 56.77
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han døde jo sidste år, bare enoghalvtreds år gammel.",
+          "segment": "musik",
+          "start": 61.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Og der har været tale om et posthumt album, så måske hører vi den igen.",
+          "segment": "musik",
+          "start": 66.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så en gladere en: Miley Cyrus er blevet gift.",
+          "segment": "musik",
+          "start": 71.43
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Med trommeslageren Maxx Morando, i Palm Springs i lørdags.",
+          "segment": "musik",
+          "start": 75.64
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hvem viede dem?",
+          "segment": "musik",
+          "start": 80.37
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Wayne Coyne fra The Flaming Lips.",
+          "segment": "musik",
+          "start": 82.22
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Selvfølgelig gjorde han det.",
+          "segment": "musik",
+          "start": 84.93
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og der var en sang på hendes seneste album, der hed Let's Get Married. Så hun har ikke ligefrem lagt skjul på planerne.",
+          "segment": "musik",
+          "start": 86.65
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Begge forældre var der også, hver med deres nye partner.",
+          "segment": "musik",
+          "start": 94.39
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og vi bliver i D'Angelo-sporet. Titelnummeret fra debuten fra femoghalvfems.",
+          "segment": "musik",
+          "start": 98.09
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "D'Angelo, Brown Sugar.",
+          "segment": "musik",
+          "start": 102.9
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:7rt0kEDWRg3pgTZJKuszoE",
+      "name": "Brown Sugar",
+      "artist": "D'Angelo",
+      "album": "Brown Sugar",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f6465d4b8cdd34ed4d7853e2",
+      "duration_ms": 262893,
+      "url": "https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE",
+      "kobling": "Kobler direkte til musiknyt: den uudgivne D'Angelo-sang i GTA VI, Don Tolivers Manchester-koncert og Miley Cyrus' bryllup."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 122.69,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den holder bare.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så skal vi til Juleøen i Det Indiske Ocean.",
+          "segment": "let",
+          "start": 4.16
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Juleøen. I november.",
+          "segment": "let",
+          "start": 7.87
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Lige nu er omkring hundrede millioner røde krabber på vej fra skoven mod havet.",
+          "segment": "let",
+          "start": 10.17
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hundrede millioner? Hvordan kører man bil der?",
+          "segment": "let",
+          "start": 15.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Man gør det to og to. En lokal fortæller til ABC, at den ene kører, og den anden går foran bilen med en rive og river krabberne til side.",
+          "segment": "let",
+          "start": 19.13
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er jo fantastisk.",
+          "segment": "let",
+          "start": 30.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nationalparken bygger broer til krabberne, rydder passager under vejene og lukker veje, mens det står på.",
+          "segment": "let",
+          "start": 32.78
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvorfor nu?",
+          "segment": "let",
+          "start": 40.69
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Regntidens første kraftige regn sætter dem i gang. Månen og tidevandet bestemmer, hvornår æggene ryger i havet. Det sker før daggry.",
+          "segment": "let",
+          "start": 41.99
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men hvordan finder de vej?",
+          "segment": "let",
+          "start": 51.84
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det ved man faktisk ikke. To forskere fra Lunds Universitet er rejst derned for at finde ud af det.",
+          "segment": "let",
+          "start": 53.94
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og deres bud?",
+          "segment": "let",
+          "start": 61.04
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Måske Solen, måske Jordens magnetfelt, måske polariseret lys. Og måske lærer de unge ruten ved at følge de ældre.",
+          "segment": "let",
+          "start": 62.85
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "En slags onboarding.",
+          "segment": "let",
+          "start": 70.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Forskeren Marie Dacke kalder det det mest fantastiske, hun har set dyr gøre. Som en rød flod gennem skoven.",
+          "segment": "let",
+          "start": 73.01
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det billede bliver hængende.",
+          "segment": "let",
+          "start": 80.74
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det var Morgenradio for i dag. Tak fordi du lyttede med, Frederik.",
+          "segment": "outro",
+          "start": 85.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hold øje med nyhederne om skolerne i løbet af formiddagen. Politiet opdaterer løbende.",
+          "segment": "outro",
+          "start": 90.21
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og husk de tre råd: afbryd kontakten, lad være med at klikke, beskyt dine oplysninger.",
+          "segment": "outro",
+          "start": 96.42
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvis nogen skriver, at du har vundet et gavekort — nej.",
+          "segment": "outro",
+          "start": 103.51
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Hav en rigtig god mandag derude i Aarhus.",
+          "segment": "outro",
+          "start": 106.98
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi slutter dansk. Scarlet Pleasure med Limbo.",
+          "segment": "outro",
+          "start": 110.11
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi ses i morgen.",
+          "segment": "outro",
+          "start": 114.06
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:03izwX5zArWwRPVB9lNtSx",
+      "name": "Limbo",
+      "artist": "Scarlet Pleasure",
+      "album": "Limbo/Lagune",
+      "image": "https://i.scdn.co/image/ab67616d0000b27389595fc140d113d602c431d6",
+      "duration_ms": 190903,
+      "url": "https://open.spotify.com/track/03izwX5zArWwRPVB9lNtSx",
+      "kobling": "Dansk afslutning med optimistisk energi efter den lette historie."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 705.84,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Mange skoler over hele landet har fået bombetrusler",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/mange-skoler-over-hele-landet-har-faaet-bombetrusler"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Mobiltelefoner forbydes i landets folkeskoler fra næste skoleår",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/politik/mobiltelefoner-forbydes-i-landets-folkeskoler-fra-naeste-skoleaar"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Ét forkert klik kan koste dyrt – nu kommer tre nye råd mod digital svindel",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/et-forkert-klik-kan-koste-dyrt-nu-kommer-tre-nye-raad-mod-digital-svindel"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Fra 34 til 55 millioner passagerer: Københavns Lufthavn vil udvide massivt",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/fra-34-til-55-millioner-passagerer-koebenhavns-lufthavn-vil-udvide-massivt"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Medier: Russland forbereder atomvåpen i verdensrommet",
+      "kilde": "Dagbladet",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVk9kSWtNWDVEUzE2d011UkJEY3lTTjlxcUNiY3B2Z2o4SENZYTJ6LUtYdWlINWYwZDVIWC1LRkdDT1Y2UHZWM3N4eUlxZkEyS3kyOGtlU1VaRnplZm1vZFVweWdhOGJCeW5SR21kM3A3UlkyMEVSY0RUcEd2TUZUam5DOVlHWDh0b2xBcGdjWDA2VVprbUVFejdB?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "FCK-lejr har lært af fortiden og vil ikke udtale sig om rødt kort",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/superliga/fck-lejr-har-laert-af-fortiden-og-vil-ikke-udtale-sig-om-roedt-kort"
+    },
+    {
+      "segment": "sport",
+      "titel": "Liverpool giver Pochettino skrækdebut som United-træner",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12897394#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "FCN banker FCK med 5-0",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/superliga/viborg-skal-forsoege-holde-snor-i-toppen-mod-kriseramte-randers"
+    },
+    {
+      "segment": "sport",
+      "titel": "GOG lider første liganederlag",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/haandbold/liveblog-med-seneste-nyt-om-dansk-og-international-haandbold"
+    },
+    {
+      "segment": "musik",
+      "titel": "Manchester Co-op Live arena evacuated with more than 50 hurt after “unknown substance” was released at Don Toliver show as police declare major incident",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/music/manchester-co-op-live-arena-evacuated-with-more-than-50-hurt-after-unknown-substance-was-released-at-don-toliver-show-as-police-declare-major-incident-3976684"
+    },
+    {
+      "segment": "musik",
+      "titel": "Hidtil uudgivet D’Angelo-sang kan høres i ‘GTA VI’",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/hidtil-uudgivet-dangelo-sang-kan-hoeres-i-gta-vi-706218"
+    },
+    {
+      "segment": "musik",
+      "titel": "Miley Cyrus er blevet gift – viet af rockikon",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/miley-cyrus-er-blevet-gift-viet-af-rocklegende-706228"
+    },
+    {
+      "segment": "let",
+      "titel": "Millioner af røde krabber er på vej mod havet på Juleøen",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/millioner-af-roede-krabber-er-paa-vej-mod-havet-paa-juleoeen"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (23)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (5)",
+    "lokalt/Århus Stiftstidende": "ok (1)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (0)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (29)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (11)"
+  },
+  "test": false
+}

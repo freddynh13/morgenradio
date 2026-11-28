@@ -1,0 +1,826 @@
+{
+  "date": "2026-11-25",
+  "dato_tekst": "onsdag den 25. november 2026",
+  "title": "AI i skolen, Nvidias milliardhop og Tidals AI-udrensning",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-25T13:58:35+01:00",
+  "tema": "AI fylder det hele i dag – fra nye retningslinjer i folkeskolen til Nvidias milliardboom og Tidals udrensning af AI-musik.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 291.59,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen Frederik, og velkommen til Morgenradio. Det er onsdag den femogtyvende november.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Og i dag er der altså kunstig intelligens overalt, hvor man kigger hen.",
+          "segment": "intro",
+          "start": 14.91
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, folkeskolen får nye retningslinjer, Nvidia stiger helt vildt, og Tidal smider nogle og tyve millioner AI-sange ud.",
+          "segment": "intro",
+          "start": 19.98
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og en hvid panda. Bare så vi også har noget blødt med.",
+          "segment": "intro",
+          "start": 29.9
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men først vejret i Aarhus. Lige nu to grader og overskyet.",
+          "segment": "intro",
+          "start": 33.64
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det bliver ikke varmere. Mellem nul og to grader hele dagen, og lidt let støvregn.",
+          "segment": "intro",
+          "start": 39.78
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vinden er til gengæld mild, op til seks meter i sekundet. Så cyklen kan sagtens bruges.",
+          "segment": "intro",
+          "start": 45.74
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Solen står først op klokken seksten over otte. Og går ned igen fem i fire.",
+          "segment": "intro",
+          "start": 51.82
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Altså, vi snakker omkring syv en halv times lys. Nyd dem.",
+          "segment": "intro",
+          "start": 57.97
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter alvorligt. Seks personer er døde i et flystyrt ud for Mississippi.",
+          "segment": "nyheder",
+          "start": 64.81
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det skriver DR, og flere udenlandske medier har det også. De seks blev først meldt savnet.",
+          "segment": "nyheder",
+          "start": 70.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der er ikke meget mere officielt endnu om, hvad der er sket.",
+          "segment": "nyheder",
+          "start": 78.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Vi vender tilbage, hvis der kommer noget nyt i løbet af dagen.",
+          "segment": "nyheder",
+          "start": 82.77
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så til dagens største herhjemme. Folkeskolen får nationale retningslinjer for kunstig intelligens.",
+          "segment": "nyheder",
+          "start": 88.09
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hovedbudskabet er faktisk ret kontant: undervisningen bør som udgangspunkt foregå uden AI.",
+          "segment": "nyheder",
+          "start": 95.49
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Fra nulte til niende. Styrelsen for Undervisning og Kvalitet står bag.",
+          "segment": "nyheder",
+          "start": 102.57
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men der er trin i det. De yngste klasser helt uden. Fra fjerde må man lære om værktøjerne.",
+          "segment": "nyheder",
+          "start": 109.33
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og først fra syvende bør man undervise med generativ AI. Altså selve chatbotten i hånden.",
+          "segment": "nyheder",
+          "start": 116.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Undervisningsminister Magnus Heunicke siger, at børn skal kunne læse, skrive og regne selv.",
+          "segment": "nyheder",
+          "start": 122.71
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og tænke kritisk og løse opgaver uden hjælp fra en chatbot, som han formulerer det.",
+          "segment": "nyheder",
+          "start": 128.75
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det sjove er jo, at toget nærmest er kørt. Tallene er vilde.",
+          "segment": "nyheder",
+          "start": 134.66
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, hvad siger de?",
+          "segment": "nyheder",
+          "start": 139.47
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fireogfyrre procent af eleverne i sjette og ottende bruger allerede AI til skoleopgaver.",
+          "segment": "nyheder",
+          "start": 141.07
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hold da op.",
+          "segment": "nyheder",
+          "start": 146.94
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og af dem siger knap hver fjerde, at de bruger det til at få svaret uden selv at løse opgaven.",
+          "segment": "nyheder",
+          "start": 147.96
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er jo præcis det, retningslinjerne prøver at gøre noget ved.",
+          "segment": "nyheder",
+          "start": 153.41
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, og i fjerde klasse bruger tyve procent af lærerne det sammen med eleverne.",
+          "segment": "nyheder",
+          "start": 157.58
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "I sommer var det gymnasierne. Nu er det så folkeskolen. Det er en del af regeringens anden strakspakke.",
+          "segment": "nyheder",
+          "start": 163.08
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Frederik, det her kan du sikkert genkende fra bureauet. Hvornår er AI et værktøj, og hvornår er det en genvej?",
+          "segment": "nyheder",
+          "start": 170.69
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nemlig. Og så til noget helt andet vildt. Nvidia.",
+          "segment": "nyheder",
+          "start": 178.27
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, altså. Tusind milliarder dollar på én dag.",
+          "segment": "nyheder",
+          "start": 182.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Aktien steg enogtredive en halv procent i går, da Jensen Huang kom tilbage som topdirektør.",
+          "segment": "nyheder",
+          "start": 185.83
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han trådte af for elleve dage siden efter afsløringen af en affære med en storkunde.",
+          "segment": "nyheder",
+          "start": 192.23
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og stigningen i går svarer nærmest præcis til det fald, aktien tog dengang.",
+          "segment": "nyheder",
+          "start": 197.68
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "DR's analyse spørger jo: hvordan kan én mands comeback være så mange penge værd?",
+          "segment": "nyheder",
+          "start": 203.31
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og svaret er vist mest, at markedet hader usikkerhed og overreagerer begge veje.",
+          "segment": "nyheder",
+          "start": 209.1
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Trump var endda i telefonen på amerikansk finans-tv og glædede sig over stigningen.",
+          "segment": "nyheder",
+          "start": 215.21
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi bliver i pengene. Danskernes formue er vokset igen.",
+          "segment": "nyheder",
+          "start": 220.75
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Gennemsnitlig nettoformue på to komma seksogtredive millioner kroner for voksne danskere i femogtyve.",
+          "segment": "nyheder",
+          "start": 224.79
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er en stigning på seks komma seks procent. Tal fra Danmarks Statistik.",
+          "segment": "nyheder",
+          "start": 232.77
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og husk, det er alt: bolig, pension, aktier, bil, opsparing. Minus gæld.",
+          "segment": "nyheder",
+          "start": 238.36
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Politiken skriver, at medvind på boligmarkedet er en stor del af forklaringen.",
+          "segment": "nyheder",
+          "start": 243.94
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Et gennemsnit dækker jo over enormt meget. Men retningen er opad.",
+          "segment": "nyheder",
+          "start": 249.07
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og en sidste, som nok rammer din arbejdsdag. Forskere har kortlagt de sociale medier.",
+          "segment": "nyheder",
+          "start": 255.47
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og konklusionen er, at ordet sociale medier er blevet misvisende.",
+          "segment": "nyheder",
+          "start": 262.02
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er en del af Magtudredningen to punkt nul, som Folketinget har sat i gang.",
+          "segment": "nyheder",
+          "start": 267.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Lektor Andreas Lindegaard Gregersen siger til P1 Morgen, at vi bliver badet i reklamer.",
+          "segment": "nyheder",
+          "start": 272.4
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Både direkte reklame, skjult reklame og decideret svindel.",
+          "segment": "nyheder",
+          "start": 278.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vennerne og nyhederne er simpelthen trængt i baggrunden af feedet.",
+          "segment": "nyheder",
+          "start": 283.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skal have noget musik. Her er Calvin Harris med Feel So Close.",
+          "segment": "nyheder",
+          "start": 286.86
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:1gihuPhrLraKYrJMAEONyc",
+      "name": "Feel So Close - Radio Edit",
+      "artist": "Calvin Harris",
+      "album": "18 Months",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b",
+      "duration_ms": 206413,
+      "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc",
+      "kobling": "Dansk, højt humør og stort omkvæd til at vække på en mørk morgen hvor solen først står op 08:16."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 145.32,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Dét omkvæd klarer en mørk novembermorgen, altså.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja. Og i Aarhus er det stadig halvmørkt derude. Solen kommer først over kanten seksten over otte.",
+          "segment": "aarhus",
+          "start": 6.77
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så lys på cyklen, Frederik. Og regnjakken med, for der kommer let støvregn i løbet af dagen.",
+          "segment": "aarhus",
+          "start": 13.52
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nul til to grader hele vejen igennem. Det er sådan en dag, hvor man ikke tager handskerne af.",
+          "segment": "aarhus",
+          "start": 20.2
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Til gengæld er det næsten vindstille efter aarhusianske forhold. Seks meter i sekundet.",
+          "segment": "aarhus",
+          "start": 27.07
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og mørkt igen fem i fire. Så en gåtur i frokostpausen er faktisk ikke dum.",
+          "segment": "aarhus",
+          "start": 33.23
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Champions League i går. Og Rasmus Højlund må være træls at være i går aftes.",
+          "segment": "sport",
+          "start": 42.43
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Napoli ude mod Manchester City, ikke?",
+          "segment": "sport",
+          "start": 47.59
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jo. Og de smed føringen med fem minutter tilbage på Etihad. Det gør bare ondt.",
+          "segment": "sport",
+          "start": 50.9
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Av. Så tæt på.",
+          "segment": "sport",
+          "start": 57.08
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Billederne bagefter sagde det hele. Højlund står og klapper af fansene.",
+          "segment": "sport",
+          "start": 59.4
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men der var en dansker med en bedre aften.",
+          "segment": "sport",
+          "start": 64.43
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Viktor Froholdt, ja. Han fremprovokerede et selvmål i Portos sejr. Tæller også.",
+          "segment": "sport",
+          "start": 67.87
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er jo den slags, der står i statistikken som ingenting.",
+          "segment": "sport",
+          "start": 72.97
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Og så var der Gyökeres mod Dortmund. Et drømmemål og en utrolig brænder.",
+          "segment": "sport",
+          "start": 77.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvor slem var den?",
+          "segment": "sport",
+          "start": 83.39
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "VG skriver, at den strider mod fysikkens love. Og det kampen endte uafgjort.",
+          "segment": "sport",
+          "start": 85.47
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så den her helt vilde sag fra Afrika. AFCON-trofæet har skiftet ejer.",
+          "segment": "sport",
+          "start": 91.37
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Elleve måneder efter finalen, ja. Senegal er nu officielt afrikanske mestre igen.",
+          "segment": "sport",
+          "start": 96.75
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Finalen i Rabat stak jo af. Marokko fik et straffespark i overtiden efter en VAR-afgørelse.",
+          "segment": "sport",
+          "start": 104.0
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og Senegal forlod banen i protest. Så gav det afrikanske forbund Marokko sejren tre-nul ved skrivebordet.",
+          "segment": "sport",
+          "start": 110.8
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men senegaleserne nægtede at aflevere pokalen. De kørte den endda rundt i Dakar og Paris.",
+          "segment": "sport",
+          "start": 119.72
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og nu har Sportsdomstolen CAS så omstødt det hele. Pokalen bliver i Dakar.",
+          "segment": "sport",
+          "start": 127.33
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Fodboldekspert Francis Dickoh siger til DR, at det er en sejr for fodbolden.",
+          "segment": "sport",
+          "start": 135.1
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fordi der trods alt blev spillet en fodboldkamp. Det argument køber jeg.",
+          "segment": "sport",
+          "start": 140.49
+        }
+      ]
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 111.53,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så tilbage til AI. For Tidal rydder altså op nu.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De fjerner alle sange, der er skabt udelukkende med kunstig intelligens. Fra niende december.",
+          "segment": "musik",
+          "start": 7.2
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nogle og tyve millioner numre, ifølge norske Musikknyheter. Det er første platform, der gør det helt.",
+          "segment": "musik",
+          "start": 13.19
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tidal-chefen Robert Andersen skriver på X, at der skal gøres noget mere drastisk.",
+          "segment": "musik",
+          "start": 21.36
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hvorfor nu?",
+          "segment": "musik",
+          "start": 26.64
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fordi treogfyrre procent af alt, de har modtaget de seneste halvfems dage, er AI-genereret.",
+          "segment": "musik",
+          "start": 29.76
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Næsten halvdelen. Det er jo ikke musik længere, det er oversvømmelse.",
+          "segment": "musik",
+          "start": 37.18
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og her er det bedste tal: seksoghalvfems procent af AI-sangene bliver afspillet nul gange.",
+          "segment": "musik",
+          "start": 42.29
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nul. Altså ingen lytter til det.",
+          "segment": "musik",
+          "start": 48.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Spotify gjorde noget lignende i oktober. De fjernede femoghalvfjerds millioner numre.",
+          "segment": "musik",
+          "start": 51.27
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men det rammer ikke kunstnere, der bare bruger AI som værktøj undervejs.",
+          "segment": "musik",
+          "start": 57.62
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej, Soundvenue skriver, at Tygas AI-prægede album stadig bliver på platformen.",
+          "segment": "musik",
+          "start": 62.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så en smuk og trist en. D'Angelo udkommer posthumt.",
+          "segment": "musik",
+          "start": 68.79
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, nummeret Kamikazi fra GTA seks er landet på streaming. Og der kommer mere musik.",
+          "segment": "musik",
+          "start": 73.49
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "NME skriver, han var mere end begejstret for at få sangen med i spillet.",
+          "segment": "musik",
+          "start": 79.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så Olivia Rodrigo, som har spillet hos Third Man Records.",
+          "segment": "musik",
+          "start": 84.8
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hun coverede White Stripes. Dead Leaves and the Dirty Ground.",
+          "segment": "musik",
+          "start": 89.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og afslørede, at hun som teenager havde en Jack White-fankonto. Third Fan Records hed den.",
+          "segment": "musik",
+          "start": 94.29
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er bare for godt. Og på en dag, hvor nogle og tyve millioner AI-sange ryger ud, tager vi noget ægte.",
+          "segment": "musik",
+          "start": 101.6
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Her er Olivia Rodrigo med good 4 u.",
+          "segment": "musik",
+          "start": 108.25
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:4ZtFanR9U6ndgddUvNcjcG",
+      "name": "good 4 u",
+      "artist": "Olivia Rodrigo",
+      "album": "SOUR",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+      "duration_ms": 178146,
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG",
+      "kobling": "Olivia Rodrigo er lige nu aktuel med sit White Stripes-cover hos Third Man Records – og alle tre er ægte, menneskeskabt musik, dagen hvor Tidal sletter 29 millioner AI-sange."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 76.88,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så noget helt andet. Et vildtkamera i Kina har fanget noget ret særligt.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Verdens eneste kendte vilde albinopanda, ja. Helt hvid.",
+          "segment": "let",
+          "start": 8.39
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Den blev set som unge i nitten, og så har ingen set den i flere år.",
+          "segment": "let",
+          "start": 12.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og nu står den der i Sichuan og har det tilsyneladende fint.",
+          "segment": "let",
+          "start": 18.06
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "WWF Verdensnaturfonden kalder det utrolig glædeligt. Den trives i området.",
+          "segment": "let",
+          "start": 22.69
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der lever færre end to tusind vilde pandaer tilbage. Arten er stadig sårbar.",
+          "segment": "let",
+          "start": 28.85
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Største trussel er, at levestederne bliver ødelagt og skåret op af veje.",
+          "segment": "let",
+          "start": 34.29
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Herhjemme har vi jo to i Zoo i København. De kom også i nitten.",
+          "segment": "let",
+          "start": 40.05
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men altså, en hvid panda. Fanget af et kamera i skoven.",
+          "segment": "let",
+          "start": 43.94
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og dermed er vi ved vejs ende, Frederik. Tak fordi du lyttede med.",
+          "segment": "outro",
+          "start": 51.15
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Husk lyset på cyklen. Og regnjakken.",
+          "segment": "outro",
+          "start": 53.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha ja. Og hvis nogen spørger på bureauet i dag, så er svaret nej, ikke før syvende klasse.",
+          "segment": "outro",
+          "start": 58.17
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ha! Der fik du den ind.",
+          "segment": "outro",
+          "start": 64.99
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hav en rigtig god onsdag. Vi ses i morgen.",
+          "segment": "outro",
+          "start": 66.6
+        }
+      ]
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 637.71,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Nye retningslinjer for folkeskolen: Undervisningen bør som udgangspunkt foregå uden AI",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/nye-retningslinjer-folkeskolen-undervisningen-boer-som-udgangspunkt-foregaa-uden-ai"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "ANALYSE Hvordan kan en enkelt mands comeback dog være 1000 milliarder dollar værd?",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/penge/analyse-hvordan-kan-en-enkelt-mands-comeback-dog-vaere-1000-milliarder-dollar-vaerd"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Danskernes formue er vokset",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/danskernes-formue-er-vokset"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Forskere: Shopping og svindel definerer i højere grad dine 'sociale medier'",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/forskere-shopping-og-svindel-definerer-i-hoejere-grad-dine-sociale-medier"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Seks døde i flystyrt ud for Mississippi",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/seks-doede-i-flystyrt-ud-mississippi"
+    },
+    {
+      "segment": "sport",
+      "titel": "Højlunds Napoli smed føringen med fem minutter tilbage mod City",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/championsleague/hoejlund-moeder-haaland-i-champions-league"
+    },
+    {
+      "segment": "sport",
+      "titel": "Viktor Froholdt fremprovokerede selvmål i Portos CL-sejr",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12909566#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "Gyökeres med drømmemål og utrolig bom: –⁠ Strider mot fysikkens lover",
+      "kilde": "VG",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdE90ek1rTzI0ME1GSTdZdm1VNUJxS0NLdFNURDNkcHRpa0JTUkNfYS1sWE1wZHlNYnZ6em9hVFdrVFloQ2Y2djJuTTVSTnFQcXZEaEU2Q0lic2Y2OXd0QUQ1Wmx5azVwUzJRWnFxZV8yN2JtSWp1bkpGQWlqMWZJdHNGeGJONFlFOHA0NVN3YmdnRmwxMnJFVUFyRHJoTUs4RktR?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Ekspert: Senegals sejr i retten er en sejr for fodbolden",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/ekspert-senegals-sejr-i-retten-er-en-sejr-fodbolden"
+    },
+    {
+      "segment": "musik",
+      "titel": "Tidal fjerner alle AI-genererede sange fra platformen: »Der skal gøres noget mere drastisk«",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/tidal-fjerner-alle-ai-genererede-sange-fra-platformen-706481"
+    },
+    {
+      "segment": "musik",
+      "titel": "D’Angelo’s posthumous ‘GTA 6’ anthem ‘Kamikazi’ hits streaming with more music on the way",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/gaming-news/dangelo-posthumous-gta-6-kamikazi-stream-vinyl-more-music-on-the-way-3976859"
+    },
+    {
+      "segment": "musik",
+      "titel": "Watch Olivia Rodrigo cover The White Stripes’ ‘Dead Leaves and the Dirty Ground’ at Third Man Records",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/music/watch-olivia-rodrigo-cover-white-stripes-dead-leaves-dirty-ground-third-man-3976875"
+    },
+    {
+      "segment": "let",
+      "titel": "Vildtkamera fanger verdens eneste vilde albinopanda",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/vildtkamera-fanger-verdens-eneste-vilde-albinopanda"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (29)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (7)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (1)",
+    "sport/Google News Fodbold": "ok (5)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (29)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (18)"
+  },
+  "test": false
+}

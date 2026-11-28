@@ -1,0 +1,922 @@
+{
+  "date": "2026-11-27",
+  "dato_tekst": "fredag den 27. november 2026",
+  "title": "Black Friday, AI-svar og AGF der valsede over Brann",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-27T13:23:45+01:00",
+  "tema": "Black Friday-ræs, AI der ændrer hvordan vi søger — og AGF der gav Brann tæsk i Bergen.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 293.25,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen, Frederik! Klokken er lidt i syv, det er fredag den syvogtyvende november, og du har fundet Morgenradio.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvilken fredag. Black Friday, altså. Hele internettet råber på dig i dag.",
+          "segment": "intro",
+          "start": 16.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det kigger vi på. Hvad er egentlig et godt tilbud, og hvad er bare et tal i rødt?",
+          "segment": "intro",
+          "start": 23.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi skal også tale om AI-resuméer, og hvad de gør ved vores hoveder.",
+          "segment": "intro",
+          "start": 28.91
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Plus AGF i Bergen. Det må du nærmest fortælle i fuld længde senere.",
+          "segment": "intro",
+          "start": 33.74
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jeg har glædet mig siden i aftes.",
+          "segment": "intro",
+          "start": 39.79
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vejret i Aarhus: fire grader lige nu og overskyet. Og sådan bliver det stort set hele dagen.",
+          "segment": "intro",
+          "start": 42.76
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Mellem én og fem grader, vind op til otte meter i sekundet.",
+          "segment": "intro",
+          "start": 50.0
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men kun to procent risiko for nedbør. Så cyklen kan sagtens bruges, Frederik.",
+          "segment": "intro",
+          "start": 54.39
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Solen står op kvart over otte og er væk igen før klokken fire. November, ikke?",
+          "segment": "intro",
+          "start": 60.84
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter med Black Friday. DR har samlet et panel, der svarer på forbrugerspørgsmål i dag.",
+          "segment": "nyheder",
+          "start": 69.07
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det store spørgsmål er jo det der med de falske tilbud.",
+          "segment": "nyheder",
+          "start": 75.04
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, klassikeren. En vare sat ned fra seks hundrede til tre hundrede og nioghalvfems.",
+          "segment": "nyheder",
+          "start": 79.77
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så koster den tre hundrede og nioghalvfems resten af året.",
+          "segment": "nyheder",
+          "start": 85.6
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Præcis. Daniel Mathias Bager fra Forbrugerrådet Tænk siger: brug en prisudviklingstjeneste.",
+          "segment": "nyheder",
+          "start": 90.01
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Altså se, hvad varen faktisk har kostet hen over året.",
+          "segment": "nyheder",
+          "start": 96.79
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så hans bedste råd: find ud af, hvad du har brug for, inden du går i gang.",
+          "segment": "nyheder",
+          "start": 100.21
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er jo også bare god gammeldags impulskøbs-forsvar.",
+          "segment": "nyheder",
+          "start": 105.97
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Susanne Pedersen fra Aarhus Universitet forsker i forbrugeradfærd. Hun peger på flokken.",
+          "segment": "nyheder",
+          "start": 109.32
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi bliver bekræftet i, at det er rigtigt at handle, fordi alle andre handler.",
+          "segment": "nyheder",
+          "start": 113.93
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hun minder om, at Black Friday er dagen efter Thanksgiving i USA. Herhjemme er det ti til femten år gammelt.",
+          "segment": "nyheder",
+          "start": 118.45
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Frederik, du sidder jo i den anden ende af det her. Det er dig, der bygger kampagnerne.",
+          "segment": "nyheder",
+          "start": 126.19
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Så er han både jæger og bytte i dag.",
+          "segment": "nyheder",
+          "start": 131.06
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "DR har også en kommentar, der kalder Black Friday butikkernes hadegave. Designet til at gøre det svært at være forbruger.",
+          "segment": "nyheder",
+          "start": 135.1
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Videre. Danmark får sin første kvindelige rigsadvokat.",
+          "segment": "nyheder",
+          "start": 142.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Caroline Østergaard Nielsen. Hun får det overordnede ansvar for anklagemyndigheden.",
+          "segment": "nyheder",
+          "start": 146.35
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hun har været fungerende rigsadvokat siden første august, skriver Politiken.",
+          "segment": "nyheder",
+          "start": 151.84
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Efter at Lasse Boje blev rigspolitichef. Hun siger selv, hun tiltræder med stor respekt for anklagemyndighedens rolle.",
+          "segment": "nyheder",
+          "start": 158.22
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så en, du helt sikkert kender nogen der bliver ramt af. Skat har kigget content creators efter i sømmene igen.",
+          "segment": "nyheder",
+          "start": 165.86
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og?",
+          "segment": "nyheder",
+          "start": 173.32
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Fejl i femoghalvfems procent af indberetningerne. Over seks hundrede kontroller i år.",
+          "segment": "nyheder",
+          "start": 173.75
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Femoghalvfems? Hold da op.",
+          "segment": "nyheder",
+          "start": 179.75
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det var præcis det samme sidste år, hvor de lavede ni hundrede kontroller.",
+          "segment": "nyheder",
+          "start": 182.47
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Selvom der kom en hel vejledningskampagne imellem.",
+          "segment": "nyheder",
+          "start": 187.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja. Underdirektør Preben Buchholtz Hansen siger tørt, at det kræver, at folk bruger hjælpen.",
+          "segment": "nyheder",
+          "start": 191.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og grundreglen er jo enkel: penge, gaver og ydelser for dit arbejde er skattepligtigt.",
+          "segment": "nyheder",
+          "start": 197.88
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Også den gratis rejse og den kasse creme, der lander i postkassen.",
+          "segment": "nyheder",
+          "start": 204.07
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nå. Og så den her, som jeg synes er dagens mest interessante.",
+          "segment": "nyheder",
+          "start": 209.11
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "AI-resuméerne?",
+          "segment": "nyheder",
+          "start": 213.36
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Forskning punktum no skriver om, hvad KI-sammendrag gør ved os.",
+          "segment": "nyheder",
+          "start": 215.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Altså de der små opsummeringer, der ligger øverst, når man søger.",
+          "segment": "nyheder",
+          "start": 220.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Og Dagbladet kalder det ligefrem en bjørnetjeneste.",
+          "segment": "nyheder",
+          "start": 224.96
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvorfor det? Det er jo mega bekvemt.",
+          "segment": "nyheder",
+          "start": 228.97
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er lige netop pointen. Du får svaret, men du klikker ikke videre.",
+          "segment": "nyheder",
+          "start": 231.66
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så man læser aldrig selve kilden.",
+          "segment": "nyheder",
+          "start": 236.8
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og Frederik, det er jo hverdag for dig. Trafikken fra søgning ser anderledes ud end for to år siden.",
+          "segment": "nyheder",
+          "start": 239.82
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der er nok et par kolleger, der har den diskussion ved kaffemaskinen i dag.",
+          "segment": "nyheder",
+          "start": 246.77
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Helt sikkert.",
+          "segment": "nyheder",
+          "start": 251.05
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Til sidst: EU's budgetforhandlinger brød sammen i Bruxelles i aftes.",
+          "segment": "nyheder",
+          "start": 252.21
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Stats- og regeringscheferne gik hver til sit en dag før tid.",
+          "segment": "nyheder",
+          "start": 256.66
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Syv lande, heriblandt Danmark, vil have besparelser og flytte penge til nye prioriteter som sikkerhed.",
+          "segment": "nyheder",
+          "start": 261.21
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og sytten lande fra Syd- og Østeuropa siger nej. De vil ikke røre landbrugsstøtten eller regionalmidlerne.",
+          "segment": "nyheder",
+          "start": 267.72
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "DR's EU-korrespondent Ole Ryborg siger, at alle lande er pressede, og at det gør kompromiser svære.",
+          "segment": "nyheder",
+          "start": 275.76
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han kalder det mere alvorligt end normalt. Blandt andet på grund af krigen i Ukraine og presset på europæisk erhvervsliv.",
+          "segment": "nyheder",
+          "start": 282.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Sidste forsøg bliver i december.",
+          "segment": "nyheder",
+          "start": 290.57
+        }
+      ]
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 131.23,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så til Aarhus. Eller, egentlig til Bergen.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Åh, endelig. Brann et, AGF fire.",
+          "segment": "aarhus",
+          "start": 6.76
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "På Brann Stadion.",
+          "segment": "aarhus",
+          "start": 10.79
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "NRK skriver, at Brann blev rundspillet på eget græs. Kollapset mod, som de kalder dem, det norske AGF.",
+          "segment": "aarhus",
+          "start": 12.21
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Det der med det norske AGF, det er jo en lille kærlig hilsen.",
+          "segment": "aarhus",
+          "start": 20.97
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der er jo en del nordmænd i den aarhusianske trup. Og i Bergen gjorde det ekstra ondt.",
+          "segment": "aarhus",
+          "start": 27.16
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der var også lidt uro omkring kampen, ikke?",
+          "segment": "aarhus",
+          "start": 33.41
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jo. Bergensavisen skriver om bråk mellem AGF-fans og bergensere. Politiet måtte være synligt til stede.",
+          "segment": "aarhus",
+          "start": 37.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men ellers en helt usædvanlig aften for AGF i Europa.",
+          "segment": "aarhus",
+          "start": 44.75
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fire mål ude mod Brann. Det er sådan en, man gemmer.",
+          "segment": "aarhus",
+          "start": 49.49
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og AGF var faktisk ikke engang den største historie i Conference League i går.",
+          "segment": "sport",
+          "start": 55.75
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. FC København tabte nul to ude til Inter Escaldes.",
+          "segment": "sport",
+          "start": 61.59
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Escaldes. Altså Andorra.",
+          "segment": "sport",
+          "start": 67.31
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Og de så dobbelt rødt undervejs. DR kalder det en nedsmeltning, og det er svært at være uenig.",
+          "segment": "sport",
+          "start": 69.52
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvad med de andre danske?",
+          "segment": "sport",
+          "start": 78.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Midtjylland vandt nul to ude over Pafos. Flot og fornuftigt.",
+          "segment": "sport",
+          "start": 80.47
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Nordsjælland?",
+          "segment": "sport",
+          "start": 85.35
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tre to over Panathinaikos efter et kæmpe comeback. Den vil jeg gerne se igen.",
+          "segment": "sport",
+          "start": 86.77
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så tre ud af fire danske hold med en god aften.",
+          "segment": "sport",
+          "start": 92.3
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ude i Europa kører snakken videre om Haaland. Norske medier spørger ligeud, hvad der er galt.",
+          "segment": "sport",
+          "start": 96.11
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Er det så slemt?",
+          "segment": "sport",
+          "start": 102.52
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han er målløs i en blytung City-periode, og han siger selv, det ikke er godt nok.",
+          "segment": "sport",
+          "start": 104.07
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og United?",
+          "segment": "sport",
+          "start": 110.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Endnu en nedtur. Reaktionerne hagler ned over dem, og en Fernandes-dobbelt var ikke nok.",
+          "segment": "sport",
+          "start": 111.44
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der er noget trøstende ved, at det altid er den samme historie.",
+          "segment": "sport",
+          "start": 118.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ha! Det er næsten en årstid efterhånden.",
+          "segment": "sport",
+          "start": 123.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skruer op for lyset. Her er Rihanna og Don't Stop The Music.",
+          "segment": "sport",
+          "start": 126.72
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:0ByMNEPAPpOR5H69DVrTNy",
+      "name": "Don't Stop The Music",
+      "artist": "Rihanna",
+      "album": "Good Girl Gone Bad: Reloaded",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98",
+      "duration_ms": 267080,
+      "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy",
+      "kobling": "Overskyet og gråt i Aarhus hele dagen — lidt neonlys i højttalerne modvirker det."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 99.68,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Der var lige det neonlys, en grå Aarhus-morgen havde brug for.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så til musiknyt. Ukendt Kunstner har lavet noget ret specielt.",
+          "segment": "musik",
+          "start": 6.62
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Sort, ja. Soundvenue kalder det en surrealistisk rejse gennem Hans Philips sind.",
+          "segment": "musik",
+          "start": 11.18
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Er det en film eller et album?",
+          "segment": "musik",
+          "start": 16.77
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Begge dele. Det er et visuelt album, skriver de. Nye sange i en gennemført filmisk indpakning.",
+          "segment": "musik",
+          "start": 19.06
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det har været udsolgt i biograferne?",
+          "segment": "musik",
+          "start": 26.02
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, billetplatformen crashede undervejs. Hypen har været enorm.",
+          "segment": "musik",
+          "start": 28.93
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvordan ser det ud?",
+          "segment": "musik",
+          "start": 34.38
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Grynet sort-hvid storby. Soundvenue nævner Sin City og Metropolis som slægtninge.",
+          "segment": "musik",
+          "start": 35.8
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hold da op. Det er ambitiøst af en dansk duo.",
+          "segment": "musik",
+          "start": 41.94
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Genren har Pink Floyd, Daft Punk og Beyoncé lavet klassikere i. Sjældent noget dansk.",
+          "segment": "musik",
+          "start": 46.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Også nyt fra Lana Del Rey. Hun kom med en Thanksgiving-opdatering om de albums, der er på vej.",
+          "segment": "musik",
+          "start": 54.25
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hun siger, det føles meant to be, og at hun er tæt på at være færdig.",
+          "segment": "musik",
+          "start": 60.65
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men at det tog mange uventede drejninger undervejs. Det stod der i NME.",
+          "segment": "musik",
+          "start": 65.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så har jeg en til dig, Frederik, som er ren marketing-porno.",
+          "segment": "musik",
+          "start": 70.95
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nå?",
+          "segment": "musik",
+          "start": 74.93
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Carly Rae Jepsens Run Away With Me er røget med i GTA seks.",
+          "segment": "musik",
+          "start": 75.49
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hvad gjorde det?",
+          "segment": "musik",
+          "start": 79.83
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Streamsene steg næsten elleve hundrede procent, skriver NME.",
+          "segment": "musik",
+          "start": 81.67
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Elleve hundrede? Det er jo vanvittigt.",
+          "segment": "musik",
+          "start": 86.64
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hun sammenligner det selv med Kate Bush og Stranger Things.",
+          "segment": "musik",
+          "start": 89.95
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og den skal vi selvfølgelig høre. Carly Rae Jepsen, Run Away With Me.",
+          "segment": "musik",
+          "start": 94.68
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:3rLLDjCJ9JllYvwUKfd3vW",
+      "name": "Run Away With Me",
+      "artist": "Carly Rae Jepsen",
+      "album": "Emotion (10th Anniversary Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f542a05a0d756af323d05df7",
+      "duration_ms": 251327,
+      "url": "https://open.spotify.com/track/3rLLDjCJ9JllYvwUKfd3vW",
+      "kobling": "Direkte kobling til musiknyt: Ukendt Kunstners 'Sort', Carly Rae Jepsens GTA 6-comeback og Lana Del Reys albumbesked."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 93.55,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Okay, Sofie. Har du et gammelt Rejsekort liggende i en skuffe?",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Helt sikkert. Hvorfor?",
+          "segment": "let",
+          "start": 6.84
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fordi der står over hundrede millioner kroner og samler støv.",
+          "segment": "let",
+          "start": 9.66
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvor meget præcis?",
+          "segment": "let",
+          "start": 13.46
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hundrede og otteogtyve komma fire millioner. Fordelt på én komma én million mennesker.",
+          "segment": "let",
+          "start": 15.43
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og hvorfor får folk dem ikke bare?",
+          "segment": "let",
+          "start": 21.33
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er de anonyme kort. Der er ingen navne på, så de kan ikke finde ejerne.",
+          "segment": "let",
+          "start": 24.47
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så man skal selv bede om pengene.",
+          "segment": "let",
+          "start": 30.06
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Kundedirektør Jens Willars siger til DR, at det jo er folks egne penge.",
+          "segment": "let",
+          "start": 33.21
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvor mange har gjort det?",
+          "segment": "let",
+          "start": 39.16
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Otte tusind fem hundrede. De har fået to komma seks millioner udbetalt.",
+          "segment": "let",
+          "start": 40.61
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ud af hundrede og otteogtyve. Der er lidt vej endnu.",
+          "segment": "let",
+          "start": 46.58
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fristen er niogtyvende juni næste år. Ellers ryger pengene til trafikselskaberne.",
+          "segment": "let",
+          "start": 50.1
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Frederik, det er jo en perfekt opgave til en fredag eftermiddag.",
+          "segment": "let",
+          "start": 56.18
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er vi der, hvor vi siger tak for i dag.",
+          "segment": "outro",
+          "start": 63.24
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tjek prishistorikken, før du trykker køb. Og kig i skuffen efter det Rejsekort.",
+          "segment": "outro",
+          "start": 66.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "God fredag, Frederik. Pak dig lidt ind på cyklen, der er fire grader.",
+          "segment": "outro",
+          "start": 73.0
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og tillykke med AGF. Det må gerne holde weekenden ud.",
+          "segment": "outro",
+          "start": 77.97
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi er tilbage i morgen. Tak fordi du lyttede med.",
+          "segment": "outro",
+          "start": 82.13
+        }
+      ]
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 630.1,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "STIL SPØRGSMÅL om Black Friday: Hvad skal du være opmærksom på, når du går på tilbudsjagt?",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/penge/stil-spoergsmaal-om-black-friday-hvad-skal-du-vaere-opmaerksom-paa-naar-du-gaar-paa-tilbudsjagt"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Danmark får første kvindelige rigsadvokat",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/danmark/art11077459/Danmark-f%C3%A5r-f%C3%B8rste-kvindelige-rigsadvokat"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Skat kontrollerer igen content creators: Fejl i 95 procent af indberetningerne",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/skat-kontrollerer-igen-content-creators-fejl-i-95-procent-af-indberetningerne"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Dette gjør KI-sammendrag med oss",
+      "kilde": "Forskning.no",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYlVWSWtsOGJqNE1MWG1QblZzRlZ1RFBZcHp5YXZrVVFYTzNQUm1vamNUTkJ4V0ltSllRRlBNM2pubGxWNVZiY09KSkNJYmxxcU5MOS12VzlEUjV3YUtPZXR2VHhBd3dzZVZzWnRtczlONkZfMzVkaGR3SFJqVzhIT2VhYm9SYkNBZmkxcDR2cERqcWdsV2N3cFBIMm4xYXl3UEE?oc=5"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Korrespondent om forhandlingskollaps i EU: 'Alle lande er pressede'",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/eu/korrespondent-om-forhandlingskollaps-i-eu-alle-lande-er-pressede"
+    },
+    {
+      "segment": "aarhus",
+      "titel": "Brann rundspilt på eget gress – kollapset mot «norske» AGF",
+      "kilde": "NRK",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTlplaFBsQ3BLeHJYOHVycXk4eHdGS1I1TWZJYml0QkdDdUJaWUhISjk0R2ZyTDhzRjlzXy1jQ09oVV8zclZTNlhBQV9WS2VLXzNadWFreEh2SmFaUDUyZnBKcEVWLUtob0Qtbnd1cmpWNzg5bU9JR0dsSEs1aDhXaUlPV3JuVE12NkliTXpmNkU0YkJx?oc=5"
+    },
+    {
+      "segment": "aarhus",
+      "titel": "AGF Aarhus, Sportsklubben Brann | Bråk mellom AGF-supportere og bergensere: Politiet måtte være synlig til stede",
+      "kilde": "Bergensavisen",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFRXcHBURVgyNkhkVTl5MDU5YXJUazZDc3BtXy1aUmh5Qks5elhWZlRYX09UQlFURkJMSmJjVFgxTl9CLXQ4UnhnLUhUaXN2UGRuZjg0VHhVSzdkUE5nT2ZvcTdULVN4cGZ0OXdCSEg5OWdoaHFSLUNYaExSZ2NmeEVsMVVGSzdaZWh4MU5uS3pYRlI2UjFnZXJGNnpfZ3Jkc0FDZnY4dkVyQVAydWc?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "FC København ser dobbelt rødt i kæmpe nedtur",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12923101#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "FCK i nedsmeltning - FCN i kæmpe comeback",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/conference-league/europaeiske-noeglekampe-venter-danske-hold"
+    },
+    {
+      "segment": "sport",
+      "titel": "- Hva er galt med ham?",
+      "kilde": "Dagbladet",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14M3NxaldoMlE0dFNLVTFYbzZXUzNWWVV1OGhiRTVvME41Z0ZOMGJ2M1Z0WTNiSTZfdFl1QVZ1dHc2OVh6TjFMTlkxM0k3MThGTGk1bUEyaE1XTGNMd2dfWVhnZDJRREFOMU9N?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Manchester United, Mauricio Pochettino | Reaksjonene hagler etter United-kamp: – Umulig",
+      "kilde": "Nettavisen",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZU40SERQRy1wNUpKcTRNdUZfaF9ST211bGxFTG1uSU5rUUJTQl9KZXVielZXYm9HS0JVcndQNmJxTUQ5R1lSTnh5VDlUakpMNXMwM1F6NDZjWElSdWE1UlJ2ZUZqaF9OVzQzRFR5TnBLNmROdU1TSXV6Mm9MeXcxaG1neVhIS1cyak9ucDIyd0pSbkZH?oc=5"
+    },
+    {
+      "segment": "musik",
+      "titel": "Ukendt Kunstners ‘Sort’ er en surrealistisk rejse gennem Hans Philips sind",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/ukendt-kunstners-sort-er-en-surrealistisk-rejse-gennem-hans-philips-sind-706725"
+    },
+    {
+      "segment": "musik",
+      "titel": "Lana Del Rey shares Thanksgiving update on incoming new albums: “It feels meant to be – it makes me wonder where I would even go after this”",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/music/lana-del-rey-shares-thanksgiving-update-on-incoming-new-albums-it-feels-meant-to-be-it-makes-me-wonder-where-i-would-even-go-after-this-3977104"
+    },
+    {
+      "segment": "musik",
+      "titel": "Carly Rae Jepsen’s ‘Run Away With Me’ streams jump almost 1,100 per cent after ‘GTA 6’ sync",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/gaming-news/carly-rae-jepsen-run-away-with-me-grand-theft-auto-resurgence-3977027"
+    },
+    {
+      "segment": "let",
+      "titel": "Rejsekort-millioner samler støv: Læs her, hvordan du får fat i pengene",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/rejsekort-millioner-samler-stoev-laes-her-hvordan-du-faar-fat-i-pengene"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (29)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (8)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (2)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (30)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (16)"
+  },
+  "test": false
+}

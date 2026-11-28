@@ -1,0 +1,914 @@
+{
+  "date": "2026-11-22",
+  "dato_tekst": "søndag den 22. november 2026",
+  "title": "Brand på Fanø, AI knækker 167 år gammel gåde og Verstappen i Las Vegas",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-22T12:27:47+01:00",
+  "tema": "En kold, klar søndag i Aarhus med branden på Fanø som den store danske historie, AI der både løser 167 år gamle gåder og går på børsen — og Verstappen-sejr i Las Vegas.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 299.96,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen, Frederik. Det er søndag den toogtyvende november, og du har fundet Morgenradio.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Og søndag er jo dagen, hvor man må tage den med ro.",
+          "segment": "intro",
+          "start": 14.87
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skal om lidt til Fanø, hvor der har været en voldsom brand i Brugsen.",
+          "segment": "intro",
+          "start": 19.68
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så har en matematiker åbenbart løst et hundrede og syvogtres år gammelt problem. Med en chatbot.",
+          "segment": "intro",
+          "start": 24.28
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Plus Verstappen der vinder noget af et cirkus i Las Vegas.",
+          "segment": "intro",
+          "start": 31.22
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men først: vejret. Og det er faktisk en af de pæne af slagsen.",
+          "segment": "intro",
+          "start": 35.66
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Fire grader i Aarhus lige nu og mest klart. Senere skyer, mellem en og fem grader.",
+          "segment": "intro",
+          "start": 40.07
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og stort set ingen regn. To procent risiko. Vinden er nede på fem meter i sekundet.",
+          "segment": "intro",
+          "start": 46.33
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så cyklen kan sagtens komme ud, Frederik. Bare husk handsker.",
+          "segment": "intro",
+          "start": 53.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Solen står først op ti minutter over otte og går ned en minut i fire. Så brug lyset.",
+          "segment": "intro",
+          "start": 58.78
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter på Fanø. Der har været brand i Brugsen i Nordby.",
+          "segment": "nyheder",
+          "start": 66.12
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Brandvæsen og politi har været på stedet. Det oplyser Syd- og Sønderjyllands Politi.",
+          "segment": "nyheder",
+          "start": 70.84
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det gode er, at personalet blev evakueret hurtigt.",
+          "segment": "nyheder",
+          "start": 77.51
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Branden udvikler en del røg, som trækker i sydøstlig retning. Politiet beder folk holde afstand og holde sig ude af røgfanen.",
+          "segment": "nyheder",
+          "start": 81.65
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det særlige her er jo, at det er en ø. Udrykningskøretøjerne skal med færgen.",
+          "segment": "nyheder",
+          "start": 89.93
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, og det betyder også, at færgetrafikken til Fanø bliver påvirket. Det skriver DR.",
+          "segment": "nyheder",
+          "start": 96.1
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Skal du den vej i dag, så tjek afgangene, før du kører.",
+          "segment": "nyheder",
+          "start": 102.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så til USA, hvor guvernøren i delstaten Washington er stærkt utilfreds med immigrationsmyndigheden ICE.",
+          "segment": "nyheder",
+          "start": 107.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvad er der sket?",
+          "segment": "nyheder",
+          "start": 114.58
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "To personer blev tilbageholdt af ICE-betjente i en lufthavn ved Seattle. På en tætpakket passagerbro, mens folk gik ombord.",
+          "segment": "nyheder",
+          "start": 116.02
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der findes video af det, skriver CNN. Man ser betjente trække mindst én person væk, mens en kvinde skriger.",
+          "segment": "nyheder",
+          "start": 126.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Guvernør Bob Ferguson siger, at ICE er fuldstændig ude af kontrol. Og kalder forløbet dybt uamerikansk.",
+          "segment": "nyheder",
+          "start": 133.89
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "ICE beskriver det selv som en målrettet aktion. Det er Politiken og DR, der har det.",
+          "segment": "nyheder",
+          "start": 141.37
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nå. Og så er der den her historie, som jeg stadig ikke helt har fordøjet.",
+          "segment": "nyheder",
+          "start": 147.02
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Riemann-hypotesen?",
+          "segment": "nyheder",
+          "start": 151.37
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Fremsat i 1859. Ingen har kunnet bevise den siden. Nu har en matematiker hos Anthropic sandsynligvis gjort det.",
+          "segment": "nyheder",
+          "start": 152.83
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han hedder Levent Alpöge. Og han har gjort det i samtale med Claude, Anthropics nyeste sprogmodel.",
+          "segment": "nyheder",
+          "start": 162.13
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Som i øvrigt ikke er tilgængelig for offentligheden. Han skriver selv, at det tog ham seks uger.",
+          "segment": "nyheder",
+          "start": 169.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Seks uger. Mod hundrede og syvogtres år.",
+          "segment": "nyheder",
+          "start": 176.08
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Den handler om, hvordan primtal fordeler sig. Altså tal der kun kan deles med sig selv og et. To, tre, fem, syv.",
+          "segment": "nyheder",
+          "start": 179.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det er et af de syv Millennium-problemer. Dem Clay Mathematics Institute i år to tusind udpegede som verdens sværeste.",
+          "segment": "nyheder",
+          "start": 188.41
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "DR har talt med Asbjørn Nordentoft fra Københavns Universitet. Han har ikke kunnet sove.",
+          "segment": "nyheder",
+          "start": 196.16
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han siger, det føles som månelandingen. Bare inden for matematik.",
+          "segment": "nyheder",
+          "start": 202.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og han troede aldrig, det ville ske i hans levetid. Beviset fylder over to hundrede og halvtreds tusind sider i computersproget Lean.",
+          "segment": "nyheder",
+          "start": 207.51
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så man ved, det er korrekt. Man forstår det bare ikke endnu.",
+          "segment": "nyheder",
+          "start": 217.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hold da op.",
+          "segment": "nyheder",
+          "start": 220.94
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Frederik, samme firma, Anthropic, er torsdag blevet børsnoteret. Historisk stor notering.",
+          "segment": "nyheder",
+          "start": 222.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Politiken skriver det under overskriften, at Dr. Frankenstein lige har været på Wall Street.",
+          "segment": "nyheder",
+          "start": 229.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Pointen er, at topchefen selv har advaret kraftigt om AI. Og nu overlader han firmaets skæbne til børsfolkets logik.",
+          "segment": "nyheder",
+          "start": 234.97
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De to ting rimer bare ikke specielt godt.",
+          "segment": "nyheder",
+          "start": 243.56
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så en sidste: DR har en fin historie om boligpriser og tilfældigheder.",
+          "segment": "nyheder",
+          "start": 246.38
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "To søstre, Susan og Pia. Begge ingeniører, begge fra Lolland, begge købte hus til stort set samme pris for femogtyve år siden.",
+          "segment": "nyheder",
+          "start": 251.82
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Susan købte i Københavns nordvestkvarter. Pia på Falster.",
+          "segment": "nyheder",
+          "start": 261.23
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Susan er murstensmillionær i dag. Pia solgte sidste år med et beskedent overskud på papiret.",
+          "segment": "nyheder",
+          "start": 265.29
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og når man regner investeringer og inflation med, var det faktisk et underskud. I millionklassen.",
+          "segment": "nyheder",
+          "start": 271.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og ingen af dem tænkte over det dengang. Det var jobs, der afgjorde det.",
+          "segment": "nyheder",
+          "start": 278.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er lidt ubehageligt, hvor stor en del af dansk privatøkonomi der er ren geografi.",
+          "segment": "nyheder",
+          "start": 283.77
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Nå, men lad os få noget energi ind i søndagen her.",
+          "segment": "nyheder",
+          "start": 289.45
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Solen er lige stået op, det er fire grader og klart. Her er Avicii med \"Wake Me Up\".",
+          "segment": "nyheder",
+          "start": 293.72
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:0nrRP2bk19rLc0orkWPQk2",
+      "name": "Wake Me Up",
+      "artist": "Avicii",
+      "album": "True",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e14f11f796cef9f9a82691a7",
+      "duration_ms": 247426,
+      "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2",
+      "kobling": "Solen står først op 08:10 og det er fire grader og klart — der skal energi og en dansk opvågner til at sparke søndagen i gang."
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 164.62,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den der sang lyder stadig som sommer, selvom det er fire grader udenfor.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er jo tricket. Nå, Aarhus.",
+          "segment": "aarhus",
+          "start": 8.57
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det er en af de der søndage, hvor byen ser bedst ud. Klar himmel, lavtstående sol.",
+          "segment": "aarhus",
+          "start": 12.94
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi har under otte timers dagslys tilbage. Solen går ned en minut i fire.",
+          "segment": "aarhus",
+          "start": 19.39
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så hvis man vil ud til vandet eller i skoven, så er det nu. Ikke klokken tre.",
+          "segment": "aarhus",
+          "start": 24.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vinden er nede på fem meter i sekundet, så det er faktisk til at holde ud langs bugten.",
+          "segment": "aarhus",
+          "start": 28.68
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og med to procent nedbør slipper du for at finde regnjakken frem, Frederik.",
+          "segment": "aarhus",
+          "start": 34.36
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men skyerne kommer i løbet af dagen. Så formiddagen er den gode del.",
+          "segment": "aarhus",
+          "start": 39.88
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Perfekt undskyldning for at tage kaffen med ud i stedet for at blive siddende.",
+          "segment": "aarhus",
+          "start": 45.68
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Sporten. Og Mads, du så Las Vegas i nat, ikke?",
+          "segment": "sport",
+          "start": 52.69
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jo. Max Verstappen vandt. Og det var vildt.",
+          "segment": "sport",
+          "start": 56.69
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvor vildt?",
+          "segment": "sport",
+          "start": 61.17
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Føringen skiftede ejer femogtredive gange undervejs. Det oplyser Formel 1 selv.",
+          "segment": "sport",
+          "start": 62.1
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Femogtredive?",
+          "segment": "sport",
+          "start": 67.6
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Verstappen blev selv overhalet flere gange, men svarede igen hver gang.",
+          "segment": "sport",
+          "start": 69.05
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og i radioen bagefter sagde han bare: sikke et ræs, utroligt.",
+          "segment": "sport",
+          "start": 74.84
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er hans fjerde sejr i sæsonen. Alle fire er hentet i de seneste seks grandprixer.",
+          "segment": "sport",
+          "start": 80.49
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så han kommer i form på det helt forkerte tidspunkt.",
+          "segment": "sport",
+          "start": 86.79
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Han cementerer andenpladsen, men kan ikke nå Kimi Antonelli, der allerede har mesterskabet.",
+          "segment": "sport",
+          "start": 90.53
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Antonelli selv?",
+          "segment": "sport",
+          "start": 98.71
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han kæmpede med Verstappen om førstepladsen til sidst. Så tabte han på mystisk vis fart på sidste omgang.",
+          "segment": "sport",
+          "start": 100.8
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Åh nej.",
+          "segment": "sport",
+          "start": 108.59
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Lando Norris og Oscar Piastri drønede forbi og tog podiet med Verstappen. Antonelli blev nummer fire.",
+          "segment": "sport",
+          "start": 110.23
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er en hård måde at fejre et verdensmesterskab på.",
+          "segment": "sport",
+          "start": 117.47
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så lidt fodbold. Der var en dansk landsholdsangriber med en assist i en pointdeler mod Arsenal.",
+          "segment": "sport",
+          "start": 121.67
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Point mod Arsenal er jo ikke ingenting.",
+          "segment": "sport",
+          "start": 129.12
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Og så er der Thomas Frank, som ifølge DR Sporten dumper sin debut.",
+          "segment": "sport",
+          "start": 132.3
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Av.",
+          "segment": "sport",
+          "start": 138.69
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, det er en hård overskrift at vågne op til.",
+          "segment": "sport",
+          "start": 139.71
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og i Tyskland får Bayern München kras kritik. Det handler om nogle kommentarer om en syg Musiala.",
+          "segment": "sport",
+          "start": 142.79
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Klubber og spillerhelbred er bare sjældent en god cocktail offentligt.",
+          "segment": "sport",
+          "start": 149.85
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej. Men tilbage til Las Vegas et øjeblik, for vi skylder byen et beat.",
+          "segment": "sport",
+          "start": 153.77
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Lidt fart og lidt attitude. Her er Drake med \"Hotline Bling\".",
+          "segment": "sport",
+          "start": 159.04
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:0wwPcA6wtMf6HUMpIRdeP7",
+      "name": "Hotline Bling",
+      "artist": "Drake",
+      "album": "Views",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+      "duration_ms": 267066,
+      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7",
+      "kobling": "Lidt fart og attitude efter Verstappens sejr i Las Vegas — casino-byen fortjener et beat med selvtillid."
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 110.37,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den sang har jo levet et helt liv som meme efterhånden.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Den holder stadig. Men musiknyt: Benjamin Hav har interviewet Volodymyr Zelenskyj.",
+          "segment": "musik",
+          "start": 5.98
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Altså rapperen og X Factor-dommeren?",
+          "segment": "musik",
+          "start": 11.78
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja. Det ligger på hans YouTube-kanal i serien \"Benjamins verden\". Soundvenue skriver om det.",
+          "segment": "musik",
+          "start": 14.33
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvordan i alverden får han fat i dem?",
+          "segment": "musik",
+          "start": 18.83
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Mette Frederiksen var bindeled. Hun dukker selv op cirka tyve minutter inde i videoen.",
+          "segment": "musik",
+          "start": 21.57
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og han lavede jo også noget med kronprins Christian for en måned siden.",
+          "segment": "musik",
+          "start": 27.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "De taler om at være statsleder og far samtidig. Og om hvordan ukrainske børn bliver påvirket af krigen.",
+          "segment": "musik",
+          "start": 32.87
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men også hunde og yndlingsmusik, har jeg læst.",
+          "segment": "musik",
+          "start": 40.44
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, og han slutter af med at sige, at når der en dag er fred, kan de måske tage til en Bad Bunny-koncert sammen.",
+          "segment": "musik",
+          "start": 43.83
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er en fin måde at slutte på.",
+          "segment": "musik",
+          "start": 51.58
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er der den her tendens, som Soundvenue har kigget på. Popstjernerne har fundet guitaren frem.",
+          "segment": "musik",
+          "start": 54.1
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej, seriøst?",
+          "segment": "musik",
+          "start": 60.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Charli XCX, Troye Sivan og Shygirl. De tre der lavede Sweat-turnéen i 2024.",
+          "segment": "musik",
+          "start": 62.06
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det var jo den mest hypede musikbegivenhed i verden for en stund. Og ren klubmusik.",
+          "segment": "musik",
+          "start": 69.36
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nu lyder deres nye plader åbenbart mere som indierock. Alle tre. Igen i samlet flok.",
+          "segment": "musik",
+          "start": 75.76
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er lidt sjovt, at de flytter sig som en flok fugle.",
+          "segment": "musik",
+          "start": 81.89
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og apropos guitarer og klubmusik: LCD Soundsystem er i gang med en række koncerter i New York.",
+          "segment": "musik",
+          "start": 85.85
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og de spillede \"Disco Infiltrator\" for første gang i enogtyve år. NME skriver det.",
+          "segment": "musik",
+          "start": 93.04
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Plus \"All I Want\", som de ikke har spillet siden 2011.",
+          "segment": "musik",
+          "start": 99.3
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Der ville jeg godt have stået.",
+          "segment": "musik",
+          "start": 103.08
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi tager hende, der startede det hele. Her er Charli xcx med \"360\".",
+          "segment": "musik",
+          "start": 105.12
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:4w2GLmK2wnioVnb5CPQeex",
+      "name": "360",
+      "artist": "Charli xcx",
+      "album": "BRAT",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f88b43d15fd14e9525338b59",
+      "duration_ms": 133805,
+      "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex",
+      "kobling": "Direkte kobling til musiknyt: historien om at de elektroniske popstjerner som Charli XCX og Troye Sivan har fundet guitaren frem — og LCD Soundsystems comeback-sæt i New York."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 82.18,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Og så dagens lette. Den her er faktisk ret god.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Kom med den.",
+          "segment": "let",
+          "start": 7.1
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Op til lanceringen af GTA 6 kunne Cecilie Theisen mærke, at kæresten var lidt nedtrykt.",
+          "segment": "let",
+          "start": 8.7
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Fordi han ikke havde råd?",
+          "segment": "let",
+          "start": 15.54
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Han drømte om en PlayStation 5 og spillet, men de er studerende. Pengene var der ikke.",
+          "segment": "let",
+          "start": 17.47
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så?",
+          "segment": "let",
+          "start": 24.16
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så begyndte hun at sælge en hækleopskrift. Projektet hed \"Fra garn til GTA\".",
+          "segment": "let",
+          "start": 24.91
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Det er et godt navn.",
+          "segment": "let",
+          "start": 31.32
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og der gik fireogtyve timer, før hun havde tjent nok til både konsollen og spillet. Det skriver DR.",
+          "segment": "let",
+          "start": 33.58
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Et døgn. Frederik, det der er jo en lærebog i organisk vækst.",
+          "segment": "let",
+          "start": 41.26
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nul annoncekroner og en hækleopskrift. Det er flottere end de fleste kampagner.",
+          "segment": "let",
+          "start": 46.16
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og dermed er vi ved vejs ende, Frederik.",
+          "segment": "outro",
+          "start": 54.33
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tak fordi du lagde øre til. Og kom nu ud, mens solen er der.",
+          "segment": "outro",
+          "start": 57.14
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Fire grader, klart nu, skyer senere. Rigtig god søndag derude i Aarhus.",
+          "segment": "outro",
+          "start": 62.61
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi slutter blødt af med noget dansk.",
+          "segment": "outro",
+          "start": 68.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Her er Medina med \"Jalousi\". Vi ses i morgen.",
+          "segment": "outro",
+          "start": 71.04
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:1WM1Qcw3uNdsxtWncPr19T",
+      "name": "Jalousi",
+      "artist": "Medina",
+      "album": "Jalousi",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737bdc0e3770b07eceb5d7a535",
+      "duration_ms": 221531,
+      "url": "https://open.spotify.com/track/1WM1Qcw3uNdsxtWncPr19T",
+      "kobling": "Afslutning med dansk pop i et lyst, overskueligt tempo til en overskyet, vindstille søndag i Aarhus."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 669.5,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Voldsom brand på Fanø: Udrykningskøretøjer skal med færgen",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/voldsom-brand-paa-fanoe-udrykningskoeretoejer-skal-med-faergen"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Washingtons guvernør kritiserer ICE efter hændelse i lufthavn",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/washingtons-guvernoer-kritiserer-ice-efter-haendelse-i-lufthavn"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "I 167 år har ingen løst det. Nu har matematiker knækket koden med AI",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/i-167-aar-har-ingen-loest-det-nu-har-matematiker-knaekket-koden-med-ai"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Dr. Frankenstein har vist lige været i Wall Street",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/internationalt/art11065796/Dr.-Frankenstein-har-vist-lige-v%C3%A6ret-i-Wall-Street"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Er du med på boligprisernes himmelflugt, eller ser du bare på?",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/er-du-med-paa-boligprisernes-himmelflugt-eller-ser-du-bare-paa"
+    },
+    {
+      "segment": "sport",
+      "titel": "Max Verstappen vinder vildt ræs i Las Vegas",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/seneste-sport/max-verstappen-vinder-vildt-raes-i-las-vegas"
+    },
+    {
+      "segment": "sport",
+      "titel": "Dansk landsholdsangriber med assist i pointdeler mod Arsenal",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12890118#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "Thomas Frank dumper sin debut",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12888200#liveblog-embed"
+    },
+    {
+      "segment": "sport",
+      "titel": "Bayern München mødes af kras kritik for kommentarer om syg Musiala",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12892573#liveblog-embed"
+    },
+    {
+      "segment": "musik",
+      "titel": "Se Benjamin Hav interviewe Volodymyr Zelenskyj og Mette Frederiksen",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/se-benjamin-hav-interviewe-volodymyr-zelenskyj-og-mette-frederiksen-706203"
+    },
+    {
+      "segment": "musik",
+      "titel": "De elektroniske popstjerner har set lyset. Det er … en guitar?",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/de-elektroniske-popstjerner-har-set-lyset-det-er-en-guitar-703418"
+    },
+    {
+      "segment": "musik",
+      "titel": "Watch LCD Soundsystem play ‘Disco Infiltrator’ for first time in 21 years",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/music/watch-lcd-soundsystem-play-disco-infiltrator-for-first-time-in-21-years-3976623"
+    },
+    {
+      "segment": "let",
+      "titel": "Cecilies hækleopskrift skaffede kæresten en PS5",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/reels/cecilies-haekleopskrift-skaffede-kaeresten-en-ps5"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "FEJL (HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "FEJL (HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss?hl=da)",
+    "nyheder/Google News Tech": "FEJL (HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headl)",
+    "nyheder/Google News Økonomi": "FEJL (HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headl)",
+    "nyheder/Google News AI & marketing": "FEJL (HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc)",
+    "lokalt/TV 2 Østjylland": "FEJL (HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc)",
+    "lokalt/Google News Aarhus": "FEJL (HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc)",
+    "lokalt/Århus Stiftstidende": "FEJL (HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "FEJL (HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc)",
+    "sport/Bold.dk": "FEJL (HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc)",
+    "sport/Google News Fodbold": "FEJL (HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc)",
+    "sport/Google News Sport": "FEJL (HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/headl)",
+    "musik/GAFFA": "FEJL (HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (29)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "FEJL (HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/searc)"
+  },
+  "test": false
+}

@@ -1,0 +1,908 @@
+{
+  "date": "2026-11-24",
+  "dato_tekst": "tirsdag den 24. november 2026",
+  "title": "Bombetrusler mod skoler, boligskat i postkassen og Nvidia-drama",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-24T14:45:23+01:00",
+  "tema": "Bombetrusler mod hundredvis af danske skoler og nye boligskatteregninger fylder herhjemme, mens Nvidia-dramaet ryster de globale markeder.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 325.78,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen, Frederik. Det er tirsdag den 24. november, og du er vågnet op til Morgenradio.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Og det er sådan en rigtig mørk november-tirsdag i dag.",
+          "segment": "intro",
+          "start": 14.72
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er det. Vi skal tale om de mange bombetrusler mod danske skoler i går.",
+          "segment": "intro",
+          "start": 19.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så lander boligskatteopgørelserne i dag. Dem er der nogen, der får sved på panden af.",
+          "segment": "intro",
+          "start": 24.88
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Plus Nvidia-dramaet i USA, hvor Trump pludselig tager æren for en direktør.",
+          "segment": "intro",
+          "start": 30.42
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og AGF skal til Bergen. Det vender vi også tilbage til.",
+          "segment": "intro",
+          "start": 36.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vejret i Aarhus: lige nu to grader og overskyet. Og sådan bliver det stort set hele dagen.",
+          "segment": "intro",
+          "start": 40.17
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Mellem nul og to grader, nul procent risiko for regn. Vinden er helt tam, op til fire meter i sekundet.",
+          "segment": "intro",
+          "start": 47.39
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så cyklen kan sagtens bruges, Frederik. Bare tag vanterne på.",
+          "segment": "intro",
+          "start": 55.59
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og nyd lyset, mens det er der. Solen står op klokken fjorten minutter over otte og er nede igen 15.57.",
+          "segment": "intro",
+          "start": 60.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Altså under otte timer. Nå. Lad os tage nyhederne.",
+          "segment": "intro",
+          "start": 68.75
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "I går fik knap 300 danske skoler og institutioner en bombetrussel på mail.",
+          "segment": "nyheder",
+          "start": 76.19
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Også fængsler og hospitaler. Politiken skriver, at mere end 800 modtagere fik den mail.",
+          "segment": "nyheder",
+          "start": 82.09
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nogle steder evakuerede man. Andre steder fortsatte skoledagen efter politiets vejledning.",
+          "segment": "nyheder",
+          "start": 88.58
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Politiet vurderede, at der ikke var hold i truslerne. Og vi ved stadig ikke, hvem der står bag.",
+          "segment": "nyheder",
+          "start": 96.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "DR har talt med Yevgeniy Golovchenko fra Institut for Statskundskab på Københavns Universitet.",
+          "segment": "nyheder",
+          "start": 102.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og han siger noget, der sætter sig lidt fast. At det er så nemt at lave de her trusler.",
+          "segment": "nyheder",
+          "start": 109.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, han siger direkte, at man i princippet kunne bruge en AI-agent til at automatisere det.",
+          "segment": "nyheder",
+          "start": 115.82
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Uden særlig stor teknisk viden. Det er jo det, der gør det til et oplagt angreb.",
+          "segment": "nyheder",
+          "start": 122.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han forventer, vi vil se mere af det. Fordi det skaber opmærksomhed.",
+          "segment": "nyheder",
+          "start": 127.24
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og selv utroværdige trusler skal tages alvorligt. Myndighederne kan ikke bare lade være med at gøre noget.",
+          "segment": "nyheder",
+          "start": 132.61
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han siger, det værste der kan ske, er, at folk bliver ligeglade. Og endnu værre, at myndighederne gør.",
+          "segment": "nyheder",
+          "start": 139.07
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvordan man så skal reagere, har han ikke et entydigt svar på. Det må vi finde ud af som samfund.",
+          "segment": "nyheder",
+          "start": 146.24
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Noget helt andet, der også rammer mange i dag: boligskatten.",
+          "segment": "nyheder",
+          "start": 152.62
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, i dag får boligejerne besked om, hvor meget skatten stiger til næste år.",
+          "segment": "nyheder",
+          "start": 156.99
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Politiken skriver, at tusindvis kan få en gevaldig overraskelse.",
+          "segment": "nyheder",
+          "start": 162.32
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvor slemt?",
+          "segment": "nyheder",
+          "start": 167.02
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "I en middelklassekommune kan regningen for et gennemsnitligt hus vokse med omkring 900 kroner om måneden.",
+          "segment": "nyheder",
+          "start": 167.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hold da op. Det er jo over ti tusind kroner om året.",
+          "segment": "nyheder",
+          "start": 175.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så hvis du ejer, Frederik, så er det måske værd at åbne den mail, inden du åbner Google Ads.",
+          "segment": "nyheder",
+          "start": 179.5
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ha! Ja, tjek tallet, før du tjekker dine konverteringer.",
+          "segment": "nyheder",
+          "start": 185.84
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er der også en milliard, der flytter sig i sundhedsvæsenet.",
+          "segment": "nyheder",
+          "start": 190.05
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, ny politisk aftale. Omkring en milliard kroner flyttes fra Region Østdanmark til Nordjylland, Midtjylland og Syddanmark.",
+          "segment": "nyheder",
+          "start": 194.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Første gang man ændrer fordelingen, siden regionerne blev oprettet i 2007.",
+          "segment": "nyheder",
+          "start": 203.43
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Borgernes helbred og sociale forhold skal veje tungere. Kroniske sygdomme, alvorlige kræftforløb.",
+          "segment": "nyheder",
+          "start": 209.53
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Økonomi- og indenrigsminister Pia Olsen Dyhr siger, at pengene skal følge behovene bedre.",
+          "segment": "nyheder",
+          "start": 216.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det får virkning fra 2028 og indfases over fem år. Og Østdanmark får et fast tilskud på 320 millioner kroner for at dæmpe tabet.",
+          "segment": "nyheder",
+          "start": 223.09
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så for os i Midtjylland betyder det på sigt lidt flere sundhedskroner.",
+          "segment": "nyheder",
+          "start": 235.37
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "På sigt, ja. Ikke i morgen.",
+          "segment": "nyheder",
+          "start": 240.16
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så til Gaza. En FN-medarbejder er blandt mindst tre dræbte i israelske angreb.",
+          "segment": "nyheder",
+          "start": 243.1
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det oplyser FN's palæstinenserorganisation UNRWA ifølge DR.",
+          "segment": "nyheder",
+          "start": 249.95
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Israels militær oplyser samtidig, at de har dræbt en Hamas-leder i Gaza.",
+          "segment": "nyheder",
+          "start": 255.48
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ifølge militæret havde han haft posten i omkring to måneder.",
+          "segment": "nyheder",
+          "start": 260.52
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi følger det. Og så lige over Atlanten til noget, der har rystet markederne.",
+          "segment": "nyheder",
+          "start": 265.35
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nvidia. Jensen Huang er tilbage i direktørstolen. Og aktien stod til at stige voldsomt.",
+          "segment": "nyheder",
+          "start": 271.5
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og nu tager Donald Trump æren. Han siger til CNBC, at han overtalte bestyrelsen til at beholde Huang.",
+          "segment": "nyheder",
+          "start": 279.46
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej, seriøst?",
+          "segment": "nyheder",
+          "start": 286.91
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Jo. Og DR's USA-korrespondent Kim Bildsøe Lassen kalder det usædvanligt, at en præsident blander sig så direkte i valget af en topchef.",
+          "segment": "nyheder",
+          "start": 288.73
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Berlingskes økonomiredaktør Ulrik Bie siger også, det er opsigtsvækkende, at en statsleder går ind i et privat selskabs ledelsesbeslutninger.",
+          "segment": "nyheder",
+          "start": 298.03
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og nu vil Kongressen have svar. Så den er ikke slut endnu.",
+          "segment": "nyheder",
+          "start": 306.79
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og Nvidia er jo hele AI-maskinrummet. Så det der smitter af på alt fra chips til de værktøjer, man bruger på et bureau.",
+          "segment": "nyheder",
+          "start": 310.89
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi holder øje. Her er Phoenix med \"1901\".",
+          "segment": "nyheder",
+          "start": 321.08
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:68hYdj3GepWm2R202KhJT7",
+      "name": "1901",
+      "artist": "Phoenix",
+      "album": "Wolfgang Amadeus Phoenix",
+      "image": "https://i.scdn.co/image/ab67616d0000b27362cbc442278eefdde1a93efd",
+      "duration_ms": 193106,
+      "url": "https://open.spotify.com/track/68hYdj3GepWm2R202KhJT7",
+      "kobling": ""
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 147.15,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den har altså stadig det der trommebrag i starten. Gåsehud hver gang.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Helt enig. Og så til Aarhus, hvor AGF skal en tur nordpå.",
+          "segment": "aarhus",
+          "start": 7.91
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, SK Brann mod AGF i Conference League. Det er i Bergen.",
+          "segment": "aarhus",
+          "start": 12.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Bergen i slutningen af november. Det lyder ikke som badevejr.",
+          "segment": "aarhus",
+          "start": 18.01
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det lyder som regn på tværs. Men europæisk fodbold med AGF er jo stadig lidt af en fest.",
+          "segment": "aarhus",
+          "start": 22.41
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og der rejser altid aarhusianere med. Der er arrangementer omkring kampen i Norge.",
+          "segment": "aarhus",
+          "start": 29.05
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jeg håber, de har pakket ordentligt. Og en paraply, man kan brække.",
+          "segment": "aarhus",
+          "start": 35.24
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ellers er det jo en helt almindelig grå tirsdag i byen. To grader og vindstille.",
+          "segment": "aarhus",
+          "start": 40.52
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Perfekt vejr til at sidde indenfor og kigge på regneark.",
+          "segment": "aarhus",
+          "start": 46.36
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så sporten. Der var Superliga i går aftes.",
+          "segment": "sport",
+          "start": 52.87
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "FCM slog Brøndby 2-0 ude. Og tog førstepladsen i Superligaen.",
+          "segment": "sport",
+          "start": 57.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "DR Sporten kalder Brøndby tamme.",
+          "segment": "sport",
+          "start": 62.58
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tamme er pænt sagt. Men FCM sidder på toppen nu, og det er jo det, der tæller.",
+          "segment": "sport",
+          "start": 65.33
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er der Champions League i Norge i aften.",
+          "segment": "sport",
+          "start": 70.61
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Bodø/Glimt mod LASK på Aspmyra. Og forberedelserne har været noget af et cirkus.",
+          "segment": "sport",
+          "start": 74.89
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvordan det?",
+          "segment": "sport",
+          "start": 81.24
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De har ifølge NRK brugt fire en halv ton salt for at få isen af banen.",
+          "segment": "sport",
+          "start": 82.17
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Fire en halv ton! Det er jo et helt lastbillæs.",
+          "segment": "sport",
+          "start": 87.05
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og oveni fløj modstanderen en drone over stadion. Politiet rykkede ud, skriver TV 2.",
+          "segment": "sport",
+          "start": 91.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ulovlig droneflyvning før en Champions League-kamp. Det er en ny en.",
+          "segment": "sport",
+          "start": 97.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og en modstander sagde, at det er som at spille mod Atlético Madrid deroppe. Nordlyset og det hele.",
+          "segment": "sport",
+          "start": 102.85
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er der en nordmand, der fylder i de engelske rygter.",
+          "segment": "sport",
+          "start": 110.15
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Antonio Nusa, ja. Han jagtes af en storklub, skriver Dagbladet.",
+          "segment": "sport",
+          "start": 114.06
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og en Premier League-legende siger direkte: vi har brug for Nusa.",
+          "segment": "sport",
+          "start": 119.12
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han er angiveligt millimeter fra at blive tidens dyreste norske fodboldspiller. Men det er rygter, så vi tager den med ro.",
+          "segment": "sport",
+          "start": 123.83
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så en trist besked. Den tidligere Superliga-profil Ken Fagerberg er død.",
+          "segment": "sport",
+          "start": 132.85
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det skriver DR Sporten. Tankerne går til familien.",
+          "segment": "sport",
+          "start": 138.68
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skal have lidt luft. Her er Outkast med \"Hey Ya!\".",
+          "segment": "sport",
+          "start": 143.07
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:2PpruBYCo4H7WOBJ7Q2EwM",
+      "name": "Hey Ya!",
+      "artist": "Outkast",
+      "album": "Speakerboxxx/The Love Below",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e88eb6508fd94cd1b745ce2",
+      "duration_ms": 235213,
+      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM",
+      "kobling": ""
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 102.93,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Ingen kan stå stille til den. Heller ikke klokken halv syv om morgenen.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så musiknyt. Roskilde melder udsolgt af flere billettyper.",
+          "segment": "musik",
+          "start": 6.85
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Billie Eilish-effekten. Onsdagen røg allerede dagen efter annonceringen.",
+          "segment": "musik",
+          "start": 12.82
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og nu er alle todagesbilletter med onsdag udsolgt, skriver Soundvenue.",
+          "segment": "musik",
+          "start": 17.73
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så skal man have partout, hvis man vil se hende. Dem er der til gengæld stadig af.",
+          "segment": "musik",
+          "start": 22.39
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det er jo det eneste sted i Skandinavien, hun spiller i 2027.",
+          "segment": "musik",
+          "start": 28.32
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Festivalen ligger fra 26. juni til 3. juli. Tame Impala og Caroline Polachek er også på plakaten.",
+          "segment": "musik",
+          "start": 33.55
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er der en dansk annoncering, der er værd at lægge mærke til. Bette.",
+          "segment": "musik",
+          "start": 41.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, hun har haft et vildt 2026. Syd For Solen, Smukfest og udsolgt Store Vega.",
+          "segment": "musik",
+          "start": 45.17
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og nu Falkonersalen den 20. november næste år. Hendes største headlinerkoncert til dato.",
+          "segment": "musik",
+          "start": 53.25
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Billetsalget starter på torsdag. Så sæt en påmindelse.",
+          "segment": "musik",
+          "start": 60.61
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og til sidst: GTA-albummet er blevet udvidet. Med 23 nye sange.",
+          "segment": "musik",
+          "start": 65.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det var i forvejen 34 sange og 47 kunstnere. Og så smider de en deluxe-udgave ud uden varsel.",
+          "segment": "musik",
+          "start": 71.08
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "21 Savage, Kodak Black, The Dare. Og Travis Scott har fået endnu et nummer.",
+          "segment": "musik",
+          "start": 79.16
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er altså ret godt marketinghåndværk at udgive et album i et spil, folk alligevel sidder og spiller hele weekenden.",
+          "segment": "musik",
+          "start": 85.74
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, Frederik, der er nok en kampagne-idé gemt der.",
+          "segment": "musik",
+          "start": 94.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og apropos Travis Scott. Her er \"goosebumps\".",
+          "segment": "musik",
+          "start": 98.84
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:6gBFPUFcJLzWGx4lenP6h2",
+      "name": "goosebumps",
+      "artist": "Travis Scott",
+      "album": "Birds In The Trap Sing McKnight",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738752a7355996e64709247c53",
+      "duration_ms": 243836,
+      "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2",
+      "kobling": "Travis Scott er med på det udvidede GTA VI-soundtrack med 23 nye sange, som vi nævner i musiknyt — og Billie Eilish er grunden til Roskilde-udsolgt."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 111.02,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Nå. Og så dagens mærkeligste historie.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Lad mig gætte. Noget med USA?",
+          "segment": "let",
+          "start": 6.48
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Den amerikanske skovstyrelse har offentliggjort hemmelige dokumenter om Bigfoot.",
+          "segment": "let",
+          "start": 9.49
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Bigfoot. Altså den store behårede fyr i skovene.",
+          "segment": "let",
+          "start": 14.35
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Præcis. Også kaldet Sasquatch. Og det er Trump-administrationen, der har sluppet papirerne løs.",
+          "segment": "let",
+          "start": 18.13
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvad står der så i dem?",
+          "segment": "let",
+          "start": 24.5
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Blandt andet en rapport fra 1982, hvor biologer undersøgte besynderlige fodspor i Oregon.",
+          "segment": "let",
+          "start": 26.13
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og?",
+          "segment": "let",
+          "start": 32.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "En forsker har noteret, at hvis sporene var falske, så havde nogen gjort sig umage.",
+          "segment": "let",
+          "start": 32.88
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ha! Det er jo ikke ligefrem et bevis.",
+          "segment": "let",
+          "start": 39.67
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Der er også vidneudsagn fra Montana, hvor folk beskriver noget, der lignede en meget stor bjørn. Bortset fra at det ikke var en bjørn.",
+          "segment": "let",
+          "start": 42.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Entusiasterne jubler selvfølgelig. New York Times er noget mere kølige.",
+          "segment": "let",
+          "start": 52.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, de skriver, at der ikke rigtig er nyhedsværdi i det. Og det er heller ikke første gang.",
+          "segment": "let",
+          "start": 57.72
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej, for få dage siden kom der også ufo-videoer ud. Optaget i Mellemøsten.",
+          "segment": "let",
+          "start": 63.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ottende gang i rækken. Så der bliver åbnet en del arkiver i øjeblikket.",
+          "segment": "let",
+          "start": 68.82
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Jeg savner bare det dokument, der forklarer boligskatten.",
+          "segment": "let",
+          "start": 74.32
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og dermed er vi ved vejs ende for i dag.",
+          "segment": "outro",
+          "start": 80.86
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tak fordi du lagde øre til, Frederik. Og husk nu den mail om boligskat.",
+          "segment": "outro",
+          "start": 84.06
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og tag handsker på ud til cyklen. To grader og helt gråt, men tørt hele vejen.",
+          "segment": "outro",
+          "start": 89.15
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ha en rigtig god tirsdag derude.",
+          "segment": "outro",
+          "start": 96.2
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi slutter af med Mark Gillick og \"Dollar Matinee\". Vi ses i morgen.",
+          "segment": "outro",
+          "start": 98.85
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:3dJKMCpfuToARSkgiQJjem",
+      "name": "Dollar Matinee",
+      "artist": "Mark Gillick",
+      "album": "I Listen for the Train",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731f719e58342c160eee6b125e",
+      "duration_ms": 302813,
+      "url": "https://open.spotify.com/track/3dJKMCpfuToARSkgiQJjem",
+      "kobling": "Dansk afslutning med genkendelighed og godt humør til vejen på arbejde i den grå Aarhus-kulde."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 699.25,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Gårsdagens bombetrusler 'vil vi se mere af', vurderer ekspert",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/gaarsdagens-bombetrusler-vil-vi-se-mere-af-vurderer-ekspert"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Her stiger skatten mest: Tusinder af boligejere kan få en gevaldig overraskelse",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/danmark/oekonomi/art11063661/Her-stiger-skatten-mest-Tusinder-af-boligejere-kan-f%C3%A5-en-gevaldig-overraskelse"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Trump hjalp Jensen Huang tilbage som Nvidia-chef - nu vil Kongressen have svar",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/trump-hjalp-jensen-huang-tilbage-som-nvidia-chef-nu-vil-kongressen-have-svar"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Aftale flytter en sundhedsmilliard fra Østdanmark til resten af landet",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/aftale-flytter-en-sundhedsmilliard-fra-oestdanmark-til-resten-af-landet"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "FN-medarbejder blandt mindst tre dræbte i israelske angreb i Gaza",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/fn-medarbejder-blandt-mindst-tre-draebte-i-israelske-angreb-i-gaza"
+    },
+    {
+      "segment": "aarhus",
+      "titel": "SK Brann – AGF Aarhus (Conference League) – Arrangementer i Norge",
+      "kilde": "MojaNorwegia.pl",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaUlLQS1vM3ljTG1Pd3RQYzU2VHlqRE10eFk3RjdadE03OTUtMjBwOG5DUXhUTEM2SW04V19ER3hFSzhOaFF5SkdMM3o0SVZNVGtCRk5DaUQ1a1p5ZHEzcXhmYUpaNmZCODJPU2J6SnEyb0pJcnhxOE9ld29rdzJNdFN3SWZrdw?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Sådan gik det til, at FCM slog tamme Brøndby",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/superliga/fc-midtjylland-jagter-foerstepladsen-i-broendby-brag"
+    },
+    {
+      "segment": "sport",
+      "titel": "Slik kom Glimt gjennom hardkjøret: –⁠ Det er jo brutalt",
+      "kilde": "VG",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjAtaVExVVhUVkhvM1l6RW82Y2tKNXZ3LTJaek14azMtYkcyUE1IYUdPYXZKTWp6VGd6VnhITHh1QmYteGIwVXVnOWtZSWdQRWRNSnFsaTlEcTZLYTIya0FSTHllakdqWGJZR3FBR0p6VWVtaUVTM1N2U2pRSXlvWVBWTXhaTTJIeFJ0d3dBZHBTX2JVVlV1NFVjQks5ejBOZ3c?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Jaktes av storklubb",
+      "kilde": "Dagbladet",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHLTJQTk45Wmhmeksxam1lNTlETUlFMmloVjZqY0Q0NmE5dnVZWk1vcEtjTFdQMm1SbndfMF9jWGYzdkVOSEFORjNwQzNDWGpHaDRTSXYwYnZzTmx5VGhUcVliSjczYnptWE1v?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Den tidligere Superliga-profil Ken Fagerberg er død",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/seneste-sport/den-tidligere-superliga-profil-ken-fagerberg-er-doed"
+    },
+    {
+      "segment": "musik",
+      "titel": "Efter Billie Eilish: Roskilde Festival melder udsolgt af flere billettyper",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/efter-billie-eilish-roskilde-festival-udsolgt-af-flere-billettyper-706338"
+    },
+    {
+      "segment": "musik",
+      "titel": "Surprise: ‘GTA’-albummet er blevet udvidet med 23 nye sange",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/surprise-gta-albummet-er-blevet-udvidet-med-23-nye-sange-706301"
+    },
+    {
+      "segment": "musik",
+      "titel": "Bette annoncerer karrierens største headlinerkoncert",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/bette-annoncerer-karrierens-stoerste-headlinerkoncert-706241"
+    },
+    {
+      "segment": "let",
+      "titel": "Dokumenter om Bigfoot offentliggjort - Trump-regering puster til årtier gammel myte",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/dokumenter-om-bigfoot-offentliggjort-trump-regering-puster-til-aartier-gammel-myte"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (40)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (8)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (2)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (29)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (11)"
+  },
+  "test": false
+}

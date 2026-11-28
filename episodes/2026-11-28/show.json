@@ -1,0 +1,820 @@
+{
+  "date": "2026-11-28",
+  "dato_tekst": "lørdag den 28. november 2026",
+  "title": "Tech-krig, Kessler-comeback og genfundet Daft Punk",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-28T12:48:21+01:00",
+  "tema": "Grå aarhusiansk lørdag med teknologikrig mellem OpenAI og Apple, dansk kriminalitetsdebat og Kessler-comeback i ringen i aften.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 309.4,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen, Frederik. Det er lørdag den 28. november, og du er landet i Morgenradio.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Og hvis du kigger ud ad vinduet nu, så lad være.",
+          "segment": "intro",
+          "start": 14.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Så slemt er det altså ikke.",
+          "segment": "intro",
+          "start": 18.45
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tre grader og overskyet i Aarhus. Grå på den rigtig klassiske måde.",
+          "segment": "intro",
+          "start": 20.38
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men det bliver tørt. To procent risiko for regn, så cyklen kan sagtens bruges i dag.",
+          "segment": "intro",
+          "start": 25.18
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Mellem to og fire grader hele dagen, og vind op til ni meter i sekundet.",
+          "segment": "intro",
+          "start": 31.38
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og solen? Den står op 08.21 og går ned igen 15.52.",
+          "segment": "intro",
+          "start": 37.38
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Syv en halv time. Vi skal bare igennem det her.",
+          "segment": "intro",
+          "start": 43.45
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skal om lidt tale OpenAI mod Apple, et datalæk med tredive tusind kunder, og så er Kessler tilbage i ringen i aften.",
+          "segment": "intro",
+          "start": 47.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Plus et Daft Punk-mix, der har ligget og mugnet siden 1997.",
+          "segment": "intro",
+          "start": 55.99
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter med nyhederne.",
+          "segment": "intro",
+          "start": 61.4
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og vi lægger ud i tech. Apple og OpenAI er røget i totterne på hinanden.",
+          "segment": "nyheder",
+          "start": 65.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, altså rigtigt i retten. Det er ikke bare et surt opslag.",
+          "segment": "nyheder",
+          "start": 71.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Apple sagsøgte i sommer OpenAI for at stjæle forretningshemmeligheder. To tidligere ansatte skulle have taget noget med sig.",
+          "segment": "nyheder",
+          "start": 76.55
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og nu kommer modsvaret. Ifølge DR og Reuters siger OpenAI: det gør I jo selv.",
+          "segment": "nyheder",
+          "start": 85.34
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "De hævder, at Apple fik fortrolig information gennem en ansat, der var hos OpenAI i et halvt år og så skiftede tilbage.",
+          "segment": "nyheder",
+          "start": 91.52
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hold da op. Og der er mere. OpenAI mener, Apples sag bygger på uautoriseret overvågning af tidligere ansattes enheder.",
+          "segment": "nyheder",
+          "start": 99.37
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det er en kraftig beskyldning.",
+          "segment": "nyheder",
+          "start": 108.58
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Apple afviser. De kalder det et åbenlyst forsøg på at distrahere fra substansen.",
+          "segment": "nyheder",
+          "start": 110.84
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det pudsige er jo, at de er samarbejdspartnere. ChatGPT har ligget i Apples produkter siden 2024.",
+          "segment": "nyheder",
+          "start": 116.04
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Men OpenAI bygger nu sine egne enheder. Så vennerne bliver konkurrenter.",
+          "segment": "nyheder",
+          "start": 124.96
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og et tal, der siger lidt om stemningen: OpenAI hævder, at fire hundrede tidligere Apple-ansatte er skiftet over til dem.",
+          "segment": "nyheder",
+          "start": 131.61
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fire hundrede. Derfor mener de, Apple presser folk til at blive.",
+          "segment": "nyheder",
+          "start": 140.23
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Frederik, det her er jo ikke bare branchesladder. Det afgør, hvem der ejer AI-værktøjerne, du arbejder i til hverdag.",
+          "segment": "nyheder",
+          "start": 144.82
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Den slags sager plejer at tage år.",
+          "segment": "nyheder",
+          "start": 152.5
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi skifter til noget langt tungere. En 21-årig mand er død efter knivstik i Gentofte.",
+          "segment": "nyheder",
+          "start": 155.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det skete fredag aften. En 19-årig mand bliver i dag krævet varetægtsfængslet for drabet, skriver DR.",
+          "segment": "nyheder",
+          "start": 161.56
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Mere ved vi ikke på nuværende tidspunkt.",
+          "segment": "nyheder",
+          "start": 169.06
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så er der kriminalitetsdebatten. Justitsminister Nicolai Wammen vil hæve straffen for salg af stoffer tæt på skoler.",
+          "segment": "nyheder",
+          "start": 171.67
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Med en tredjedel. Baggrunden er en ny rapport fra Rockwool Fonden.",
+          "segment": "nyheder",
+          "start": 179.85
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og den vender lidt op og ned på en antagelse. Det sker ikke primært online.",
+          "segment": "nyheder",
+          "start": 185.53
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej. Syvogfyrre procent af de unge mellem femten og femogtyve er blevet tilbudt stoffer fysisk.",
+          "segment": "nyheder",
+          "start": 191.15
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Mod nitten procent online. Og politikerne har ellers haft meget fokus på Snapchat og sociale medier.",
+          "segment": "nyheder",
+          "start": 198.72
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Wammen kalder det dybt bekymrende. Han siger, det er uacceptabelt, at man kan stille sig ved en skole og lokke eleverne.",
+          "segment": "nyheder",
+          "start": 205.8
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Spørgsmålet er bare, om narkohandlere læser strafferammer. Det blev han faktisk også spurgt om.",
+          "segment": "nyheder",
+          "start": 213.42
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og han svarer, at vi må passe bedre på børnene, og at skærpet straf er en af måderne.",
+          "segment": "nyheder",
+          "start": 219.87
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nå. Og så en til dig, hvis du har fået en mærkelig sms på det seneste.",
+          "segment": "nyheder",
+          "start": 226.16
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja, elnetselskabet Trefor. Omkring tredive tusind kunder kan have fået lækket telefonnumre, og nogle også adresser.",
+          "segment": "nyheder",
+          "start": 231.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er ikke følsomme data, siger de selv. Men det kan bruges til svindel.",
+          "segment": "nyheder",
+          "start": 240.31
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det er del af noget større. Databruddet er sket hos sms-leverandøren OnlineCity.",
+          "segment": "nyheder",
+          "start": 245.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Samme sted som dagen før, hvor halvfems tusind kunder hos Semler Gruppen fik lækket numre og fornavne.",
+          "segment": "nyheder",
+          "start": 252.21
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Trefor dækker Trekantområdet og Bornholm, så Aarhus er ikke ramt. Men vær alligevel skeptisk over for uventede opkald.",
+          "segment": "nyheder",
+          "start": 260.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Altid.",
+          "segment": "nyheder",
+          "start": 268.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så til Spanien, hvor der er valg i morgen.",
+          "segment": "nyheder",
+          "start": 268.82
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "DR's Europa-korrespondent var til vælgermøde i en tyrefægtningsarena i Valencia. Det lyder vildt.",
+          "segment": "nyheder",
+          "start": 271.3
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det var Vox-lederen Santiago Abascal. Han brugte tyve minutter på at hilse på folk på vej til podiet.",
+          "segment": "nyheder",
+          "start": 278.46
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Modtaget som en superstjerne, lød beskrivelsen.",
+          "segment": "nyheder",
+          "start": 286.88
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vox står til atten procent. Det konservative Partido Popular til lidt over enogtredive.",
+          "segment": "nyheder",
+          "start": 290.3
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hvis de skal danne regering sammen, er det første gang siden Franco, at yderste højrefløj kommer i spansk regering.",
+          "segment": "nyheder",
+          "start": 296.12
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Sánchez og socialisterne står til omkring niogtyve procent. Vi ved mere i morgen aften.",
+          "segment": "nyheder",
+          "start": 303.73
+        }
+      ]
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 140.07,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så lige hjemme hos os selv. Aarhus på en lørdag i slutningen af november.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Altså, det er den weekend, hvor byen officielt skifter til juleblink og gløgg-tempo.",
+          "segment": "aarhus",
+          "start": 8.23
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og med fire grader og ingen regn er det faktisk fint vejr til at gå rundt.",
+          "segment": "aarhus",
+          "start": 13.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Frederik, hvis du skal ned i midtbyen, så tag afsted før halv fire. Ellers er det nat.",
+          "segment": "aarhus",
+          "start": 19.06
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ha! Det er jo det mørkeste ved det. Lyset forsvinder, mens man stadig overvejer frokost.",
+          "segment": "aarhus",
+          "start": 25.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ni meter vind i sekundet betyder også, at det føles koldere, end termometeret siger.",
+          "segment": "aarhus",
+          "start": 32.3
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hue på. Så er den klaret.",
+          "segment": "aarhus",
+          "start": 38.26
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og i aften sker der noget, jeg har svært ved at tro på. Mikkel Kessler er tilbage i ringen.",
+          "segment": "sport",
+          "start": 43.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Syvogfyrre år og mere end tretten år siden sidst.",
+          "segment": "sport",
+          "start": 49.52
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Og han siger noget overraskende ærligt til DR Sporten.",
+          "segment": "sport",
+          "start": 53.25
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvad siger han?",
+          "segment": "sport",
+          "start": 58.0
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "At når han går ind i ringen, glæder han sig til, at det er overstået. Sådan har han altid haft det.",
+          "segment": "sport",
+          "start": 59.26
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nej, seriøst?",
+          "segment": "sport",
+          "start": 65.19
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han siger, han aldrig har hørt en bokser sige, de glæder sig til at komme i kamp. Aldrig.",
+          "segment": "sport",
+          "start": 67.55
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det er ikke modstanderen, der er problemet?",
+          "segment": "sport",
+          "start": 73.29
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej, det er alt rundt om. Folk der siger vi tror på dig, Mikkel, jeg har satset på dig.",
+          "segment": "sport",
+          "start": 76.84
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hold da op. Det er jo et pres, man ikke kan dele med nogen.",
+          "segment": "sport",
+          "start": 83.92
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tidligere europamester Mads Larsen genkender det. Han siger, man står deroppe nøgen og alene i et par bukser.",
+          "segment": "sport",
+          "start": 88.11
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og alle kan se hver eneste fejl.",
+          "segment": "sport",
+          "start": 97.57
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Man vil helst ikke vise sin frygt. Det handler slet ikke om blodtud.",
+          "segment": "sport",
+          "start": 100.42
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så fodbold. Chelsea har det skidt.",
+          "segment": "sport",
+          "start": 106.18
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tre nederlag i træk. Nottingham Forest sænkede dem med en perle, skriver VG.",
+          "segment": "sport",
+          "start": 109.42
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Tre i træk er ikke en dårlig dag. Det er en periode.",
+          "segment": "sport",
+          "start": 115.73
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, det begynder at ligne et mønster.",
+          "segment": "sport",
+          "start": 119.78
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og i Superligaen spillede Sønderjyske mod Brøndby i går.",
+          "segment": "sport",
+          "start": 122.26
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Brøndby udlignede og pressede tungt på, men Sønderjyske holdt stand og hentede point.",
+          "segment": "sport",
+          "start": 126.53
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og ovre i USA er det slut for Messi og Inter Miami. De genvinder ikke mesterskabet.",
+          "segment": "sport",
+          "start": 132.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej. Så må han nøjes med at være Messi.",
+          "segment": "sport",
+          "start": 136.47
+        }
+      ]
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 81.55,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så musik. Blaue Blume spillede Royal Arena.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det er ret vildt. Soundvenues anmelder så dem første gang for tolv år siden.",
+          "segment": "musik",
+          "start": 6.94
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og troede aldrig, de ville ende der?",
+          "segment": "musik",
+          "start": 13.85
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Nej, han regnede med, de blev et band for en inderkreds. Nørklende, drømmende, følsomt.",
+          "segment": "musik",
+          "start": 16.62
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men de har jo skiftet til dansk. Sidste års album slog igennem kommercielt.",
+          "segment": "musik",
+          "start": 23.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og de udgiver stadig selv. Ingen poptrends. Til sidst føltes arenaen ikke en centimeter for stor, skriver han.",
+          "segment": "musik",
+          "start": 28.86
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Dejligt. Og så har jeg en til dig: et forsvundet Daft Punk-mix fra 1997 er fundet.",
+          "segment": "musik",
+          "start": 38.35
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fra 97? Hvor har det ligget?",
+          "segment": "musik",
+          "start": 45.16
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "På et bånd. Beskadiget og dækket af mug. Et hold specialister i Bristol har reddet det.",
+          "segment": "musik",
+          "start": 47.92
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "En times vinylmix. Ha! Det er sådan noget, man ikke vidste man savnede.",
+          "segment": "musik",
+          "start": 54.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og citatet er så fint: det er rart at gøre folk glade.",
+          "segment": "musik",
+          "start": 60.13
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Olivia Rodrigo har i øvrigt endnu en julesang ude. Miss This Christmas.",
+          "segment": "musik",
+          "start": 66.0
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi venter lige lidt med julen. I stedet tager vi Daft Punk sammen med Pharrell Williams og Nile Rodgers.",
+          "segment": "musik",
+          "start": 72.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Get Lucky. Den holder stadig.",
+          "segment": "musik",
+          "start": 79.02
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:69kOkLUCkxIZYexIgSG8rq",
+      "name": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
+      "artist": "Daft Punk, Pharrell Williams, Nile Rodgers",
+      "album": "Random Access Memories",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937",
+      "duration_ms": 369626,
+      "url": "https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq",
+      "kobling": "Direkte kobling til musiknyt om det genfundne og restaurerede Daft Punk-mix fra 1997 — og Olivia Rodrigo som alternativ til hendes nye julesang."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 79.56,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Mads",
+          "tekst": "Den der basgang gør noget ved en grå lørdag.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Ja! Og så har jeg dagens mærkeligste historie. Danmarks vildeste selfie.",
+          "segment": "let",
+          "start": 6.09
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Okay. Hvor vildt kan det blive?",
+          "segment": "let",
+          "start": 12.02
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Seks hundrede eksperter stod i Kildeparken i Aalborg og blev fotograferet fra rummet.",
+          "segment": "let",
+          "start": 14.45
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Fra rummet?",
+          "segment": "let",
+          "start": 19.91
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Både droner, fly og satellit. Det var geodatabranchens årlige konference, Kortdage.",
+          "segment": "let",
+          "start": 20.78
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Selvfølgelig var det det. Hvem ellers ville finde på det?",
+          "segment": "let",
+          "start": 28.0
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og de stillede sig op, så de sammen formede ordene Geoforum femogtyve år.",
+          "segment": "let",
+          "start": 31.34
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ha! Og alle tog også deres egen selfie imens. Dobbelt op.",
+          "segment": "let",
+          "start": 37.57
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "DR havde en journalist med, som prøvede at snige sig med på billedet.",
+          "segment": "let",
+          "start": 41.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Altså, det er lidt svært at gemme sig for en satellit.",
+          "segment": "let",
+          "start": 45.89
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og dermed er vi ved vejs ende, Frederik. Tak fordi du lagde øre til.",
+          "segment": "outro",
+          "start": 51.54
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tre grader, tørt og mørkt klokken fire. Få nu brugt dagen.",
+          "segment": "outro",
+          "start": 56.83
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og husk Kessler i ringen i aften. Det bliver stort.",
+          "segment": "outro",
+          "start": 61.09
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Rigtig god lørdag derude.",
+          "segment": "outro",
+          "start": 65.11
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi slutter dansk og med god energi. Her er Christopher med Ghost.",
+          "segment": "outro",
+          "start": 67.51
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:3CyiPZhBa0UqDwzTXwotoQ",
+      "name": "Ghost",
+      "artist": "Christopher",
+      "album": "My Blood",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cd9f161c2e4efe63f99e8c65",
+      "duration_ms": 193119,
+      "url": "https://open.spotify.com/track/3CyiPZhBa0UqDwzTXwotoQ",
+      "kobling": "Dansk afslutning med god lørdagsenergi, så fordelingen mellem dansk og international musik lander omkring halvt-halvt."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 622.95,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "OpenAI og Apple beskylder hinanden for at stjæle hemmeligheder",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/openai-og-apple-beskylder-hinanden-stjaele-hemmeligheder"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "21-årig død efter knivstik i Gentofte",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/21-aarig-doed-efter-knivstik-i-gentofte"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Minister: Hvis salg af stoffer sker i nærheden af skoler, vil hammeren falde hårdere",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/minister-hvis-salg-af-stoffer-sker-i-naerheden-af-skoler-vil-hammeren-falde-haardere"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "30.000 kunder hos elnetselskab kan være ramt af datalæk",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/30-000-kunder-hos-elnetselskab-kan-vaere-ramt-af-datalaek"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "DR til vælgermøde i spansk tyrefægtningsarena: Højrefløjskandidat modtaget som 'en superstjerne'",
+      "kilde": "DR Udland",
+      "link": "https://www.dr.dk/nyheder/udland/dr-til-vaelgermoede-i-spansk-tyrefaegtningsarena-hoejrefloejskandidat-modtaget-som-en-superstjerne"
+    },
+    {
+      "segment": "sport",
+      "titel": "Kessler afslører alle bokseres store frygt",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/boksning/kessler-afsloerer-alle-bokseres-store-frygt"
+    },
+    {
+      "segment": "sport",
+      "titel": "Tre strake nederlag for Chelsea – Forest-perle senket London-laget",
+      "kilde": "VG",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORjFYelNfRll4TldUa3piOTNvczExY0pNRU1JYUQ1V3pFVF92YXptRjlzX29rNld2NXFXTE5ZWG02eU1zVWF4YUFkRWUwZlQzLWYtQnV0ZHNBSDZITDktMXJaN1dGSTVWcXE5dTctSUJjdVFSdEoxUVJxd2o1RHFHdGhYclBtSGZfVGJaOTdrcUhURjhKamZubVRuTjUwQQ?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Messi og Miami i fiasko",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold"
+    },
+    {
+      "segment": "sport",
+      "titel": "Brøndby udligner og fortsætter tungt pres",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/kan-soenderjyske-spille-sig-vaek-fra-sidstepladsen"
+    },
+    {
+      "segment": "musik",
+      "titel": "Til sidst føltes Royal Arena ikke en centimeter for stor til Blaue Blume",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/til-sidst-foeltes-royal-arena-ikke-en-centimeter-for-stor-til-blaue-blume-706860"
+    },
+    {
+      "segment": "musik",
+      "titel": "Lost Daft Punk mix from 1997 discovered, restored and released: “It’s nice to make people happy”",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/music/lost-daft-punk-mix-1997-discovered-restored-and-released-3977192"
+    },
+    {
+      "segment": "musik",
+      "titel": "Olivia Rodrigo Delivers Another Christmas Song",
+      "kilde": "Pitchfork News",
+      "link": "https://pitchfork.com/story/olivia-rodrigo-delivers-another-christmas-song/"
+    },
+    {
+      "segment": "let",
+      "titel": "Kan DR-journalist snige sig med på Danmarks vildeste selfie?",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/reels/kan-dr-journalist-snige-sig-med-paa-danmarks-vildeste-selfie"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (29)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (8)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (0)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (30)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (18)"
+  },
+  "test": false
+}

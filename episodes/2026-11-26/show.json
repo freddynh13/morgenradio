@@ -1,0 +1,742 @@
+{
+  "date": "2026-11-26",
+  "dato_tekst": "torsdag den 26. november 2026",
+  "title": "CPR-læk og en 18-årig sigtet, AI-uro på børserne og AGF i Bergen",
+  "station": "Morgenradio",
+  "slogan": "Frederiks personlige morgen",
+  "generated_at": "2026-11-26T13:37:32+01:00",
+  "tema": "CPR-lækket og en 18-årig sigtet fylder hjemme, mens AI- og chipuro ryster markederne og Champions League-dramaet stadig ulmer.",
+  "items": [
+    {
+      "type": "clip",
+      "src": "clip_00.mp3",
+      "duration": 283.97,
+      "label": "God morgen + vejret · Nyhederne",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Godmorgen Frederik, og velkommen til Morgenradio. Det er torsdag den seksogtyvende november.",
+          "segment": "intro",
+          "start": 8.14
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Godmorgen. Og ja, vi er der igen. Endnu et CPR-læk.",
+          "segment": "intro",
+          "start": 15.04
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Elleve tusinde personer denne gang. Og en 18-årig er sigtet i sagen.",
+          "segment": "intro",
+          "start": 19.46
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi har også børsuro omkring AI og chips. Og Elon Musk vil sende en million satellitter op.",
+          "segment": "intro",
+          "start": 24.94
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Plus fodbold. AGF skal til Bergen i aften, og der var drama i Lissabon.",
+          "segment": "intro",
+          "start": 33.08
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vejret skal jeg ikke sige noget klogt om i dag. Vi har simpelthen ingen data.",
+          "segment": "intro",
+          "start": 39.38
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så Frederik, kig lige ud ad vinduet før cyklen ruller ud ad døren i Aarhus.",
+          "segment": "intro",
+          "start": 44.84
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Tag jakken med. Det er november. Det plejer at være et godt gæt.",
+          "segment": "intro",
+          "start": 50.68
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Vi starter med CPR-registret. Uvedkommende har igen fået adgang til danskernes oplysninger.",
+          "segment": "nyheder",
+          "start": 58.19
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er elleve tusinde personer, skriver DR. Uddannelses- og Forskningsministeriet bekræfter det i en pressemeddelelse.",
+          "segment": "nyheder",
+          "start": 64.29
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det blev opdaget i mandags. Igen mistænkelige opslag i registret fra en virksomhed.",
+          "segment": "nyheder",
+          "start": 71.96
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men der er faktisk én ting, der virkede. Overvågningen fangede det.",
+          "segment": "nyheder",
+          "start": 78.54
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Hvordan?",
+          "segment": "nyheder",
+          "start": 83.02
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Efter det første læk indførte man teknisk overvågning af opslag. Den standsede, at der løb flere oplysninger ud.",
+          "segment": "nyheder",
+          "start": 83.98
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Navne og adresser på folk med navne- og adressebeskyttelse er ikke med. Det er vel en lille trøst.",
+          "segment": "nyheder",
+          "start": 92.01
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Lille, ja. Husk at det store læk i september omfattede omkring otte komma otte millioner mennesker.",
+          "segment": "nyheder",
+          "start": 96.99
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Både levende og afdøde. CPR-numre, navne og adresser, via en dansk virksomheds CPR-system.",
+          "segment": "nyheder",
+          "start": 103.44
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og der er en sigtet i den nye sag. Politiken skriver, at det er en hjemmeboende 18-årig.",
+          "segment": "nyheder",
+          "start": 111.91
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Atten år.",
+          "segment": "nyheder",
+          "start": 118.22
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Sigtet for ulovligt at have hentet de elleve tusinde CPR-numre. Mere ved vi ikke på nuværende tidspunkt.",
+          "segment": "nyheder",
+          "start": 119.17
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Minister Christina Egelund siger, at registret skal moderniseres. Hendes ord er, at vi skal have et system, der passer til den nye virkelighed.",
+          "segment": "nyheder",
+          "start": 127.19
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og kravene for at få adgang til danskernes data skal skærpes. Det er kernen i det hele, synes jeg.",
+          "segment": "nyheder",
+          "start": 137.18
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Trusselsniveauet for destruktive cyberangreb mod Danmark blev i øvrigt hævet fra middel til høj efter septemberlækket.",
+          "segment": "nyheder",
+          "start": 144.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Højeste niveau hedder meget høj. Så vi er ét trin fra toppen.",
+          "segment": "nyheder",
+          "start": 152.81
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så er der noget helt andet. En million satellitter.",
+          "segment": "nyheder",
+          "start": 158.81
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Undskyld, hvor mange?",
+          "segment": "nyheder",
+          "start": 162.32
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "En million. SpaceX har fået tilladelse af den amerikanske kommunikationsmyndighed til projektet Starmind.",
+          "segment": "nyheder",
+          "start": 164.3
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og de satellitter skal fungere som datacentre. Altså regnekraft til kunstig intelligens, oppe i kredsløb.",
+          "segment": "nyheder",
+          "start": 172.4
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Lige nu er der omkring sytten tusinde satellitter i kredsløb om Jorden. I alt.",
+          "segment": "nyheder",
+          "start": 179.89
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så det er en ret voldsom opskalering. Amazon kalder det da også urealistisk og siger, det vil tage årtier.",
+          "segment": "nyheder",
+          "start": 185.66
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "SpaceX skal efter tilladelsen være gået i gang med opsendelserne senest i november 2033.",
+          "segment": "nyheder",
+          "start": 193.19
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Frederik, det her er jo en god en til frokostbordet på bureauet. AI-efterspørgslen er så stor, at man vil bygge serverrum i rummet.",
+          "segment": "nyheder",
+          "start": 200.08
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og det hænger faktisk sammen med den næste. For markederne er nervøse omkring præcis det her.",
+          "segment": "nyheder",
+          "start": 209.0
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, vilde udsving på Wall Street. Nvidia endte ned fire procent, skriver Dagens Næringsliv.",
+          "segment": "nyheder",
+          "start": 215.57
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og kreditvurderingsbureauet S&P peger på øget risiko omkring Nvidia, ifølge norske E24.",
+          "segment": "nyheder",
+          "start": 221.86
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "I Asien hentede teknologiaktierne sig så ind igen i morges. Op og ned.",
+          "segment": "nyheder",
+          "start": 229.81
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "På Oslo Børs fik Tomra en ordentlig én. Pantegiganten faldt kraftigt efter en hård analytikerkommentar.",
+          "segment": "nyheder",
+          "start": 233.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Citatet er ret kontant. De har aldrig leveret på målene, lyder det i Finansavisen.",
+          "segment": "nyheder",
+          "start": 242.56
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Av.",
+          "segment": "nyheder",
+          "start": 248.3
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og en sidste norsk en, som er mere alvorlig. Norse Atlantic aflyser alle flyvninger i dag.",
+          "segment": "nyheder",
+          "start": 248.94
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Flyselskabet skriver selv, at situationen er kritisk. Kommer der ikke kortsigtet finansiering snart, går de i betalingsstandsning.",
+          "segment": "nyheder",
+          "start": 256.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Bestyrelsens hensigt er at indgive konkursbegæring, hvis ikke der findes en løsning. Det skriver NRK.",
+          "segment": "nyheder",
+          "start": 265.55
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "De flyver både i Europa og til USA, Thailand og Sydafrika. Så der sidder en del passagerer og venter.",
+          "segment": "nyheder",
+          "start": 271.53
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Selskabet undskylder over for dem. Men der er ingen garanti for en holdbar løsning, skriver de.",
+          "segment": "nyheder",
+          "start": 278.83
+        }
+      ]
+    },
+    {
+      "type": "clip",
+      "src": "clip_01.mp3",
+      "duration": 104.77,
+      "label": "Nyt fra Aarhus · Sporten",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så til Aarhus, hvor alt handler om i aften.",
+          "segment": "aarhus",
+          "start": 2.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "AGF skal til Bergen og møde Brann. Klokken atten femogfyrre.",
+          "segment": "aarhus",
+          "start": 6.15
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Brann har selv lagt en optakt ud. Før kampen, Brann mod AGF.",
+          "segment": "aarhus",
+          "start": 10.67
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og det er ikke en kamp, man bare lige tager. Bergen i slutningen af november.",
+          "segment": "aarhus",
+          "start": 15.82
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Frederik, hvis du skal nå hjem til kickoff, så er det en tidlig kamp.",
+          "segment": "aarhus",
+          "start": 20.84
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Det er fjerde runde i Conference League. Flere af de danske hold er under pres og har brug for point.",
+          "segment": "aarhus",
+          "start": 25.86
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Vi bliver i det. For der er fire danske hold i aktion i aften.",
+          "segment": "sport",
+          "start": 35.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Udover Brann mod AGF er der Pafos mod FC Midtjylland på samme tid.",
+          "segment": "sport",
+          "start": 39.23
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og klokken enogtyve: Inter Escaldes mod FC København, og FC Nordsjælland mod Panathinaikos.",
+          "segment": "sport",
+          "start": 44.31
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Det kan følges hos DR Sporten og i Liga på P4.",
+          "segment": "sport",
+          "start": 51.82
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og så en lille, bitter detalje for aarhusianerne.",
+          "segment": "sport",
+          "start": 55.65
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Nå?",
+          "segment": "sport",
+          "start": 59.41
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Sabah fra Aserbajdsjan tog imod Barcelona i Champions League i går. Det var dem, der sendte AGF ud i kvalifikationen.",
+          "segment": "sport",
+          "start": 59.96
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Så det kunne have været AGF mod Barcelona.",
+          "segment": "sport",
+          "start": 68.2
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Præcis. Lad os ikke tale mere om det.",
+          "segment": "sport",
+          "start": 71.42
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "I Lissabon var der til gengæld drama. United troede, de var i front.",
+          "segment": "sport",
+          "start": 74.4
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja, sådan lyder overskriften hos DR Sporten. Det var en af de aftener.",
+          "segment": "sport",
+          "start": 80.09
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Liverpool vandt klart ude mod Club Brugge.",
+          "segment": "sport",
+          "start": 85.81
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Alexander Isak scorede to. Den ene var en virkelig lækker chip, skriver VG.",
+          "segment": "sport",
+          "start": 89.09
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og Bayern München?",
+          "segment": "sport",
+          "start": 96.1
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De halter fortsat i Champions League, melder DR Sporten. Det er ikke en sætning, man skriver hvert år.",
+          "segment": "sport",
+          "start": 97.71
+        }
+      ]
+    },
+    {
+      "type": "clip",
+      "src": "clip_02.mp3",
+      "duration": 97.5,
+      "label": "Musiknyt",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Der er desværre en trist én fra musikverdenen.",
+          "segment": "musik",
+          "start": 2.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Andy Taylor er død. Guitaristen i Duran Duran. Han blev femogtres år.",
+          "segment": "musik",
+          "start": 6.01
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han havde prostatakræft, som han fik konstateret i 2018. Familien og bandet bekræfter det i et fælles opslag.",
+          "segment": "musik",
+          "start": 11.41
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De skriver, at for verden var han en fremragende guitarist. For dem var han familiens klippe.",
+          "segment": "musik",
+          "start": 21.02
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han kom til Birmingham fra det nordøstlige England med en guitar og en tro på, hvad de kunne blive til.",
+          "segment": "musik",
+          "start": 27.66
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Han var med på Rio fra 1982. Og på Girls on Film og Hungry Like the Wolf.",
+          "segment": "musik",
+          "start": 34.13
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Han kom tilbage til bandet flere gange. Senest som guitarist på deres seneste album i 2023.",
+          "segment": "musik",
+          "start": 40.47
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men var for afkræftet til at tage med på turné.",
+          "segment": "musik",
+          "start": 48.66
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "To korte til sidst. U2 spillede halftime til NFL aftenen før Thanksgiving.",
+          "segment": "musik",
+          "start": 53.0
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Og hyldede Dolly Parton undervejs, skriver NME. Første gang nogen spiller det show.",
+          "segment": "musik",
+          "start": 59.24
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så en sjov en. Carly Rae Jepsens Run Away With Me fra 2015 brager afsted på streaming lige nu.",
+          "segment": "musik",
+          "start": 66.03
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvorfor?",
+          "segment": "musik",
+          "start": 73.76
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Den er med i Grand Theft Auto seks. Den ligger i en mission tidligt i spillet, med jetski og en yacht.",
+          "segment": "musik",
+          "start": 74.32
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Så hun har genudgivet den som single. Ti år gammel sang, ny eksponering.",
+          "segment": "musik",
+          "start": 82.02
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Frederik, der er en hel kampagnelektion gemt der.",
+          "segment": "musik",
+          "start": 88.06
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Men vi bliver ved Andy Taylor. Her er Duran Duran og Rio.",
+          "segment": "musik",
+          "start": 92.13
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:43eBgYRTmu5BJnCJDBU5Hb",
+      "name": "Rio - 2009 Remaster",
+      "artist": "Duran Duran",
+      "album": "Rio (Collector's Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316c75e2dd2654d7d03f2c556",
+      "duration_ms": 337333,
+      "url": "https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb",
+      "kobling": "Direkte kobling til musiknyt: Duran Duran-guitaristen Andy Taylor er død — hans guitar bærer netop 'Rio' og 'Hungry Like the Wolf'. Alternativt U2, der spillede Thanksgiving-halftime."
+    },
+    {
+      "type": "clip",
+      "src": "clip_03.mp3",
+      "duration": 69.99,
+      "label": "Dagens lette historie · Tak for i dag",
+      "transcript": [
+        {
+          "vaert": "Sofie",
+          "tekst": "Rio. Den lyder altså stadig som sommer, selv i november.",
+          "segment": "let",
+          "start": 2.63
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Guitaren der. Det er ham.",
+          "segment": "let",
+          "start": 6.81
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så til dagens lidt skæve historie. Sverige er begyndt at sende fanger til Estland.",
+          "segment": "let",
+          "start": 9.07
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "De har altså overhalet Danmark indenom med at leje fængselspladser i udlandet.",
+          "segment": "let",
+          "start": 15.31
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Men det er løbet ind i store begyndervanskeligheder, skriver Politiken.",
+          "segment": "let",
+          "start": 19.65
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hvad klager de over?",
+          "segment": "let",
+          "start": 24.72
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Maden. Eller rettere, hvad den bliver serveret i. De indsatte siger, de får suppe i hundeskåle.",
+          "segment": "let",
+          "start": 26.15
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hundeskåle.",
+          "segment": "let",
+          "start": 32.77
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Deres ord. Og det siger måske noget om, hvor svært det er at eksportere et fængselsvæsen.",
+          "segment": "let",
+          "start": 33.83
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Ja. Detaljerne driller altid mere end det store koncept.",
+          "segment": "let",
+          "start": 40.2
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "Og så er vi ved vejs ende. Tak fordi du var med, Frederik.",
+          "segment": "outro",
+          "start": 47.38
+        },
+        {
+          "vaert": "Mads",
+          "tekst": "Hold øje med CPR-sagen i løbet af dagen. Og med Brann mod AGF i aften.",
+          "segment": "outro",
+          "start": 51.46
+        },
+        {
+          "vaert": "Sofie",
+          "tekst": "God torsdag derude. Vi slutter blødt af med Rasmus Seebach og Lille Store Verden.",
+          "segment": "outro",
+          "start": 56.86
+        }
+      ]
+    },
+    {
+      "type": "track",
+      "uri": "spotify:track:4ZmaxcxpEmzZgsMZPRdLIG",
+      "name": "Lille Store Verden",
+      "artist": "Rasmus Seebach",
+      "album": "Verden Ka' Vente",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734a61f1fd2ed3cc12e3d55c17",
+      "duration_ms": 208188,
+      "url": "https://open.spotify.com/track/4ZmaxcxpEmzZgsMZPRdLIG",
+      "kobling": "Dansk feel-good til afslutningen, så udsendelsen lander omkring halvt dansk repertoire."
+    }
+  ],
+  "podcast": "podcast.mp3",
+  "podcast_duration": 568.6,
+  "sources": [
+    {
+      "segment": "nyheder",
+      "titel": "Ny hændelse med CPR-læk: Uvedkommende fik adgang til 11.000 personers data",
+      "kilde": "DR Indland",
+      "link": "https://www.dr.dk/nyheder/indland/ny-haendelse-i-cpr-registret-minister-varsler-skaerpede-krav"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Hjemmeboende 18-årig sigtes for ulovligt at hente 11.000 CPR-numre",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/danmark/art11075266/Hjemmeboende-18-%C3%A5rig-sigtes-for-ulovligt-at-hente-11.000-CPR-numre"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "SpaceX får godkendelse til at sende en million satellitter i rummet til datacentre",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/spacex-faar-godkendelse-til-sende-en-million-satellitter-i-rummet-til-datacentre"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Analytiker med brutalt Tomra-kutt: – Aldri levert på målene",
+      "kilde": "Finansavisen",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTHozZ3dwRFdJWWgwQkNXcnVqdl9UdmkxOWNGS1FaUDI1S1dOM0RQLUtNOEpGOEVqUjllVWNuMXBMX3ozMGppRlk5RDZTRTRsVTdfeHBwcG8yTVY3bU1PeElZSjlMUlpJOXJaQmJzRFhkZTZ2TzJsNGg3Tm1VckVJRUM3Nk1HeWp1dG05TElLcFBUcGxpeHMza3NKaEthOUFOTzBnb0xoVmxnYWNieGJIQWdB?oc=5"
+    },
+    {
+      "segment": "nyheder",
+      "titel": "Norsk flyselskab kæmper for overlevelse - aflyser flyvninger",
+      "kilde": "DR Nyheder",
+      "link": "https://www.dr.dk/nyheder/seneste/norsk-flyselskab-kaemper-overlevelse-aflyser-flyvninger"
+    },
+    {
+      "segment": "aarhus",
+      "titel": "Før kampen: Brann–AGF",
+      "kilde": "Brann",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KdExJNDk4YnJLRUdvd2hMSTRSbFY2dGdkMUNTdk5sREN5M1gwa2JNOHRMWE1PS0NlUWltZFRrWk5rZmNJMjBSRDBjRVdybXAxSjI0U1JOQWdDd1dVa0E?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Drama i Lissabon - United troede, de var i front",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/championsleague/barcelona-gaester-agf-s-banemaend"
+    },
+    {
+      "segment": "sport",
+      "titel": "Alexander Isak med måldobbel og lekker chip – senket Club Brugge",
+      "kilde": "VG",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zRzdIc3FRUjl1RjF4ZWpQUTN6Q2RseDZmcmN3MzZrNjB1OU1oYWdGX0lmS2R5bnk1cTRDVE9OOFJEbEh1ZmQ1Wjg3emkyRzJvbUx6Y3c0NUI0U1pOcmF2Rmc4VTBBb0VGOTZJbE1ycXRZQjBMWV9QcV9VVQ?oc=5"
+    },
+    {
+      "segment": "sport",
+      "titel": "Europæiske nøglekampe venter for danske hold",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/conference-league/europaeiske-noeglekampe-venter-danske-hold"
+    },
+    {
+      "segment": "sport",
+      "titel": "Bayern München halter fortsat i Champions League",
+      "kilde": "DR Sporten",
+      "link": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12915548#liveblog-embed"
+    },
+    {
+      "segment": "musik",
+      "titel": "Duran Duran-guitarist er død",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/duran-duran-guitarist-er-doed-i-en-alder-af-65-aar-706708"
+    },
+    {
+      "segment": "musik",
+      "titel": "Watch U2 roll through hits and pay tribute to Dolly Parton at NFL Thanksgiving Eve Halftime Show",
+      "kilde": "NME",
+      "link": "https://www.nme.com/news/music/watch-u2-play-hits-pay-tribute-dolly-parton-nfl-thanksgiving-eve-halftime-show-3976999"
+    },
+    {
+      "segment": "musik",
+      "titel": "Takket være ’GTA’ får 2010’ernes bedste popsang nu den kærlighed, den fortjener",
+      "kilde": "Soundvenue",
+      "link": "https://soundvenue.com/musik/2026/11/takket-vaere-gta-faar-2010ernes-bedste-popsang-nu-den-kaerlighed-den-fortjener-706526"
+    },
+    {
+      "segment": "let",
+      "titel": "Sverige er begyndt at sende fanger til Estland. Nu klager de over at få serveret suppe i hundeskåle",
+      "kilde": "Politiken",
+      "link": "https://politiken.dk/internationalt/art11073686/Sverige-er-begyndt-at-sende-fanger-til-Estland.-Nu-klager-de-over-at-f%C3%A5-serveret-suppe-i-hundesk%C3%A5le"
+    }
+  ],
+  "kildestatus": {
+    "nyheder/DR Nyheder": "ok (20)",
+    "nyheder/DR Indland": "ok (20)",
+    "nyheder/DR Udland": "ok (20)",
+    "nyheder/TV 2 Nyheder": "ok (0)",
+    "nyheder/Politiken": "ok (20)",
+    "nyheder/Google News DK": "ok (30)",
+    "nyheder/Google News Tech": "ok (40)",
+    "nyheder/Google News Økonomi": "ok (40)",
+    "nyheder/Google News AI & marketing": "ok (40)",
+    "lokalt/TV 2 Østjylland": "ok (0)",
+    "lokalt/Google News Aarhus": "ok (6)",
+    "lokalt/Århus Stiftstidende": "ok (0)",
+    "sport/DR Sporten": "ok (20)",
+    "sport/TV 2 Sport": "ok (0)",
+    "sport/Bold.dk": "ok (0)",
+    "sport/Google News Fodbold": "ok (2)",
+    "sport/Google News Sport": "ok (40)",
+    "musik/GAFFA": "ok (0)",
+    "musik/Soundvenue": "ok (10)",
+    "musik/Pitchfork News": "ok (29)",
+    "musik/NME": "ok (10)",
+    "musik/Google News Musik": "ok (28)"
+  },
+  "test": false
+}
